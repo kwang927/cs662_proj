@@ -321,6 +321,7 @@ class DocDataset(Dataset):
     validate_prompt: bool = True,
     gen_train_docs: bool = True,
     gen_dev_docs: bool = True,
+    verbose: bool = True,
   ) -> None:
     if isinstance(orig_prompt, str):
       self.orig_wrapped_prompt, self.orig_prompt_slice = build_prompt(
@@ -351,20 +352,22 @@ class DocDataset(Dataset):
     )
 
     if not gen_train_docs and not gen_dev_docs:
-      print("WARNING: specified NO docs to be generated; continue at your own risk.")
+      if verbose:
+        tqdm.write("WARNING: specified NO docs to be generated; continue at your own risk.")
 
     if gen_train_docs:
-      self.train_docs = self._gen_docs(model, n_docs, doc_len, gen_batch_size)
+      self.train_docs = self._gen_docs(model, n_docs, doc_len, gen_batch_size, verbose=verbose, desc="Generating train docs")
     else:
       self.train_docs = None
 
     if gen_dev_docs:
-      self.dev_docs = self._gen_docs(model, n_docs, doc_len, gen_batch_size)
+      self.dev_docs = self._gen_docs(model, n_docs, doc_len, gen_batch_size, verbose=verbose, desc="Generating dev docs")
     else:
       self.dev_docs = None
 
   def _gen_docs(
-    self, model: PreTrainedModel, n_docs: int, doc_len: int, gen_batch_size: int
+    self, model: PreTrainedModel, n_docs: int, doc_len: int, gen_batch_size: int,
+    verbose: bool = True, desc: str = "Generating docs"
   ) -> Tensor:
     """
     Generate continuations (with just sampling, no constraints)
@@ -380,7 +383,10 @@ class DocDataset(Dataset):
     """
     docs = torch.zeros((n_docs, doc_len), dtype=torch.long, device=model.device)
 
-    for i in tqdm(range(0, n_docs, gen_batch_size)):
+    # Progress bar is always shown at position 1, cleaned up after completion
+    pbar = tqdm(range(0, n_docs, gen_batch_size), desc=desc, position=1, leave=False)
+
+    for i in pbar:
       cur_bsz = min(gen_batch_size, n_docs - i)
 
       # Generate docs w.r.t the original prompt
@@ -784,6 +790,8 @@ def optim_gcg(
   gamma: float = 0.0,
   early_stop_kl: float = 0.0,
   suffix_mode: bool = False,
+  verbose: bool = True,
+  position: int | None = None,
 ) -> tuple[list[dict], Tensor]:
   """
   Optimize a hard prompt via GCG
@@ -801,14 +809,17 @@ def optim_gcg(
     gamma: natural prompt (fluency) penalty
     early_stop_kl: if KL goes below this threshold, stop optimization
     suffix_mode: if True, optimize a single document for a suffix
+    verbose: if True, print training info
+    position: position for tqdm progress bar (for nested progress bars)
 
   Returns:
     list of progress log/results, and best optimized IDs `(1, n_optim_toks)`
   """
 
-  print(
-    f"\n\nTRAINING GCG:\n------------------------\nmodel: {model.config.name_or_path}\nnum epochs: {n_epochs}\nkl every: {kl_every}\ngamma: {gamma}\nearly stopping KL: {early_stop_kl}\n------------------------\n\n"
-  )
+  if verbose:
+    tqdm.write(
+      f"\n\nTRAINING GCG:\n------------------------\nmodel: {model.config.name_or_path}\nnum epochs: {n_epochs}\nkl every: {kl_every}\ngamma: {gamma}\nearly stopping KL: {early_stop_kl}\n------------------------\n\n"
+    )
 
   if suffix_mode:
     assert (
@@ -816,7 +827,11 @@ def optim_gcg(
     ), "Suffix mode should only have 1 doc: the suffix to optimize for"
 
   model.eval()
-  pbar = tqdm(range(1, n_epochs + 1))
+  # Progress bar is always shown, regardless of verbose flag
+  if position is not None:
+    pbar = tqdm(range(1, n_epochs + 1), position=position, leave=False)
+  else:
+    pbar = tqdm(range(1, n_epochs + 1))
   to_ret = []
   best_loss = float("inf")
   if not suffix_mode:
@@ -878,7 +893,8 @@ def optim_gcg(
       json.dump(to_ret, f, indent=4, ensure_ascii=False)
 
     if best_kl < early_stop_kl:
-      print(f"Early KL stopping <{early_stop_kl}")
+      if verbose:
+        tqdm.write(f"Early KL stopping <{early_stop_kl}")
       return to_ret, best_ids
 
   return to_ret, best_ids
