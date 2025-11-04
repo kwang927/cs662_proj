@@ -197,28 +197,43 @@ def build_prompt(
       model_name = "default"
 
   model_name = MODEL_NAME_OR_PATH_TO_NAME[model_name]
-  cur_prompt = PROMPT_TEMPLATES[model_name]["prefix"]
+  prefix = PROMPT_TEMPLATES[model_name]["prefix"]
+  suffix = PROMPT_TEMPLATES[model_name]["suffix"]
 
-  prompt_start_idx = max(len(tokenizer.encode(cur_prompt)) - 1, 0)
+  # Build the full prompt
+  full_prompt = prefix + prompt + suffix
 
-  # account for models that add BOS token (account for models that dont have BOS but do have <|im_start|>)
-  if prompt_start_idx == 0:
-    if tokenizer.encode("test")[0] == tokenizer.bos_token_id:
-      # base model that adds BOS
-      prompt_start_idx += 1
-  elif tokenizer.encode(cur_prompt)[0] == tokenizer.bos_token_id or (
-    tokenizer.bos_token_id is None
-    and tokenizer.decode(tokenizer.encode(cur_prompt)[0])
-    in tokenizer.special_tokens_map["additional_special_tokens"]
-  ):
-    # instruct model that also adds some kind of BOS
-    prompt_start_idx += 1
+  # Tokenize the full prompt once to get the actual token IDs we'll use
+  prompt_ids = tokenizer(full_prompt, return_tensors="pt").input_ids
 
-  cur_prompt += prompt
-  prompt_end_idx = len(tokenizer.encode(cur_prompt))
-  cur_prompt += PROMPT_TEMPLATES[model_name]["suffix"]
+  # Find the slice by decoding progressively and matching strings
+  # This handles tokenization boundary issues correctly
+  prompt_start_idx = None
+  prompt_end_idx = None
 
-  prompt_ids = tokenizer(cur_prompt, return_tensors="pt").input_ids
+  # Search for where the prompt starts by decoding progressively
+  for i in range(len(prompt_ids[0])):
+    decoded = tokenizer.decode(prompt_ids[0, i:], skip_special_tokens=False)
+    if decoded.startswith(prompt):
+      prompt_start_idx = i
+      break
+
+  if prompt_start_idx is None:
+    raise ValueError(f"Could not find prompt start in tokenized sequence. Prompt: {prompt}")
+
+  # Search for where the prompt ends
+  for i in range(prompt_start_idx + 1, len(prompt_ids[0]) + 1):
+    decoded = tokenizer.decode(prompt_ids[0, prompt_start_idx:i], skip_special_tokens=False)
+    if decoded == prompt:
+      prompt_end_idx = i
+      break
+    elif len(decoded) > len(prompt):
+      # We've gone too far
+      break
+
+  if prompt_end_idx is None:
+    raise ValueError(f"Could not find prompt end in tokenized sequence. Prompt: {prompt}")
+
   suffix_slice = slice(prompt_start_idx, prompt_end_idx)
 
   if validate_prompt:
