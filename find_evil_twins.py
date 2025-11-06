@@ -27,7 +27,7 @@ import torch
 from tqdm import tqdm
 from datetime import datetime, timezone, timedelta
 
-from func_from_evil_twins import load_model_tokenizer, DocDataset, optim_gcg
+from func_from_evil_twins import load_model_tokenizer, DocDataset, optim_gcg, optim_gcg_pruned
 
 import pdb
 
@@ -119,7 +119,7 @@ def main():
     parser.add_argument(
         '--early_stop_kl',
         type=float,
-        default=0.0,
+        default=-10000000000000,
         help='KL divergence threshold for early stopping (default: 0.0, disabled)'
     )
     parser.add_argument(
@@ -137,6 +137,13 @@ def main():
         '--verbose',
         action='store_true',
         help='Print detailed progress information during optimization'
+    )
+    parser.add_argument(
+        '--pruned_vocab',
+        type=str,
+        default=None,
+        help='Path to JSON file containing pruned vocabulary token IDs (list or set of integers). '
+             'If provided, uses optim_gcg_pruned instead of optim_gcg.'
     )
 
     args = parser.parse_args()
@@ -173,6 +180,18 @@ def main():
         use_flash_attn_2=args.use_flash_attn_2
     )
     print(f"Model loaded successfully on device: {model.device}")
+
+    # Load pruned vocabulary if provided
+    pruned_vocab = None
+    if args.pruned_vocab:
+        print(f"\nLoading pruned vocabulary from: {args.pruned_vocab}")
+        with open(args.pruned_vocab, 'r') as f:
+            pruned_vocab = json.load(f)
+        # Convert to set for efficient lookup
+        if isinstance(pruned_vocab, list):
+            pruned_vocab = set(pruned_vocab)
+        print(f"Loaded pruned vocabulary with {len(pruned_vocab)} tokens")
+        print("Will use optim_gcg_pruned instead of optim_gcg")
 
     # Results storage
     results = {}
@@ -244,22 +263,46 @@ def main():
 
             # Run optimization with nested progress bar
             if args.verbose:
-                tqdm.write(f"Running optim_gcg for {args.n_epochs} epochs...")
-            epoch_results, best_ids = optim_gcg(
-                model=model,
-                tokenizer=tokenizer,
-                dataset=dataset,
-                n_epochs=args.n_epochs,
-                kl_every=args.kl_every,
-                log_fpath=log_fpath,
-                batch_size=args.batch_size,
-                top_k=args.top_k,
-                gamma=args.gamma,
-                early_stop_kl=args.early_stop_kl,
-                suffix_mode=False,
-                verbose=args.verbose,  # Controls print messages only
-                position=1,  # Nested progress bar below the outer one (always shown)
-            )
+                if pruned_vocab:
+                    tqdm.write(f"Running optim_gcg_pruned for {args.n_epochs} epochs...")
+                else:
+                    tqdm.write(f"Running optim_gcg for {args.n_epochs} epochs...")
+
+            if pruned_vocab:
+                # Use pruned vocabulary version
+                epoch_results, best_ids = optim_gcg_pruned(
+                    model=model,
+                    tokenizer=tokenizer,
+                    dataset=dataset,
+                    allowed_token_ids=pruned_vocab,
+                    n_epochs=args.n_epochs,
+                    kl_every=args.kl_every,
+                    log_fpath=log_fpath,
+                    batch_size=args.batch_size,
+                    top_k=args.top_k,
+                    gamma=args.gamma,
+                    early_stop_kl=args.early_stop_kl,
+                    suffix_mode=False,
+                    verbose=args.verbose,  # Controls print messages only
+                    position=1,  # Nested progress bar below the outer one (always shown)
+                )
+            else:
+                # Use standard version
+                epoch_results, best_ids = optim_gcg(
+                    model=model,
+                    tokenizer=tokenizer,
+                    dataset=dataset,
+                    n_epochs=args.n_epochs,
+                    kl_every=args.kl_every,
+                    log_fpath=log_fpath,
+                    batch_size=args.batch_size,
+                    top_k=args.top_k,
+                    gamma=args.gamma,
+                    early_stop_kl=args.early_stop_kl,
+                    suffix_mode=False,
+                    verbose=args.verbose,  # Controls print messages only
+                    position=1,  # Nested progress bar below the outer one (always shown)
+                )
 
             # Decode best prompt
             best_prompt_text = tokenizer.decode(best_ids[0], skip_special_tokens=False)

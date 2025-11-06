@@ -916,6 +916,249 @@ def optim_gcg(
 
 
 # %%
+def replace_tok_pruned(
+  model: PreTrainedModel,
+  dataset: DocDataset,
+  allowed_token_ids: set[int],
+  batch_size: int = 10,
+  k: int = 256,
+  gamma: float = 0.0,
+) -> tuple[Tensor, float, float]:
+  """
+  Perform exact loss computations and token replacement with pruned vocabulary
+
+  Args:
+    model: the model
+    dataset: the dataset
+    allowed_token_ids: set of token IDs to consider for replacements
+    batch_size: batch size for doc forward pass
+    k: top-k grads to keep
+    gamma: fluency penalty gamma
+
+  Returns:
+    the new prompt IDs `(1, n_toks)` and the best lowest loss and the log prob. prompt
+  """
+
+  grads = torch.zeros(
+    (
+      dataset.prompt_slice.stop - dataset.prompt_slice.start,
+      model.config.vocab_size,
+    ),
+    device=model.device,
+  )
+
+  for batch in DataLoader(dataset, batch_size=batch_size, shuffle=True):
+    seq = batch["optim_seq"]
+    grads += compute_grads(
+      model, seq, dataset.prompt_slice, dataset.doc_slice, gamma
+    )
+
+  grads /= grads.norm(dim=-1, keepdim=True)
+
+  # Create a mask for allowed tokens
+  vocab_mask = torch.zeros(model.config.vocab_size, dtype=torch.bool, device=model.device)
+  allowed_token_list = torch.tensor(list(allowed_token_ids), dtype=torch.long, device=model.device)
+  vocab_mask[allowed_token_list] = True
+
+  # Mask out gradients for disallowed tokens
+  masked_grads = grads.clone()
+  masked_grads[:, ~vocab_mask] = float('inf')  # Set to inf so they won't be selected by topk
+
+  # Get top-k from allowed tokens only
+  _, top_k_indices = torch.topk(-masked_grads, k=min(k, len(allowed_token_ids)), dim=-1)
+
+  with torch.no_grad():
+    # 1 proposal for each position in the optim prompt
+    n_proposals = top_k_indices.shape[0]
+    grad_indices = rearrange(
+      torch.randint(
+        0, top_k_indices.shape[-1], (n_proposals,), device=top_k_indices.device
+      ),
+      "k -> 1 k",
+    )
+    positions = torch.arange(n_proposals, device=top_k_indices.device)
+    new_toks = rearrange(top_k_indices[positions, grad_indices], "b k -> k b")
+    positions = rearrange(positions, "k -> k 1")
+    proposals = repeat(
+      dataset.wrapped_prompt[:, dataset.prompt_slice],
+      "b k -> (repeat b) k",
+      repeat=n_proposals,
+    ).clone()
+    proposals = proposals.scatter_(-1, positions, new_toks)
+
+    proposal_losses = torch.zeros((n_proposals,), device=model.device)
+    for batch in DataLoader(dataset, batch_size=batch_size, shuffle=True):
+      seq = repeat(
+        batch["optim_seq"], "b k -> (repeat b) k", repeat=proposals.shape[0]
+      ).clone()
+      # Now we have batch [replaced_tok_1 + doc_1, replaced_tok_2 + doc_2, ...]
+      # for each n_proposals * batch_size
+      seq[:, dataset.prompt_slice] = repeat(
+        proposals,
+        "b k -> (repeat b) k",
+        repeat=seq.shape[0] // proposals.shape[0],
+      )
+      logits = model(seq).logits
+      loss_slice = slice(dataset.doc_slice.start - 1, dataset.doc_slice.stop - 1)
+      targets = seq[:, dataset.doc_slice]
+      loss = F.cross_entropy(
+        rearrange(logits[:, loss_slice, :], "b k v -> b v k"),
+        targets,
+        reduction="none",
+      ).mean(dim=-1)
+      # Split so that the docs are correctly added (split by num proposals, then sum across the docs)
+      loss = rearrange(loss, "(k b) -> k b", b=n_proposals)
+      loss = loss.sum(dim=0)
+      proposal_losses += loss
+
+    # avg across ALL docs
+    proposal_losses /= len(dataset)
+
+    # Factor in fluency penalty
+    logits = model(proposals).logits
+    nlls = F.cross_entropy(
+      rearrange(logits[:, : proposals.shape[-1] - 1, :], "b k v -> b v k"),
+      proposals[:, 1:],
+      reduction="none",
+    ).sum(dim=-1)  # sum over all tokens in prompt
+    proposals_fluency = gamma * nlls
+    proposal_losses += proposals_fluency
+
+    best_idx = proposal_losses.argmin(dim=0)
+    best_proposal = proposals[best_idx]
+    best_loss = proposal_losses.min(dim=0).values
+    return (
+      rearrange(best_proposal, "k -> 1 k"),
+      best_loss.item(),
+      nlls[best_idx].item(),
+    )
+
+
+# %%
+def optim_gcg_pruned(
+  model: PreTrainedModel,
+  tokenizer: PreTrainedTokenizer | PreTrainedTokenizerFast,
+  dataset: DocDataset,
+  allowed_token_ids: set[int],
+  n_epochs: int,
+  kl_every: int,
+  log_fpath: str,
+  batch_size: int = 10,
+  top_k: int = 256,
+  gamma: float = 0.0,
+  early_stop_kl: float = 0.0,
+  suffix_mode: bool = False,
+  verbose: bool = True,
+  position: int | None = None,
+) -> tuple[list[dict], Tensor]:
+  """
+  Optimize a hard prompt via GCG with pruned vocabulary
+
+  Args:
+    model: the model
+    tokenizer: tokenizer
+    dataset: the document/prompt dataset
+    allowed_token_ids: set of token IDs to consider for replacements
+    n_epochs: num epochs (number of token flips)
+    kl_every: how often to compute KL
+    log_fpath: file for logging progress
+    batch_size: batch size for docs forward pass
+    top_k: top-k for keeping in gradients
+    gamma: natural prompt (fluency) penalty
+    early_stop_kl: if KL goes below this threshold, stop optimization
+    suffix_mode: if True, optimize a single document for a suffix
+    verbose: if True, print training info
+    position: position for tqdm progress bar (for nested progress bars)
+
+  Returns:
+    list of progress log/results, and best optimized IDs `(1, n_optim_toks)`
+  """
+
+  if verbose:
+    tqdm.write(
+      f"\n\nTRAINING GCG (PRUNED):\n------------------------\nmodel: {model.config.name_or_path}\nnum epochs: {n_epochs}\nkl every: {kl_every}\ngamma: {gamma}\nearly stopping KL: {early_stop_kl}\nallowed vocab size: {len(allowed_token_ids)}\n------------------------\n\n"
+    )
+
+  if suffix_mode:
+    assert (
+      dataset.train_docs.shape[0] == 1
+    ), "Suffix mode should only have 1 doc: the suffix to optimize for"
+
+  model.eval()
+  # Progress bar is always shown, regardless of verbose flag
+  if position is not None:
+    pbar = tqdm(range(1, n_epochs + 1), position=position, leave=False)
+  else:
+    pbar = tqdm(range(1, n_epochs + 1))
+  to_ret = []
+  best_loss = float("inf")
+  if not suffix_mode:
+    best_kl, best_std = compute_dataset_kl(model, dataset, batch_size=10)
+  best_ids = dataset.wrapped_prompt[:, dataset.prompt_slice]
+  cur_kl = None
+  cur_std = None
+
+  for i in pbar:
+    ids, loss, log_prob_prompt = replace_tok_pruned(
+      model, dataset=dataset, allowed_token_ids=allowed_token_ids, batch_size=batch_size, k=top_k, gamma=gamma
+    )
+    dataset.wrapped_prompt[:, dataset.prompt_slice] = ids
+
+    if suffix_mode and loss < best_loss:
+      best_ids = ids
+      best_loss = loss
+    elif not suffix_mode and i % kl_every == 0:
+      cur_kl, cur_std = compute_dataset_kl(model, dataset, batch_size=batch_size)
+      if cur_kl < best_kl: # type: ignore
+        best_ids = ids
+        best_kl = cur_kl
+        best_std = cur_std
+
+    best_loss = min(loss, best_loss)
+
+    to_ret.append(
+      {
+        "epoch": i,
+        "loss": loss,
+        "best_loss": best_loss,
+        "best_kl": best_kl,
+        "best_std": best_std,
+        "cur_kl": cur_kl if cur_kl is not None else best_kl,
+        "cur_std": cur_std if cur_std is not None else best_std,
+        "orig_prompt": {
+          "text": tokenizer.decode(dataset.orig_wrapped_prompt[0]),
+          "ids": dataset.orig_wrapped_prompt[0].tolist(),
+          "prompt_start_slice": dataset.orig_prompt_slice.start,
+          "prompt_end_slice": dataset.orig_prompt_slice.stop,
+          "doc_start_slice": dataset.orig_doc_slice.start,
+          "doc_end_slice": dataset.orig_doc_slice.stop,
+        },
+        "optim_prompt": {
+          "text": tokenizer.decode(dataset.wrapped_prompt[0]),
+          "ids": dataset.wrapped_prompt[0].tolist(),
+          "prompt_start_slice": dataset.prompt_slice.start,
+          "prompt_end_slice": dataset.prompt_slice.stop,
+          "doc_start_slice": dataset.doc_slice.start,
+          "doc_end_slice": dataset.doc_slice.stop,
+        },
+        "nll_prompt": -log_prob_prompt,
+      }
+    )
+    pbar.set_description(
+      f"Epoch: {i}; Loss: {loss:.4f}; Best KL: {best_kl:.4f}; Cur KL: {(cur_kl if cur_kl is not None else best_kl):.4f}; NLL Prompt: {-log_prob_prompt:.4f}"
+    )
+    with open(log_fpath, "w") as f:
+      json.dump(to_ret, f, indent=4, ensure_ascii=False)
+
+    if best_kl < early_stop_kl:
+      if verbose:
+        tqdm.write(f"Early KL stopping <{early_stop_kl}")
+      return to_ret, best_ids
+
+  return to_ret, best_ids
+
+
+# %%
 def optim_soft(
   model: PreTrainedModel,
   dataset: DocDataset,
