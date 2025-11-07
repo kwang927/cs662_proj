@@ -209,6 +209,9 @@ def main():
     print(f"  - early_stop_kl: {args.early_stop_kl}")
     print()
 
+    exp_name = (args.model_name.split("/")[-1] + "__" + args.output_path.split('/')[-1].split("__")[0]).replace('.', '_')
+    print(f"Experiment name: {exp_name}\n")
+
     # Create progress bar for outer loop
     pbar = tqdm(sorted(original_prompts.keys(), key=int),
                 desc="Optimizing prompts",
@@ -238,7 +241,7 @@ def main():
         # print(timestamp)
 
         # Create log file path for this prompt
-        log_fpath = str(log_dir / f"prompt_{key}_{timestamp}_log.json")
+        log_fpath = str(log_dir / f"{exp_name}_prompt_{key}_{timestamp}_log.json")
 
         try:
             # Create DocDataset with nested progress bars
