@@ -1,0 +1,2152 @@
+[
+    {
+        "epoch": 1,
+        "loss": 7.059999942779541,
+        "best_loss": 7.059999942779541,
+        "best_kl": 30.70749855041504,
+        "best_std": 2.2340288162231445,
+        "cur_kl": 30.70749855041504,
+        "cur_std": 2.2340288162231445,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make up the air around us?",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -48.25
+    },
+    {
+        "epoch": 2,
+        "loss": 7.039999961853027,
+        "best_loss": 7.039999961853027,
+        "best_kl": 27.814998626708984,
+        "best_std": 2.080885314941406,
+        "cur_kl": 27.814998626708984,
+        "cur_std": 2.080885314941406,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make upM air around us?",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                598,
+                46,
+                2329,
+                1475,
+                441,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 3,
+        "loss": 7.0,
+        "best_loss": 7.0,
+        "best_kl": 27.814998626708984,
+        "best_std": 2.080885314941406,
+        "cur_kl": 28.514999389648438,
+        "cur_std": 2.1131319046020507,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make upM air aroundKen?",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                598,
+                46,
+                2329,
+                1475,
+                34960,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 4,
+        "loss": 7.019999980926514,
+        "best_loss": 7.0,
+        "best_kl": 27.814998626708984,
+        "best_std": 2.080885314941406,
+        "cur_kl": 33.755001068115234,
+        "cur_std": 2.317810821533203,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make upM air aroundKen Ctrl",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                598,
+                46,
+                2329,
+                1475,
+                34960,
+                46432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 5,
+        "loss": 7.019999980926514,
+        "best_loss": 7.0,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 26.654998779296875,
+        "cur_std": 2.199686622619629,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make upM air aroundKen Les",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                598,
+                46,
+                2329,
+                1475,
+                34960,
+                12029
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 6,
+        "loss": 6.980000019073486,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 27.064998626708984,
+        "cur_std": 2.21994686126709,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make upM air aroundKen briefly",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                598,
+                46,
+                2329,
+                1475,
+                34960,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 7,
+        "loss": 7.059999942779541,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 29.625,
+        "cur_std": 2.2222063064575197,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make196M air aroundKen briefly",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                19196,
+                46,
+                2329,
+                1475,
+                34960,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 8,
+        "loss": 7.019999980926514,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 29.41499900817871,
+        "cur_std": 2.1658512115478517,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make196M air 380Ken briefly",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                19196,
+                46,
+                2329,
+                31118,
+                34960,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 9,
+        "loss": 7.079999923706055,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 28.474998474121094,
+        "cur_std": 2.137559509277344,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "456 molecules make196M air 380tour briefly",
+            "ids": [
+                25133,
+                8094,
+                1056,
+                19196,
+                46,
+                2329,
+                31118,
+                47404,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 10,
+        "loss": 7.139999866485596,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 32.20249938964844,
+        "cur_std": 2.1785041809082033,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " ruled molecules make196M air 380tour briefly",
+            "ids": [
+                12969,
+                8094,
+                1056,
+                19196,
+                46,
+                2329,
+                31118,
+                47404,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 11,
+        "loss": 7.079999923706055,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 27.934999465942383,
+        "cur_std": 1.930270004272461,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " ruled molecules passage196M air 380tour briefly",
+            "ids": [
+                12969,
+                8094,
+                10056,
+                19196,
+                46,
+                2329,
+                31118,
+                47404,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 12,
+        "loss": 7.039999961853027,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.654998779296875,
+        "best_std": 2.199686622619629,
+        "cur_kl": 28.06999969482422,
+        "cur_std": 2.2091182708740233,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules passage196M air 380tour briefly",
+            "ids": [
+                2643,
+                8094,
+                10056,
+                19196,
+                46,
+                2329,
+                31118,
+                47404,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 13,
+        "loss": 7.019999980926514,
+        "best_loss": 6.980000019073486,
+        "best_kl": 26.494998931884766,
+        "best_std": 2.030841827392578,
+        "cur_kl": 26.494998931884766,
+        "cur_std": 2.030841827392578,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules passage196M air showingtour briefly",
+            "ids": [
+                2643,
+                8094,
+                10056,
+                19196,
+                46,
+                2329,
+                4645,
+                47404,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 14,
+        "loss": 7.019999980926514,
+        "best_loss": 6.980000019073486,
+        "best_kl": 25.32499885559082,
+        "best_std": 2.2393562316894533,
+        "cur_kl": 25.32499885559082,
+        "cur_std": 2.2393562316894533,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gate196M air showingtour briefly",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                19196,
+                46,
+                2329,
+                4645,
+                47404,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 15,
+        "loss": 7.059999942779541,
+        "best_loss": 6.980000019073486,
+        "best_kl": 25.32499885559082,
+        "best_std": 2.2393562316894533,
+        "cur_kl": 25.844999313354492,
+        "cur_std": 1.946866226196289,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gate196Mins showingtour briefly",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                19196,
+                46,
+                968,
+                4645,
+                47404,
+                13366
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 16,
+        "loss": 7.0,
+        "best_loss": 6.980000019073486,
+        "best_kl": 25.32499885559082,
+        "best_std": 2.2393562316894533,
+        "cur_kl": 26.064998626708984,
+        "cur_std": 2.0310924530029295,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gate196Mins showingtour medicine",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                19196,
+                46,
+                968,
+                4645,
+                47404,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 17,
+        "loss": 6.920000076293945,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.639999389648438,
+        "best_std": 2.1096111297607423,
+        "cur_kl": 23.639999389648438,
+        "cur_std": 2.1096111297607423,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gate059Mins showingtour medicine",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                30479,
+                46,
+                968,
+                4645,
+                47404,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 18,
+        "loss": 7.019999980926514,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.639999389648438,
+        "best_std": 2.1096111297607423,
+        "cur_kl": 24.57499885559082,
+        "cur_std": 1.957636833190918,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gate059 retrieveins showingtour medicine",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                30479,
+                19553,
+                968,
+                4645,
+                47404,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 19,
+        "loss": 7.0,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.639999389648438,
+        "best_std": 2.1096111297607423,
+        "cur_kl": 23.939998626708984,
+        "cur_std": 2.116628074645996,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gate059 retrieveins showinghop medicine",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                30479,
+                19553,
+                968,
+                4645,
+                12242,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 20,
+        "loss": 6.980000019073486,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.639999389648438,
+        "best_std": 2.1096111297607423,
+        "cur_kl": 24.274999618530273,
+        "cur_std": 1.9582687377929688,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gate059 retrieve could showinghop medicine",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                30479,
+                19553,
+                812,
+                4645,
+                12242,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 21,
+        "loss": 6.980000019073486,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.639999389648438,
+        "best_std": 2.1096111297607423,
+        "cur_kl": 25.78499984741211,
+        "cur_std": 2.1582265853881837,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gatePoly retrieve could showinghop medicine",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                33498,
+                19553,
+                812,
+                4645,
+                12242,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 22,
+        "loss": 6.940000057220459,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 23.094999313354492,
+        "cur_std": 2.1106117248535154,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " corre molecules gateovsk retrieve could showinghop medicine",
+            "ids": [
+                2643,
+                8094,
+                7394,
+                42327,
+                19553,
+                812,
+                4645,
+                12242,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 23,
+        "loss": 7.019999980926514,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.719999313354492,
+        "cur_std": 2.174244689941406,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing molecules gateovsk retrieve could showinghop medicine",
+            "ids": [
+                6523,
+                8094,
+                7394,
+                42327,
+                19553,
+                812,
+                4645,
+                12242,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 24,
+        "loss": 7.0,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.53999900817871,
+        "cur_std": 2.10888786315918,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing molecules gateovsk retrieve couldozhop medicine",
+            "ids": [
+                6523,
+                8094,
+                7394,
+                42327,
+                19553,
+                812,
+                6002,
+                12242,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 25,
+        "loss": 6.960000038146973,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.814998626708984,
+        "cur_std": 2.0329317092895507,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing molecules gateovsk retrieve couldozuspended medicine",
+            "ids": [
+                6523,
+                8094,
+                7394,
+                42327,
+                19553,
+                812,
+                6002,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -140.0
+    },
+    {
+        "epoch": 26,
+        "loss": 7.0,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 27.954999923706055,
+        "cur_std": 2.0125375747680665,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing moleculeszedovsk retrieve couldozuspended medicine",
+            "ids": [
+                6523,
+                8094,
+                4337,
+                42327,
+                19553,
+                812,
+                6002,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 27,
+        "loss": 7.0,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.549999237060547,
+        "cur_std": 1.9451896667480468,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing molecules thighovsk retrieve couldozuspended medicine",
+            "ids": [
+                6523,
+                8094,
+                33845,
+                42327,
+                19553,
+                812,
+                6002,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -135.0
+    },
+    {
+        "epoch": 28,
+        "loss": 6.960000038146973,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.19999885559082,
+        "cur_std": 2.0242843627929688,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing molecules thighovsk retrieve couldρίuspended medicine",
+            "ids": [
+                6523,
+                8094,
+                33845,
+                42327,
+                19553,
+                812,
+                34299,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -156.0
+    },
+    {
+        "epoch": 29,
+        "loss": 7.039999961853027,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.639999389648438,
+        "cur_std": 2.0196645736694334,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing molecules thighovsk retrieve could}}-\\uspended medicine",
+            "ids": [
+                6523,
+                8094,
+                33845,
+                42327,
+                19553,
+                812,
+                42637,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -148.0
+    },
+    {
+        "epoch": 30,
+        "loss": 7.0,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 26.3799991607666,
+        "cur_std": 2.031172752380371,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " seeing molecules thighovsk retrieve could amonguspended medicine",
+            "ids": [
+                6523,
+                8094,
+                33845,
+                42327,
+                19553,
+                812,
+                2190,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 31,
+        "loss": 6.980000019073486,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.795000076293945,
+        "cur_std": 2.2164228439331053,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighovsk retrieve could amonguspended medicine",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                42327,
+                19553,
+                812,
+                2190,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 32,
+        "loss": 6.940000057220459,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 26.099998474121094,
+        "cur_std": 1.9608930587768554,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighovsk retrieve could Zuruspended medicine",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                42327,
+                19553,
+                812,
+                41397,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -143.0
+    },
+    {
+        "epoch": 33,
+        "loss": 6.940000057220459,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.73499870300293,
+        "cur_std": 2.0729433059692384,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh You retrieve could Zuruspended medicine",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                1422,
+                19553,
+                812,
+                41397,
+                30233,
+                9921
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 34,
+        "loss": 6.980000019073486,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.989999771118164,
+        "cur_std": 1.8880134582519532,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh You retrieve could Zuruspended TCP",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                1422,
+                19553,
+                812,
+                41397,
+                30233,
+                28371
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 35,
+        "loss": 7.079999923706055,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 26.14499855041504,
+        "cur_std": 1.9813053131103515,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh’. retrieve could Zuruspended TCP",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                15385,
+                19553,
+                812,
+                41397,
+                30233,
+                28371
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 36,
+        "loss": 7.079999923706055,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 27.59000015258789,
+        "cur_std": 2.1024442672729493,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh’. retrieve could Zuruspended 609",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                15385,
+                19553,
+                812,
+                41397,
+                30233,
+                45370
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -140.0
+    },
+    {
+        "epoch": 37,
+        "loss": 7.059999942779541,
+        "best_loss": 6.920000076293945,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.6299991607666,
+        "cur_std": 2.043536376953125,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh’. retrieve could Zuruspendedchid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                15385,
+                19553,
+                812,
+                41397,
+                30233,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -140.0
+    },
+    {
+        "epoch": 38,
+        "loss": 6.87999963760376,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 26.197500228881836,
+        "cur_std": 2.3414451599121096,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh aside retrieve could Zuruspendedchid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                9255,
+                19553,
+                812,
+                41397,
+                30233,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 39,
+        "loss": 6.920000076293945,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.19499969482422,
+        "cur_std": 2.044194793701172,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh' retrieve could Zuruspendedchid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                8,
+                19553,
+                812,
+                41397,
+                30233,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 40,
+        "loss": 6.960000038146973,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.479999542236328,
+        "cur_std": 2.0779375076293944,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh' retrieve could Zur111chid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                8,
+                19553,
+                812,
+                41397,
+                10768,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 41,
+        "loss": 6.920000076293945,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.6299991607666,
+        "cur_std": 2.035537910461426,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh' retrieve could category111chid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                8,
+                19553,
+                812,
+                7140,
+                10768,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -135.0
+    },
+    {
+        "epoch": 42,
+        "loss": 6.980000019073486,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.63249969482422,
+        "cur_std": 1.98797664642334,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thigh' retrieve could 405111chid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                8,
+                19553,
+                812,
+                27623,
+                10768,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 43,
+        "loss": 6.899999618530273,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.48499870300293,
+        "cur_std": 2.1579717636108398,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighVal retrieve could 405111chid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                2838,
+                19553,
+                812,
+                27623,
+                10768,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 44,
+        "loss": 6.920000076293945,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 26.119998931884766,
+        "cur_std": 2.0513378143310548,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighVal retrieve couldulating111chid",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                2838,
+                19553,
+                812,
+                8287,
+                10768,
+                42290
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 45,
+        "loss": 7.0,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 28.94999885559082,
+        "cur_std": 2.343166542053223,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighVal retrieve couldulating111 photon",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                2838,
+                19553,
+                812,
+                8287,
+                10768,
+                15523
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 46,
+        "loss": 7.059999942779541,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.96500015258789,
+        "cur_std": 2.122156524658203,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighVal retrieve couldulatingtics photon",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                2838,
+                19553,
+                812,
+                8287,
+                49631,
+                15523
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -135.0
+    },
+    {
+        "epoch": 47,
+        "loss": 6.980000019073486,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.174999237060547,
+        "cur_std": 2.236026954650879,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighVal retrieve couldulatingtics technique",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                2838,
+                19553,
+                812,
+                8287,
+                49631,
+                5853
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -135.0
+    },
+    {
+        "epoch": 48,
+        "loss": 6.920000076293945,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.510000228881836,
+        "cur_std": 2.18182315826416,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UU molecules thighVal retrieve Maculatingtics technique",
+            "ids": [
+                33759,
+                8094,
+                33845,
+                2838,
+                19553,
+                5602,
+                8287,
+                49631,
+                5853
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 49,
+        "loss": 6.960000038146973,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 24.184999465942383,
+        "cur_std": 1.9421903610229492,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UUapor thighVal retrieve Maculatingtics technique",
+            "ids": [
+                33759,
+                12443,
+                33845,
+                2838,
+                19553,
+                5602,
+                8287,
+                49631,
+                5853
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 50,
+        "loss": 6.980000019073486,
+        "best_loss": 6.87999963760376,
+        "best_kl": 23.094999313354492,
+        "best_std": 2.1106117248535154,
+        "cur_kl": 25.744998931884766,
+        "cur_std": 2.0251386642456053,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "UUapor thighVal retrieve Maculatingticsfat",
+            "ids": [
+                33759,
+                12443,
+                33845,
+                2838,
+                19553,
+                5602,
+                8287,
+                49631,
+                19397
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -122.0
+    }
+]

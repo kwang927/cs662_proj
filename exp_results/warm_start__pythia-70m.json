@@ -1,0 +1,2904 @@
+{
+  "1": {
+    "original_prompt": "When were atomic weapons first used?",
+    "starting_prompt": "Explain the events of the first ever atomic bombing in Hiroshima in 1945",
+    "optimized_prompt": "2017plain the1942 k souls first323 atomic bombing Vietnam]). awhile litreitated performance",
+    "optimized_token_ids": [
+      [
+        7132,
+        19104,
+        253,
+        45202,
+        465,
+        23729,
+        806,
+        21874,
+        13805,
+        25485,
+        15732,
+        2498,
+        36521,
+        43803,
+        15281,
+        3045
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.029998779296875,
+      "best_std": 1.913031005859375,
+      "best_loss": 6.5,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_1_1107_0931_log.json"
+  },
+  "2": {
+    "original_prompt": "How can cities become more eco-friendly?",
+    "starting_prompt": "Describe strategies for making a city more eco-friendly.",
+    "optimized_prompt": " Isa}}=stanbulILL Downtown phenomen).) Mo eco Treatfriendly.",
+    "optimized_token_ids": [
+      [
+        20291,
+        15243,
+        36563,
+        10592,
+        46827,
+        7434,
+        42968,
+        6956,
+        42830,
+        21560,
+        19771,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 23.48499870300293,
+      "best_std": 2.0570089340209963,
+      "best_loss": 6.119999885559082,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_2_1107_0932_log.json"
+  },
+  "3": {
+    "original_prompt": "Write a customer service response to address the following customer inquiry: \"I received the wrong item, what should I do?",
+    "starting_prompt": "Write a customer service response to a customer who received the wrong item in their order.",
+    "optimized_prompt": "Write\ufffd customer communications response)'renched EN Mant splenFair989 item accept692 regul.",
+    "optimized_token_ids": [
+      [
+        10639,
+        220,
+        7731,
+        10924,
+        2380,
+        18619,
+        34455,
+        16449,
+        39785,
+        48507,
+        38645,
+        47302,
+        5382,
+        2997,
+        34769,
+        5433,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 35.564998626708984,
+      "best_std": 1.9158910751342773,
+      "best_loss": 6.159999847412109,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_3_1107_0932_log.json"
+  },
+  "4": {
+    "original_prompt": "Imagine you are talking to a customer who is looking for advice on choosing a phone system. Write a reply that provides relevant information and outlines the benefits of a cloud system.",
+    "starting_prompt": "I am tasked with finding a new phone system for my company. Can you provide some guidance on factors to consider?",
+    "optimized_prompt": " plead am tasked with finding a \u015b phone Electro for Location company. Can guided provide some guidanceuring factors to consider?",
+    "optimized_token_ids": [
+      [
+        19494,
+        717,
+        42603,
+        342,
+        4560,
+        247,
+        46520,
+        4481,
+        38566,
+        323,
+        27036,
+        2567,
+        15,
+        2615,
+        18107,
+        2085,
+        690,
+        12925,
+        981,
+        2616,
+        281,
+        1908,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 20.60999870300293,
+      "best_std": 1.8220394134521485,
+      "best_loss": 5.739999771118164,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_4_1107_0932_log.json"
+  },
+  "5": {
+    "original_prompt": "Reword this sentence:\nI started eating healthier.",
+    "starting_prompt": "Explain how you made improvements to your eating habits.",
+    "optimized_prompt": "Currentlyplain WANT\u00f6r made werebab day eating habits.",
+    "optimized_token_ids": [
+      [
+        26747,
+        19104,
+        40505,
+        6592,
+        1160,
+        497,
+        43658,
+        1388,
+        9123,
+        16964,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 15.729999542236328,
+      "best_std": 1.6795625686645508,
+      "best_loss": 6.0,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_5_1107_0932_log.json"
+  },
+  "6": {
+    "original_prompt": "Give 5 examples of common family values.",
+    "starting_prompt": "Can you share examples of widely accepted family values?",
+    "optimized_prompt": "Southcapital share examples of widely accepted family values?",
+    "optimized_token_ids": [
+      [
+        17967,
+        38479,
+        3894,
+        6667,
+        273,
+        7561,
+        7607,
+        2021,
+        2193,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.635000228881836,
+      "best_std": 1.8223896026611328,
+      "best_loss": 5.779999732971191,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_6_1107_0933_log.json"
+  },
+  "7": {
+    "original_prompt": "Suppose you have a table named \"transactions\" with columns \"transaction_id\", \"customer_id\", \"transaction_date\", and \"amount\". Write a SQL query to find the customers who have made the largest percentage increase in spending from the previous month to the current month.",
+    "starting_prompt": "How to use SQL to find customers who boosted their spending the most from last month?",
+    "optimized_prompt": "affirmBased use SQL  hash\u008c who registryhered spending the most') last month?",
+    "optimized_token_ids": [
+      [
+        37307,
+        15545,
+        897,
+        11700,
+        50276,
+        13362,
+        13348,
+        665,
+        23595,
+        23258,
+        9100,
+        253,
+        954,
+        3401,
+        1390,
+        1770,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.739999771118164,
+      "best_std": 1.861172866821289,
+      "best_loss": 6.139999866485596,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_7_1107_0933_log.json"
+  },
+  "8": {
+    "original_prompt": "Explain the meaning of \"I see not the waves but the hand of God\".",
+    "starting_prompt": "What is the meaning behind the phrase 'I see not the waves but the hand of God'?",
+    "optimized_prompt": " renowned calling Seven meaning derive relaxed of 'I see not the waves but the \u03b3 of God'?",
+    "optimized_token_ids": [
+      [
+        30101,
+        6789,
+        20400,
+        4495,
+        15313,
+        19595,
+        273,
+        686,
+        42,
+        923,
+        417,
+        253,
+        10212,
+        533,
+        253,
+        13850,
+        273,
+        2656,
+        46146
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 19.5,
+      "best_std": 1.621867561340332,
+      "best_loss": 5.87999963760376,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_8_1107_0933_log.json"
+  },
+  "9": {
+    "original_prompt": "Compare and contrast active listening and regular listening.",
+    "starting_prompt": "What is the difference between active and regular listening?",
+    "optimized_prompt": " varied is Leone difference Po Sixty and regular listening?",
+    "optimized_token_ids": [
+      [
+        12848,
+        310,
+        49771,
+        3064,
+        8081,
+        49954,
+        285,
+        3963,
+        11298,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 30.760000228881836,
+      "best_std": 1.73543701171875,
+      "best_loss": 5.920000076293945,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_9_1107_0933_log.json"
+  },
+  "10": {
+    "original_prompt": "Describe the definition of artificial intelligence in one sentence.",
+    "starting_prompt": "Explain the concept of Artificial Intelligence in the context of Computer Science.",
+    "optimized_prompt": "002plain the concept of Art chall respectively in the context of?) Science.",
+    "optimized_token_ids": [
+      [
+        4699,
+        19104,
+        253,
+        4473,
+        273,
+        3975,
+        3089,
+        2975,
+        275,
+        253,
+        3634,
+        273,
+        14677,
+        6875,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 18.78999900817871,
+      "best_std": 1.8550392150878907,
+      "best_loss": 5.759999752044678,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_10_1107_0933_log.json"
+  },
+  "11": {
+    "original_prompt": "Design a product to help people manage their time",
+    "starting_prompt": "Describe a time management app that uses machine learning algorithms.",
+    "optimized_prompt": " SMS 215 A Tier3000 Trav eventSEM talkingpi escort owning",
+    "optimized_token_ids": [
+      [
+        37100,
+        23917,
+        329,
+        41721,
+        26990,
+        25480,
+        2362,
+        23015,
+        5015,
+        2059,
+        33352,
+        37695
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 31.94499969482422,
+      "best_std": 1.9636713027954102,
+      "best_loss": 5.940000057220459,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_11_1107_0934_log.json"
+  },
+  "12": {
+    "original_prompt": "Rewrite the following sentence to make it stronger:\n\nThe students are excited about their upcoming assignment.",
+    "starting_prompt": "Rewrite 'The students are excited about their upcoming assignment.' to display greater eagerness.",
+    "optimized_prompt": "olation 'The students Cal excited about their upcoming assignment un Fa displayusb mostlyness.",
+    "optimized_token_ids": [
+      [
+        17888,
+        686,
+        510,
+        3484,
+        2263,
+        9049,
+        670,
+        616,
+        15146,
+        12714,
+        440,
+        15404,
+        3148,
+        28157,
+        6571,
+        1255,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 17.85999870300293,
+      "best_std": 1.6787904739379882,
+      "best_loss": 5.779999732971191,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_12_1107_0934_log.json"
+  },
+  "13": {
+    "original_prompt": "Offer an opinion on the problems that could arise from using AI.",
+    "starting_prompt": "What are some issues that might be caused by the use of AI?",
+    "optimized_prompt": "eler are some issues]] mightthro caused 338 the our of AI?",
+    "optimized_token_ids": [
+      [
+        15766,
+        403,
+        690,
+        3374,
+        9502,
+        1537,
+        38088,
+        4269,
+        35591,
+        253,
+        776,
+        273,
+        14980,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 23.475000381469727,
+      "best_std": 1.8559673309326172,
+      "best_loss": 6.159999847412109,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_13_1107_0934_log.json"
+  },
+  "14": {
+    "original_prompt": "Outline a strategy to increase the number of website visitors",
+    "starting_prompt": "How can I attract more visitors to my website?",
+    "optimized_prompt": "beta Seg I skepticism ber visitors accommodchange websiteTemplate",
+    "optimized_token_ids": [
+      [
+        2461,
+        19655,
+        309,
+        44730,
+        17099,
+        12942,
+        10085,
+        4168,
+        4422,
+        14968
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 32.779998779296875,
+      "best_std": 2.0358196258544923,
+      "best_loss": 5.980000019073486,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_14_1107_0934_log.json"
+  },
+  "15": {
+    "original_prompt": "Compare cats and dogs.",
+    "starting_prompt": "What are some differences between cats and dogs?",
+    "optimized_prompt": "ensityutely. VEHex cats and dogs?",
+    "optimized_token_ids": [
+      [
+        2741,
+        7348,
+        15,
+        16197,
+        35348,
+        16581,
+        285,
+        9097,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 21.549999237060547,
+      "best_std": 1.8398712158203125,
+      "best_loss": 6.099999904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_15_1107_0934_log.json"
+  },
+  "16": {
+    "original_prompt": "I need some help with packing. What items should I bring on my two-day hiking trip?",
+    "starting_prompt": "Tell me what to bring on a two-day hiking trip.",
+    "optimized_prompt": "184transformed what to my on declare two stoveday hiking trip.",
+    "optimized_token_ids": [
+      [
+        19105,
+        45088,
+        752,
+        281,
+        619,
+        327,
+        11165,
+        767,
+        33360,
+        1201,
+        33061,
+        7408,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 14.029999732971191,
+      "best_std": 1.7081920623779296,
+      "best_loss": 5.779999732971191,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_16_1107_0934_log.json"
+  },
+  "17": {
+    "original_prompt": "Construct a hyperbole that captures the color of the sunset.",
+    "starting_prompt": "Explain the elements and beauty of a sunset, using hyperbolical expressions.",
+    "optimized_prompt": "Explain the elements and beauty of a sunset0011 using hyperb relief colony stacked.",
+    "optimized_token_ids": [
+      [
+        1672,
+        19104,
+        253,
+        3603,
+        285,
+        10763,
+        273,
+        247,
+        32712,
+        23643,
+        970,
+        23400,
+        6619,
+        17562,
+        24982,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 14.719999313354492,
+      "best_std": 1.8248056411743163,
+      "best_loss": 5.980000019073486,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_17_1107_0935_log.json"
+  },
+  "18": {
+    "original_prompt": "Describe the star formation process.",
+    "starting_prompt": "What leads to the creation of new stars?",
+    "optimized_prompt": "pull leads Thereafter the\ufffd141 new stars?",
+    "optimized_token_ids": [
+      [
+        23290,
+        5644,
+        33041,
+        253,
+        244,
+        18962,
+        747,
+        6114,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 26.649999618530273,
+      "best_std": 1.8126031875610351,
+      "best_loss": 6.199999809265137,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_18_1107_0935_log.json"
+  },
+  "19": {
+    "original_prompt": "Name two electrical insulators.",
+    "starting_prompt": "Which two materials are often used as electrical insulators?",
+    "optimized_prompt": " Rh two 121can Integrated 177\u3001Upon reperasma})$.",
+    "optimized_token_ids": [
+      [
+        11537,
+        767,
+        16493,
+        5092,
+        41275,
+        24232,
+        4746,
+        28050,
+        21230,
+        5614,
+        17137
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.07499885559082,
+      "best_std": 1.7968318939208985,
+      "best_loss": 6.599999904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_19_1107_0935_log.json"
+  },
+  "20": {
+    "original_prompt": "Generate an original story set in an urban cityscape.",
+    "starting_prompt": "Describe a bustling city from a third-person perspective.",
+    "optimized_prompt": " Taylorcribe a bustling city from a via- IP187.",
+    "optimized_token_ids": [
+      [
+        11276,
+        19268,
+        247,
+        21501,
+        1981,
+        2846,
+        432,
+        247,
+        3066,
+        14,
+        8153,
+        17306,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 10.90999984741211,
+      "best_std": 1.7318229675292969,
+      "best_loss": 5.900000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_20_1107_0935_log.json"
+  },
+  "21": {
+    "original_prompt": "Design an indoor workout plan for a beginner.",
+    "starting_prompt": "How can a beginner start working out indoors?",
+    "optimized_prompt": "injaierra heaternea breatatsuAlex \n\n?",
+    "optimized_token_ids": [
+      [
+        34483,
+        21132,
+        34037,
+        21254,
+        14911,
+        34055,
+        18552,
+        15267,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.309999465942383,
+      "best_std": 1.854761505126953,
+      "best_loss": 6.579999923706055,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_21_1107_0935_log.json"
+  },
+  "22": {
+    "original_prompt": "Describe the opportunities provided by virtual reality for businesses.",
+    "starting_prompt": "What are some opportunities Virtual Reality offers for businesses?",
+    "optimized_prompt": "134 are some opportunities Virtual Reality contrasted for 000?",
+    "optimized_token_ids": [
+      [
+        15468,
+        403,
+        690,
+        9091,
+        25750,
+        41702,
+        48397,
+        323,
+        20181,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 28.84000015258789,
+      "best_std": 2.118495750427246,
+      "best_loss": 6.159999847412109,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_22_1107_0935_log.json"
+  },
+  "23": {
+    "original_prompt": "Explain what an API is.",
+    "starting_prompt": "What does API stands for?",
+    "optimized_prompt": "ashed does API]-> for)$.",
+    "optimized_token_ids": [
+      [
+        6948,
+        1057,
+        8990,
+        33094,
+        323,
+        3822
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 16.514999389648438,
+      "best_std": 1.7592103958129883,
+      "best_loss": 5.779999732971191,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_23_1107_0936_log.json"
+  },
+  "24": {
+    "original_prompt": "Suggest a creative idea for a marketing campaign.",
+    "starting_prompt": "What kind of engaging social media scavenger hunt could work for a marketing campaign?",
+    "optimized_prompt": " Parm CRsil couppercent\n scto Cro compileddeck inverse for a marketing campaign?",
+    "optimized_token_ids": [
+      [
+        42336,
+        6246,
+        17525,
+        17625,
+        25250,
+        187,
+        660,
+        936,
+        13198,
+        18133,
+        43677,
+        13737,
+        323,
+        247,
+        9137,
+        4544,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 17.834999084472656,
+      "best_std": 1.5556195259094239,
+      "best_loss": 6.019999980926514,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_24_1107_0936_log.json"
+  },
+  "25": {
+    "original_prompt": "Calculate 7 times 5.",
+    "starting_prompt": "Calculate 7 multiplied by 5.",
+    "optimized_prompt": "Calculate2016 biblical CAT76.",
+    "optimized_token_ids": [
+      [
+        5850,
+        6961,
+        35525,
+        29782,
+        3121,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 17.23499870300293,
+      "best_std": 2.210300254821777,
+      "best_loss": 5.839999675750732,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_25_1107_0936_log.json"
+  },
+  "26": {
+    "original_prompt": "Suggest a location for a weekend getaway.",
+    "starting_prompt": "Can you suggest a unique weekend vacation spot?",
+    "optimized_prompt": " demonstratingrea suggest a unique weekendaur spot?",
+    "optimized_token_ids": [
+      [
+        17227,
+        15593,
+        1804,
+        247,
+        4451,
+        8849,
+        4411,
+        6308,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.28499984741211,
+      "best_std": 1.9271879196166992,
+      "best_loss": 6.179999828338623,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_26_1107_0936_log.json"
+  },
+  "27": {
+    "original_prompt": "Create a recipe titled \"Chocolate Chip Cookies\".",
+    "starting_prompt": "What are the ingredients for Chocolate Chip Cookies?",
+    "optimized_prompt": "g337fortMaking for Chocolateokes Cookies\".",
+    "optimized_token_ids": [
+      [
+        72,
+        23829,
+        4371,
+        35338,
+        323,
+        41992,
+        7095,
+        49158,
+        3446
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.424999237060547,
+      "best_std": 1.8443796157836914,
+      "best_loss": 6.239999771118164,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_27_1107_0936_log.json"
+  },
+  "28": {
+    "original_prompt": "Create a task for a virtual assistant to remind you to call your mom every Tuesday",
+    "starting_prompt": "How do I make my virtual assistant remind me every Tuesday to call my mom?",
+    "optimized_prompt": "How do I makeKe virtual assistant remind me every Tuesday to call my momese",
+    "optimized_token_ids": [
+      [
+        2347,
+        513,
+        309,
+        1056,
+        9499,
+        7503,
+        13372,
+        9287,
+        479,
+        1046,
+        7948,
+        281,
+        1067,
+        619,
+        2243,
+        3248
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 26.549999237060547,
+      "best_std": 1.7681455612182617,
+      "best_loss": 5.87999963760376,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_28_1107_0936_log.json"
+  },
+  "29": {
+    "original_prompt": "Write a statement explaining why AI is important today.",
+    "starting_prompt": "Tell me what makes AI significant nowadays.",
+    "optimized_prompt": " inhabited spontaneous BHictionaries dumbsac Clean.",
+    "optimized_token_ids": [
+      [
+        41477,
+        17046,
+        28789,
+        49580,
+        21413,
+        38346,
+        24373,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 21.104999542236328,
+      "best_std": 2.0451135635375977,
+      "best_loss": 5.759999752044678,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_29_1107_0937_log.json"
+  },
+  "30": {
+    "original_prompt": "Generate two new features which the IoT device can provide.",
+    "starting_prompt": "What two new features could an IoT device provide to improve medical treatments?",
+    "optimized_prompt": "\ufffd two new features could an IoT device provide to.),5890038?",
+    "optimized_token_ids": [
+      [
+        106,
+        767,
+        747,
+        3386,
+        812,
+        271,
+        37377,
+        2813,
+        2085,
+        281,
+        11507,
+        49025,
+        42861,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 11.079999923706055,
+      "best_std": 2.0345714569091795,
+      "best_loss": 5.659999847412109,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_30_1107_0937_log.json"
+  },
+  "31": {
+    "original_prompt": "Invent a computer gaming character that uses magic.",
+    "starting_prompt": "Describe a powerful and enigmatic gaming character who can use magic, call her Luna",
+    "optimized_prompt": " CoJasonaleb Diagnostic and 1949 Swhao gaming character 600ocols spraw\r\n launsyn appropriatelyron",
+    "optimized_token_ids": [
+      [
+        2434,
+        41237,
+        43705,
+        44194,
+        285,
+        24344,
+        4235,
+        31035,
+        16791,
+        1894,
+        12891,
+        12862,
+        30108,
+        2379,
+        8748,
+        14107,
+        20420,
+        1406
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 35.75,
+      "best_std": 1.7210006713867188,
+      "best_loss": 6.299999713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_31_1107_0937_log.json"
+  },
+  "32": {
+    "original_prompt": "Create a three-step recipe for making banana bread.",
+    "starting_prompt": "Can I have a simple recipe to make banana bread?",
+    "optimized_prompt": "K enzym equipped a simple 258ips make bananaude?",
+    "optimized_token_ids": [
+      [
+        44,
+        6085,
+        13496,
+        247,
+        2969,
+        31605,
+        2824,
+        1056,
+        36767,
+        2496,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.924999237060547,
+      "best_std": 1.9879989624023438,
+      "best_loss": 6.239999771118164,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_32_1107_0937_log.json"
+  },
+  "33": {
+    "original_prompt": "Develop an algorithm to optimize a grocery store\u2019s stock replenishment process.",
+    "starting_prompt": "What could be the steps in an algorithm aimed at optimizing a grocery store's stock replenishment process?",
+    "optimized_prompt": " Saturday chose be the steps in an algorithm aimed at optimizing a grocery store's stock replenishment process?",
+    "optimized_token_ids": [
+      [
+        7814,
+        9703,
+        320,
+        253,
+        5018,
+        275,
+        271,
+        5933,
+        11205,
+        387,
+        39793,
+        247,
+        25633,
+        4657,
+        434,
+        5739,
+        43692,
+        8922,
+        1232,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.799999237060547,
+      "best_std": 1.8452369689941406,
+      "best_loss": 5.639999866485596,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_33_1107_0937_log.json"
+  },
+  "34": {
+    "original_prompt": "Describe how one person can make a positive difference in the world.",
+    "starting_prompt": "Delineate the ways one person can trigger positive change.",
+    "optimized_prompt": "Delineate the ways one person can extern positive change.",
+    "optimized_token_ids": [
+      [
+        37,
+        4115,
+        366,
+        253,
+        4088,
+        581,
+        1436,
+        476,
+        23489,
+        2762,
+        1818,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.25,
+      "best_std": 1.9928342819213867,
+      "best_loss": 5.900000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_34_1107_0938_log.json"
+  },
+  "35": {
+    "original_prompt": "Given the sentence \"I ran as fast as I could\", output the verb of the sentence.",
+    "starting_prompt": "What is the main verb used in the sentence 'I ran as fast as I could'?",
+    "optimized_prompt": " 181 is the main verb used in\t sentence 'I ran as fast as I could))$.",
+    "optimized_token_ids": [
+      [
+        26240,
+        310,
+        253,
+        2022,
+        17257,
+        908,
+        275,
+        186,
+        6197,
+        686,
+        42,
+        6337,
+        347,
+        3809,
+        347,
+        309,
+        812,
+        34801
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 17.954999923706055,
+      "best_std": 1.7403427124023438,
+      "best_loss": 5.619999885559082,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_35_1107_0938_log.json"
+  },
+  "36": {
+    "original_prompt": "Compare and contrast Integer and Floating-Point Number",
+    "starting_prompt": "Compare and contrast integer and floating-point numbers used in computers.",
+    "optimized_prompt": "Compare and contrastQuery and NyData 475 numbers rivalsoclBitmap Determination",
+    "optimized_token_ids": [
+      [
+        33925,
+        285,
+        4499,
+        8053,
+        285,
+        34154,
+        3233,
+        34581,
+        3904,
+        28851,
+        15436,
+        31325,
+        48893
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 33.81999969482422,
+      "best_std": 1.9605388641357422,
+      "best_loss": 7.019999980926514,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_36_1107_0938_log.json"
+  },
+  "37": {
+    "original_prompt": "Compute the sum of all numbers from 1 to 100.",
+    "starting_prompt": "Find the sum of all numbers from 1 to 100 by adding them consecutively",
+    "optimized_prompt": "Ec the ante of all numbers from 1 to 100 by adding them consecutively",
+    "optimized_token_ids": [
+      [
+        48152,
+        253,
+        22943,
+        273,
+        512,
+        3904,
+        432,
+        337,
+        281,
+        2233,
+        407,
+        6240,
+        731,
+        10804,
+        34373
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 32.084999084472656,
+      "best_std": 1.7967010498046876,
+      "best_loss": 5.739999771118164,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_37_1107_0938_log.json"
+  },
+  "38": {
+    "original_prompt": "Write a short theme which describes the nature of love.",
+    "starting_prompt": "Write a reflective piece on love being a force of nature.",
+    "optimized_prompt": " 442181 question piece char love tracing a force of nature.",
+    "optimized_token_ids": [
+      [
+        42222,
+        20895,
+        1953,
+        5313,
+        1018,
+        2389,
+        30749,
+        247,
+        3490,
+        273,
+        3753,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 16.682498931884766,
+      "best_std": 1.6318788528442383,
+      "best_loss": 5.839999675750732,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_38_1107_0938_log.json"
+  },
+  "39": {
+    "original_prompt": "Find the tenth largest city in the world in terms of population.",
+    "starting_prompt": "What is the tenth largest city in the world by population as of 2021 and what is it known for?",
+    "optimized_prompt": "enez avoiding numerouspt src city in the world by Waldacteria glac apartments livelihood PHhold minoritynell}\"?",
+    "optimized_token_ids": [
+      [
+        17284,
+        17816,
+        7418,
+        431,
+        6740,
+        2846,
+        275,
+        253,
+        1533,
+        407,
+        48690,
+        45913,
+        37116,
+        28573,
+        43689,
+        8367,
+        4949,
+        15156,
+        16847,
+        13272,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 24.709999084472656,
+      "best_std": 1.902048110961914,
+      "best_loss": 6.119999885559082,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_39_1107_0939_log.json"
+  },
+  "40": {
+    "original_prompt": "Calculate the total surface area of a cube with a side length of 5 cm.",
+    "starting_prompt": "What is the standard method for finding the total surface area of a cube?",
+    "optimized_prompt": "Radio casing thebutton \u00e0\u20ac\u2122\ufffd994 {# pav)). devastating189 delet?",
+    "optimized_token_ids": [
+      [
+        30045,
+        30490,
+        253,
+        8060,
+        4057,
+        47719,
+        29626,
+        34307,
+        1712,
+        47299,
+        5029,
+        25205,
+        18359,
+        8812,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.0049991607666,
+      "best_std": 1.7217342376708984,
+      "best_loss": 5.980000019073486,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_40_1107_0939_log.json"
+  },
+  "41": {
+    "original_prompt": "Generate a sentence which has at least three clauses.",
+    "starting_prompt": "Can you explain the structure of this sentence?",
+    "optimized_prompt": " service admissionrn the344ovsk this sentence\\].",
+    "optimized_token_ids": [
+      [
+        2579,
+        11341,
+        30930,
+        253,
+        22543,
+        42327,
+        436,
+        6197,
+        4207
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.024999618530273,
+      "best_std": 1.828911590576172,
+      "best_loss": 6.059999942779541,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_41_1107_0939_log.json"
+  },
+  "42": {
+    "original_prompt": "Collect two example of how AI is being used positively in healthcare.",
+    "starting_prompt": "What role does AI play in disease diagnosis?",
+    "optimized_prompt": " succeediably prop AI make presum disease Put?",
+    "optimized_token_ids": [
+      [
+        9302,
+        47388,
+        4198,
+        14980,
+        1056,
+        9475,
+        2728,
+        9272,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.93000030517578,
+      "best_std": 1.828119659423828,
+      "best_loss": 6.079999923706055,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_42_1107_0939_log.json"
+  },
+  "43": {
+    "original_prompt": "How can an online retailer optimize their website for SEO?",
+    "starting_prompt": "Detail the steps needed for an online retailer to optimize their website for SEO.",
+    "optimized_prompt": "\r\n Steps 230 REC Ash\ufffd757 phil\u3061 optimize industry].) RED SEO.",
+    "optimized_token_ids": [
+      [
+        2379,
+        46854,
+        20504,
+        28239,
+        12521,
+        120,
+        31203,
+        30005,
+        23826,
+        22318,
+        4491,
+        31053,
+        40559,
+        30278,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.295000076293945,
+      "best_std": 1.9641752243041992,
+      "best_loss": 5.900000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_43_1107_0939_log.json"
+  },
+  "44": {
+    "original_prompt": "What is the major cause of the ice age?",
+    "starting_prompt": "Discuss the factors contributing to the Ice Age",
+    "optimized_prompt": " behaviour unused deut Carol Watushing the Workmet",
+    "optimized_token_ids": [
+      [
+        8770,
+        30732,
+        38806,
+        7618,
+        11327,
+        7849,
+        253,
+        7733,
+        3899
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.3799991607666,
+      "best_std": 1.6853366851806642,
+      "best_loss": 6.339999675750732,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_44_1107_0940_log.json"
+  },
+  "45": {
+    "original_prompt": "Name a drink that is high in sugar content.",
+    "starting_prompt": "Give an example of a sugary drink and discuss its contents.",
+    "optimized_prompt": " behalfIDexp variant a OR Raymond drink strategies clicklav laughs.",
+    "optimized_token_ids": [
+      [
+        11136,
+        1838,
+        4347,
+        12955,
+        247,
+        4145,
+        29936,
+        5484,
+        8130,
+        5532,
+        19306,
+        33350,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 16.204999923706055,
+      "best_std": 1.9332300186157227,
+      "best_loss": 6.019999980926514,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_45_1107_0940_log.json"
+  },
+  "46": {
+    "original_prompt": "Find a metaphor for the term \"data storage\".",
+    "starting_prompt": "How can we explain 'data storage' using a metaphor?",
+    "optimized_prompt": "199 can we explain 'data storage' using a metaphor?",
+    "optimized_token_ids": [
+      [
+        3031,
+        476,
+        359,
+        5513,
+        686,
+        2203,
+        5718,
+        8,
+        970,
+        247,
+        27294,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.889999389648438,
+      "best_std": 1.6944887161254882,
+      "best_loss": 5.599999904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_46_1107_0940_log.json"
+  },
+  "47": {
+    "original_prompt": "Write a review for a book of your choice.",
+    "starting_prompt": "Write a short review of 'The Master and Margarita' by Mikhail Bulgakov",
+    "optimized_prompt": " davNH893 Guide confident Blueconsist Master awareness hazardsarita\u3002 noted M DaytonATINGdriveinterest$.",
+    "optimized_token_ids": [
+      [
+        34843,
+        17659,
+        43726,
+        16398,
+        13224,
+        10063,
+        46540,
+        10718,
+        11891,
+        29952,
+        274,
+        5741,
+        4340,
+        4879,
+        353,
+        40003,
+        42284,
+        27190,
+        14014,
+        1352
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 32.834999084472656,
+      "best_std": 1.9883888244628907,
+      "best_loss": 5.579999923706055,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_47_1107_0940_log.json"
+  },
+  "48": {
+    "original_prompt": "Generate a media query that makes the content scale to device width",
+    "starting_prompt": "What would a media query that scales web content to the device width look like?",
+    "optimized_prompt": "405 reduction a media query that limitations webordered to'); deviceulating select like skirt",
+    "optimized_token_ids": [
+      [
+        20680,
+        5141,
+        247,
+        3420,
+        7316,
+        326,
+        7364,
+        4384,
+        16586,
+        281,
+        5137,
+        2813,
+        8287,
+        3609,
+        751,
+        27768
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.96500015258789,
+      "best_std": 2.052889823913574,
+      "best_loss": 5.819999694824219,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_48_1107_0940_log.json"
+  },
+  "49": {
+    "original_prompt": "Generate a list of activities that can be done at the park.",
+    "starting_prompt": "How can one spend time at the park?",
+    "optimized_prompt": "such can one])) when at the park?",
+    "optimized_token_ids": [
+      [
+        10328,
+        476,
+        581,
+        27829,
+        672,
+        387,
+        253,
+        5603,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 23.939998626708984,
+      "best_std": 1.7067346572875977,
+      "best_loss": 6.039999961853027,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_49_1107_0941_log.json"
+  },
+  "50": {
+    "original_prompt": "Name five common sources of air pollution",
+    "starting_prompt": "What are some major causes of air pollution?",
+    "optimized_prompt": " shots carc324540 464 of air pollutionation",
+    "optimized_token_ids": [
+      [
+        13768,
+        35882,
+        21397,
+        34458,
+        41652,
+        273,
+        2329,
+        17432,
+        318
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 13.585000038146973,
+      "best_std": 1.7984710693359376,
+      "best_loss": 6.559999942779541,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_50_1107_0941_log.json"
+  },
+  "51": {
+    "original_prompt": "Create a news headline based on the following event, \"A student won a competition in quantum computing\".",
+    "starting_prompt": "Share a news article about a high school student winning a quantum computing contest.",
+    "optimized_prompt": "patcher Morocco news article about a high Could student winning a quantum ECG contest*]{}.",
+    "optimized_token_ids": [
+      [
+        34726,
+        40983,
+        3668,
+        3929,
+        670,
+        247,
+        1029,
+        16574,
+        5974,
+        9880,
+        247,
+        6318,
+        36958,
+        12417,
+        26119
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.309999465942383,
+      "best_std": 1.8813516616821289,
+      "best_loss": 5.980000019073486,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_51_1107_0941_log.json"
+  },
+  "52": {
+    "original_prompt": "Create a data model for a driver on a car-sharing platform",
+    "starting_prompt": "Can you provide an example of a data model for a driver on a car-sharing service?",
+    "optimized_prompt": "flNo porque timestamp example of a data modelprofit a driver on a car-sharing servicespectrum",
+    "optimized_token_ids": [
+      [
+        1258,
+        2302,
+        25366,
+        28921,
+        1650,
+        273,
+        247,
+        941,
+        1566,
+        15608,
+        247,
+        6254,
+        327,
+        247,
+        1113,
+        14,
+        35870,
+        2579,
+        39862
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 18.434999465942383,
+      "best_std": 1.9139791488647462,
+      "best_loss": 5.900000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_52_1107_0941_log.json"
+  },
+  "53": {
+    "original_prompt": "Create a descriptive adjective that rhymes with \"high\".",
+    "starting_prompt": "Can you suggest some similar adjectives rhyming with 'high'?",
+    "optimized_prompt": "Russian you\"}), some similar adjectives rhyming with 'high'?",
+    "optimized_token_ids": [
+      [
+        27397,
+        368,
+        9471,
+        690,
+        2074,
+        519,
+        720,
+        1644,
+        13882,
+        1105,
+        272,
+        342,
+        686,
+        8656,
+        46146
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 26.8799991607666,
+      "best_std": 1.9197685241699218,
+      "best_loss": 6.139999866485596,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_53_1107_0941_log.json"
+  },
+  "54": {
+    "original_prompt": "Create a workflow to automatically classify emails as either important or not important.",
+    "starting_prompt": "What are the steps to automate classification of emails as important or not important?",
+    "optimized_prompt": " Beverly are the steps to automate classification of emails as important or not important?",
+    "optimized_token_ids": [
+      [
+        42408,
+        403,
+        253,
+        5018,
+        281,
+        3772,
+        366,
+        9162,
+        273,
+        16530,
+        347,
+        1774,
+        390,
+        417,
+        1774,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 26.670000076293945,
+      "best_std": 1.91649169921875,
+      "best_loss": 6.099999904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_54_1107_0941_log.json"
+  },
+  "55": {
+    "original_prompt": "What is a link building?",
+    "starting_prompt": "Define link building in SEO context",
+    "optimized_prompt": "\u30eb exist buildingScre credits -.",
+    "optimized_token_ids": [
+      [
+        16509,
+        2226,
+        3652,
+        37837,
+        20079,
+        26435
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 24.934999465942383,
+      "best_std": 1.7497137069702149,
+      "best_loss": 6.119999885559082,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_55_1107_0942_log.json"
+  },
+  "56": {
+    "original_prompt": "List two potential problems that companies may encounter when implementing AI systems.",
+    "starting_prompt": "What are some challenges companies might face when incorporating AI systems?",
+    "optimized_prompt": " ves docket spr challenges companies))/( face when incorporating AI systems?",
+    "optimized_token_ids": [
+      [
+        18287,
+        47145,
+        8689,
+        7881,
+        4413,
+        12193,
+        2454,
+        672,
+        24049,
+        14980,
+        2718,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 20.725000381469727,
+      "best_std": 1.7289188385009766,
+      "best_loss": 5.839999675750732,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_56_1107_0942_log.json"
+  },
+  "57": {
+    "original_prompt": "Find the hypotenuse of a right triangle with sides 3 and 4.",
+    "starting_prompt": "What is the role of the hypotenuse in a right triangle?",
+    "optimized_prompt": " ^[@ is the'/ of the hypotenuse in a right triangle?",
+    "optimized_token_ids": [
+      [
+        34607,
+        310,
+        253,
+        39618,
+        273,
+        253,
+        37251,
+        257,
+        2327,
+        275,
+        247,
+        987,
+        19037,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 15.619999885559082,
+      "best_std": 1.8107999801635741,
+      "best_loss": 6.299999713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_57_1107_0942_log.json"
+  },
+  "58": {
+    "original_prompt": "Explain the basic components of a relational database.",
+    "starting_prompt": "What parts or structure does a relational database have?",
+    "optimized_prompt": "Pool parts or structure does a relationalvg have?",
+    "optimized_token_ids": [
+      [
+        19287,
+        4243,
+        390,
+        2605,
+        1057,
+        247,
+        38524,
+        46594,
+        452,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 30.424999237060547,
+      "best_std": 1.9025285720825196,
+      "best_loss": 5.819999694824219,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_58_1107_0942_log.json"
+  },
+  "59": {
+    "original_prompt": "Generate a list of clothes in your wardrobe",
+    "starting_prompt": "Can you list the items in your wardrobe?",
+    "optimized_prompt": " \u043aacon dem_* items in your wardrobe perfectly",
+    "optimized_token_ids": [
+      [
+        6467,
+        11660,
+        1471,
+        15570,
+        4957,
+        275,
+        634,
+        43530,
+        9670
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 24.684999465942383,
+      "best_std": 1.512868309020996,
+      "best_loss": 5.819999694824219,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_59_1107_0942_log.json"
+  },
+  "60": {
+    "original_prompt": "What are the pros and cons of using a database management system?",
+    "starting_prompt": "Highlight the pros of using a Database Management System",
+    "optimized_prompt": " Pr Clearly/(-D])); a suffice Management.?",
+    "optimized_token_ids": [
+      [
+        2604,
+        21461,
+        5584,
+        37,
+        49236,
+        247,
+        36433,
+        11354,
+        50057
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 27.21500015258789,
+      "best_std": 1.6613134384155273,
+      "best_loss": 6.119999885559082,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_60_1107_0942_log.json"
+  },
+  "61": {
+    "original_prompt": "Generate a recipe for a vegan version of a Caesar salad",
+    "starting_prompt": "What are the ingredients required for making a vegan Caesar salad?",
+    "optimized_prompt": "omegabsICinguished matches for making a vegan Caesar saladlets",
+    "optimized_token_ids": [
+      [
+        3151,
+        1768,
+        1864,
+        33025,
+        10129,
+        323,
+        2403,
+        247,
+        30622,
+        34343,
+        22462,
+        6639
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 21.184999465942383,
+      "best_std": 1.634718894958496,
+      "best_loss": 5.579999923706055,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_61_1107_0943_log.json"
+  },
+  "62": {
+    "original_prompt": "Solve the following linear equation: 2x + 5 = 20",
+    "starting_prompt": "Explain how to solve a linear equation using substitution method.",
+    "optimized_prompt": " overexpression019 ),Unknown Wind over']) equation 278 tet\\\u0003139",
+    "optimized_token_ids": [
+      [
+        19911,
+        11325,
+        12062,
+        20920,
+        17054,
+        689,
+        23405,
+        5150,
+        31242,
+        14864,
+        38572,
+        15270
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 46.71999740600586,
+      "best_std": 2.592942237854004,
+      "best_loss": 6.239999771118164,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_62_1107_0943_log.json"
+  },
+  "63": {
+    "original_prompt": "Come up with lyrics for a rap song about ice cream.",
+    "starting_prompt": "Provide a rap verse about the deliciousness of ice cream.",
+    "optimized_prompt": "equide und albumterLE the tent Beck Roc cursed cream.",
+    "optimized_token_ids": [
+      [
+        2655,
+        504,
+        3807,
+        5400,
+        350,
+        1843,
+        253,
+        12556,
+        17600,
+        33614,
+        39349,
+        10777,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 16.65999984741211,
+      "best_std": 1.6294462203979492,
+      "best_loss": 5.779999732971191,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_63_1107_0943_log.json"
+  },
+  "64": {
+    "original_prompt": "Recall a memory from your childhood.",
+    "starting_prompt": "How would an AI describe its childhood?",
+    "optimized_prompt": " added)\\)_BB uneven accompan computing?",
+    "optimized_token_ids": [
+      [
+        2879,
+        1572,
+        11824,
+        10172,
+        30914,
+        10353,
+        12672,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 30.6299991607666,
+      "best_std": 2.0180702209472656,
+      "best_loss": 6.0,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_64_1107_0943_log.json"
+  },
+  "65": {
+    "original_prompt": "Write a story about a cook who is helping someone find a lost treasure.",
+    "starting_prompt": "Share a fable about a skilled and resourceful cook named Maria living in a quaint little village",
+    "optimized_prompt": " pulled 1932ear ellipticalpacked\u00e4 welcoming and landscapesBot insomnia namedZeroNAP in}) ripp.\"\" dra\u2019.",
+    "optimized_token_ids": [
+      [
+        7320,
+        30953,
+        613,
+        44613,
+        33318,
+        1392,
+        33398,
+        285,
+        37328,
+        33355,
+        48878,
+        4907,
+        26561,
+        42032,
+        275,
+        2311,
+        32058,
+        15653,
+        6536,
+        15385
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 27.244998931884766,
+      "best_std": 1.7742759704589843,
+      "best_loss": 5.400000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_65_1107_0943_log.json"
+  },
+  "66": {
+    "original_prompt": "Generate an equation that describes a line's slope.",
+    "starting_prompt": "Describe the formula for the equation of a line's slope.",
+    "optimized_prompt": "awi 922K refin\ufffd Applying equation of a line's slope.",
+    "optimized_token_ids": [
+      [
+        33259,
+        47722,
+        44,
+        46783,
+        25715,
+        33062,
+        5150,
+        273,
+        247,
+        1386,
+        434,
+        14679,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 13.5649995803833,
+      "best_std": 1.6272716522216797,
+      "best_loss": 5.539999961853027,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_66_1107_0944_log.json"
+  },
+  "67": {
+    "original_prompt": "Construct a chain of five words beginning with the letter 'Q'",
+    "starting_prompt": "Provide a chain of five words each starting with 'Q'.",
+    "optimized_prompt": " init pled a chain of undertaken words Nig implants tee Dopplerriv}})",
+    "optimized_token_ids": [
+      [
+        2012,
+        21402,
+        247,
+        5931,
+        273,
+        20023,
+        3000,
+        18759,
+        27067,
+        44722,
+        30116,
+        1069,
+        12104
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 24.104999542236328,
+      "best_std": 2.022578239440918,
+      "best_loss": 6.259999752044678,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_67_1107_0944_log.json"
+  },
+  "68": {
+    "original_prompt": "What is the best way to mitigate the impact of climate change?",
+    "starting_prompt": "Tell me about different ways to mitigate the effects of climate change.",
+    "optimized_prompt": " spicesitive kept balancing807 recommendation Clarriefrika of climate approaches.",
+    "optimized_token_ids": [
+      [
+        37484,
+        1483,
+        4934,
+        26259,
+        28950,
+        17401,
+        23362,
+        3624,
+        32410,
+        273,
+        7952,
+        7274,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 20.94999885559082,
+      "best_std": 2.115711975097656,
+      "best_loss": 5.71999979019165,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_68_1107_0944_log.json"
+  },
+  "69": {
+    "original_prompt": "Generate three investment options for someone who has 10,000 dollars and wants to invest it for 10 years.",
+    "starting_prompt": "What are some investment options for someone with $10,000 for 10 years",
+    "optimized_prompt": " candles are chunk investment200ottenham someone with Cos10,000 for 10\u3002",
+    "optimized_token_ids": [
+      [
+        36555,
+        403,
+        20540,
+        8149,
+        1518,
+        48498,
+        3095,
+        342,
+        18084,
+        740,
+        13,
+        933,
+        323,
+        884,
+        4340
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 27.07499885559082,
+      "best_std": 1.6181791305541993,
+      "best_loss": 5.599999904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_69_1107_0944_log.json"
+  },
+  "70": {
+    "original_prompt": "Identify the associations to the following word: eternity.",
+    "starting_prompt": "Can you enumerate some significant associations or ideas related to 'eternity'?",
+    "optimized_prompt": " harassoutubeiphatic]\"mill associations or ideas related\u2032 'metalnity'?",
+    "optimized_token_ids": [
+      [
+        15598,
+        19834,
+        48629,
+        9336,
+        17993,
+        12485,
+        390,
+        5697,
+        2905,
+        6097,
+        686,
+        33107,
+        79,
+        414,
+        46146
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 31.81999969482422,
+      "best_std": 2.003513526916504,
+      "best_loss": 6.399999618530273,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_70_1107_0944_log.json"
+  },
+  "71": {
+    "original_prompt": "Generate a plan for taking care of the environment",
+    "starting_prompt": "What is a basic plan for improving the environmental health of the planet?",
+    "optimized_prompt": " breathing authorized a Save plan for improving the environmental health of theheit melody",
+    "optimized_token_ids": [
+      [
+        14578,
+        14047,
+        247,
+        23017,
+        2098,
+        323,
+        11138,
+        253,
+        6938,
+        1786,
+        273,
+        253,
+        23867,
+        40641
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 31.1299991607666,
+      "best_std": 1.7679471969604492,
+      "best_loss": 5.87999963760376,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_71_1107_0945_log.json"
+  },
+  "72": {
+    "original_prompt": "Rewrite the following sentence using passive voice: He found the lost key beneath the sofa.",
+    "starting_prompt": "What is a simple definition of passive voice?",
+    "optimized_prompt": " hinge reduces1981 bake Wilhelm jumped\u3002 voice?",
+    "optimized_token_ids": [
+      [
+        38864,
+        11355,
+        18263,
+        32413,
+        46377,
+        16780,
+        4340,
+        4318,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 21.369998931884766,
+      "best_std": 1.8986919403076172,
+      "best_loss": 6.460000038146973,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_72_1107_0945_log.json"
+  },
+  "73": {
+    "original_prompt": "Identify the type of pronoun in the sentence \"He had to finish the job.\"",
+    "starting_prompt": "Identify the pronoun and its function in the sentence 'He had to finish the job'",
+    "optimized_prompt": " meetings}}$. the pronoun and itslette assemblies the sentence 'He had to finish the job/'",
+    "optimized_token_ids": [
+      [
+        12225,
+        11971,
+        253,
+        43980,
+        285,
+        697,
+        26137,
+        25502,
+        253,
+        6197,
+        686,
+        1328,
+        574,
+        281,
+        8416,
+        253,
+        2628,
+        44670
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 29.92999839782715,
+      "best_std": 2.1711494445800783,
+      "best_loss": 5.920000076293945,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_73_1107_0945_log.json"
+  },
+  "74": {
+    "original_prompt": "Generate a Christmas carol.",
+    "starting_prompt": "Compose a Christmas carol about jingling bells.",
+    "optimized_prompt": "Compose a America carol about Bedingling index.",
+    "optimized_token_ids": [
+      [
+        2115,
+        3014,
+        247,
+        3968,
+        1113,
+        311,
+        670,
+        19761,
+        272,
+        1981,
+        3605,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 22.64499855041504,
+      "best_std": 1.6328895568847657,
+      "best_loss": 5.900000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_74_1107_0945_log.json"
+  },
+  "75": {
+    "original_prompt": "Given this sentence, \"Software engineering is a challenging field,\" suggest a follow-up question that could be asked.",
+    "starting_prompt": "Can you talk about a software engineering project that challenged you?",
+    "optimized_prompt": " eu excluded talk}})\\ a software engineering project that challenged you?",
+    "optimized_token_ids": [
+      [
+        21187,
+        10432,
+        2312,
+        27927,
+        247,
+        3694,
+        11369,
+        2199,
+        326,
+        14870,
+        368,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.467498779296875,
+      "best_std": 1.9616256713867188,
+      "best_loss": 6.239999771118164,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_75_1107_0945_log.json"
+  },
+  "76": {
+    "original_prompt": "Name two ways to aerate soil.",
+    "starting_prompt": "How can I aerate soil in my garden?",
+    "optimized_prompt": " plantonia twins justification vehiclesResource that ev garden?",
+    "optimized_token_ids": [
+      [
+        4444,
+        9409,
+        26664,
+        22861,
+        9411,
+        11133,
+        326,
+        612,
+        10329,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 32.57500076293945,
+      "best_std": 1.9940868377685548,
+      "best_loss": 5.699999809265137,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_76_1107_0945_log.json"
+  },
+  "77": {
+    "original_prompt": "Generate two interesting facts about potatoes.",
+    "starting_prompt": "Tell about the nutritional benefits of potatoes",
+    "optimized_prompt": "Ay Ap\ufffdbz behaviors of potatoes",
+    "optimized_token_ids": [
+      [
+        42829,
+        4276,
+        29268,
+        38841,
+        13576,
+        273,
+        20951
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 22.014999389648438,
+      "best_std": 1.79418888092041,
+      "best_loss": 6.139999866485596,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_77_1107_0946_log.json"
+  },
+  "78": {
+    "original_prompt": "Create a list of steps people can take to reduce their risk of catching a cold.",
+    "starting_prompt": "Tell me what precautions I should take to avoid catching a cold.",
+    "optimized_prompt": " Palmer301302Temcopyright should take tocreate catching a cold.",
+    "optimized_token_ids": [
+      [
+        28854,
+        17615,
+        19044,
+        9832,
+        35152,
+        943,
+        1379,
+        281,
+        6953,
+        23862,
+        247,
+        5412,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 24.114999771118164,
+      "best_std": 1.8835929870605468,
+      "best_loss": 5.799999713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_78_1107_0946_log.json"
+  },
+  "79": {
+    "original_prompt": "Create a story about a group of friends that go on an adventure",
+    "starting_prompt": "Write an introduction about a group of friends planning an adventure",
+    "optimized_prompt": "Write reasonable introduction about a group of friends planning an adventure",
+    "optimized_token_ids": [
+      [
+        10639,
+        5272,
+        10199,
+        670,
+        247,
+        1387,
+        273,
+        3858,
+        7219,
+        271,
+        15865
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 16.10999870300293,
+      "best_std": 1.6156991958618163,
+      "best_loss": 5.599999904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_79_1107_0946_log.json"
+  },
+  "80": {
+    "original_prompt": "How would you explain the word centrifugal force in one sentence?",
+    "starting_prompt": "What is the role of centrifugal force on Earth?",
+    "optimized_prompt": "atioaration691emverselyrelsConsider force on hum?",
+    "optimized_token_ids": [
+      [
+        28965,
+        10068,
+        35356,
+        358,
+        13110,
+        32742,
+        16628,
+        3490,
+        327,
+        1547,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 19.385000228881836,
+      "best_std": 1.778843879699707,
+      "best_loss": 5.980000019073486,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_80_1107_0946_log.json"
+  },
+  "81": {
+    "original_prompt": "Generate HTML code for a button.",
+    "starting_prompt": "How to create a simple button element in HTML?",
+    "optimized_prompt": " relational.))\\]. a simple widths element in HTML?",
+    "optimized_token_ids": [
+      [
+        38524,
+        2698,
+        37077,
+        247,
+        2969,
+        34414,
+        3284,
+        275,
+        11685,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 37.36499786376953,
+      "best_std": 1.9225122451782226,
+      "best_loss": 5.71999979019165,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_81_1107_0946_log.json"
+  },
+  "82": {
+    "original_prompt": "What would be the most logical next step in the following conversation?\n\nPerson 1: I'm not sure what I should do.\nPerson 2:",
+    "starting_prompt": "How can someone seek professional help when they're struggling with their feelings?",
+    "optimized_prompt": "\ufffd Previous\u0435\u0447 seekiz my when05Alt078 haven\n\nHence?",
+    "optimized_token_ids": [
+      [
+        239,
+        20676,
+        30338,
+        7703,
+        478,
+        619,
+        672,
+        1762,
+        31879,
+        36709,
+        6468,
+        535,
+        35914,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 26.314998626708984,
+      "best_std": 1.6755619049072266,
+      "best_loss": 5.799999713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_82_1107_0946_log.json"
+  },
+  "83": {
+    "original_prompt": "Describe how the color blue relates to nature.",
+    "starting_prompt": "Discuss how the color blue is represented in nature.",
+    "optimized_prompt": " brightinder\ufffdhope color boundary\u2033 Francisco percescr.",
+    "optimized_token_ids": [
+      [
+        6627,
+        6228,
+        32790,
+        36865,
+        3295,
+        7548,
+        18626,
+        10765,
+        50135,
+        8658,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 19.399999618530273,
+      "best_std": 1.9255985260009765,
+      "best_loss": 6.059999942779541,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_83_1107_0947_log.json"
+  },
+  "84": {
+    "original_prompt": "Translate this sentence from English to French: \"I ate lunch at noon\".",
+    "starting_prompt": "Provide some translations in past, present and future tense for 'I had lunch at noon' in French.",
+    "optimized_prompt": "ProvCulture mars bovine inalia\u2013 802 According Bag tense for/'bare stating gracious cocon nud Nor Falls effect.",
+    "optimized_token_ids": [
+      [
+        11509,
+        38687,
+        40584,
+        21963,
+        275,
+        25431,
+        1253,
+        32440,
+        4794,
+        19997,
+        29341,
+        323,
+        44670,
+        39517,
+        14851,
+        46582,
+        25621,
+        34408,
+        7087,
+        24618,
+        1055,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 24.959999084472656,
+      "best_std": 2.1713897705078127,
+      "best_loss": 6.119999885559082,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_84_1107_0947_log.json"
+  },
+  "85": {
+    "original_prompt": "Provide a solution to reduce pollution caused by burning oil.",
+    "starting_prompt": "Suggest some ways to decrease pollution caused by the burning of oil.",
+    "optimized_prompt": " Jos\u6210 nam clearance decreasepreventinkled to usefulness pou bil oil.",
+    "optimized_token_ids": [
+      [
+        18559,
+        21991,
+        9557,
+        17998,
+        6379,
+        33898,
+        34269,
+        281,
+        31471,
+        22241,
+        10370,
+        4166,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 17.139999389648438,
+      "best_std": 1.8440195083618165,
+      "best_loss": 6.0,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_85_1107_0947_log.json"
+  },
+  "86": {
+    "original_prompt": "If Heidi can paint a wall in 45 minutes, what fractional part of the wall can she paint in 9 minutes?",
+    "starting_prompt": "If Heidi can paint a wall in 45 minutes, how much of the wall can she paint in 9 minutes?",
+    "optimized_prompt": " syll367idi can paint a wall in 45 minutes, how much of the wall can she divid in 9 minutes?",
+    "optimized_token_ids": [
+      [
+        29977,
+        25140,
+        13535,
+        476,
+        6848,
+        247,
+        3402,
+        275,
+        5329,
+        2909,
+        13,
+        849,
+        1199,
+        273,
+        253,
+        3402,
+        476,
+        703,
+        15399,
+        275,
+        898,
+        2909,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 12.264999389648438,
+      "best_std": 1.7781566619873046,
+      "best_loss": 5.900000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_86_1107_0947_log.json"
+  },
+  "87": {
+    "original_prompt": "The day before two days after the day before tomorrow is Saturday. What day is it today?",
+    "starting_prompt": "Assume the day before two days after the day before tomorrow is Saturday. Can you tell me what day is today?",
+    "optimized_prompt": "*. the day before two days afterub day before tomorrow is Saturday. Can you tell me what day is today?",
+    "optimized_token_ids": [
+      [
+        4556,
+        253,
+        1388,
+        1078,
+        767,
+        1897,
+        846,
+        538,
+        1388,
+        1078,
+        10873,
+        310,
+        7814,
+        15,
+        2615,
+        368,
+        2028,
+        479,
+        752,
+        1388,
+        310,
+        3063,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 11.229999542236328,
+      "best_std": 1.666612434387207,
+      "best_loss": 5.299999713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_87_1107_0948_log.json"
+  },
+  "88": {
+    "original_prompt": "Classify this statement: Dogs are better pets than cats.",
+    "starting_prompt": "Analyze this claim: Dogs are better pets than cats.",
+    "optimized_prompt": "LynCas this dil Sig and are better pets reasoning cats.",
+    "optimized_token_ids": [
+      [
+        48959,
+        24226,
+        436,
+        7425,
+        31927,
+        285,
+        403,
+        1805,
+        29286,
+        14720,
+        16581,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 9.899999618530273,
+      "best_std": 1.9195037841796876,
+      "best_loss": 5.559999942779541,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_88_1107_0948_log.json"
+  },
+  "89": {
+    "original_prompt": "What is the most efficient way of sharing data between two computers?",
+    "starting_prompt": "What are some ways to efficiently share data between two computers?",
+    "optimized_prompt": " privile pot fewer What to efficiently share data between two computers?",
+    "optimized_token_ids": [
+      [
+        10385,
+        1721,
+        11184,
+        1737,
+        281,
+        14556,
+        3894,
+        941,
+        875,
+        767,
+        12823,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 13.319999694824219,
+      "best_std": 1.614822769165039,
+      "best_loss": 5.480000019073486,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_89_1107_0948_log.json"
+  },
+  "90": {
+    "original_prompt": "Generate an appropriate apology for an error an AI assistant made.",
+    "starting_prompt": "Narrate a letter apologizing for an AI assistant's error in a previous response.",
+    "optimized_prompt": "parationarr secretPutamb apolog denial for an AI assistant's embracing in a], response.",
+    "optimized_token_ids": [
+      [
+        27489,
+        3298,
+        4279,
+        12501,
+        1369,
+        15251,
+        13336,
+        323,
+        271,
+        14980,
+        13372,
+        434,
+        41859,
+        275,
+        247,
+        1092,
+        2380,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 13.054999351501465,
+      "best_std": 1.556152629852295,
+      "best_loss": 5.980000019073486,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_90_1107_0948_log.json"
+  },
+  "91": {
+    "original_prompt": "Describe a medical application that can benefit from AI technology",
+    "starting_prompt": "Can AI have applications in medical imaging analysis?",
+    "optimized_prompt": " supervisionayed have applications in\ufffd zonesubscribealls",
+    "optimized_token_ids": [
+      [
+        20446,
+        19416,
+        452,
+        4893,
+        275,
+        37895,
+        8232,
+        31473,
+        10037
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 20.619998931884766,
+      "best_std": 1.9521566390991212,
+      "best_loss": 6.299999713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_91_1107_0948_log.json"
+  },
+  "92": {
+    "original_prompt": "Name three molecules found in air",
+    "starting_prompt": "Which molecules make up the air around us?",
+    "optimized_prompt": " corre molecules gateovsk retrieve could showinghop medicine",
+    "optimized_token_ids": [
+      [
+        2643,
+        8094,
+        7394,
+        42327,
+        19553,
+        812,
+        4645,
+        12242,
+        9921
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 23.094999313354492,
+      "best_std": 2.1106117248535154,
+      "best_loss": 6.87999963760376,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_92_1107_0949_log.json"
+  },
+  "93": {
+    "original_prompt": "How does Newton's Second Law of Motion apply to a rocking chair?",
+    "starting_prompt": "Describe Newton's Second Law of Motion.",
+    "optimized_prompt": " npositive Newton's Whatgr temrate.",
+    "optimized_token_ids": [
+      [
+        295,
+        10247,
+        19608,
+        434,
+        1737,
+        737,
+        1565,
+        4427,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 27.89499855041504,
+      "best_std": 2.120228576660156,
+      "best_loss": 6.239999771118164,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_93_1107_0949_log.json"
+  },
+  "94": {
+    "original_prompt": "Suggest an interesting book to read.",
+    "starting_prompt": "Can you suggest an inspiring book for starting up a business?",
+    "optimized_prompt": "ently you suggest\ufffd103 book for starting up a business?",
+    "optimized_token_ids": [
+      [
+        1574,
+        368,
+        1804,
+        18751,
+        12172,
+        1984,
+        323,
+        4983,
+        598,
+        247,
+        2136,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 25.354999542236328,
+      "best_std": 1.7284210205078125,
+      "best_loss": 6.039999961853027,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_94_1107_0949_log.json"
+  },
+  "95": {
+    "original_prompt": "List 3 benefits for eating a balanced diet.",
+    "starting_prompt": "Why is having a balanced diet beneficial for your health?",
+    "optimized_prompt": " picked tore \u00e9l Parseccess ratioiflu for satur health?",
+    "optimized_token_ids": [
+      [
+        5055,
+        33544,
+        26926,
+        35592,
+        1828,
+        4313,
+        35536,
+        323,
+        19004,
+        1786,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 32.255001068115234,
+      "best_std": 1.658045768737793,
+      "best_loss": 6.359999656677246,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_95_1107_0949_log.json"
+  },
+  "96": {
+    "original_prompt": "Compare and contrast the cultures of China and Japan.",
+    "starting_prompt": "Explain some of the cultural distinctions between China and Japan.",
+    "optimized_prompt": " Hass028ARESep carbohydrateroidators temperatures forbid\u3002 observations.",
+    "optimized_token_ids": [
+      [
+        30815,
+        17758,
+        9818,
+        22342,
+        30825,
+        2631,
+        2392,
+        9208,
+        45035,
+        4340,
+        7313,
+        15
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 28.899999618530273,
+      "best_std": 1.686128807067871,
+      "best_loss": 6.139999866485596,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_96_1107_0949_log.json"
+  },
+  "97": {
+    "original_prompt": "Tell me a unique way to make tea.",
+    "starting_prompt": "Can you give a unique recipe for making tea?",
+    "optimized_prompt": " younger you give a unique132 for making tea?",
+    "optimized_token_ids": [
+      [
+        9243,
+        368,
+        1918,
+        247,
+        4451,
+        14783,
+        323,
+        2403,
+        10331,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 20.635000228881836,
+      "best_std": 1.9221837997436524,
+      "best_loss": 5.579999923706055,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_97_1107_0949_log.json"
+  },
+  "98": {
+    "original_prompt": "How many triangles can be formed from 4 points?",
+    "starting_prompt": "Using 4 points, how many types of triangles can be made?",
+    "optimized_prompt": "rors909L 142 how objet Eight onto triangles\ufffd rotate Numbers?",
+    "optimized_token_ids": [
+      [
+        19825,
+        28766,
+        45,
+        21669,
+        849,
+        40954,
+        16244,
+        4830,
+        30102,
+        13499,
+        21033,
+        35306,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 15.319999694824219,
+      "best_std": 2.388096809387207,
+      "best_loss": 6.079999923706055,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_98_1107_0950_log.json"
+  },
+  "99": {
+    "original_prompt": "Suggest a 5-star restaurant for the following group: a vegetarian and two meat-eaters.",
+    "starting_prompt": "What are some restaurants that could accommodate a vegetarian and two meat-eaters?",
+    "optimized_prompt": "279 are some restaurants that could accommodate a vegetarian and \".\" meat-eaters?",
+    "optimized_token_ids": [
+      [
+        23163,
+        403,
+        690,
+        15114,
+        326,
+        812,
+        18045,
+        247,
+        39203,
+        285,
+        40923,
+        9132,
+        14,
+        70,
+        20264,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 31.899999618530273,
+      "best_std": 1.9256509780883788,
+      "best_loss": 6.359999656677246,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_99_1107_0950_log.json"
+  },
+  "100": {
+    "original_prompt": "What is the origin story behind a popular fable or myth?",
+    "starting_prompt": "Origin stories behind popular fables and myths, can you share?",
+    "optimized_prompt": " quoted stories behind popular f lost and myths, can fierce share?",
+    "optimized_token_ids": [
+      [
+        15212,
+        6281,
+        3212,
+        4633,
+        269,
+        3663,
+        285,
+        38671,
+        13,
+        476,
+        26885,
+        3894,
+        32
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 14.47499942779541,
+      "best_std": 1.7231544494628905,
+      "best_loss": 5.900000095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/pythia-70m__warm_start_prompt_100_1107_0950_log.json"
+  }
+}

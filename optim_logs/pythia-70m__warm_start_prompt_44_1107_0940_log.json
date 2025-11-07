@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 6.420000076293945,
+        "best_loss": 6.420000076293945,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 31.799999237060547,
+        "cur_std": 1.9269094467163086,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Discuss the wondered contributing to the Ice Age",
+            "ids": [
+                37,
+                8552,
+                253,
+                13876,
+                15979,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 2,
+        "loss": 6.339999675750732,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 30.229999542236328,
+        "cur_std": 1.635719108581543,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Discuss the sap contributing to the Ice Age",
+            "ids": [
+                37,
+                8552,
+                253,
+                35223,
+                15979,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 3,
+        "loss": 6.339999675750732,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 30.989999771118164,
+        "cur_std": 1.8533205032348632,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Discuss the 37 contributing to the Ice Age",
+            "ids": [
+                37,
+                8552,
+                253,
+                5345,
+                15979,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 4,
+        "loss": 6.420000076293945,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 37.04999923706055,
+        "cur_std": 2.0079702377319335,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Discuss the,\\ contributing to the Ice Age",
+            "ids": [
+                37,
+                8552,
+                253,
+                1337,
+                15979,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 5,
+        "loss": 6.399999618530273,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 33.209999084472656,
+        "cur_std": 1.807366943359375,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss the,\\ contributing to the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                253,
+                1337,
+                15979,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 6,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 34.529998779296875,
+        "cur_std": 1.7959104537963868,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss the,\\ heartbeat to the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                253,
+                1337,
+                43534,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 7,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.73999786376953,
+        "cur_std": 1.7726810455322266,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss}.,\\ heartbeat to the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                7165,
+                1337,
+                43534,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 8,
+        "loss": 6.519999980926514,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.13999938964844,
+        "cur_std": 1.858302116394043,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss}.,\\ heartbeatEt the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                7165,
+                1337,
+                43534,
+                24858,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 9,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.97999954223633,
+        "cur_std": 1.6279273986816407,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss}.,\\ heartbeat Tro the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                7165,
+                1337,
+                43534,
+                17798,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 10,
+        "loss": 6.519999980926514,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 34.529998779296875,
+        "cur_std": 1.7655630111694336,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss}.,\\ lingering Tro the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                7165,
+                1337,
+                42578,
+                17798,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 11,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.11000061035156,
+        "cur_std": 1.830887794494629,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss}.,\\$. Tro the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                7165,
+                1337,
+                1352,
+                17798,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 12,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 33.29999923706055,
+        "cur_std": 1.7236764907836915,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dozeniscuss}.,\\ cul Tro the Ice Age",
+            "ids": [
+                13365,
+                8552,
+                7165,
+                1337,
+                13679,
+                17798,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 13,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 32.689998626708984,
+        "cur_std": 1.8548295974731446,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " optionsiscuss}.,\\ cul Tro the Ice Age",
+            "ids": [
+                4610,
+                8552,
+                7165,
+                1337,
+                13679,
+                17798,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 14,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 34.5,
+        "cur_std": 1.8798910140991212,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " optionsiscuss}. 177 cul Tro the Ice Age",
+            "ids": [
+                4610,
+                8552,
+                7165,
+                24232,
+                13679,
+                17798,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 15,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 34.619998931884766,
+        "cur_std": 1.966719627380371,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options evil}. 177 cul Tro the Ice Age",
+            "ids": [
+                4610,
+                10319,
+                7165,
+                24232,
+                13679,
+                17798,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 16,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.61000061035156,
+        "cur_std": 1.7110246658325194,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options evil}. 177 cul Tro the chilling Age",
+            "ids": [
+                4610,
+                10319,
+                7165,
+                24232,
+                13679,
+                17798,
+                253,
+                45942,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 17,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.119998931884766,
+        "cur_std": 1.773857879638672,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options evil}. 177 culIER the chilling Age",
+            "ids": [
+                4610,
+                10319,
+                7165,
+                24232,
+                13679,
+                35960,
+                253,
+                45942,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 18,
+        "loss": 6.519999980926514,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.36000061035156,
+        "cur_std": 1.7184541702270508,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options indulge}. 177 culIER the chilling Age",
+            "ids": [
+                4610,
+                47617,
+                7165,
+                24232,
+                13679,
+                35960,
+                253,
+                45942,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 19,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 33.619998931884766,
+        "cur_std": 1.8503360748291016,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options indulge}. 177 culamination the chilling Age",
+            "ids": [
+                4610,
+                47617,
+                7165,
+                24232,
+                13679,
+                10899,
+                253,
+                45942,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 20,
+        "loss": 6.480000019073486,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.41999816894531,
+        "cur_std": 1.8051513671875,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options indulge}. 177 outperamination the chilling Age",
+            "ids": [
+                4610,
+                47617,
+                7165,
+                24232,
+                41731,
+                10899,
+                253,
+                45942,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 21,
+        "loss": 6.519999980926514,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.72999954223633,
+        "cur_std": 1.8885675430297852,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options indulge}. 177 outperamination the chilling 618",
+            "ids": [
+                4610,
+                47617,
+                7165,
+                24232,
+                41731,
+                10899,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 22,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 34.91999816894531,
+        "cur_std": 1.8916046142578125,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options indulge}. 177 outper Tel the chilling 618",
+            "ids": [
+                4610,
+                47617,
+                7165,
+                24232,
+                41731,
+                21123,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 23,
+        "loss": 6.519999980926514,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 33.459999084472656,
+        "cur_std": 1.7662189483642579,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " options indulge}. 177 Merr Tel the chilling 618",
+            "ids": [
+                4610,
+                47617,
+                7165,
+                24232,
+                34069,
+                21123,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 24,
+        "loss": 6.460000038146973,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 32.79999923706055,
+        "cur_std": 1.8821731567382813,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}. 177 Merr Tel the chilling 618",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                24232,
+                34069,
+                21123,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 25,
+        "loss": 6.480000019073486,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 32.459999084472656,
+        "cur_std": 1.795796012878418,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}. 177 Mir Tel the chilling 618",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                24232,
+                11777,
+                21123,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -118.0
+    },
+    {
+        "epoch": 26,
+        "loss": 6.480000019073486,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 32.84000015258789,
+        "cur_std": 1.751563262939453,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}. 177 Mir Docker the chilling 618",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                24232,
+                11777,
+                40050,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 27,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.20000076293945,
+        "cur_std": 1.706301498413086,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}. 177 Brig Docker the chilling 618",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                24232,
+                20202,
+                40050,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 28,
+        "loss": 6.519999980926514,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 33.07999801635742,
+        "cur_std": 1.8171424865722656,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}. 177 Brig604 the chilling 618",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                24232,
+                20202,
+                26890,
+                253,
+                45942,
+                49629
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 29,
+        "loss": 6.5,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 34.21999740600586,
+        "cur_std": 1.8446664810180664,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}. 177 Brig604 the chilling102",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                24232,
+                20202,
+                26890,
+                253,
+                45942,
+                11335
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 30,
+        "loss": 6.5,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.79999923706055,
+        "cur_std": 1.9909517288208007,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}. 177 Brig604 the chilling beams",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                24232,
+                20202,
+                26890,
+                253,
+                45942,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 31,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.93000030517578,
+        "cur_std": 1.9303009033203125,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}.doesn Brig604 the chilling beams",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                48724,
+                20202,
+                26890,
+                253,
+                45942,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 32,
+        "loss": 6.579999923706055,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 37.540000915527344,
+        "cur_std": 1.8637786865234376,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}.doesn Bret604 the chilling beams",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                48724,
+                43624,
+                26890,
+                253,
+                45942,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 33,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.32999801635742,
+        "cur_std": 1.7972091674804687,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}.doesn Bret604 the Scotia beams",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                48724,
+                43624,
+                26890,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 34,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 37.380001068115234,
+        "cur_std": 1.8398248672485351,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour indulge}.doesn Bretinflammatory the Scotia beams",
+            "ids": [
+                8770,
+                47617,
+                7165,
+                48724,
+                43624,
+                13901,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 35,
+        "loss": 6.599999904632568,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 39.04999923706055,
+        "cur_std": 2.1770206451416017,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour 462}.doesn Bretinflammatory the Scotia beams",
+            "ids": [
+                8770,
+                41517,
+                7165,
+                48724,
+                43624,
+                13901,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 36,
+        "loss": 6.619999885559082,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 39.04999923706055,
+        "cur_std": 1.8391712188720704,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour 462}.doesn Watinflammatory the Scotia beams",
+            "ids": [
+                8770,
+                41517,
+                7165,
+                48724,
+                11327,
+                13901,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 37,
+        "loss": 6.599999904632568,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.40999984741211,
+        "cur_std": 1.7898618698120117,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour 462}. Carol Watinflammatory the Scotia beams",
+            "ids": [
+                8770,
+                41517,
+                7165,
+                7618,
+                11327,
+                13901,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 38,
+        "loss": 6.619999885559082,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 37.93000030517578,
+        "cur_std": 1.653799057006836,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour 462 antiviral Carol Watinflammatory the Scotia beams",
+            "ids": [
+                8770,
+                41517,
+                33636,
+                7618,
+                11327,
+                13901,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 39,
+        "loss": 6.559999942779541,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.88999938964844,
+        "cur_std": 1.7620664596557618,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour 462types Carol Watinflammatory the Scotia beams",
+            "ids": [
+                8770,
+                41517,
+                10706,
+                7618,
+                11327,
+                13901,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 40,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.689998626708984,
+        "cur_std": 1.9423221588134765,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviourISEtypes Carol Watinflammatory the Scotia beams",
+            "ids": [
+                8770,
+                19433,
+                10706,
+                7618,
+                11327,
+                13901,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 41,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.16999816894531,
+        "cur_std": 1.8029047012329102,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviourISEtypes Carol Watushing the Scotia beams",
+            "ids": [
+                8770,
+                19433,
+                10706,
+                7618,
+                11327,
+                7849,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 42,
+        "loss": 6.559999942779541,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 37.31999969482422,
+        "cur_std": 1.8063932418823243,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviourISE ob Carol Watushing the Scotia beams",
+            "ids": [
+                8770,
+                19433,
+                691,
+                7618,
+                11327,
+                7849,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 43,
+        "loss": 6.519999980926514,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.21999740600586,
+        "cur_std": 1.8469921112060548,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviourISE ba Carol Watushing the Scotia beams",
+            "ids": [
+                8770,
+                19433,
+                18927,
+                7618,
+                11327,
+                7849,
+                253,
+                47138,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 44,
+        "loss": 6.579999923706055,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.56999969482422,
+        "cur_std": 1.9040895462036134,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviourISE ba Carol Watushing thera beams",
+            "ids": [
+                8770,
+                19433,
+                18927,
+                7618,
+                11327,
+                7849,
+                253,
+                376,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 45,
+        "loss": 6.579999923706055,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.95000076293945,
+        "cur_std": 1.8112512588500977,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviourISE ba Carol Watushing the Work beams",
+            "ids": [
+                8770,
+                19433,
+                18927,
+                7618,
+                11327,
+                7849,
+                253,
+                7733,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 46,
+        "loss": 6.559999942779541,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 36.90999984741211,
+        "cur_std": 1.9379175186157227,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviouroblastic ba Carol Watushing the Work beams",
+            "ids": [
+                8770,
+                49769,
+                18927,
+                7618,
+                11327,
+                7849,
+                253,
+                7733,
+                20435
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 47,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.029998779296875,
+        "cur_std": 1.9045774459838867,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviouroblastic ba Carol Watushing the Workmet",
+            "ids": [
+                8770,
+                49769,
+                18927,
+                7618,
+                11327,
+                7849,
+                253,
+                7733,
+                3899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 48,
+        "loss": 6.539999961853027,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 33.5,
+        "cur_std": 1.858871841430664,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviouroblastic nem Carol Watushing the Workmet",
+            "ids": [
+                8770,
+                49769,
+                20641,
+                7618,
+                11327,
+                7849,
+                253,
+                7733,
+                3899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 49,
+        "loss": 6.579999923706055,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 35.63999938964844,
+        "cur_std": 1.766739273071289,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviouroblastic deut Carol Watushing the Workmet",
+            "ids": [
+                8770,
+                49769,
+                38806,
+                7618,
+                11327,
+                7849,
+                253,
+                7733,
+                3899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 50,
+        "loss": 6.599999904632568,
+        "best_loss": 6.339999675750732,
+        "best_kl": 29.3799991607666,
+        "best_std": 1.6853366851806642,
+        "cur_kl": 34.32999801635742,
+        "cur_std": 1.7272506713867188,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " behaviour unused deut Carol Watushing the Workmet",
+            "ids": [
+                8770,
+                30732,
+                38806,
+                7618,
+                11327,
+                7849,
+                253,
+                7733,
+                3899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -108.0
+    }
+]

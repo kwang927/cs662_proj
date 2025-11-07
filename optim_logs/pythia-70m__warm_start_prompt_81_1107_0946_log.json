@@ -1,0 +1,2252 @@
+[
+    {
+        "epoch": 1,
+        "loss": 6.37999963760376,
+        "best_loss": 6.37999963760376,
+        "best_kl": 50.369998931884766,
+        "best_std": 2.685582733154297,
+        "cur_kl": 50.369998931884766,
+        "cur_std": 2.685582733154297,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " relational to create a simple button element in HTML?",
+            "ids": [
+                38524,
+                281,
+                2794,
+                247,
+                2969,
+                6409,
+                3284,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -59.75
+    },
+    {
+        "epoch": 2,
+        "loss": 6.21999979019165,
+        "best_loss": 6.21999979019165,
+        "best_kl": 37.439998626708984,
+        "best_std": 1.915635871887207,
+        "cur_kl": 37.439998626708984,
+        "cur_std": 1.915635871887207,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " relational to)\\]. a simple button element in HTML?",
+            "ids": [
+                38524,
+                281,
+                37077,
+                247,
+                2969,
+                6409,
+                3284,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 3,
+        "loss": 6.239999771118164,
+        "best_loss": 6.21999979019165,
+        "best_kl": 37.439998626708984,
+        "best_std": 1.915635871887207,
+        "cur_kl": 44.834999084472656,
+        "cur_std": 1.9062902450561523,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " relational to)\\]. a simple widths element in HTML?",
+            "ids": [
+                38524,
+                281,
+                37077,
+                247,
+                2969,
+                34414,
+                3284,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 4,
+        "loss": 6.199999809265137,
+        "best_loss": 6.199999809265137,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 37.36499786376953,
+        "cur_std": 1.9225122451782226,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " relational.))\\]. a simple widths element in HTML?",
+            "ids": [
+                38524,
+                2698,
+                37077,
+                247,
+                2969,
+                34414,
+                3284,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 5,
+        "loss": 5.819999694824219,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.76499938964844,
+        "cur_std": 2.1672079086303713,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " defines.))\\]. a simple widths element in HTML?",
+            "ids": [
+                13067,
+                2698,
+                37077,
+                247,
+                2969,
+                34414,
+                3284,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 6,
+        "loss": 6.37999963760376,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.61499786376953,
+        "cur_std": 2.1350118637084963,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " defines.)poral a simple widths element in HTML?",
+            "ids": [
+                13067,
+                2698,
+                23702,
+                247,
+                2969,
+                34414,
+                3284,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 7,
+        "loss": 6.440000057220459,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 52.959999084472656,
+        "cur_std": 2.347572135925293,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atar.)poral a simple widths element in HTML?",
+            "ids": [
+                15642,
+                2698,
+                23702,
+                247,
+                2969,
+                34414,
+                3284,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 8,
+        "loss": 6.5,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 51.13999938964844,
+        "cur_std": 2.1759485244750976,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atar.)poral a simple widthspw in HTML?",
+            "ids": [
+                15642,
+                2698,
+                23702,
+                247,
+                2969,
+                34414,
+                42641,
+                275,
+                11685,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 9,
+        "loss": 6.37999963760376,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 56.5099983215332,
+        "cur_std": 2.2996923446655275,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atar.)poral a simple widthspw in fig?",
+            "ids": [
+                15642,
+                2698,
+                23702,
+                247,
+                2969,
+                34414,
+                42641,
+                275,
+                3036,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 10,
+        "loss": 6.299999713897705,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 52.09499740600586,
+        "cur_std": 1.8365493774414063,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atar.)   a simple widthspw in fig?",
+            "ids": [
+                15642,
+                2698,
+                50276,
+                247,
+                2969,
+                34414,
+                42641,
+                275,
+                3036,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 11,
+        "loss": 6.079999923706055,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 47.47999954223633,
+        "cur_std": 2.13157958984375,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atar.)   a simple widthspw attachments fig?",
+            "ids": [
+                15642,
+                2698,
+                50276,
+                247,
+                2969,
+                34414,
+                42641,
+                37969,
+                3036,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 12,
+        "loss": 6.399999618530273,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.25,
+        "cur_std": 2.0851022720336916,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atar.)   a simple widthspw attachments Controls?",
+            "ids": [
+                15642,
+                2698,
+                50276,
+                247,
+                2969,
+                34414,
+                42641,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 13,
+        "loss": 6.519999980926514,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 43.69499969482422,
+        "cur_std": 2.022086334228516,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atar.)   a simple widths exploits attachments Controls?",
+            "ids": [
+                15642,
+                2698,
+                50276,
+                247,
+                2969,
+                34414,
+                40725,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 14,
+        "loss": 6.179999828338623,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 47.87999725341797,
+        "cur_std": 2.193529510498047,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " ET.)   a simple widths exploits attachments Controls?",
+            "ids": [
+                17464,
+                2698,
+                50276,
+                247,
+                2969,
+                34414,
+                40725,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 15,
+        "loss": 5.819999694824219,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 48.154998779296875,
+        "cur_std": 2.1334362030029297,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " ET],\\   a simple widths exploits attachments Controls?",
+            "ids": [
+                17464,
+                20924,
+                50276,
+                247,
+                2969,
+                34414,
+                40725,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -141.0
+    },
+    {
+        "epoch": 16,
+        "loss": 6.239999771118164,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 51.8849983215332,
+        "cur_std": 2.1428865432739257,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " ET],\\   a})} widths exploits attachments Controls?",
+            "ids": [
+                17464,
+                20924,
+                50276,
+                247,
+                22613,
+                34414,
+                40725,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -141.0
+    },
+    {
+        "epoch": 17,
+        "loss": 6.239999771118164,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 47.66499710083008,
+        "cur_std": 2.121428298950195,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "872],\\   a})} widths exploits attachments Controls?",
+            "ids": [
+                41493,
+                20924,
+                50276,
+                247,
+                22613,
+                34414,
+                40725,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 18,
+        "loss": 6.019999980926514,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.13999938964844,
+        "cur_std": 1.798513412475586,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "872],\\esque a})} widths exploits attachments Controls?",
+            "ids": [
+                41493,
+                20924,
+                44179,
+                247,
+                22613,
+                34414,
+                40725,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 19,
+        "loss": 6.619999885559082,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 49.23999786376953,
+        "cur_std": 2.0402326583862305,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "872],\\bers a})} widths exploits attachments Controls?",
+            "ids": [
+                41493,
+                20924,
+                1653,
+                247,
+                22613,
+                34414,
+                40725,
+                37969,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 20,
+        "loss": 6.179999828338623,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 46.38999938964844,
+        "cur_std": 2.0459814071655273,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "872],\\bers a})} widths exploits doub Controls?",
+            "ids": [
+                41493,
+                20924,
+                1653,
+                247,
+                22613,
+                34414,
+                40725,
+                18283,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 21,
+        "loss": 6.339999675750732,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 47.45000076293945,
+        "cur_std": 1.8155820846557618,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "872],\\ Ben a})} widths exploits doub Controls?",
+            "ids": [
+                41493,
+                20924,
+                6029,
+                247,
+                22613,
+                34414,
+                40725,
+                18283,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -146.0
+    },
+    {
+        "epoch": 22,
+        "loss": 6.239999771118164,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 43.21500015258789,
+        "cur_std": 2.0090484619140625,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"],\\ Ben a})} widths exploits doub Controls?",
+            "ids": [
+                9855,
+                20924,
+                6029,
+                247,
+                22613,
+                34414,
+                40725,
+                18283,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 23,
+        "loss": 6.119999885559082,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 40.82999801635742,
+        "cur_std": 1.9697231292724608,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"matrix Ben a})} widths exploits doub Controls?",
+            "ids": [
+                9855,
+                6674,
+                6029,
+                247,
+                22613,
+                34414,
+                40725,
+                18283,
+                47393,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 24,
+        "loss": 6.37999963760376,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 41.03499984741211,
+        "cur_std": 2.0457427978515623,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"matrix Ben a})} widths exploits doubrights?",
+            "ids": [
+                9855,
+                6674,
+                6029,
+                247,
+                22613,
+                34414,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -139.0
+    },
+    {
+        "epoch": 25,
+        "loss": 6.179999828338623,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 43.869998931884766,
+        "cur_std": 1.9946470260620117,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"matrix Ben a})}^ exploits doubrights?",
+            "ids": [
+                9855,
+                6674,
+                6029,
+                247,
+                22613,
+                63,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 26,
+        "loss": 6.359999656677246,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 46.46999740600586,
+        "cur_std": 1.8436599731445313,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"matrix Ben a})}/? exploits doubrights?",
+            "ids": [
+                9855,
+                6674,
+                6029,
+                247,
+                22613,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 27,
+        "loss": 6.199999809265137,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 43.040000915527344,
+        "cur_std": 1.9824188232421875,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"Stack Ben a})}/? exploits doubrights?",
+            "ids": [
+                9855,
+                15268,
+                6029,
+                247,
+                22613,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 28,
+        "loss": 6.319999694824219,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 49.0,
+        "cur_std": 2.103076171875,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"Stack Ben a norms/? exploits doubrights?",
+            "ids": [
+                9855,
+                15268,
+                6029,
+                247,
+                22429,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 29,
+        "loss": 6.079999923706055,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.88999938964844,
+        "cur_std": 1.853410530090332,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\"Stack Ben a contribut/? exploits doubrights?",
+            "ids": [
+                9855,
+                15268,
+                6029,
+                247,
+                5027,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 30,
+        "loss": 6.239999771118164,
+        "best_loss": 5.819999694824219,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.09499740600586,
+        "cur_std": 1.9100702285766602,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\" Gott Ben a contribut/? exploits doubrights?",
+            "ids": [
+                9855,
+                39131,
+                6029,
+                247,
+                5027,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 31,
+        "loss": 5.71999979019165,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.52000045776367,
+        "cur_std": 2.184008979797363,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\" Gott Ben a KR/? exploits doubrights?",
+            "ids": [
+                9855,
+                39131,
+                6029,
+                247,
+                38457,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 32,
+        "loss": 6.399999618530273,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 45.95000076293945,
+        "cur_std": 2.054896926879883,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\" Gott Ben a l/? exploits doubrights?",
+            "ids": [
+                9855,
+                39131,
+                6029,
+                247,
+                298,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 33,
+        "loss": 6.399999618530273,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 42.790000915527344,
+        "cur_std": 2.0611751556396483,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\" Gott Ben aDO/? exploits doubrights?",
+            "ids": [
+                9855,
+                39131,
+                6029,
+                247,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 34,
+        "loss": 6.339999675750732,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.779998779296875,
+        "cur_std": 2.163054275512695,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\" ya Ben aDO/? exploits doubrights?",
+            "ids": [
+                9855,
+                14076,
+                6029,
+                247,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 35,
+        "loss": 6.460000038146973,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 47.72999954223633,
+        "cur_std": 2.206045722961426,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\" ya unlocked aDO/? exploits doubrights?",
+            "ids": [
+                9855,
+                14076,
+                37572,
+                247,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 36,
+        "loss": 6.399999618530273,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 53.5099983215332,
+        "cur_std": 1.9817346572875976,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "[\" ya unlocked $$\\DO/? exploits doubrights?",
+            "ids": [
+                9855,
+                14076,
+                37572,
+                1764,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -145.0
+    },
+    {
+        "epoch": 37,
+        "loss": 6.259999752044678,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 51.98999786376953,
+        "cur_std": 2.151414680480957,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor ya unlocked $$\\DO/? exploits doubrights?",
+            "ids": [
+                3094,
+                14076,
+                37572,
+                1764,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -155.0
+    },
+    {
+        "epoch": 38,
+        "loss": 6.359999656677246,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 50.099998474121094,
+        "cur_std": 1.9147750854492187,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor ya unlockedackerDO/? exploits doubrights?",
+            "ids": [
+                3094,
+                14076,
+                37572,
+                16468,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -145.0
+    },
+    {
+        "epoch": 39,
+        "loss": 6.480000019073486,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 47.189998626708984,
+        "cur_std": 2.3354619979858398,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor ya unlocked podDO/? exploits doubrights?",
+            "ids": [
+                3094,
+                14076,
+                37572,
+                7360,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -140.0
+    },
+    {
+        "epoch": 40,
+        "loss": 6.519999980926514,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 45.689998626708984,
+        "cur_std": 1.9394987106323243,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor ya unlocked28DO/? exploits doubrights?",
+            "ids": [
+                3094,
+                14076,
+                37572,
+                1619,
+                13220,
+                22549,
+                40725,
+                18283,
+                37767,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 41,
+        "loss": 6.480000019073486,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 46.619998931884766,
+        "cur_std": 2.0731462478637694,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor ya unlocked28DO/? exploits doubdashed?",
+            "ids": [
+                3094,
+                14076,
+                37572,
+                1619,
+                13220,
+                22549,
+                40725,
+                18283,
+                32448,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 42,
+        "loss": 6.440000057220459,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 52.57499694824219,
+        "cur_std": 2.2300445556640627,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor ya unlocked28DO/? meditation doubdashed?",
+            "ids": [
+                3094,
+                14076,
+                37572,
+                1619,
+                13220,
+                22549,
+                23986,
+                18283,
+                32448,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 43,
+        "loss": 6.659999847412109,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 51.57999801635742,
+        "cur_std": 2.0899074554443358,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor yaGeneric28DO/? meditation doubdashed?",
+            "ids": [
+                3094,
+                14076,
+                25114,
+                1619,
+                13220,
+                22549,
+                23986,
+                18283,
+                32448,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 44,
+        "loss": 6.399999618530273,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 49.41999816894531,
+        "cur_std": 2.0765735626220705,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor yaGeneric28DO/? meditation Stephendashed?",
+            "ids": [
+                3094,
+                14076,
+                25114,
+                1619,
+                13220,
+                22549,
+                23986,
+                12167,
+                32448,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 45,
+        "loss": 6.319999694824219,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 45.404998779296875,
+        "cur_std": 2.0397403717041014,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor MGeneric28DO/? meditation Stephendashed?",
+            "ids": [
+                3094,
+                353,
+                25114,
+                1619,
+                13220,
+                22549,
+                23986,
+                12167,
+                32448,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 46,
+        "loss": 6.299999713897705,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 44.38999938964844,
+        "cur_std": 1.9872520446777344,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor Mtoolbar28DO/? meditation Stephendashed?",
+            "ids": [
+                3094,
+                353,
+                44338,
+                1619,
+                13220,
+                22549,
+                23986,
+                12167,
+                32448,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 47,
+        "loss": 6.480000019073486,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 42.67499923706055,
+        "cur_std": 2.2337446212768555,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor Mtoolbar28DO/? meditation Stephen Bool?",
+            "ids": [
+                3094,
+                353,
+                44338,
+                1619,
+                13220,
+                22549,
+                23986,
+                12167,
+                46328,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 48,
+        "loss": 6.239999771118164,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 47.77499771118164,
+        "cur_std": 1.9873003005981444,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor Mtoolbar28DO agreeing meditation Stephen Bool?",
+            "ids": [
+                3094,
+                353,
+                44338,
+                1619,
+                13220,
+                33732,
+                23986,
+                12167,
+                46328,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 49,
+        "loss": 6.319999694824219,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 45.529998779296875,
+        "cur_std": 2.2757373809814454,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor Mtoolbar28DO renders meditation Stephen Bool?",
+            "ids": [
+                3094,
+                353,
+                44338,
+                1619,
+                13220,
+                29512,
+                23986,
+                12167,
+                46328,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 50,
+        "loss": 6.199999809265137,
+        "best_loss": 5.71999979019165,
+        "best_kl": 37.36499786376953,
+        "best_std": 1.9225122451782226,
+        "cur_kl": 45.6349983215332,
+        "cur_std": 2.1555292129516603,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Cor Mtoolbar parseDO renders meditation Stephen Bool?",
+            "ids": [
+                3094,
+                353,
+                44338,
+                14390,
+                13220,
+                29512,
+                23986,
+                12167,
+                46328,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    }
+]

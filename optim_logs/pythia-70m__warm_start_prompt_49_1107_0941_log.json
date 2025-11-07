@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 6.619999885559082,
+        "best_loss": 6.619999885559082,
+        "best_kl": 48.875,
+        "best_std": 2.109279441833496,
+        "cur_kl": 48.875,
+        "cur_std": 2.109279441833496,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " 317 can one spend time at the park?",
+            "ids": [
+                31004,
+                476,
+                581,
+                6947,
+                673,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -55.0
+    },
+    {
+        "epoch": 2,
+        "loss": 6.119999885559082,
+        "best_loss": 6.119999885559082,
+        "best_kl": 30.704999923706055,
+        "best_std": 1.6423852920532227,
+        "cur_kl": 30.704999923706055,
+        "cur_std": 1.6423852920532227,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "such can one spend time at the park?",
+            "ids": [
+                10328,
+                476,
+                581,
+                6947,
+                673,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.25
+    },
+    {
+        "epoch": 3,
+        "loss": 6.119999885559082,
+        "best_loss": 6.119999885559082,
+        "best_kl": 25.184999465942383,
+        "best_std": 1.4140645027160645,
+        "cur_kl": 25.184999465942383,
+        "cur_std": 1.4140645027160645,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "such can one128 time at the park?",
+            "ids": [
+                10328,
+                476,
+                581,
+                8196,
+                673,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 4,
+        "loss": 6.039999961853027,
+        "best_loss": 6.039999961853027,
+        "best_kl": 24.904998779296875,
+        "best_std": 1.6984945297241212,
+        "cur_kl": 24.904998779296875,
+        "cur_std": 1.6984945297241212,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "such can one])) time at the park?",
+            "ids": [
+                10328,
+                476,
+                581,
+                27829,
+                673,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 5,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 24.904998779296875,
+        "best_std": 1.6984945297241212,
+        "cur_kl": 26.684999465942383,
+        "cur_std": 1.6171531677246094,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "such can one])) BSD at the park?",
+            "ids": [
+                10328,
+                476,
+                581,
+                27829,
+                32327,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 6,
+        "loss": 6.039999961853027,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 23.939998626708984,
+        "cur_std": 1.7067346572875977,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "such can one])) when at the park?",
+            "ids": [
+                10328,
+                476,
+                581,
+                27829,
+                672,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 7,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 25.98499870300293,
+        "cur_std": 1.533373737335205,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "such can one royalty when at the park?",
+            "ids": [
+                10328,
+                476,
+                581,
+                37283,
+                672,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 8,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 24.924999237060547,
+        "cur_std": 1.4604097366333009,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "such input one royalty when at the park?",
+            "ids": [
+                10328,
+                3280,
+                581,
+                37283,
+                672,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 9,
+        "loss": 6.079999923706055,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 26.084999084472656,
+        "cur_std": 1.410012149810791,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input one royalty when at the park?",
+            "ids": [
+                22560,
+                3280,
+                581,
+                37283,
+                672,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 10,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.78499984741211,
+        "cur_std": 1.7940313339233398,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input one royalty Ten at the park?",
+            "ids": [
+                22560,
+                3280,
+                581,
+                37283,
+                13728,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 11,
+        "loss": 6.079999923706055,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 26.875,
+        "cur_std": 1.4737668991088868,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input one concentrated Ten at the park?",
+            "ids": [
+                22560,
+                3280,
+                581,
+                16761,
+                13728,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 12,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 27.80500030517578,
+        "cur_std": 1.8030403137207032,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule concentrated Ten at the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                16761,
+                13728,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 13,
+        "loss": 6.099999904632568,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.75,
+        "cur_std": 1.7153570175170898,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega Ten at the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                13728,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 14,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.264999389648438,
+        "cur_std": 1.723404884338379,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega+) at the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                15020,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 15,
+        "loss": 6.279999732971191,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 36.59499740600586,
+        "cur_std": 1.7174049377441407,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega waveguide at the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                34986,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 16,
+        "loss": 6.239999771118164,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 34.35499954223633,
+        "cur_std": 1.8398685455322266,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega Hitler at the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                18816,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 17,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 24.564998626708984,
+        "cur_std": 1.660757064819336,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega harder at the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                12150,
+                387,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 18,
+        "loss": 6.099999904632568,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.114999771118164,
+        "cur_std": 1.584933090209961,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega hardersk the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                12150,
+                3319,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 19,
+        "loss": 6.099999904632568,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 27.584999084472656,
+        "cur_std": 1.774369239807129,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega Baxsk the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                30982,
+                3319,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 20,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.604999542236328,
+        "cur_std": 1.484486961364746,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega Bax cautious the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                30982,
+                31798,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 21,
+        "loss": 6.139999866485596,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 27.814998626708984,
+        "cur_std": 1.553485107421875,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega Vo cautious the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                15914,
+                31798,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 22,
+        "loss": 6.099999904632568,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.024999618530273,
+        "cur_std": 1.9183111190795898,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky input Schedule Omega Vo restrictions the park?",
+            "ids": [
+                22560,
+                3280,
+                32946,
+                48760,
+                15914,
+                13133,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 23,
+        "loss": 6.059999942779541,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.494998931884766,
+        "cur_std": 1.6469362258911133,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky inputthis Omega Vo restrictions the park?",
+            "ids": [
+                22560,
+                3280,
+                2520,
+                48760,
+                15914,
+                13133,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 24,
+        "loss": 6.179999828338623,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 31.03499984741211,
+        "cur_std": 1.8065572738647462,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky inputthis Omega Vo WHEN the park?",
+            "ids": [
+                22560,
+                3280,
+                2520,
+                48760,
+                15914,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 25,
+        "loss": 6.179999828338623,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 31.48499870300293,
+        "cur_std": 1.6191631317138673,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "aky inputthis Omega joined WHEN the park?",
+            "ids": [
+                22560,
+                3280,
+                2520,
+                48760,
+                7416,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 26,
+        "loss": 6.179999828338623,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 30.154998779296875,
+        "cur_std": 1.6742507934570312,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "akyovalthis Omega joined WHEN the park?",
+            "ids": [
+                22560,
+                19249,
+                2520,
+                48760,
+                7416,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 27,
+        "loss": 6.179999828338623,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 30.924999237060547,
+        "cur_std": 1.5858491897583007,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "akyovalthis Style joined WHEN the park?",
+            "ids": [
+                22560,
+                19249,
+                2520,
+                27417,
+                7416,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 28,
+        "loss": 6.239999771118164,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 33.98500061035156,
+        "cur_std": 1.6691566467285157,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "akyoval Mel Style joined WHEN the park?",
+            "ids": [
+                22560,
+                19249,
+                8359,
+                27417,
+                7416,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 29,
+        "loss": 6.179999828338623,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 32.36499786376953,
+        "cur_std": 1.6773574829101563,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "akyoval Mel307 joined WHEN the park?",
+            "ids": [
+                22560,
+                19249,
+                8359,
+                21645,
+                7416,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 30,
+        "loss": 6.159999847412109,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 30.16499900817871,
+        "cur_std": 1.5457510948181152,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "akyoval Mel307TES WHEN the park?",
+            "ids": [
+                22560,
+                19249,
+                8359,
+                21645,
+                47650,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 31,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.564998626708984,
+        "cur_std": 1.7287914276123046,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval Mel307TES WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                8359,
+                21645,
+                47650,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 32,
+        "loss": 6.099999904632568,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 27.91499900817871,
+        "cur_std": 1.5115222930908203,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval сп307TES WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                35671,
+                21645,
+                47650,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 33,
+        "loss": 6.099999904632568,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 26.974998474121094,
+        "cur_std": 1.5964034080505372,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval curve307TES WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                6970,
+                21645,
+                47650,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 34,
+        "loss": 6.199999809265137,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 30.125,
+        "cur_std": 1.6551630020141601,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval curve307 Thing WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                6970,
+                21645,
+                38104,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 35,
+        "loss": 6.139999866485596,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 31.474998474121094,
+        "cur_std": 1.6331689834594727,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval curve性 Thing WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                6970,
+                21734,
+                38104,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 36,
+        "loss": 6.159999847412109,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.16499900817871,
+        "cur_std": 1.4484588623046875,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval curveiber Thing WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                6970,
+                3669,
+                38104,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 37,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.764999389648438,
+        "cur_std": 1.7656293869018556,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval curveές Thing WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                6970,
+                34500,
+                38104,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 38,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 27.104999542236328,
+        "cur_std": 1.6027799606323243,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval curveExamples Thing WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                6970,
+                32896,
+                38104,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 39,
+        "loss": 6.059999942779541,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.16499900817871,
+        "cur_std": 1.6477571487426759,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval024Examples Thing WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                15798,
+                32896,
+                38104,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 40,
+        "loss": 6.059999942779541,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 25.135000228881836,
+        "cur_std": 1.5579522132873536,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discussoval024Examples750 WHEN the park?",
+            "ids": [
+                35844,
+                19249,
+                15798,
+                32896,
+                22330,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 41,
+        "loss": 6.059999942779541,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.46500015258789,
+        "cur_std": 1.6052511215209961,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discuss 414024Examples750 WHEN the park?",
+            "ids": [
+                35844,
+                36573,
+                15798,
+                32896,
+                22330,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 42,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.125,
+        "cur_std": 1.643434715270996,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discuss 414024 whence750 WHEN the park?",
+            "ids": [
+                35844,
+                36573,
+                15798,
+                40689,
+                22330,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 43,
+        "loss": 6.199999809265137,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.21500015258789,
+        "cur_std": 1.442242431640625,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discuss 414pressing whence750 WHEN the park?",
+            "ids": [
+                35844,
+                36573,
+                39385,
+                40689,
+                22330,
+                33181,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 44,
+        "loss": 6.199999809265137,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 31.55499839782715,
+        "cur_std": 1.5639062881469727,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "discuss 414pressing whence750 habits the park?",
+            "ids": [
+                35844,
+                36573,
+                39385,
+                40689,
+                22330,
+                16964,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 45,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.885000228881836,
+        "cur_std": 1.6226282119750977,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " зап 414pressing whence750 habits the park?",
+            "ids": [
+                40769,
+                36573,
+                39385,
+                40689,
+                22330,
+                16964,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 46,
+        "loss": 6.099999904632568,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 27.48499870300293,
+        "cur_std": 1.6425443649291993,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " зап 414pressing whence750 \n the park?",
+            "ids": [
+                40769,
+                36573,
+                39385,
+                40689,
+                22330,
+                2490,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 47,
+        "loss": 6.079999923706055,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 26.91499900817871,
+        "cur_std": 1.6526235580444335,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " зап 414pressing whence draws \n the park?",
+            "ids": [
+                40769,
+                36573,
+                39385,
+                40689,
+                21354,
+                2490,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 48,
+        "loss": 6.079999923706055,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.904998779296875,
+        "cur_std": 1.6429325103759767,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " зап 414 Night whence draws \n the park?",
+            "ids": [
+                40769,
+                36573,
+                12972,
+                40689,
+                21354,
+                2490,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 49,
+        "loss": 6.119999885559082,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 29.274999618530273,
+        "cur_std": 1.5749839782714843,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " зап 414 mentally whence draws \n the park?",
+            "ids": [
+                40769,
+                36573,
+                23198,
+                40689,
+                21354,
+                2490,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 50,
+        "loss": 6.079999923706055,
+        "best_loss": 6.039999961853027,
+        "best_kl": 23.939998626708984,
+        "best_std": 1.7067346572875977,
+        "cur_kl": 28.854999542236328,
+        "cur_std": 1.5519993782043457,
+        "orig_prompt": {
+            "text": "Generate a list of activities that can be done at the park.",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                4712,
+                326,
+                476,
+                320,
+                2218,
+                387,
+                253,
+                5603,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " зап 414 mentally whenceù \n the park?",
+            "ids": [
+                40769,
+                36573,
+                23198,
+                40689,
+                14096,
+                2490,
+                253,
+                5603,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -127.0
+    }
+]

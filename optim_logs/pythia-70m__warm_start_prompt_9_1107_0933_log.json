@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 6.679999828338623,
+        "best_loss": 6.679999828338623,
+        "best_kl": 48.48500061035156,
+        "best_std": 2.2136795043945314,
+        "cur_kl": 61.79999923706055,
+        "cur_std": 2.2629648208618165,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is the difference between Sixty and regular listening?",
+            "ids": [
+                1276,
+                310,
+                253,
+                3064,
+                875,
+                49954,
+                285,
+                3963,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 2,
+        "loss": 6.559999942779541,
+        "best_loss": 6.559999942779541,
+        "best_kl": 48.48500061035156,
+        "best_std": 2.2136795043945314,
+        "cur_kl": 54.91999816894531,
+        "cur_std": 2.012420082092285,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is Leone difference between Sixty and regular listening?",
+            "ids": [
+                1276,
+                310,
+                49771,
+                3064,
+                875,
+                49954,
+                285,
+                3963,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 3,
+        "loss": 6.579999923706055,
+        "best_loss": 6.559999942779541,
+        "best_kl": 37.47999954223633,
+        "best_std": 1.8973920822143555,
+        "cur_kl": 37.47999954223633,
+        "cur_std": 1.8973920822143555,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is Leone difference Po Sixty and regular listening?",
+            "ids": [
+                1276,
+                310,
+                49771,
+                3064,
+                8081,
+                49954,
+                285,
+                3963,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 4,
+        "loss": 6.319999694824219,
+        "best_loss": 6.319999694824219,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 30.760000228881836,
+        "cur_std": 1.73543701171875,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " varied is Leone difference Po Sixty and regular listening?",
+            "ids": [
+                12848,
+                310,
+                49771,
+                3064,
+                8081,
+                49954,
+                285,
+                3963,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 5,
+        "loss": 6.099999904632568,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 40.45000076293945,
+        "cur_std": 1.9074216842651368,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " varied is Leone difference Po Sixty and regular listening gravit",
+            "ids": [
+                12848,
+                310,
+                49771,
+                3064,
+                8081,
+                49954,
+                285,
+                3963,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 6,
+        "loss": 6.699999809265137,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 46.02000045776367,
+        "cur_std": 1.6807874679565429,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " varied is Leone differenceMb Sixty and regular listening gravit",
+            "ids": [
+                12848,
+                310,
+                49771,
+                3064,
+                48311,
+                49954,
+                285,
+                3963,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 7,
+        "loss": 6.539999961853027,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 46.959999084472656,
+        "cur_std": 1.8059341430664062,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " varied is Leone differenceMbthem and regular listening gravit",
+            "ids": [
+                12848,
+                310,
+                49771,
+                3064,
+                48311,
+                16083,
+                285,
+                3963,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 8,
+        "loss": 6.339999675750732,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 49.45000076293945,
+        "cur_std": 1.9515535354614257,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " varied is Leone differenceMbthem and conjugation listening gravit",
+            "ids": [
+                12848,
+                310,
+                49771,
+                3064,
+                48311,
+                16083,
+                285,
+                39778,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 9,
+        "loss": 6.739999771118164,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 60.459999084472656,
+        "cur_std": 2.344622993469238,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " calculated is Leone differenceMbthem and conjugation listening gravit",
+            "ids": [
+                5118,
+                310,
+                49771,
+                3064,
+                48311,
+                16083,
+                285,
+                39778,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 10,
+        "loss": 6.87999963760376,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 66.6500015258789,
+        "cur_std": 2.3807891845703124,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " calculated is.”). differenceMbthem and conjugation listening gravit",
+            "ids": [
+                5118,
+                310,
+                39537,
+                3064,
+                48311,
+                16083,
+                285,
+                39778,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -139.0
+    },
+    {
+        "epoch": 11,
+        "loss": 6.87999963760376,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 64.88999938964844,
+        "cur_std": 2.250247764587402,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " calculated is.”). differenceMbthem and laterally listening gravit",
+            "ids": [
+                5118,
+                310,
+                39537,
+                3064,
+                48311,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 12,
+        "loss": 6.639999866485596,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 64.54000091552734,
+        "cur_std": 2.0473398208618163,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " calculated is.”). difference nanocthem and laterally listening gravit",
+            "ids": [
+                5118,
+                310,
+                39537,
+                3064,
+                49942,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 13,
+        "loss": 6.71999979019165,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 58.06999969482422,
+        "cur_std": 1.879783821105957,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " calculatedween.”). difference nanocthem and laterally listening gravit",
+            "ids": [
+                5118,
+                855,
+                39537,
+                3064,
+                49942,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -141.0
+    },
+    {
+        "epoch": 14,
+        "loss": 6.619999885559082,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 53.78999710083008,
+        "cur_std": 1.9837366104125977,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Girlsween.”). difference nanocthem and laterally listening gravit",
+            "ids": [
+                26152,
+                855,
+                39537,
+                3064,
+                49942,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -139.0
+    },
+    {
+        "epoch": 15,
+        "loss": 6.940000057220459,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 52.93000030517578,
+        "cur_std": 1.8826831817626952,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Girlsorgetown.”). difference nanocthem and laterally listening gravit",
+            "ids": [
+                26152,
+                47052,
+                39537,
+                3064,
+                49942,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -145.0
+    },
+    {
+        "epoch": 16,
+        "loss": 6.759999752044678,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 48.93000030517578,
+        "cur_std": 1.818160629272461,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Girlsomal.”). difference nanocthem and laterally listening gravit",
+            "ids": [
+                26152,
+                7838,
+                39537,
+                3064,
+                49942,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -146.0
+    },
+    {
+        "epoch": 17,
+        "loss": 6.759999752044678,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 50.16999816894531,
+        "cur_std": 1.7175304412841796,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Girlsomal.”). difference EEthem and laterally listening gravit",
+            "ids": [
+                26152,
+                7838,
+                39537,
+                3064,
+                14939,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -144.0
+    },
+    {
+        "epoch": 18,
+        "loss": 6.37999963760376,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 47.939998626708984,
+        "cur_std": 1.9652444839477539,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ICTomal.”). difference EEthem and laterally listening gravit",
+            "ids": [
+                30152,
+                7838,
+                39537,
+                3064,
+                14939,
+                16083,
+                285,
+                47226,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 19,
+        "loss": 6.679999828338623,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 43.11000061035156,
+        "cur_std": 1.870931053161621,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ICTomal.”). difference EEthem and Rap listening gravit",
+            "ids": [
+                30152,
+                7838,
+                39537,
+                3064,
+                14939,
+                16083,
+                285,
+                17314,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 20,
+        "loss": 6.819999694824219,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 55.71999740600586,
+        "cur_std": 2.1329586029052736,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ICTomal.”). difference EEthemCommunity Rap listening gravit",
+            "ids": [
+                30152,
+                7838,
+                39537,
+                3064,
+                14939,
+                16083,
+                40645,
+                17314,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -140.0
+    },
+    {
+        "epoch": 21,
+        "loss": 6.440000057220459,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 49.5,
+        "cur_std": 1.7327213287353516,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ICTomal.”). difference EE TheseCommunity Rap listening gravit",
+            "ids": [
+                30152,
+                7838,
+                39537,
+                3064,
+                14939,
+                2053,
+                40645,
+                17314,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -147.0
+    },
+    {
+        "epoch": 22,
+        "loss": 6.759999752044678,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 47.5,
+        "cur_std": 2.0241720199584963,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ICTomal\"></ difference EE TheseCommunity Rap listening gravit",
+            "ids": [
+                30152,
+                7838,
+                6750,
+                3064,
+                14939,
+                2053,
+                40645,
+                17314,
+                11298,
+                15885
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -153.0
+    },
+    {
+        "epoch": 23,
+        "loss": 6.819999694824219,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 47.78999710083008,
+        "cur_std": 2.210274314880371,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ICTomal\"></ difference EE TheseCommunity Rap listening invited",
+            "ids": [
+                30152,
+                7838,
+                6750,
+                3064,
+                14939,
+                2053,
+                40645,
+                17314,
+                11298,
+                12470
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -145.0
+    },
+    {
+        "epoch": 24,
+        "loss": 6.399999618530273,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 49.06999969482422,
+        "cur_std": 2.338058280944824,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ICTomal\"></ difference EE TheseCommunity Strike listening invited",
+            "ids": [
+                30152,
+                7838,
+                6750,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                11298,
+                12470
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -141.0
+    },
+    {
+        "epoch": 25,
+        "loss": 6.319999694824219,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 42.61000061035156,
+        "cur_std": 2.0802534103393553,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " rapedomal\"></ difference EE TheseCommunity Strike listening invited",
+            "ids": [
+                34597,
+                7838,
+                6750,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                11298,
+                12470
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -144.0
+    },
+    {
+        "epoch": 26,
+        "loss": 6.359999656677246,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 43.97999954223633,
+        "cur_std": 1.755279541015625,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " rapedomal Tomorrow difference EE TheseCommunity Strike listening invited",
+            "ids": [
+                34597,
+                7838,
+                43475,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                11298,
+                12470
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 27,
+        "loss": 6.460000038146973,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 46.05999755859375,
+        "cur_std": 2.1574779510498048,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped genocide Tomorrow difference EE TheseCommunity Strike listening invited",
+            "ids": [
+                34597,
+                42604,
+                43475,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                11298,
+                12470
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 28,
+        "loss": 6.599999904632568,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 50.709999084472656,
+        "cur_std": 1.9803220748901367,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped genocide Tomorrow difference EE TheseCommunity Strikeih invited",
+            "ids": [
+                34597,
+                42604,
+                43475,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                6356,
+                12470
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 29,
+        "loss": 6.659999847412109,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 42.14999771118164,
+        "cur_std": 1.8836013793945312,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped genocide Tomorrow difference EE TheseCommunity Strikeih halo",
+            "ids": [
+                34597,
+                42604,
+                43475,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                6356,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 30,
+        "loss": 6.519999980926514,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 42.64999771118164,
+        "cur_std": 1.7629390716552735,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped genocide Tomorrow difference EE TheseCommunity Strike}-\\ halo",
+            "ids": [
+                34597,
+                42604,
+                43475,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                10780,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -140.0
+    },
+    {
+        "epoch": 31,
+        "loss": 6.319999694824219,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 40.38999938964844,
+        "cur_std": 1.7717704772949219,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped genocide Tomorrow difference EE TheseCommunity Strike electrical halo",
+            "ids": [
+                34597,
+                42604,
+                43475,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 32,
+        "loss": 6.37999963760376,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 38.34000015258789,
+        "cur_std": 1.9236549377441405,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped trap Tomorrow difference EE TheseCommunity Strike electrical halo",
+            "ids": [
+                34597,
+                15464,
+                43475,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 33,
+        "loss": 6.339999675750732,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 35.65999984741211,
+        "cur_std": 1.713595199584961,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped trap webs difference EE TheseCommunity Strike electrical halo",
+            "ids": [
+                34597,
+                15464,
+                3829,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -141.0
+    },
+    {
+        "epoch": 34,
+        "loss": 6.239999771118164,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 37.380001068115234,
+        "cur_std": 2.0167369842529297,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped trap comm difference EE TheseCommunity Strike electrical halo",
+            "ids": [
+                34597,
+                15464,
+                764,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -137.0
+    },
+    {
+        "epoch": 35,
+        "loss": 6.259999752044678,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 33.98999786376953,
+        "cur_std": 1.9344038009643554,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped trapproved difference EE TheseCommunity Strike electrical halo",
+            "ids": [
+                34597,
+                15464,
+                27369,
+                3064,
+                14939,
+                2053,
+                40645,
+                41054,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 36,
+        "loss": 6.259999752044678,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 36.80999755859375,
+        "cur_std": 1.7910943984985352,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped trapproved difference EE TheseCommunity circumstance electrical halo",
+            "ids": [
+                34597,
+                15464,
+                27369,
+                3064,
+                14939,
+                2053,
+                40645,
+                26741,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 37,
+        "loss": 6.420000076293945,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 37.34000015258789,
+        "cur_std": 1.710704231262207,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped trapproved difference Mach TheseCommunity circumstance electrical halo",
+            "ids": [
+                34597,
+                15464,
+                27369,
+                3064,
+                20310,
+                2053,
+                40645,
+                26741,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -140.0
+    },
+    {
+        "epoch": 38,
+        "loss": 6.339999675750732,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 35.98999786376953,
+        "cur_std": 1.7270570755004884,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " rapedseparatedproved difference Mach TheseCommunity circumstance electrical halo",
+            "ids": [
+                34597,
+                49741,
+                27369,
+                3064,
+                20310,
+                2053,
+                40645,
+                26741,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -147.0
+    },
+    {
+        "epoch": 39,
+        "loss": 6.480000019073486,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 35.82999801635742,
+        "cur_std": 1.717412567138672,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped Utahproved difference Mach TheseCommunity circumstance electrical halo",
+            "ids": [
+                34597,
+                18143,
+                27369,
+                3064,
+                20310,
+                2053,
+                40645,
+                26741,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -154.0
+    },
+    {
+        "epoch": 40,
+        "loss": 6.339999675750732,
+        "best_loss": 6.099999904632568,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 36.790000915527344,
+        "cur_std": 1.7607559204101562,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped Utahproved difference MachtraitsCommunity circumstance electrical halo",
+            "ids": [
+                34597,
+                18143,
+                27369,
+                3064,
+                20310,
+                32172,
+                40645,
+                26741,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -156.0
+    },
+    {
+        "epoch": 41,
+        "loss": 5.920000076293945,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 38.040000915527344,
+        "cur_std": 1.7470853805541993,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped Utahproved difference practicaltraitsCommunity circumstance electrical halo",
+            "ids": [
+                34597,
+                18143,
+                27369,
+                3064,
+                8542,
+                32172,
+                40645,
+                26741,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -147.0
+    },
+    {
+        "epoch": 42,
+        "loss": 6.079999923706055,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 38.38999938964844,
+        "cur_std": 1.7989276885986327,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped Utahproved difference practicaltraitsCommunityproved electrical halo",
+            "ids": [
+                34597,
+                18143,
+                27369,
+                3064,
+                8542,
+                32172,
+                40645,
+                27369,
+                8545,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -154.0
+    },
+    {
+        "epoch": 43,
+        "loss": 6.359999656677246,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 38.43000030517578,
+        "cur_std": 1.8557720184326172,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " raped Utahproved difference practicaltraitsCommunityproved Dou halo",
+            "ids": [
+                34597,
+                18143,
+                27369,
+                3064,
+                8542,
+                32172,
+                40645,
+                27369,
+                33115,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -170.0
+    },
+    {
+        "epoch": 44,
+        "loss": 6.059999942779541,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 38.369998931884766,
+        "cur_std": 1.875555419921875,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " lace Utahproved difference practicaltraitsCommunityproved Dou halo",
+            "ids": [
+                37878,
+                18143,
+                27369,
+                3064,
+                8542,
+                32172,
+                40645,
+                27369,
+                33115,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -152.0
+    },
+    {
+        "epoch": 45,
+        "loss": 6.359999656677246,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 44.7599983215332,
+        "cur_std": 2.1280292510986327,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rinos Utahproved difference practicaltraitsCommunityproved Dou halo",
+            "ids": [
+                34573,
+                18143,
+                27369,
+                3064,
+                8542,
+                32172,
+                40645,
+                27369,
+                33115,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -143.0
+    },
+    {
+        "epoch": 46,
+        "loss": 6.299999713897705,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 44.15999984741211,
+        "cur_std": 2.019387054443359,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rinos Utahproved difference phontraitsCommunityproved Dou halo",
+            "ids": [
+                34573,
+                18143,
+                27369,
+                3064,
+                20445,
+                32172,
+                40645,
+                27369,
+                33115,
+                20674
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -158.0
+    },
+    {
+        "epoch": 47,
+        "loss": 6.5,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 41.25,
+        "cur_std": 1.7166667938232423,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rinos Utahproved difference phontraitsCommunityproved Dou Ohio",
+            "ids": [
+                34573,
+                18143,
+                27369,
+                3064,
+                20445,
+                32172,
+                40645,
+                27369,
+                33115,
+                10128
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -166.0
+    },
+    {
+        "epoch": 48,
+        "loss": 6.259999752044678,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 36.80999755859375,
+        "cur_std": 1.8040748596191407,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rinos Initializeproved difference phontraitsCommunityproved Dou Ohio",
+            "ids": [
+                34573,
+                39504,
+                27369,
+                3064,
+                20445,
+                32172,
+                40645,
+                27369,
+                33115,
+                10128
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -161.0
+    },
+    {
+        "epoch": 49,
+        "loss": 6.259999752044678,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 42.41999816894531,
+        "cur_std": 1.9003549575805665,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rinos Initializeproved\"; phontraitsCommunityproved Dou Ohio",
+            "ids": [
+                34573,
+                39504,
+                27369,
+                3664,
+                20445,
+                32172,
+                40645,
+                27369,
+                33115,
+                10128
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -147.0
+    },
+    {
+        "epoch": 50,
+        "loss": 6.519999980926514,
+        "best_loss": 5.920000076293945,
+        "best_kl": 30.760000228881836,
+        "best_std": 1.73543701171875,
+        "cur_kl": 45.70000076293945,
+        "cur_std": 1.902125358581543,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rinos Initializeproved\"; phontraits Haproved Dou Ohio",
+            "ids": [
+                34573,
+                39504,
+                27369,
+                3664,
+                20445,
+                32172,
+                10664,
+                27369,
+                33115,
+                10128
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -144.0
+    }
+]

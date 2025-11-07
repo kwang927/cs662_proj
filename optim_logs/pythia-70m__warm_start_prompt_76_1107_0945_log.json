@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 6.139999866485596,
+        "best_loss": 6.139999866485596,
+        "best_kl": 38.34499740600586,
+        "best_std": 2.0473894119262694,
+        "cur_kl": 41.974998474121094,
+        "cur_std": 2.0810638427734376,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How can I aerate spe in my garden?",
+            "ids": [
+                2347,
+                476,
+                309,
+                247,
+                5034,
+                705,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 2,
+        "loss": 6.299999713897705,
+        "best_loss": 6.139999866485596,
+        "best_kl": 38.34499740600586,
+        "best_std": 2.0473894119262694,
+        "cur_kl": 41.125,
+        "cur_std": 2.138882064819336,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How can I aerate spe inoption garden?",
+            "ids": [
+                2347,
+                476,
+                309,
+                247,
+                5034,
+                705,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 3,
+        "loss": 6.279999732971191,
+        "best_loss": 6.139999866485596,
+        "best_kl": 35.05500030517578,
+        "best_std": 2.0172725677490235,
+        "cur_kl": 35.05500030517578,
+        "cur_std": 2.0172725677490235,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How 62 I aerate spe inoption garden?",
+            "ids": [
+                2347,
+                9743,
+                309,
+                247,
+                5034,
+                705,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 4,
+        "loss": 6.059999942779541,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 34.415000915527344,
+        "cur_std": 2.029604911804199,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 354 62 I aerate spe inoption garden?",
+            "ids": [
+                38614,
+                9743,
+                309,
+                247,
+                5034,
+                705,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 5,
+        "loss": 6.099999904632568,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 35.564998626708984,
+        "cur_std": 2.065256881713867,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 354 62 I aerate increase inoption garden?",
+            "ids": [
+                38614,
+                9743,
+                309,
+                247,
+                5034,
+                2572,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 6,
+        "loss": 6.179999828338623,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 36.314998626708984,
+        "cur_std": 1.7063554763793944,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 354 62 statistically aerate increase inoption garden?",
+            "ids": [
+                38614,
+                9743,
+                10126,
+                247,
+                5034,
+                2572,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 7,
+        "loss": 6.37999963760376,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 44.78499984741211,
+        "cur_std": 1.9538003921508789,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 354 sighed statistically aerate increase inoption garden?",
+            "ids": [
+                38614,
+                21374,
+                10126,
+                247,
+                5034,
+                2572,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 8,
+        "loss": 6.199999809265137,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 36.915000915527344,
+        "cur_std": 1.9932342529296876,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 354 sighed basket aerate increase inoption garden?",
+            "ids": [
+                38614,
+                21374,
+                11281,
+                247,
+                5034,
+                2572,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 9,
+        "loss": 6.399999618530273,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 36.55500030517578,
+        "cur_std": 2.194792938232422,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damned sighed basket aerate increase inoption garden?",
+            "ids": [
+                31833,
+                21374,
+                11281,
+                247,
+                5034,
+                2572,
+                275,
+                7872,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 10,
+        "loss": 6.21999979019165,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 41.04499816894531,
+        "cur_std": 2.095016860961914,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damned sighed basket aerate increase in Arsenal garden?",
+            "ids": [
+                31833,
+                21374,
+                11281,
+                247,
+                5034,
+                2572,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 11,
+        "loss": 6.319999694824219,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 39.084999084472656,
+        "cur_std": 1.9848041534423828,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damned sighed basket635erate increase in Arsenal garden?",
+            "ids": [
+                31833,
+                21374,
+                11281,
+                46480,
+                5034,
+                2572,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 12,
+        "loss": 6.239999771118164,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 43.64500045776367,
+        "cur_std": 2.080589485168457,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damned sighed basket sneerate increase in Arsenal garden?",
+            "ids": [
+                31833,
+                21374,
+                11281,
+                16037,
+                5034,
+                2572,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 13,
+        "loss": 6.339999675750732,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 42.71500015258789,
+        "cur_std": 1.9862438201904298,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damned sighed basket sneerateResource in Arsenal garden?",
+            "ids": [
+                31833,
+                21374,
+                11281,
+                16037,
+                5034,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 14,
+        "loss": 6.21999979019165,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 42.34499740600586,
+        "cur_std": 2.0472536087036133,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damnedonia basket sneerateResource in Arsenal garden?",
+            "ids": [
+                31833,
+                9409,
+                11281,
+                16037,
+                5034,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 15,
+        "loss": 6.099999904632568,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 37.994998931884766,
+        "cur_std": 2.1235631942749023,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damnedonia basket sne expressResource in Arsenal garden?",
+            "ids": [
+                31833,
+                9409,
+                11281,
+                16037,
+                3890,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 16,
+        "loss": 6.440000057220459,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 40.994998931884766,
+        "cur_std": 2.028963088989258,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damnedonia twins sne expressResource in Arsenal garden?",
+            "ids": [
+                31833,
+                9409,
+                26664,
+                16037,
+                3890,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 17,
+        "loss": 6.339999675750732,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 37.95499801635742,
+        "cur_std": 2.0721103668212892,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damnedonia twins sneakhResource in Arsenal garden?",
+            "ids": [
+                31833,
+                9409,
+                26664,
+                16037,
+                18980,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 18,
+        "loss": 6.199999809265137,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 41.59499740600586,
+        "cur_std": 1.9477220535278321,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damnedonia twins sne planResource in Arsenal garden?",
+            "ids": [
+                31833,
+                9409,
+                26664,
+                16037,
+                2098,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 19,
+        "loss": 6.079999923706055,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 37.584999084472656,
+        "cur_std": 1.9277093887329102,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " damnedonia twins sne vehiclesResource in Arsenal garden?",
+            "ids": [
+                31833,
+                9409,
+                26664,
+                16037,
+                9411,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 20,
+        "loss": 6.440000057220459,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 39.86499786376953,
+        "cur_std": 2.156348991394043,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " plantonia twins sne vehiclesResource in Arsenal garden?",
+            "ids": [
+                4444,
+                9409,
+                26664,
+                16037,
+                9411,
+                11133,
+                275,
+                33386,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 21,
+        "loss": 6.37999963760376,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 34.8849983215332,
+        "cur_std": 1.9557458877563476,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " plantonia twins sne vehiclesResource in ev garden?",
+            "ids": [
+                4444,
+                9409,
+                26664,
+                16037,
+                9411,
+                11133,
+                275,
+                612,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 22,
+        "loss": 6.139999866485596,
+        "best_loss": 6.059999942779541,
+        "best_kl": 34.415000915527344,
+        "best_std": 2.029604911804199,
+        "cur_kl": 36.375,
+        "cur_std": 2.2287195205688475,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " plantonia twins justification vehiclesResource in ev garden?",
+            "ids": [
+                4444,
+                9409,
+                26664,
+                22861,
+                9411,
+                11133,
+                275,
+                612,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 23,
+        "loss": 6.019999980926514,
+        "best_loss": 6.019999980926514,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 32.57500076293945,
+        "cur_std": 1.9940868377685548,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " plantonia twins justification vehiclesResource that ev garden?",
+            "ids": [
+                4444,
+                9409,
+                26664,
+                22861,
+                9411,
+                11133,
+                326,
+                612,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 24,
+        "loss": 5.699999809265137,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 35.494998931884766,
+        "cur_std": 2.045338439941406,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " plantonia twins justification vehiclesResource that ev habitat?",
+            "ids": [
+                4444,
+                9409,
+                26664,
+                22861,
+                9411,
+                11133,
+                326,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 25,
+        "loss": 6.079999923706055,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 37.915000915527344,
+        "cur_std": 2.1898418426513673,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ідonia twins justification vehiclesResource that ev habitat?",
+            "ids": [
+                44158,
+                9409,
+                26664,
+                22861,
+                9411,
+                11133,
+                326,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -139.0
+    },
+    {
+        "epoch": 26,
+        "loss": 6.019999980926514,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 34.834999084472656,
+        "cur_std": 1.9702466964721679,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "0115onia twins justification vehiclesResource that ev habitat?",
+            "ids": [
+                46744,
+                9409,
+                26664,
+                22861,
+                9411,
+                11133,
+                326,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 27,
+        "loss": 6.119999885559082,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 35.46500015258789,
+        "cur_std": 2.1085596084594727,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "0115onia twins justification vehiclesper that ev habitat?",
+            "ids": [
+                46744,
+                9409,
+                26664,
+                22861,
+                9411,
+                468,
+                326,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 28,
+        "loss": 5.87999963760376,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 37.1349983215332,
+        "cur_std": 2.0774263381958007,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins justification vehiclesper that ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                22861,
+                9411,
+                468,
+                326,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 29,
+        "loss": 6.079999923706055,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 37.79499816894531,
+        "cur_std": 2.135866165161133,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins justification vehiclesperurns ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                22861,
+                9411,
+                468,
+                10029,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -135.0
+    },
+    {
+        "epoch": 30,
+        "loss": 6.179999828338623,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 35.95499801635742,
+        "cur_std": 2.0968963623046877,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins justification vehiclesperPartition ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                22861,
+                9411,
+                468,
+                48810,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 31,
+        "loss": 6.179999828338623,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 37.79499816894531,
+        "cur_std": 2.1508995056152345,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins justificationxicoperPartition ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                22861,
+                46591,
+                468,
+                48810,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 32,
+        "loss": 5.839999675750732,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 36.55500030517578,
+        "cur_std": 2.1010446548461914,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins justificationteleperPartition ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                22861,
+                29777,
+                468,
+                48810,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 33,
+        "loss": 6.179999828338623,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 39.20499801635742,
+        "cur_std": 2.0286842346191407,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins ConsideringteleperPartition ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                24258,
+                29777,
+                468,
+                48810,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 34,
+        "loss": 5.960000038146973,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 40.27499771118164,
+        "cur_std": 2.09305477142334,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins Consideringteleperort ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                24258,
+                29777,
+                468,
+                430,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 35,
+        "loss": 6.21999979019165,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 38.32500076293945,
+        "cur_std": 2.123716354370117,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "leionia twins Consideringursedperort ev habitat?",
+            "ids": [
+                42157,
+                9409,
+                26664,
+                24258,
+                43376,
+                468,
+                430,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 36,
+        "loss": 6.159999847412109,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 41.26499938964844,
+        "cur_std": 1.924489402770996,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei JavaScript twins Consideringursedperort ev habitat?",
+            "ids": [
+                42157,
+                16872,
+                26664,
+                24258,
+                43376,
+                468,
+                430,
+                612,
+                20571,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -139.0
+    },
+    {
+        "epoch": 37,
+        "loss": 6.119999885559082,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 45.52499771118164,
+        "cur_std": 2.184603691101074,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei JavaScript twins Consideringursedperort ev395?",
+            "ids": [
+                42157,
+                16872,
+                26664,
+                24258,
+                43376,
+                468,
+                430,
+                612,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 38,
+        "loss": 6.339999675750732,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 46.86499786376953,
+        "cur_std": 2.081142616271973,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterial twins Consideringursedperort ev395?",
+            "ids": [
+                42157,
+                10741,
+                26664,
+                24258,
+                43376,
+                468,
+                430,
+                612,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -148.0
+    },
+    {
+        "epoch": 39,
+        "loss": 6.079999923706055,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 37.654998779296875,
+        "cur_std": 2.137716865539551,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpen Consideringursedperort ev395?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                24258,
+                43376,
+                468,
+                430,
+                612,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 40,
+        "loss": 6.159999847412109,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 41.53499984741211,
+        "cur_std": 2.1801591873168946,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpen Consideringursedperort worried395?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                24258,
+                43376,
+                468,
+                430,
+                11926,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -139.0
+    },
+    {
+        "epoch": 41,
+        "loss": 6.319999694824219,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 37.404998779296875,
+        "cur_std": 2.132761573791504,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpengrursedperort worried395?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                737,
+                43376,
+                468,
+                430,
+                11926,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -139.0
+    },
+    {
+        "epoch": 42,
+        "loss": 6.319999694824219,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 35.724998474121094,
+        "cur_std": 1.8727359771728516,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpengrnéeperort worried395?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                737,
+                46117,
+                468,
+                430,
+                11926,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 43,
+        "loss": 6.259999752044678,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 37.154998779296875,
+        "cur_std": 1.9063913345336914,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpengrnéeperort Peters395?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                737,
+                46117,
+                468,
+                430,
+                15370,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 44,
+        "loss": 6.279999732971191,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 40.564998626708984,
+        "cur_std": 1.8473930358886719,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpengrnéeperort infected395?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                737,
+                46117,
+                468,
+                430,
+                9813,
+                20216,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 45,
+        "loss": 6.21999979019165,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 38.04499816894531,
+        "cur_std": 1.8188699722290038,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpengrnéeperort infected 150?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                737,
+                46117,
+                468,
+                430,
+                9813,
+                7783,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 46,
+        "loss": 6.420000076293945,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 35.80500030517578,
+        "cur_std": 1.9889707565307617,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterialpengrnéeperort� 150?",
+            "ids": [
+                42157,
+                10741,
+                3878,
+                737,
+                46117,
+                468,
+                430,
+                23956,
+                7783,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 47,
+        "loss": 6.039999961853027,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 50.51499938964844,
+        "cur_std": 2.219466972351074,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterial mêmegrnéeperort� 150?",
+            "ids": [
+                42157,
+                10741,
+                21969,
+                737,
+                46117,
+                468,
+                430,
+                23956,
+                7783,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -151.0
+    },
+    {
+        "epoch": 48,
+        "loss": 6.259999752044678,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 41.43499755859375,
+        "cur_std": 2.0425853729248047,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterial mêmegr applperort� 150?",
+            "ids": [
+                42157,
+                10741,
+                21969,
+                737,
+                2999,
+                468,
+                430,
+                23956,
+                7783,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -150.0
+    },
+    {
+        "epoch": 49,
+        "loss": 6.37999963760376,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 36.974998474121094,
+        "cur_std": 1.9926933288574218,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterial mêmegr applperort� sucking?",
+            "ids": [
+                42157,
+                10741,
+                21969,
+                737,
+                2999,
+                468,
+                430,
+                23956,
+                42296,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -160.0
+    },
+    {
+        "epoch": 50,
+        "loss": 6.179999828338623,
+        "best_loss": 5.699999809265137,
+        "best_kl": 32.57500076293945,
+        "best_std": 1.9940868377685548,
+        "cur_kl": 38.02499771118164,
+        "cur_std": 1.9295467376708983,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "lei bacterial mêmegr applperort� bones?",
+            "ids": [
+                42157,
+                10741,
+                21969,
+                737,
+                2999,
+                468,
+                430,
+                23956,
+                14910,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -160.0
+    }
+]
