@@ -1,0 +1,2102 @@
+[
+    {
+        "epoch": 1,
+        "loss": 4.197499752044678,
+        "best_loss": 4.197499752044678,
+        "best_kl": 4.525000095367432,
+        "best_std": 0.34767444133758546,
+        "cur_kl": 4.525000095367432,
+        "cur_std": 0.34767444133758546,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "What are some differences between cats and dogs]\\]).",
+            "ids": [
+                1276,
+                403,
+                690,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -47.25
+    },
+    {
+        "epoch": 2,
+        "loss": 4.190000057220459,
+        "best_loss": 4.190000057220459,
+        "best_kl": 4.230000019073486,
+        "best_std": 0.32840447425842284,
+        "cur_kl": 4.230000019073486,
+        "cur_std": 0.32840447425842284,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "What are some differencesidy cats and dogs]\\]).",
+            "ids": [
+                1276,
+                403,
+                690,
+                3910,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 3,
+        "loss": 4.177499771118164,
+        "best_loss": 4.177499771118164,
+        "best_kl": 3.7899999618530273,
+        "best_std": 0.3024462699890137,
+        "cur_kl": 3.7899999618530273,
+        "cur_std": 0.3024462699890137,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "b are some differencesidy cats and dogs]\\]).",
+            "ids": [
+                67,
+                403,
+                690,
+                3910,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 4,
+        "loss": 4.179999828338623,
+        "best_loss": 4.177499771118164,
+        "best_kl": 3.7749998569488525,
+        "best_std": 0.308906102180481,
+        "cur_kl": 3.7749998569488525,
+        "cur_std": 0.308906102180481,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "b are art differencesidy cats and dogs]\\]).",
+            "ids": [
+                67,
+                403,
+                1445,
+                3910,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 5,
+        "loss": 4.174999713897705,
+        "best_loss": 4.174999713897705,
+        "best_kl": 3.5950000286102295,
+        "best_std": 0.3089322805404663,
+        "cur_kl": 3.5950000286102295,
+        "cur_std": 0.3089322805404663,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "b are artFLidy cats and dogs]\\]).",
+            "ids": [
+                67,
+                403,
+                1445,
+                4639,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 6,
+        "loss": 4.174999713897705,
+        "best_loss": 4.174999713897705,
+        "best_kl": 3.5950000286102295,
+        "best_std": 0.3089322805404663,
+        "cur_kl": 3.619999885559082,
+        "cur_std": 0.297559118270874,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " position are artFLidy cats and dogs]\\]).",
+            "ids": [
+                1899,
+                403,
+                1445,
+                4639,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 7,
+        "loss": 4.162499904632568,
+        "best_loss": 4.162499904632568,
+        "best_kl": 3.3999998569488525,
+        "best_std": 0.317184591293335,
+        "cur_kl": 3.3999998569488525,
+        "cur_std": 0.317184591293335,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " position are artertaidy cats and dogs]\\]).",
+            "ids": [
+                1899,
+                403,
+                1445,
+                35327,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 8,
+        "loss": 4.15749979019165,
+        "best_loss": 4.15749979019165,
+        "best_kl": 3.0799999237060547,
+        "best_std": 0.2945395469665527,
+        "cur_kl": 3.0799999237060547,
+        "cur_std": 0.2945395469665527,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- are artertaidy cats and dogs]\\]).",
+            "ids": [
+                14,
+                403,
+                1445,
+                35327,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 9,
+        "loss": 4.159999847412109,
+        "best_loss": 4.15749979019165,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 2.9549999237060547,
+        "cur_std": 0.2739622354507446,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- are容ertaidy cats and dogs]\\]).",
+            "ids": [
+                14,
+                403,
+                41683,
+                35327,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 10,
+        "loss": 4.15749979019165,
+        "best_loss": 4.15749979019165,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.0999999046325684,
+        "cur_std": 0.27238194942474364,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- areclickertaidy cats and dogs]\\]).",
+            "ids": [
+                14,
+                403,
+                9738,
+                35327,
+                36706,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 11,
+        "loss": 4.162499904632568,
+        "best_loss": 4.15749979019165,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.5850000381469727,
+        "cur_std": 0.28382799625396726,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- areclickerta presentations cats and dogs]\\]).",
+            "ids": [
+                14,
+                403,
+                9738,
+                35327,
+                27228,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 12,
+        "loss": 4.162499904632568,
+        "best_loss": 4.15749979019165,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.119999885559082,
+        "cur_std": 0.2863141059875488,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- are tonserta presentations cats and dogs]\\]).",
+            "ids": [
+                14,
+                403,
+                16298,
+                35327,
+                27228,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 13,
+        "loss": 4.150000095367432,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.1499998569488525,
+        "cur_std": 0.29054980278015136,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- are tonspie presentations cats and dogs]\\]).",
+            "ids": [
+                14,
+                403,
+                16298,
+                10448,
+                27228,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 14,
+        "loss": 4.15749979019165,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.569999933242798,
+        "cur_std": 0.3050103664398193,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- are tons Liberty presentations cats and dogs]\\]).",
+            "ids": [
+                14,
+                403,
+                16298,
+                23583,
+                27228,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 15,
+        "loss": 4.172500133514404,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.619999885559082,
+        "cur_std": 0.3185446739196777,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Table are tons Liberty presentations cats and dogs]\\]).",
+            "ids": [
+                3235,
+                403,
+                16298,
+                23583,
+                27228,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 16,
+        "loss": 4.170000076293945,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.3550000190734863,
+        "cur_std": 0.31744682788848877,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Table are tons Liberty companion cats and dogs]\\]).",
+            "ids": [
+                3235,
+                403,
+                16298,
+                23583,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 17,
+        "loss": 4.174999713897705,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.06499981880188,
+        "cur_std": 0.2836143970489502,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Table are tons ordinarily companion cats and dogs]\\]).",
+            "ids": [
+                3235,
+                403,
+                16298,
+                36165,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 18,
+        "loss": 4.174999713897705,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.1999998092651367,
+        "cur_std": 0.3,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " 107 are tons ordinarily companion cats and dogs]\\]).",
+            "ids": [
+                14034,
+                403,
+                16298,
+                36165,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 19,
+        "loss": 4.177499771118164,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.8550000190734863,
+        "cur_std": 0.3419562578201294,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " 107 are tons creating companion cats and dogs]\\]).",
+            "ids": [
+                14034,
+                403,
+                16298,
+                6153,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 20,
+        "loss": 4.154999732971191,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.1999998092651367,
+        "cur_std": 0.3223180055618286,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An are tons creating companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                403,
+                16298,
+                6153,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 21,
+        "loss": 4.152499675750732,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.4049999713897705,
+        "cur_std": 0.30081498622894287,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An+ tons creating companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                12,
+                16298,
+                6153,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 22,
+        "loss": 4.150000095367432,
+        "best_loss": 4.150000095367432,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.319999933242798,
+        "cur_std": 0.32933359146118163,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " AnLLY tons creating companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                46720,
+                16298,
+                6153,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 23,
+        "loss": 4.147500038146973,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.2149999141693115,
+        "cur_std": 0.33342838287353516,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " AnLLY tons ins companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                46720,
+                16298,
+                1210,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 24,
+        "loss": 4.154999732971191,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 2.990000009536743,
+        "cur_std": 0.3006709814071655,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " AnCurrently tons ins companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                26747,
+                16298,
+                1210,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 25,
+        "loss": 4.152499675750732,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.4049999713897705,
+        "cur_std": 0.3212738990783691,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An Really tons ins companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                24744,
+                16298,
+                1210,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 26,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.18999981880188,
+        "cur_std": 0.2942873477935791,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An ReallyRes ins companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                24744,
+                2632,
+                1210,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 27,
+        "loss": 4.150000095367432,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.18999981880188,
+        "cur_std": 0.2857543706893921,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An Really tags ins companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                24744,
+                14610,
+                1210,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 28,
+        "loss": 4.162499904632568,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.794999837875366,
+        "cur_std": 0.344663143157959,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An Arts tags ins companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                15118,
+                14610,
+                1210,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 29,
+        "loss": 4.167500019073486,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.7249999046325684,
+        "cur_std": 0.32077674865722655,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An Arts tags650 companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                15118,
+                14610,
+                31036,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 30,
+        "loss": 4.170000076293945,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.509999990463257,
+        "cur_std": 0.33461723327636717,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " An Arts Will650 companion cats and dogs]\\]).",
+            "ids": [
+                743,
+                15118,
+                7395,
+                31036,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 31,
+        "loss": 4.164999961853027,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.4800000190734863,
+        "cur_std": 0.3063239574432373,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " speed Arts Will650 companion cats and dogs]\\]).",
+            "ids": [
+                3885,
+                15118,
+                7395,
+                31036,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 32,
+        "loss": 4.164999961853027,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.309999942779541,
+        "cur_std": 0.31380524635314944,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too Arts Will650 companion cats and dogs]\\]).",
+            "ids": [
+                21994,
+                15118,
+                7395,
+                31036,
+                16866,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 33,
+        "loss": 4.162499904632568,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.359999895095825,
+        "cur_std": 0.32279400825500487,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too Arts Will650 combine cats and dogs]\\]).",
+            "ids": [
+                21994,
+                15118,
+                7395,
+                31036,
+                13398,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 34,
+        "loss": 4.162499904632568,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.299999952316284,
+        "cur_std": 0.30550503730773926,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too ArtsChecked650 combine cats and dogs]\\]).",
+            "ids": [
+                21994,
+                15118,
+                40077,
+                31036,
+                13398,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 35,
+        "loss": 4.154999732971191,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.9549999237060547,
+        "best_std": 0.2739622354507446,
+        "cur_kl": 3.18999981880188,
+        "cur_std": 0.2836255311965942,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " ToorazChecked650 combine cats and dogs]\\]).",
+            "ids": [
+                21994,
+                5744,
+                40077,
+                31036,
+                13398,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 36,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 2.8399999141693115,
+        "cur_std": 0.2832780838012695,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " ToorazChecked650 leather cats and dogs]\\]).",
+            "ids": [
+                21994,
+                5744,
+                40077,
+                31036,
+                16269,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 37,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.234999895095825,
+        "cur_std": 0.29953291416168215,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " ToorazCheckedashington leather cats and dogs]\\]).",
+            "ids": [
+                21994,
+                5744,
+                40077,
+                4664,
+                16269,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 38,
+        "loss": 4.152499675750732,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.554999828338623,
+        "cur_std": 0.2970303535461426,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too finallyCheckedashington leather cats and dogs]\\]).",
+            "ids": [
+                21994,
+                4720,
+                40077,
+                4664,
+                16269,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 39,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.2200000286102295,
+        "cur_std": 0.28914015293121337,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too finallyChecked teach leather cats and dogs]\\]).",
+            "ids": [
+                21994,
+                4720,
+                40077,
+                9798,
+                16269,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 40,
+        "loss": 4.159999847412109,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.3499999046325684,
+        "cur_std": 0.3000420808792114,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too finallyCheckedbig leather cats and dogs]\\]).",
+            "ids": [
+                21994,
+                4720,
+                40077,
+                2760,
+                16269,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 41,
+        "loss": 4.154999732971191,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.5,
+        "cur_std": 0.2912009239196777,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too finallyChecked thrilled leather cats and dogs]\\]).",
+            "ids": [
+                21994,
+                4720,
+                40077,
+                30607,
+                16269,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 42,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.419999837875366,
+        "cur_std": 0.28254971504211424,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too finallyChecked thrilled677 cats and dogs]\\]).",
+            "ids": [
+                21994,
+                4720,
+                40077,
+                30607,
+                30311,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 43,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.25,
+        "cur_std": 0.28342247009277344,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " Too finallyChecked thrilledving cats and dogs]\\]).",
+            "ids": [
+                21994,
+                4720,
+                40077,
+                30607,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 44,
+        "loss": 4.150000095367432,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.1399998664855957,
+        "cur_std": 0.287103271484375,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " frankly finallyChecked thrilledving cats and dogs]\\]).",
+            "ids": [
+                29708,
+                4720,
+                40077,
+                30607,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 45,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.3299999237060547,
+        "cur_std": 0.26923198699951173,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " frankly finallyCheckedbgving cats and dogs]\\]).",
+            "ids": [
+                29708,
+                4720,
+                40077,
+                17424,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 46,
+        "loss": 4.15749979019165,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.2249999046325684,
+        "cur_std": 0.3008720397949219,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " frankly finallyChecked ifving cats and dogs]\\]).",
+            "ids": [
+                29708,
+                4720,
+                40077,
+                604,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 47,
+        "loss": 4.152499675750732,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.129999876022339,
+        "cur_std": 0.28785343170166017,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "claimer finallyChecked ifving cats and dogs]\\]).",
+            "ids": [
+                34837,
+                4720,
+                40077,
+                604,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 48,
+        "loss": 4.154999732971191,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.044999837875366,
+        "cur_std": 0.30360586643218995,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "claimer finallypped ifving cats and dogs]\\]).",
+            "ids": [
+                34837,
+                4720,
+                1882,
+                604,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 49,
+        "loss": 4.150000095367432,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 2.9549999237060547,
+        "cur_std": 0.30476808547973633,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "claimer finally allow ifving cats and dogs]\\]).",
+            "ids": [
+                34837,
+                4720,
+                1581,
+                604,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 50,
+        "loss": 4.154999732971191,
+        "best_loss": 4.147500038146973,
+        "best_kl": 2.8399999141693115,
+        "best_std": 0.2832780838012695,
+        "cur_kl": 3.125,
+        "cur_std": 0.29071271419525146,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "claimerfected allow ifving cats and dogs]\\]).",
+            "ids": [
+                34837,
+                5925,
+                1581,
+                604,
+                1382,
+                16581,
+                285,
+                9097,
+                34494
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    }
+]

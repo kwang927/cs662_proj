@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.817499876022339,
+        "best_loss": 3.817499876022339,
+        "best_kl": 3.7200000286102295,
+        "best_std": 0.31593377590179444,
+        "cur_kl": 3.7699999809265137,
+        "cur_std": 0.3292492151260376,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Cancompat suggest a unique weekend vacation spot?",
+            "ids": [
+                5804,
+                38659,
+                1804,
+                247,
+                4451,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.8249998092651367,
+        "best_loss": 3.817499876022339,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32715911865234376,
+        "cur_kl": 3.7149999141693115,
+        "cur_std": 0.32715911865234376,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "porcompat suggest a unique weekend vacation spot?",
+            "ids": [
+                1831,
+                38659,
+                1804,
+                247,
+                4451,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.8299999237060547,
+        "best_loss": 3.817499876022339,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32715911865234376,
+        "cur_kl": 4.039999961853027,
+        "cur_std": 0.3308757781982422,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "poropropyl suggest a unique weekend vacation spot?",
+            "ids": [
+                1831,
+                39059,
+                1804,
+                247,
+                4451,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.8249998092651367,
+        "best_loss": 3.817499876022339,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32715911865234376,
+        "cur_kl": 3.8249998092651367,
+        "cur_std": 0.3214059352874756,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "porOr suggest a unique weekend vacation spot?",
+            "ids": [
+                1831,
+                3980,
+                1804,
+                247,
+                4451,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.817499876022339,
+        "best_loss": 3.817499876022339,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32715911865234376,
+        "cur_kl": 4.204999923706055,
+        "cur_std": 0.3054302215576172,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " partitioningOr suggest a unique weekend vacation spot?",
+            "ids": [
+                41463,
+                3980,
+                1804,
+                247,
+                4451,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -57.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.8125,
+        "best_loss": 3.8125,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32715911865234376,
+        "cur_kl": 3.7799999713897705,
+        "cur_std": 0.3127202272415161,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " partitioning but suggest a unique weekend vacation spot?",
+            "ids": [
+                41463,
+                533,
+                1804,
+                247,
+                4451,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -52.75
+    },
+    {
+        "epoch": 7,
+        "loss": 3.819999933242798,
+        "best_loss": 3.8125,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32715911865234376,
+        "cur_kl": 4.230000019073486,
+        "cur_std": 0.3023828029632568,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " partitioning butpled a unique weekend vacation spot?",
+            "ids": [
+                41463,
+                533,
+                6216,
+                247,
+                4451,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.819999933242798,
+        "best_loss": 3.8125,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32715911865234376,
+        "cur_kl": 4.029999732971191,
+        "cur_std": 0.29702396392822267,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " partitioning butpled a planning weekend vacation spot?",
+            "ids": [
+                41463,
+                533,
+                6216,
+                247,
+                7219,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.817499876022339,
+        "best_loss": 3.8125,
+        "best_kl": 3.684999942779541,
+        "best_std": 0.295817232131958,
+        "cur_kl": 3.684999942779541,
+        "cur_std": 0.295817232131958,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "local butpled a planning weekend vacation spot?",
+            "ids": [
+                6790,
+                533,
+                6216,
+                247,
+                7219,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.809999942779541,
+        "best_loss": 3.809999942779541,
+        "best_kl": 3.490000009536743,
+        "best_std": 0.2819466829299927,
+        "cur_kl": 3.490000009536743,
+        "cur_std": 0.2819466829299927,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "local but recommends a planning weekend vacation spot?",
+            "ids": [
+                6790,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.804999828338623,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 2.934999942779541,
+        "cur_std": 0.2929004430770874,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Guest but recommends a planning weekend vacation spot?",
+            "ids": [
+                34933,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                6308,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.809999942779541,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.379999876022339,
+        "cur_std": 0.2980678558349609,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Guest but recommends a planning weekend vacation slot?",
+            "ids": [
+                34933,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.804999828338623,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.379999876022339,
+        "cur_std": 0.2643001079559326,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Island but recommends a planning weekend vacation slot?",
+            "ids": [
+                8451,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.809999942779541,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.569999933242798,
+        "cur_std": 0.27145512104034425,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Known but recommends a planning weekend vacation slot?",
+            "ids": [
+                41570,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.8299999237060547,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.6999998092651367,
+        "cur_std": 0.2790677070617676,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ρα but recommends a planning weekend vacation slot?",
+            "ids": [
+                17946,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.81499981880188,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.7249999046325684,
+        "cur_std": 0.27463245391845703,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "unnel but recommends a planning weekend vacation slot?",
+            "ids": [
+                35989,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.804999828338623,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.6649999618530273,
+        "cur_std": 0.30201804637908936,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " convenient but recommends a planning weekend vacation slot?",
+            "ids": [
+                11638,
+                533,
+                32636,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.81499981880188,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.93999981880188,
+        "cur_std": 0.3042858839035034,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " convenient butetch a planning weekend vacation slot?",
+            "ids": [
+                11638,
+                533,
+                11429,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.822499990463257,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 4.5,
+        "cur_std": 0.3142250537872314,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " convenientUWetch a planning weekend vacation slot?",
+            "ids": [
+                11638,
+                47370,
+                11429,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.817499876022339,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 4.034999847412109,
+        "cur_std": 0.2959537744522095,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " fartherUWetch a planning weekend vacation slot?",
+            "ids": [
+                21816,
+                47370,
+                11429,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.8125,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.2100000381469727,
+        "cur_std": 0.2840169906616211,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " fartherUWetch a planning weekend vacation slot!).",
+            "ids": [
+                21816,
+                47370,
+                11429,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.807499885559082,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.31499981880188,
+        "cur_std": 0.2851240158081055,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " fartherUWfinding a planning weekend vacation slot!).",
+            "ids": [
+                21816,
+                47370,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                15239,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.804999828338623,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.2300000190734863,
+        "cur_std": 0.2729764938354492,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " fartherUWfinding a planning weekend vacation Place!).",
+            "ids": [
+                21816,
+                47370,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.804999828338623,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.049999952316284,
+        "cur_std": 0.27629401683807375,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "oUWfinding a planning weekend vacation Place!).",
+            "ids": [
+                80,
+                47370,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.817499876022339,
+        "best_loss": 3.804999828338623,
+        "best_kl": 2.934999942779541,
+        "best_std": 0.2929004430770874,
+        "cur_kl": 3.1449999809265137,
+        "cur_std": 0.2645078420639038,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " presentationUWfinding a planning weekend vacation Place!).",
+            "ids": [
+                9759,
+                47370,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.794999837875366,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 2.8949999809265137,
+        "cur_std": 0.26820533275604247,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "SHUWfinding a planning weekend vacation Place!).",
+            "ids": [
+                5648,
+                47370,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.799999952316284,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 3.56499981880188,
+        "cur_std": 0.2635858774185181,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "MethodsUWfinding a planning weekend vacation Place!).",
+            "ids": [
+                15568,
+                47370,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.804999828338623,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 3.5249998569488525,
+        "cur_std": 0.27444846630096437,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "MethodsWalkfinding a planning weekend vacation Place!).",
+            "ids": [
+                15568,
+                29300,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.797499895095825,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 3.0999999046325684,
+        "cur_std": 0.26400184631347656,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "OrWalkfinding a planning weekend vacation Place!).",
+            "ids": [
+                3980,
+                29300,
+                28983,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.794999837875366,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 2.8949999809265137,
+        "cur_std": 0.2637429714202881,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "OrWalk start a planning weekend vacation Place!).",
+            "ids": [
+                3980,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.794999837875366,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 2.929999828338623,
+        "cur_std": 0.2694007635116577,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "DenWalk start a planning weekend vacation Place!).",
+            "ids": [
+                20990,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                13470,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.799999952316284,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 3.075000047683716,
+        "cur_std": 0.2679302453994751,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "DenWalk start a planning weekend vacation time!).",
+            "ids": [
+                20990,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                673,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.799999952316284,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8949999809265137,
+        "best_std": 0.26820533275604247,
+        "cur_kl": 2.924999952316284,
+        "cur_std": 0.2668914794921875,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "DenWalk start a planning weekend vacation stand!).",
+            "ids": [
+                20990,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.802500009536743,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 2.8899998664855957,
+        "cur_std": 0.28083391189575196,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "atisfWalk start a planning weekend vacation stand!).",
+            "ids": [
+                16412,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.8125,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.4499998092651367,
+        "cur_std": 0.290984058380127,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "MostWalk start a planning weekend vacation stand!).",
+            "ids": [
+                10342,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.804999828338623,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.294999837875366,
+        "cur_std": 0.29653682708740237,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "户Walk start a planning weekend vacation stand!).",
+            "ids": [
+                46136,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.807499885559082,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 2.9800000190734863,
+        "cur_std": 0.29762697219848633,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " decentWalk start a planning weekend vacation stand!).",
+            "ids": [
+                12524,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.804999828338623,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.304999828338623,
+        "cur_std": 0.2922306299209595,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "HandWalk start a planning weekend vacation stand!).",
+            "ids": [
+                6288,
+                29300,
+                1265,
+                247,
+                7219,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.799999952316284,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.1449999809265137,
+        "cur_std": 0.2839383125305176,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "HandWalk start a recommended weekend vacation stand!).",
+            "ids": [
+                6288,
+                29300,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.802500009536743,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.2200000286102295,
+        "cur_std": 0.2741672515869141,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Handtext start a recommended weekend vacation stand!).",
+            "ids": [
+                6288,
+                1156,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.804999828338623,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 2.9749999046325684,
+        "cur_std": 0.2752753496170044,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Hoptext start a recommended weekend vacation stand!).",
+            "ids": [
+                16890,
+                1156,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.802500009536743,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.054999828338623,
+        "cur_std": 0.27135043144226073,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "foresttext start a recommended weekend vacation stand!).",
+            "ids": [
+                38250,
+                1156,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                1462,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.807499885559082,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.2300000190734863,
+        "cur_std": 0.28616411685943605,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "foresttext start a recommended weekend vacation Exper!).",
+            "ids": [
+                38250,
+                1156,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                10337,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.804999828338623,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.31499981880188,
+        "cur_std": 0.2717930555343628,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "foresttext start a recommended weekend vacation24!).",
+            "ids": [
+                38250,
+                1156,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                1348,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.804999828338623,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.384999990463257,
+        "cur_std": 0.306977367401123,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "forest Rise start a recommended weekend vacation24!).",
+            "ids": [
+                38250,
+                39952,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                1348,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.807499885559082,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.294999837875366,
+        "cur_std": 0.2948287487030029,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "forest Rise start a recommended weekend vacationools!).",
+            "ids": [
+                38250,
+                39952,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                23699,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.8125,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.5,
+        "cur_std": 0.2736768007278442,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "forestBuild start a recommended weekend vacationools!).",
+            "ids": [
+                38250,
+                10987,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                23699,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.807499885559082,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.115000009536743,
+        "cur_std": 0.27513587474823,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "forest attract start a recommended weekend vacationools!).",
+            "ids": [
+                38250,
+                6427,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                23699,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.8125,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.379999876022339,
+        "cur_std": 0.28374481201171875,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "forestMary start a recommended weekend vacationools!).",
+            "ids": [
+                38250,
+                25000,
+                1265,
+                247,
+                8521,
+                8849,
+                18125,
+                23699,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.804999828338623,
+        "best_loss": 3.794999837875366,
+        "best_kl": 2.8899998664855957,
+        "best_std": 0.28083391189575196,
+        "cur_kl": 3.1449999809265137,
+        "cur_std": 0.2931279420852661,
+        "orig_prompt": {
+            "text": "Suggest a location for a weekend getaway.",
+            "ids": [
+                49969,
+                247,
+                4328,
+                323,
+                247,
+                8849,
+                755,
+                12594,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "forestMary Corner a recommended weekend vacationools!).",
+            "ids": [
+                38250,
+                25000,
+                44393,
+                247,
+                8521,
+                8849,
+                18125,
+                23699,
+                30970
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    }
+]

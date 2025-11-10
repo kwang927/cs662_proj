@@ -1,0 +1,2252 @@
+[
+    {
+        "epoch": 1,
+        "loss": 2.9574999809265137,
+        "best_loss": 2.9574999809265137,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 9.085000038146973,
+        "cur_std": 0.42005019187927245,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to create a simple button element in HTML)\\",
+            "ids": [
+                2347,
+                281,
+                2794,
+                247,
+                2969,
+                6409,
+                3284,
+                275,
+                11685,
+                1572
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -42.25
+    },
+    {
+        "epoch": 2,
+        "loss": 2.856250047683716,
+        "best_loss": 2.856250047683716,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 8.27750015258789,
+        "cur_std": 0.4478187084197998,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to create a simple button element in HTML463",
+            "ids": [
+                2347,
+                281,
+                2794,
+                247,
+                2969,
+                6409,
+                3284,
+                275,
+                11685,
+                36043
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -46.0
+    },
+    {
+        "epoch": 3,
+        "loss": 2.622812509536743,
+        "best_loss": 2.622812509536743,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 8.5,
+        "cur_std": 0.44317212104797366,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to create a simple button element pans HTML463",
+            "ids": [
+                2347,
+                281,
+                2794,
+                247,
+                2969,
+                6409,
+                3284,
+                45039,
+                11685,
+                36043
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 4,
+        "loss": 2.8899998664855957,
+        "best_loss": 2.622812509536743,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 8.862500190734863,
+        "cur_std": 0.44838905334472656,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to argc a simple button element pans HTML463",
+            "ids": [
+                2347,
+                281,
+                46090,
+                247,
+                2969,
+                6409,
+                3284,
+                45039,
+                11685,
+                36043
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 5,
+        "loss": 2.616874933242798,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 8.819999694824219,
+        "cur_std": 0.4488070487976074,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to argc a simple button element hens HTML463",
+            "ids": [
+                2347,
+                281,
+                46090,
+                247,
+                2969,
+                6409,
+                3284,
+                49118,
+                11685,
+                36043
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 6,
+        "loss": 2.934999942779541,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 9.354999542236328,
+        "cur_std": 0.4016880512237549,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to argc a simple button Add hens HTML463",
+            "ids": [
+                2347,
+                281,
+                46090,
+                247,
+                2969,
+                6409,
+                5733,
+                49118,
+                11685,
+                36043
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 7,
+        "loss": 2.731250047683716,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 10.84999942779541,
+        "cur_std": 0.49414501190185545,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to argc a simple button Add hens HTMLialog",
+            "ids": [
+                2347,
+                281,
+                46090,
+                247,
+                2969,
+                6409,
+                5733,
+                49118,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 8,
+        "loss": 2.831249952316284,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 10.005000114440918,
+        "cur_std": 0.461975622177124,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How to argc a simple button AddENV HTMLialog",
+            "ids": [
+                2347,
+                281,
+                46090,
+                247,
+                2969,
+                6409,
+                5733,
+                33735,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 9,
+        "loss": 2.867499828338623,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 9.699999809265137,
+        "cur_std": 0.424695348739624,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How torac a simple button AddENV HTMLialog",
+            "ids": [
+                2347,
+                281,
+                8306,
+                247,
+                2969,
+                6409,
+                5733,
+                33735,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 10,
+        "loss": 2.6937499046325684,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 10.087499618530273,
+        "cur_std": 0.4174443244934082,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " trium torac a simple button AddENV HTMLialog",
+            "ids": [
+                19725,
+                281,
+                8306,
+                247,
+                2969,
+                6409,
+                5733,
+                33735,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 11,
+        "loss": 2.6912498474121094,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 10.104999542236328,
+        "cur_std": 0.41045641899108887,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " trium torac a simple button Add StringBuilder HTMLialog",
+            "ids": [
+                19725,
+                281,
+                8306,
+                247,
+                2969,
+                6409,
+                5733,
+                50233,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 12,
+        "loss": 2.848749876022339,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 11.047499656677246,
+        "cur_std": 0.4625452995300293,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " trium torac a Jury button Add StringBuilder HTMLialog",
+            "ids": [
+                19725,
+                281,
+                8306,
+                247,
+                41670,
+                6409,
+                5733,
+                50233,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 13,
+        "loss": 2.9387500286102295,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 14.567500114440918,
+        "cur_std": 0.5577038288116455,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " trium torac a Juryuppose Add StringBuilder HTMLialog",
+            "ids": [
+                19725,
+                281,
+                8306,
+                247,
+                41670,
+                2384,
+                5733,
+                50233,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.0512499809265137,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 13.462499618530273,
+        "cur_std": 0.5382511615753174,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumCentrac a Juryuppose Add StringBuilder HTMLialog",
+            "ids": [
+                19725,
+                18760,
+                8306,
+                247,
+                41670,
+                2384,
+                5733,
+                50233,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 15,
+        "loss": 2.778749942779541,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 12.212499618530273,
+        "cur_std": 0.5266313552856445,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumCentrac a spluppose Add StringBuilder HTMLialog",
+            "ids": [
+                19725,
+                18760,
+                8306,
+                247,
+                6821,
+                2384,
+                5733,
+                50233,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 16,
+        "loss": 2.763749837875366,
+        "best_loss": 2.616874933242798,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 12.670000076293945,
+        "cur_std": 0.5306143283843994,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumCentrac a spl females Add StringBuilder HTMLialog",
+            "ids": [
+                19725,
+                18760,
+                8306,
+                247,
+                6821,
+                10753,
+                5733,
+                50233,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 17,
+        "loss": 2.6156249046325684,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 13.109999656677246,
+        "cur_std": 0.5507263660430908,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumCentrac Gothic spl females Add StringBuilder HTMLialog",
+            "ids": [
+                19725,
+                18760,
+                8306,
+                38707,
+                6821,
+                10753,
+                5733,
+                50233,
+                11685,
+                6690
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 18,
+        "loss": 2.9412498474121094,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 14.47499942779541,
+        "cur_std": 0.5594403266906738,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumCentrac Gothic spl females Add StringBuilder HTML navigate",
+            "ids": [
+                19725,
+                18760,
+                8306,
+                38707,
+                6821,
+                10753,
+                5733,
+                50233,
+                11685,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 19,
+        "loss": 2.911249876022339,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 14.617499351501465,
+        "cur_std": 0.6040212154388428,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumdtrac Gothic spl females Add StringBuilder HTML navigate",
+            "ids": [
+                19725,
+                7064,
+                8306,
+                38707,
+                6821,
+                10753,
+                5733,
+                50233,
+                11685,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 20,
+        "loss": 2.990000009536743,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 15.737499237060547,
+        "cur_std": 0.5484755992889404,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumdtrac Gothic spl females Add� HTML navigate",
+            "ids": [
+                19725,
+                7064,
+                8306,
+                38707,
+                6821,
+                10753,
+                5733,
+                30676,
+                11685,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.0,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 21.264999389648438,
+        "cur_std": 0.7712054252624512,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " triumdtrac Gothic spl females Add� Socrates navigate",
+            "ids": [
+                19725,
+                7064,
+                8306,
+                38707,
+                6821,
+                10753,
+                5733,
+                30676,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.2362499237060547,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 19.202499389648438,
+        "cur_std": 0.7125914573669434,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verdtrac Gothic spl females Add� Socrates navigate",
+            "ids": [
+                7188,
+                7064,
+                8306,
+                38707,
+                6821,
+                10753,
+                5733,
+                30676,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.309999942779541,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 19.18000030517578,
+        "cur_std": 0.7123201847076416,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verdtracrip spl females Add� Socrates navigate",
+            "ids": [
+                7188,
+                7064,
+                8306,
+                7417,
+                6821,
+                10753,
+                5733,
+                30676,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.0799999237060547,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 20.904998779296875,
+        "cur_std": 0.7147241115570069,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verdt congenrip spl females Add� Socrates navigate",
+            "ids": [
+                7188,
+                7064,
+                24155,
+                7417,
+                6821,
+                10753,
+                5733,
+                30676,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.234375,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 18.8125,
+        "cur_std": 0.7128986358642578,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verdt congenrip spl All Add� Socrates navigate",
+            "ids": [
+                7188,
+                7064,
+                24155,
+                7417,
+                6821,
+                1876,
+                5733,
+                30676,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 26,
+        "loss": 2.914374828338623,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 17.38249969482422,
+        "cur_std": 0.6362617492675782,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerEventArgs congenrip spl All Add� Socrates navigate",
+            "ids": [
+                7188,
+                40029,
+                24155,
+                7417,
+                6821,
+                1876,
+                5733,
+                30676,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 27,
+        "loss": 2.8975000381469727,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 18.037500381469727,
+        "cur_std": 0.7301703453063965,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verри congenrip spl All Add� Socrates navigate",
+            "ids": [
+                7188,
+                34491,
+                24155,
+                7417,
+                6821,
+                1876,
+                5733,
+                30676,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.075000047683716,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 17.36750030517578,
+        "cur_std": 0.6519440174102783,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verри congenrip spl All Add GCC Socrates navigate",
+            "ids": [
+                7188,
+                34491,
+                24155,
+                7417,
+                6821,
+                1876,
+                5733,
+                42777,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.0456249713897705,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 17.44499969482422,
+        "cur_std": 0.6480796813964844,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verри congenbx spl All Add GCC Socrates navigate",
+            "ids": [
+                7188,
+                34491,
+                24155,
+                22141,
+                6821,
+                1876,
+                5733,
+                42777,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.069999933242798,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 16.087499618530273,
+        "cur_std": 0.5732722759246827,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Verри congenbx spl All Add valor Socrates navigate",
+            "ids": [
+                7188,
+                34491,
+                24155,
+                22141,
+                6821,
+                1876,
+                5733,
+                34173,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 31,
+        "loss": 2.9412498474121094,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 17.13749885559082,
+        "cur_std": 0.5977585792541504,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Ver Taiwan congenbx spl All Add valor Socrates navigate",
+            "ids": [
+                7188,
+                17975,
+                24155,
+                22141,
+                6821,
+                1876,
+                5733,
+                34173,
+                43424,
+                24171
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.169999837875366,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 14.872499465942383,
+        "cur_std": 0.5629837036132812,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Ver Taiwan congenbx spl All Add valor SocratesMenuItem",
+            "ids": [
+                7188,
+                17975,
+                24155,
+                22141,
+                6821,
+                1876,
+                5733,
+                34173,
+                43424,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 33,
+        "loss": 2.934999942779541,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 14.887499809265137,
+        "cur_std": 0.5847210884094238,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener congenbx spl All Add valor SocratesMenuItem",
+            "ids": [
+                7188,
+                8719,
+                24155,
+                22141,
+                6821,
+                1876,
+                5733,
+                34173,
+                43424,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.177500009536743,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 15.0,
+        "cur_std": 0.563023042678833,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener congenbx spl All Exit valor SocratesMenuItem",
+            "ids": [
+                7188,
+                8719,
+                24155,
+                22141,
+                6821,
+                1876,
+                40745,
+                34173,
+                43424,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 35,
+        "loss": 2.926874876022339,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 15.539999961853027,
+        "cur_std": 0.5327733993530274,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener$).bx spl All Exit valor SocratesMenuItem",
+            "ids": [
+                7188,
+                8719,
+                14553,
+                22141,
+                6821,
+                1876,
+                40745,
+                34173,
+                43424,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.15874981880188,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 14.592499732971191,
+        "cur_std": 0.5354321479797364,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener$).bx spl All Exit valor heightMenuItem",
+            "ids": [
+                7188,
+                8719,
+                14553,
+                22141,
+                6821,
+                1876,
+                40745,
+                34173,
+                4898,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.0512499809265137,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 15.444999694824219,
+        "cur_std": 0.557451581954956,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener$).bx spl All Exit valor ceilMenuItem",
+            "ids": [
+                7188,
+                8719,
+                14553,
+                22141,
+                6821,
+                1876,
+                40745,
+                34173,
+                45925,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.028749942779541,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 15.672499656677246,
+        "cur_std": 0.5348545551300049,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener$).bx spl All Exit Comments ceilMenuItem",
+            "ids": [
+                7188,
+                8719,
+                14553,
+                22141,
+                6821,
+                1876,
+                40745,
+                28623,
+                45925,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.021250009536743,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 15.90999984741211,
+        "cur_std": 0.5618503093719482,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener470bx spl All Exit Comments ceilMenuItem",
+            "ids": [
+                7188,
+                8719,
+                37155,
+                22141,
+                6821,
+                1876,
+                40745,
+                28623,
+                45925,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.0512499809265137,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 13.28499984741211,
+        "cur_std": 0.5405643463134766,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Vergener470bx spl All Exit Comments dropMenuItem",
+            "ids": [
+                7188,
+                8719,
+                37155,
+                22141,
+                6821,
+                1876,
+                40745,
+                28623,
+                5926,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.0612499713897705,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 13.357500076293945,
+        "cur_std": 0.5611727714538575,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN470bx spl All Exit Comments dropMenuItem",
+            "ids": [
+                7188,
+                50165,
+                37155,
+                22141,
+                6821,
+                1876,
+                40745,
+                28623,
+                5926,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 42,
+        "loss": 2.8862500190734863,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 12.719999313354492,
+        "cur_std": 0.5331708908081054,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN470bx spl All Exit CommentsinsideMenuItem",
+            "ids": [
+                7188,
+                50165,
+                37155,
+                22141,
+                6821,
+                1876,
+                40745,
+                28623,
+                40084,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 43,
+        "loss": 2.916249990463257,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 12.747499465942383,
+        "cur_std": 0.5053563594818116,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN470bx Her All Exit CommentsinsideMenuItem",
+            "ids": [
+                7188,
+                50165,
+                37155,
+                22141,
+                4058,
+                1876,
+                40745,
+                28623,
+                40084,
+                43429
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.0950000286102295,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 14.085000038146973,
+        "cur_std": 0.5064385890960693,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN470bx Her All Exit Commentsinside Transition",
+            "ids": [
+                7188,
+                50165,
+                37155,
+                22141,
+                4058,
+                1876,
+                40745,
+                28623,
+                40084,
+                48332
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 45,
+        "loss": 2.856250047683716,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 12.899999618530273,
+        "cur_std": 0.49879908561706543,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN controllerbx Her All Exit Commentsinside Transition",
+            "ids": [
+                7188,
+                50165,
+                9763,
+                22141,
+                4058,
+                1876,
+                40745,
+                28623,
+                40084,
+                48332
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 46,
+        "loss": 2.872499942779541,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 13.16249942779541,
+        "cur_std": 0.5302393436431885,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN controllerbx Her    Exit Commentsinside Transition",
+            "ids": [
+                7188,
+                50165,
+                9763,
+                22141,
+                4058,
+                21469,
+                40745,
+                28623,
+                40084,
+                48332
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.059999942779541,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 13.6875,
+        "cur_std": 0.5287012100219727,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN controllerbx than    Exit Commentsinside Transition",
+            "ids": [
+                7188,
+                50165,
+                9763,
+                22141,
+                685,
+                21469,
+                40745,
+                28623,
+                40084,
+                48332
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 48,
+        "loss": 2.871875047683716,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 13.65999984741211,
+        "cur_std": 0.5424123287200928,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN controllerbx than    clean Commentsinside Transition",
+            "ids": [
+                7188,
+                50165,
+                9763,
+                22141,
+                685,
+                21469,
+                4076,
+                28623,
+                40084,
+                48332
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 49,
+        "loss": 2.9700000286102295,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 16.114999771118164,
+        "cur_std": 0.5747025966644287,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " VerMEN controllerbx than    clean Comments Sports Transition",
+            "ids": [
+                7188,
+                50165,
+                9763,
+                22141,
+                685,
+                21469,
+                4076,
+                28623,
+                15000,
+                48332
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 50,
+        "loss": 2.990000009536743,
+        "best_loss": 2.6156249046325684,
+        "best_kl": 7.574999809265137,
+        "best_std": 0.4425805568695068,
+        "cur_kl": 16.13749885559082,
+        "cur_std": 0.5697041511535644,
+        "orig_prompt": {
+            "text": "Generate HTML code for a button.",
+            "ids": [
+                40731,
+                11685,
+                2127,
+                323,
+                247,
+                6409,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " toMEN controllerbx than    clean Comments Sports Transition",
+            "ids": [
+                281,
+                50165,
+                9763,
+                22141,
+                685,
+                21469,
+                4076,
+                28623,
+                15000,
+                48332
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    }
+]

@@ -1,0 +1,2152 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.804999828338623,
+        "best_loss": 3.804999828338623,
+        "best_kl": 7.804999828338623,
+        "best_std": 0.46697201728820803,
+        "cur_kl": 7.804999828338623,
+        "cur_std": 0.46697201728820803,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "How would ancodes describe its childhood?",
+            "ids": [
+                2347,
+                651,
+                271,
+                30968,
+                6266,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -52.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.7874999046325684,
+        "best_loss": 3.7874999046325684,
+        "best_kl": 7.804999828338623,
+        "best_std": 0.46697201728820803,
+        "cur_kl": 8.157500267028809,
+        "cur_std": 0.46740546226501467,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "uffer would ancodes describe its childhood?",
+            "ids": [
+                6030,
+                651,
+                271,
+                30968,
+                6266,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.747499942779541,
+        "best_loss": 3.747499942779541,
+        "best_kl": 7.804999828338623,
+        "best_std": 0.46697201728820803,
+        "cur_kl": 8.039999961853027,
+        "cur_std": 0.44118356704711914,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "uffer would an time describe its childhood?",
+            "ids": [
+                6030,
+                651,
+                271,
+                673,
+                6266,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -59.25
+    },
+    {
+        "epoch": 4,
+        "loss": 3.684999942779541,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 6.649999618530273,
+        "cur_std": 0.4056264877319336,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " sessions would an time describe its childhood?",
+            "ids": [
+                12154,
+                651,
+                271,
+                673,
+                6266,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -57.75
+    },
+    {
+        "epoch": 5,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.174999713897705,
+        "cur_std": 0.43794894218444824,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " sessions would an time realizes its childhood?",
+            "ids": [
+                12154,
+                651,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.7200000286102295,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 8.069999694824219,
+        "cur_std": 0.44686169624328614,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " sessionscome an time realizes its childhood?",
+            "ids": [
+                12154,
+                3188,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.7149999141693115,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.087499618530273,
+        "cur_std": 0.44654078483581544,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " TIMcome an time realizes its childhood?",
+            "ids": [
+                25503,
+                3188,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.7300000190734863,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.492499828338623,
+        "cur_std": 0.4627058029174805,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "MLcome an time realizes its childhood?",
+            "ids": [
+                4132,
+                3188,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.7624998092651367,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.752500057220459,
+        "cur_std": 0.45551466941833496,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Ycome an time realizes its childhood?",
+            "ids": [
+                58,
+                3188,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.7249999046325684,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 8.757499694824219,
+        "cur_std": 0.454931640625,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Yshe an time realizes its childhood?",
+            "ids": [
+                58,
+                6689,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.7874999046325684,
+        "best_loss": 3.684999942779541,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.207499980926514,
+        "cur_std": 0.44161739349365237,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Yffect an time realizes its childhood?",
+            "ids": [
+                58,
+                887,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.669999837875366,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.612499713897705,
+        "cur_std": 0.4312065601348877,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "YTrue an time realizes its childhood?",
+            "ids": [
+                58,
+                5088,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.7249999046325684,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.682499885559082,
+        "cur_std": 0.45883378982543943,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "YRect an time realizes its childhood?",
+            "ids": [
+                58,
+                17229,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.7300000190734863,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.972499847412109,
+        "cur_std": 0.4602630615234375,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "WillRect an time realizes its childhood?",
+            "ids": [
+                12978,
+                17229,
+                271,
+                673,
+                36683,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.079999923706055,
+        "cur_std": 0.4424432754516602,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "WillRect an time reson its childhood?",
+            "ids": [
+                12978,
+                17229,
+                271,
+                673,
+                8146,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.7799999713897705,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.102499961853027,
+        "cur_std": 0.4605675220489502,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "人Rect an time reson its childhood?",
+            "ids": [
+                13484,
+                17229,
+                271,
+                673,
+                8146,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.757499933242798,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.289999961853027,
+        "cur_std": 0.43741836547851565,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "人ED an time reson its childhood?",
+            "ids": [
+                13484,
+                1703,
+                271,
+                673,
+                8146,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.7674999237060547,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.50499963760376,
+        "cur_std": 0.4334932804107666,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "人 WHERE an time reson its childhood?",
+            "ids": [
+                13484,
+                17242,
+                271,
+                673,
+                8146,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.7699999809265137,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 6.869999885559082,
+        "cur_std": 0.4196782112121582,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Move WHERE an time reson its childhood?",
+            "ids": [
+                17097,
+                17242,
+                271,
+                673,
+                8146,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.7649998664855957,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.557499885559082,
+        "cur_std": 0.433564281463623,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Move WHERE an time intuition its childhood?",
+            "ids": [
+                17097,
+                17242,
+                271,
+                673,
+                30328,
+                697,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.737499952316284,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.852499961853027,
+        "cur_std": 0.4480470657348633,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Move WHERE an time intuition forged childhood?",
+            "ids": [
+                17097,
+                17242,
+                271,
+                673,
+                30328,
+                37260,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.7799999713897705,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.949999809265137,
+        "cur_std": 0.4694855213165283,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "z WHERE an time intuition forged childhood?",
+            "ids": [
+                91,
+                17242,
+                271,
+                673,
+                30328,
+                37260,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.7224998474121094,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.702499866485596,
+        "cur_std": 0.46785149574279783,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One WHERE an time intuition forged childhood?",
+            "ids": [
+                4041,
+                17242,
+                271,
+                673,
+                30328,
+                37260,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.7674999237060547,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 8.09749984741211,
+        "cur_std": 0.4298651695251465,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Oneann an time intuition forged childhood?",
+            "ids": [
+                4041,
+                1136,
+                271,
+                673,
+                30328,
+                37260,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.7624998092651367,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.547499656677246,
+        "cur_std": 0.4434810638427734,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One gib an time intuition forged childhood?",
+            "ids": [
+                4041,
+                33342,
+                271,
+                673,
+                30328,
+                37260,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.7149999141693115,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 6.875,
+        "cur_std": 0.4197537422180176,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "OneSpot an time intuition forged childhood?",
+            "ids": [
+                4041,
+                46450,
+                271,
+                673,
+                30328,
+                37260,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.7174999713897705,
+        "best_loss": 3.669999837875366,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 7.502500057220459,
+        "cur_std": 0.43889923095703126,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "OneSpotì time intuition forged childhood?",
+            "ids": [
+                4041,
+                46450,
+                12931,
+                673,
+                30328,
+                37260,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 6.862499713897705,
+        "cur_std": 0.3940430164337158,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "OneSpotì time intuition contained childhood?",
+            "ids": [
+                4041,
+                46450,
+                12931,
+                673,
+                30328,
+                6221,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.674999952316284,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 6.649999618530273,
+        "best_std": 0.4056264877319336,
+        "cur_kl": 6.684999942779541,
+        "cur_std": 0.427371883392334,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Remì time intuition contained childhood?",
+            "ids": [
+                4041,
+                6235,
+                12931,
+                673,
+                30328,
+                6221,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.697499990463257,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 6.59499979019165,
+        "best_std": 0.417450475692749,
+        "cur_kl": 6.59499979019165,
+        "cur_std": 0.417450475692749,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Remì time intuition discusses childhood?",
+            "ids": [
+                4041,
+                6235,
+                12931,
+                673,
+                30328,
+                25339,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.7149999141693115,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 6.59499979019165,
+        "best_std": 0.417450475692749,
+        "cur_kl": 7.152499675750732,
+        "cur_std": 0.4489872932434082,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Remì timeamiliar discusses childhood?",
+            "ids": [
+                4041,
+                6235,
+                12931,
+                673,
+                24700,
+                25339,
+                11948,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.6549999713897705,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 5.892499923706055,
+        "cur_std": 0.41336960792541505,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Remì timeamiliar discusses remembering?",
+            "ids": [
+                4041,
+                6235,
+                12931,
+                673,
+                24700,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.617499828338623,
+        "best_loss": 3.617499828338623,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 5.892499923706055,
+        "cur_std": 0.40134329795837403,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Remaley timeamiliar discusses remembering?",
+            "ids": [
+                4041,
+                6235,
+                25406,
+                673,
+                24700,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.617499828338623,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 7.1875,
+        "cur_std": 0.4255474090576172,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Remaley timeacci discusses remembering?",
+            "ids": [
+                4041,
+                6235,
+                25406,
+                673,
+                42401,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.692499876022339,
+        "best_loss": 3.617499828338623,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 7.142499923706055,
+        "cur_std": 0.446737003326416,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Remaleybasedacci discusses remembering?",
+            "ids": [
+                4041,
+                6235,
+                25406,
+                3169,
+                42401,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.7300000190734863,
+        "best_loss": 3.617499828338623,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 7.329999923706055,
+        "cur_std": 0.45853137969970703,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One Rem racketbasedacci discusses remembering?",
+            "ids": [
+                4041,
+                6235,
+                45548,
+                3169,
+                42401,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.7749998569488525,
+        "best_loss": 3.617499828338623,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.75499963760376,
+        "cur_std": 0.4419450283050537,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One sweeping racketbasedacci discusses remembering?",
+            "ids": [
+                4041,
+                28110,
+                45548,
+                3169,
+                42401,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.744999885559082,
+        "best_loss": 3.617499828338623,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.279999732971191,
+        "cur_std": 0.4448112964630127,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One sweepingaspbasedacci discusses remembering?",
+            "ids": [
+                4041,
+                28110,
+                4938,
+                3169,
+                42401,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.6024999618530273,
+        "best_loss": 3.6024999618530273,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.292500019073486,
+        "cur_std": 0.43446898460388184,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One sweepingaspbased ache discusses remembering?",
+            "ids": [
+                4041,
+                28110,
+                4938,
+                3169,
+                49652,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.7149999141693115,
+        "best_loss": 3.6024999618530273,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.224999904632568,
+        "cur_std": 0.42626075744628905,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One sweepingaspbased Mem discusses remembering?",
+            "ids": [
+                4041,
+                28110,
+                4938,
+                3169,
+                6700,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.6024999618530273,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.242499828338623,
+        "cur_std": 0.4308415412902832,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One SYaspbased Mem discusses remembering?",
+            "ids": [
+                4041,
+                19058,
+                4938,
+                3169,
+                6700,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.572499990463257,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.262499809265137,
+        "cur_std": 0.4448267936706543,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One SY Celbased Mem discusses remembering?",
+            "ids": [
+                4041,
+                19058,
+                23948,
+                3169,
+                6700,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.7149999141693115,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.179999828338623,
+        "cur_std": 0.4073051452636719,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One SY Celbased728 discusses remembering?",
+            "ids": [
+                4041,
+                19058,
+                23948,
+                3169,
+                48694,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.68999981880188,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.462499618530273,
+        "cur_std": 0.44875493049621584,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "One SY Cel`728 discusses remembering?",
+            "ids": [
+                4041,
+                19058,
+                23948,
+                65,
+                48694,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.989999771118164,
+        "cur_std": 0.455977725982666,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Onedrug Cel`728 discusses remembering?",
+            "ids": [
+                4041,
+                34266,
+                23948,
+                65,
+                48694,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.754999876022339,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.922499656677246,
+        "cur_std": 0.4254483222961426,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Onedrug Cel Kind728 discusses remembering?",
+            "ids": [
+                4041,
+                34266,
+                23948,
+                29552,
+                48694,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.7200000286102295,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.092499732971191,
+        "cur_std": 0.41944007873535155,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Onedrug Cel Kind 306 discusses remembering?",
+            "ids": [
+                4041,
+                34266,
+                23948,
+                29552,
+                31950,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.672499895095825,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.397500038146973,
+        "cur_std": 0.41249570846557615,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Onedrugerald Kind 306 discusses remembering?",
+            "ids": [
+                4041,
+                34266,
+                16627,
+                29552,
+                31950,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.7200000286102295,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 6.887499809265137,
+        "cur_std": 0.4368790626525879,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Onedrugerald fabrics 306 discusses remembering?",
+            "ids": [
+                4041,
+                34266,
+                16627,
+                38865,
+                31950,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.7249999046325684,
+        "best_loss": 3.572499990463257,
+        "best_kl": 5.892499923706055,
+        "best_std": 0.41336960792541505,
+        "cur_kl": 8.024999618530273,
+        "cur_std": 0.4753587245941162,
+        "orig_prompt": {
+            "text": "Recall a memory from your childhood.",
+            "ids": [
+                38418,
+                247,
+                3541,
+                432,
+                634,
+                11948,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "OnedrugVENT fabrics 306 discusses remembering?",
+            "ids": [
+                4041,
+                34266,
+                44040,
+                38865,
+                31950,
+                25339,
+                29055,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "nll_prompt": -93.0
+    }
+]

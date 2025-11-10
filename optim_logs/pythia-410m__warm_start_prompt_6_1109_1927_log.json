@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.3637499809265137,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 5.652499675750732,
+        "cur_std": 0.3766193151473999,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weight you share examples of widely accepted family values?",
+            "ids": [
+                6712,
+                368,
+                3894,
+                6667,
+                273,
+                7561,
+                7607,
+                2021,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -57.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 7.034999847412109,
+        "cur_std": 0.5034855842590332,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weight you sharespecified of widely accepted family values?",
+            "ids": [
+                6712,
+                368,
+                3894,
+                30878,
+                273,
+                7561,
+                7607,
+                2021,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.4487500190734863,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 10.767499923706055,
+        "cur_std": 0.6376374244689942,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weight you sharespecified of widely accepted family Choose?",
+            "ids": [
+                6712,
+                368,
+                3894,
+                30878,
+                273,
+                7561,
+                7607,
+                2021,
+                28890,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.703749895095825,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 11.942500114440918,
+        "cur_std": 0.6990601062774658,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weight you sharespecified of widely accepted demographics Choose?",
+            "ids": [
+                6712,
+                368,
+                3894,
+                30878,
+                273,
+                7561,
+                7607,
+                35949,
+                28890,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.56499981880188,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.22499942779541,
+        "cur_std": 0.7163450717926025,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weight you sharespecified compens widely accepted demographics Choose?",
+            "ids": [
+                6712,
+                368,
+                3894,
+                30878,
+                7037,
+                7561,
+                7607,
+                35949,
+                28890,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.5924999713897705,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 12.074999809265137,
+        "cur_std": 0.7448603630065918,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weight you sharespecified compens widely accepted demographics model?",
+            "ids": [
+                6712,
+                368,
+                3894,
+                30878,
+                7037,
+                7561,
+                7607,
+                35949,
+                1566,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.424999952316284,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.607500076293945,
+        "cur_std": 0.7481396198272705,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenance sharespecified compens widely accepted demographics model?",
+            "ids": [
+                6712,
+                7697,
+                3894,
+                30878,
+                7037,
+                7561,
+                7607,
+                35949,
+                1566,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.6912498474121094,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 12.532499313354492,
+        "cur_std": 0.74525146484375,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenance sharespecified compensaneously accepted demographics model?",
+            "ids": [
+                6712,
+                7697,
+                3894,
+                30878,
+                7037,
+                8272,
+                7607,
+                35949,
+                1566,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.576249837875366,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 12.889999389648438,
+        "cur_std": 0.7608003616333008,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneously accepted demographics model?",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                7607,
+                35949,
+                1566,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.7387499809265137,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.454999923706055,
+        "cur_std": 0.7571909904479981,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneously accepted personally model?",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                7607,
+                11697,
+                1566,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.607499837875366,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.114999771118164,
+        "cur_std": 0.7730582237243653,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneouslyives personally model?",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                1644,
+                11697,
+                1566,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.7462499141693115,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.8149995803833,
+        "cur_std": 0.7576430797576904,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneouslyives personally model_.\"",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                1644,
+                11697,
+                1566,
+                42511
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.7749998569488525,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.464999198913574,
+        "cur_std": 0.7695681571960449,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneouslyives personallyATING_.\"",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                1644,
+                11697,
+                42284,
+                42511
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.6737499237060547,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.65250015258789,
+        "cur_std": 0.7578702926635742,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneouslyives personallyATING\"}\\].",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                1644,
+                11697,
+                42284,
+                38475
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.03749942779541,
+        "cur_std": 0.7550283908843994,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneouslyives personallyATING\\}$.",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                1644,
+                11697,
+                42284,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.706249952316284,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.91249942779541,
+        "cur_std": 0.7469498634338378,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceimportspecified compensaneouslyives personally recognizing\\}$.",
+            "ids": [
+                6712,
+                7697,
+                2948,
+                30878,
+                7037,
+                8272,
+                1644,
+                11697,
+                26182,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.651249885559082,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.862499237060547,
+        "cur_std": 0.7812785625457763,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystemspecified compensaneouslyives personally recognizing\\}$.",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                30878,
+                7037,
+                8272,
+                1644,
+                11697,
+                26182,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.78374981880188,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.027499198913574,
+        "cur_std": 0.792705774307251,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystemOOK compensaneouslyives personally recognizing\\}$.",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                16569,
+                7037,
+                8272,
+                1644,
+                11697,
+                26182,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.711249828338623,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.307499885559082,
+        "cur_std": 0.7486423492431641,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystemOOK compensaiverives personally recognizing\\}$.",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                16569,
+                7037,
+                18386,
+                1644,
+                11697,
+                26182,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.637499809265137,
+        "cur_std": 0.7705056667327881,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystemOOK compensaiver settlements personally recognizing\\}$.",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                16569,
+                7037,
+                18386,
+                27885,
+                11697,
+                26182,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.625,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.217499732971191,
+        "cur_std": 0.7090206623077393,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystemOOK compensaiver marriage personally recognizing\\}$.",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                16569,
+                7037,
+                18386,
+                7875,
+                11697,
+                26182,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.504999876022339,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.622499465942383,
+        "cur_std": 0.7230205535888672,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystemOOK compensaiver marriage SUM recognizing\\}$.",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                16569,
+                7037,
+                18386,
+                7875,
+                25361,
+                26182,
+                19562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.7200000286102295,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 16.537500381469727,
+        "cur_std": 0.7370204925537109,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystemOOK compensaiver marriage SUM recognizing .",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                16569,
+                7037,
+                18386,
+                7875,
+                25361,
+                26182,
+                964
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.8374998569488525,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 17.6299991607666,
+        "cur_std": 0.7615647315979004,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "weightenanceSystem tumorigen compensaiver marriage SUM recognizing .",
+            "ids": [
+                6712,
+                7697,
+                7761,
+                37486,
+                7037,
+                18386,
+                7875,
+                25361,
+                26182,
+                964
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 16.452499389648438,
+        "cur_std": 0.7379220962524414,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingenanceSystem tumorigen compensaiver marriage SUM recognizing .",
+            "ids": [
+                9123,
+                7697,
+                7761,
+                37486,
+                7037,
+                18386,
+                7875,
+                25361,
+                26182,
+                964
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.7512500286102295,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.984999656677246,
+        "cur_std": 0.677318525314331,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingenanceSystem tumorigen20aiver marriage SUM recognizing .",
+            "ids": [
+                9123,
+                7697,
+                7761,
+                37486,
+                938,
+                18386,
+                7875,
+                25361,
+                26182,
+                964
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.763749837875366,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.90999984741211,
+        "cur_std": 0.7305518627166748,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingenanceSystem tumorigen20aiver marriage SUM recognizing.—",
+            "ids": [
+                9123,
+                7697,
+                7761,
+                37486,
+                938,
+                18386,
+                7875,
+                25361,
+                26182,
+                25277
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -135.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.697499990463257,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 16.017499923706055,
+        "cur_std": 0.7346428394317627,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingenanceSystem tumorigenpixelaiver marriage SUM recognizing.—",
+            "ids": [
+                9123,
+                7697,
+                7761,
+                37486,
+                29206,
+                18386,
+                7875,
+                25361,
+                26182,
+                25277
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.4674999713897705,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.357500076293945,
+        "cur_std": 0.6968748569488525,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingenanceSystemhupixelaiver marriage SUM recognizing.—",
+            "ids": [
+                9123,
+                7697,
+                7761,
+                11917,
+                29206,
+                18386,
+                7875,
+                25361,
+                26182,
+                25277
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.612499952316284,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 18.88249969482422,
+        "cur_std": 0.8315394401550293,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingenanceSystemhupixelaiver marriage SUM recognizingdocument",
+            "ids": [
+                9123,
+                7697,
+                7761,
+                11917,
+                29206,
+                18386,
+                7875,
+                25361,
+                26182,
+                3306
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.924999952316284,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 17.24250030517578,
+        "cur_std": 0.8072545051574707,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingenanceSystemhupixelaiver marriage SUMAGdocument",
+            "ids": [
+                9123,
+                7697,
+                7761,
+                11917,
+                29206,
+                18386,
+                7875,
+                25361,
+                2696,
+                3306
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.6424999237060547,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 17.670000076293945,
+        "cur_std": 0.8074219703674317,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eating ketSystemhupixelaiver marriage SUMAGdocument",
+            "ids": [
+                9123,
+                23792,
+                7761,
+                11917,
+                29206,
+                18386,
+                7875,
+                25361,
+                2696,
+                3306
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.6337499618530273,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 17.63749885559082,
+        "cur_std": 0.8366854667663575,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eating PeaceSystemhupixelaiver marriage SUMAGdocument",
+            "ids": [
+                9123,
+                20000,
+                7761,
+                11917,
+                29206,
+                18386,
+                7875,
+                25361,
+                2696,
+                3306
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.7825000286102295,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 18.814998626708984,
+        "cur_std": 0.8437726974487305,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eating PeaceSystemhupixelaiver marriagerelationshipAGdocument",
+            "ids": [
+                9123,
+                20000,
+                7761,
+                11917,
+                29206,
+                18386,
+                7875,
+                46397,
+                2696,
+                3306
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.7987499237060547,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.5024995803833,
+        "cur_std": 0.7695638179779053,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eating PeaceSystemhupixelaiver marriagerelationshipAG}).$$",
+            "ids": [
+                9123,
+                20000,
+                7761,
+                11917,
+                29206,
+                18386,
+                7875,
+                46397,
+                2696,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.767499923706055,
+        "cur_std": 0.7532694339752197,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eating PeaceSystemhuismsaiver marriagerelationshipAG}).$$",
+            "ids": [
+                9123,
+                20000,
+                7761,
+                11917,
+                3931,
+                18386,
+                7875,
+                46397,
+                2696,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.708750009536743,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.922499656677246,
+        "cur_std": 0.7664830207824707,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystemhuismsaiver marriagerelationshipAG}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                11917,
+                3931,
+                18386,
+                7875,
+                46397,
+                2696,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.497499942779541,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.547499656677246,
+        "cur_std": 0.7955740451812744,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystemhuismsaiver MickeyrelationshipAG}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                11917,
+                3931,
+                18386,
+                44065,
+                46397,
+                2696,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.679999828338623,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.477499961853027,
+        "cur_std": 0.8041880607604981,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystemhuisms encouraged MickeyrelationshipAG}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                11917,
+                3931,
+                14659,
+                44065,
+                46397,
+                2696,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.6912498474121094,
+        "best_loss": 3.3637499809265137,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.219999313354492,
+        "cur_std": 0.7933537483215332,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystemhuisms encouraged Mickeyrelationship Year}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                11917,
+                3931,
+                14659,
+                44065,
+                46397,
+                10519,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.338749885559082,
+        "best_loss": 3.338749885559082,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.380000114440918,
+        "cur_std": 0.8271320343017579,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystemDecisms encouraged Mickeyrelationship Year}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                9150,
+                3931,
+                14659,
+                44065,
+                46397,
+                10519,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.0037498474121094,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.247499465942383,
+        "cur_std": 0.810875415802002,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystem dividedisms encouraged Mickeyrelationship Year}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                4272,
+                3931,
+                14659,
+                44065,
+                46397,
+                10519,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.672499895095825,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.319999694824219,
+        "cur_std": 0.8069308280944825,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystem dividedisms encouraged Mickeyrelationship Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                4272,
+                3931,
+                14659,
+                44065,
+                46397,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.2649998664855957,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.229999542236328,
+        "cur_std": 0.8318902969360351,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystem dividedisms encouraged Mickeyiance Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                4272,
+                3931,
+                14659,
+                44065,
+                5155,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.5199999809265137,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.292499542236328,
+        "cur_std": 0.8330154418945312,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystem dividedisms encouraged Mickey month Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                4272,
+                3931,
+                14659,
+                44065,
+                1770,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.6987500190734863,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.005000114440918,
+        "cur_std": 0.8543558120727539,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedSystemамisms encouraged Mickey month Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7761,
+                11409,
+                3931,
+                14659,
+                44065,
+                1770,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.557499885559082,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.22499942779541,
+        "cur_std": 0.8239279747009277,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedfirstамisms encouraged Mickey month Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7053,
+                11409,
+                3931,
+                14659,
+                44065,
+                1770,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 13.969999313354492,
+        "cur_std": 0.8149431228637696,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedfirstамisms encouragedialysis month Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7053,
+                11409,
+                3931,
+                14659,
+                34290,
+                1770,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.732499837875366,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 15.024999618530273,
+        "cur_std": 0.8025015830993653,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedfirstамTerm encouragedialysis month Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7053,
+                11409,
+                18919,
+                14659,
+                34290,
+                1770,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.6162500381469727,
+        "best_loss": 3.0037498474121094,
+        "best_kl": 5.5,
+        "best_std": 0.4021407127380371,
+        "cur_kl": 14.799999237060547,
+        "cur_std": 0.8257228851318359,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " eatingderivedfirstамTerm Giftialysis month Cards}).$$",
+            "ids": [
+                9123,
+                13472,
+                7053,
+                11409,
+                18919,
+                40323,
+                34290,
+                1770,
+                42642,
+                43214
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -135.0
+    }
+]

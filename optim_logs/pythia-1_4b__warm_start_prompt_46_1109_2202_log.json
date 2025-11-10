@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.4462499618530273,
+        "best_loss": 3.4462499618530273,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.244999885559082,
+        "cur_std": 0.3321566343307495,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Howthree we explain 'data storage' using a metaphor?",
+            "ids": [
+                2347,
+                13524,
+                359,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                970,
+                247,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.442499876022339,
+        "best_loss": 3.442499876022339,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.137499809265137,
+        "cur_std": 0.35783751010894777,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": ",—three we explain 'data storage' using a metaphor?",
+            "ids": [
+                47359,
+                13524,
+                359,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                970,
+                247,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.523749828338623,
+        "best_loss": 3.442499876022339,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.579999923706055,
+        "cur_std": 0.33722877502441406,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": ",—ought we explain 'data storage' using a metaphor?",
+            "ids": [
+                47359,
+                1224,
+                359,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                970,
+                247,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.4600000381469727,
+        "best_loss": 3.442499876022339,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.797499656677246,
+        "cur_std": 0.34571137428283694,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": ",—oughta explain 'data storage' using a metaphor?",
+            "ids": [
+                47359,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                970,
+                247,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.482499837875366,
+        "best_loss": 3.442499876022339,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.747499942779541,
+        "cur_std": 0.3619443655014038,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": ",—oughta explain 'data storage' \"../ a metaphor?",
+            "ids": [
+                47359,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                47490,
+                247,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.4600000381469727,
+        "best_loss": 3.442499876022339,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.257499694824219,
+        "cur_std": 0.35677876472473147,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " transportedoughta explain 'data storage' \"../ a metaphor?",
+            "ids": [
+                20870,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                47490,
+                247,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.5625,
+        "best_loss": 3.442499876022339,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.099999904632568,
+        "cur_std": 0.3456073522567749,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " scoopoughta explain 'data storage' \"../ a metaphor?",
+            "ids": [
+                46324,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                47490,
+                247,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.6062498092651367,
+        "best_loss": 3.442499876022339,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.28249979019165,
+        "cur_std": 0.3452538013458252,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " scoopoughta explain 'data storage' \"../892 metaphor?",
+            "ids": [
+                46324,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                47490,
+                39328,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.4375,
+        "best_loss": 3.4375,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.932499885559082,
+        "cur_std": 0.3589908599853516,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dustyoughta explain 'data storage' \"../892 metaphor?",
+            "ids": [
+                38907,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                47490,
+                39328,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.4724998474121094,
+        "best_loss": 3.4375,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.922499656677246,
+        "cur_std": 0.3528329610824585,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dustyoughta explain 'data storage'íf892 metaphor?",
+            "ids": [
+                38907,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                41980,
+                39328,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.4774999618530273,
+        "best_loss": 3.4375,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.134999752044678,
+        "cur_std": 0.3606150150299072,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dustyoughta explain 'data storage' emerg892 metaphor?",
+            "ids": [
+                38907,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                4406,
+                39328,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.586249828338623,
+        "best_loss": 3.4375,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.974999904632568,
+        "cur_std": 0.37520196437835696,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dustyoughta explain 'data storage' emergropol metaphor?",
+            "ids": [
+                38907,
+                1224,
+                66,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                4406,
+                18427,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.5799999237060547,
+        "best_loss": 3.4375,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.889999866485596,
+        "cur_std": 0.38129100799560545,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dustyoughtgener explain 'data storage' emergropol metaphor?",
+            "ids": [
+                38907,
+                1224,
+                8719,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                4406,
+                18427,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.422499895095825,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.737499713897705,
+        "cur_std": 0.3475632190704346,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " dustyoughtgener explain 'data storage' Usageropol metaphor?",
+            "ids": [
+                38907,
+                1224,
+                8719,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                18427,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.53374981880188,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.432499885559082,
+        "cur_std": 0.33251519203186036,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " acquaintanceoughtgener explain 'data storage' Usageropol metaphor?",
+            "ids": [
+                38153,
+                1224,
+                8719,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                18427,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.549999952316284,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.210000038146973,
+        "cur_std": 0.34910998344421384,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " acquaintanceoughtas explain 'data storage' Usageropol metaphor?",
+            "ids": [
+                38153,
+                1224,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                18427,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.5712499618530273,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.702499866485596,
+        "cur_std": 0.3236802101135254,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " acquaintanceoughtas explain 'data storage' Usageough metaphor?",
+            "ids": [
+                38153,
+                1224,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.5087499618530273,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.002500057220459,
+        "cur_std": 0.3222885370254517,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " exceptoughtas explain 'data storage' Usageough metaphor?",
+            "ids": [
+                3707,
+                1224,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.559999942779541,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.362499713897705,
+        "cur_std": 0.3086172819137573,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iousoughtas explain 'data storage' Usageough metaphor?",
+            "ids": [
+                784,
+                1224,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.5037498474121094,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.914999961853027,
+        "cur_std": 0.31822226047515867,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " desiredoughtas explain 'data storage' Usageough metaphor?",
+            "ids": [
+                6799,
+                1224,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.5174999237060547,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.677499771118164,
+        "cur_std": 0.3123165130615234,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ESSoughtas explain 'data storage' Usageough metaphor?",
+            "ids": [
+                5479,
+                1224,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.552500009536743,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.724999904632568,
+        "cur_std": 0.3125631332397461,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "UREoughtas explain 'data storage' Usageough metaphor?",
+            "ids": [
+                10860,
+                1224,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.5637500286102295,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.144999980926514,
+        "cur_std": 0.33290083408355714,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "UREceas explain 'data storage' Usageough metaphor?",
+            "ids": [
+                10860,
+                336,
+                284,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.492499828338623,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.707499980926514,
+        "cur_std": 0.3579553127288818,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "UREce Uncle explain 'data storage' Usageough metaphor?",
+            "ids": [
+                10860,
+                336,
+                23894,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.4649999141693115,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.724999904632568,
+        "cur_std": 0.3599505662918091,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "FUNce Uncle explain 'data storage' Usageough metaphor?",
+            "ids": [
+                17164,
+                336,
+                23894,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.5587499141693115,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.842499732971191,
+        "cur_std": 0.35672922134399415,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "FUNce neut explain 'data storage' Usageough metaphor?",
+            "ids": [
+                17164,
+                336,
+                5205,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.4700000286102295,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.855000019073486,
+        "cur_std": 0.34861159324645996,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "FUNMen neut explain 'data storage' Usageough metaphor?",
+            "ids": [
+                17164,
+                18812,
+                5205,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.5425000190734863,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.727499961853027,
+        "cur_std": 0.343795919418335,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "FUNMenhots explain 'data storage' Usageough metaphor?",
+            "ids": [
+                17164,
+                18812,
+                40396,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.5687499046325684,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.232500076293945,
+        "cur_std": 0.3594548225402832,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "FUNMencerning explain 'data storage' Usageough metaphor?",
+            "ids": [
+                17164,
+                18812,
+                29340,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.581249952316284,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.574999809265137,
+        "cur_std": 0.3591077089309692,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "PossMencerning explain 'data storage' Usageough metaphor?",
+            "ids": [
+                34214,
+                18812,
+                29340,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.53125,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.267499923706055,
+        "cur_std": 0.3646510601043701,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "PossMen hole explain 'data storage' Usageough metaphor?",
+            "ids": [
+                34214,
+                18812,
+                7793,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.5562498569488525,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.569999694824219,
+        "cur_std": 0.34385075569152834,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "catsMen hole explain 'data storage' Usageough metaphor?",
+            "ids": [
+                38718,
+                18812,
+                7793,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.5274999141693115,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.194999694824219,
+        "cur_std": 0.328594708442688,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "catsMen, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                38718,
+                18812,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.4962499141693115,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.617499828338623,
+        "cur_std": 0.3590717315673828,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "catsOf, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                38718,
+                4527,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.5487499237060547,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.3125,
+        "cur_std": 0.338527250289917,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "cats sand, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                38718,
+                7537,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.552500009536743,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.412499904632568,
+        "cur_std": 0.3724132299423218,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "cats********, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                38718,
+                2015,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.523749828338623,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.190000057220459,
+        "cur_std": 0.3278164863586426,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "catsriet, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                38718,
+                47950,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.4649999141693115,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.432499885559082,
+        "cur_std": 0.3490400552749634,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "367riet, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                25140,
+                47950,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.56499981880188,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.597499847412109,
+        "cur_std": 0.34635357856750487,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " inversionriet, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                27697,
+                47950,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.557499885559082,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.147500038146973,
+        "cur_std": 0.3229264736175537,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "�riet, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                33656,
+                47950,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.518749952316284,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.109999656677246,
+        "cur_std": 0.32818601131439207,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "�contin, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                33656,
+                8190,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.422499895095825,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.882499694824219,
+        "cur_std": 0.3246104001998901,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "� Genesis, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                33656,
+                39184,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.536249876022339,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 4.949999809265137,
+        "cur_std": 0.34920544624328614,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Through Genesis, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                18852,
+                39184,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.536249876022339,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.639999866485596,
+        "cur_std": 0.3390479803085327,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Through promoters, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                18852,
+                28960,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.5425000190734863,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.730000019073486,
+        "cur_std": 0.355293345451355,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "� promoters, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                130,
+                28960,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.5425000190734863,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.15749979019165,
+        "cur_std": 0.3425368547439575,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "�ior, explain 'data storage' Usageough metaphor?",
+            "ids": [
+                130,
+                1528,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                43825,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.504999876022339,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 6.159999847412109,
+        "cur_std": 0.3745623826980591,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "�ior, explain 'data storage'generateough metaphor?",
+            "ids": [
+                130,
+                1528,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                16450,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.5774998664855957,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.522500038146973,
+        "cur_std": 0.35841429233551025,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "�ductory, explain 'data storage'generateough metaphor?",
+            "ids": [
+                130,
+                42418,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                16450,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.5774998664855957,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.69249963760376,
+        "cur_std": 0.36126978397369386,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " stretchductory, explain 'data storage'generateough metaphor?",
+            "ids": [
+                13726,
+                42418,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                16450,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.541249990463257,
+        "best_loss": 3.422499895095825,
+        "best_kl": 4.244999885559082,
+        "best_std": 0.3321566343307495,
+        "cur_kl": 5.289999961853027,
+        "cur_std": 0.3759284734725952,
+        "orig_prompt": {
+            "text": "Find a metaphor for the term \"data storage\".",
+            "ids": [
+                9867,
+                247,
+                27294,
+                323,
+                253,
+                1307,
+                346,
+                2203,
+                5718,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " stretchductory, explain 'data storage' methodough metaphor?",
+            "ids": [
+                13726,
+                42418,
+                13,
+                5513,
+                686,
+                2203,
+                5718,
+                8,
+                1332,
+                602,
+                27294,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.0
+    }
+]

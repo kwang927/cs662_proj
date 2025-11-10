@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.677500009536743,
+        "best_loss": 3.677500009536743,
+        "best_kl": 5.998749732971191,
+        "best_std": 0.47081656455993653,
+        "cur_kl": 6.154999732971191,
+        "cur_std": 0.4325974464416504,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com request a Christmas carol about jingling bells.",
+            "ids": [
+                2115,
+                2748,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                272,
+                1981,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -58.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.713749885559082,
+        "best_loss": 3.677500009536743,
+        "best_kl": 5.998749732971191,
+        "best_std": 0.47081656455993653,
+        "cur_kl": 6.22374963760376,
+        "cur_std": 0.3494598150253296,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com request a Christmas carol about jingithmic bells.",
+            "ids": [
+                2115,
+                2748,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                272,
+                29229,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.6937499046325684,
+        "best_loss": 3.677500009536743,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 5.791249752044678,
+        "cur_std": 0.36572301387786865,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com()), a Christmas carol about jingithmic bells.",
+            "ids": [
+                2115,
+                35632,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                272,
+                29229,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.677500009536743,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 6.518749713897705,
+        "cur_std": 0.3714876651763916,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com()), a Christmas carol about j windowsithmic bells.",
+            "ids": [
+                2115,
+                35632,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                8323,
+                29229,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.68999981880188,
+        "best_loss": 3.677500009536743,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 6.929999828338623,
+        "cur_std": 0.4152830123901367,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com()), a Christmas carol about j pancreaticithmic bells.",
+            "ids": [
+                2115,
+                35632,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                18404,
+                29229,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.728749990463257,
+        "best_loss": 3.677500009536743,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 6.731249809265137,
+        "cur_std": 0.40673537254333497,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com()), a Christmas carol about j pancreatic monkey bells.",
+            "ids": [
+                2115,
+                35632,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                18404,
+                28005,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.7174999713897705,
+        "best_loss": 3.677500009536743,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 7.231249809265137,
+        "cur_std": 0.4229726314544678,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com()), a Christmas carol about j pancreatic Solo bells.",
+            "ids": [
+                2115,
+                35632,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                18404,
+                46100,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.669999837875366,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 6.513750076293945,
+        "cur_std": 0.3817403316497803,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com()), a Christmas carol about j pancreaticophone bells.",
+            "ids": [
+                2115,
+                35632,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                18404,
+                41461,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.6649999618530273,
+        "best_loss": 3.6649999618530273,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 7.583749771118164,
+        "cur_std": 0.4015832424163818,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com {} a Christmas carol about j pancreaticophone bells.",
+            "ids": [
+                2115,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                18404,
+                41461,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 8.569999694824219,
+        "cur_std": 0.443988037109375,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com {} a Christmas carol about j pancreaticoche bells.",
+            "ids": [
+                2115,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                18404,
+                13807,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.7699999809265137,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 7.648749828338623,
+        "cur_std": 0.4208265781402588,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Com {} a Christmas carol about jANToche bells.",
+            "ids": [
+                2115,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                5656,
+                13807,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.706249952316284,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.791249752044678,
+        "best_std": 0.36572301387786865,
+        "cur_kl": 6.497499942779541,
+        "cur_std": 0.35998990535736086,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Tool {} a Christmas carol about jANToche bells.",
+            "ids": [
+                16235,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                5656,
+                13807,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.674999952316284,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 4.838749885559082,
+        "best_std": 0.31146695613861086,
+        "cur_kl": 4.838749885559082,
+        "cur_std": 0.31146695613861086,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol about jANToche bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                5656,
+                13807,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.6374998092651367,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 4.797499656677246,
+        "cur_std": 0.3259300231933594,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol about jantesoche bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                20302,
+                13807,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.607499837875366,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.748749732971191,
+        "cur_std": 0.33576054573059083,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol aboutsfantesoche bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                6091,
+                20302,
+                13807,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.651249885559082,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.703749656677246,
+        "cur_std": 0.32968482971191404,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol aboutsfantes candy bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                6091,
+                20302,
+                26996,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.625,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.432499885559082,
+        "cur_std": 0.3404515266418457,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol about Hussantes candy bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                44035,
+                20302,
+                26996,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.716249942779541,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.06374979019165,
+        "cur_std": 0.335247802734375,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol about Hussision candy bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                44035,
+                1297,
+                26996,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.6287498474121094,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.62624979019165,
+        "cur_std": 0.36499919891357424,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas caroljan Hussision candy bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                17551,
+                44035,
+                1297,
+                26996,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.740000009536743,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.021249771118164,
+        "cur_std": 0.36719598770141604,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas caroljan�ision candy bells.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                17551,
+                151,
+                1297,
+                26996,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.6362500190734863,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.877500057220459,
+        "cur_std": 0.3645210027694702,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas caroljan�ision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                17551,
+                151,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.101249694824219,
+        "cur_std": 0.33435304164886476,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carolde�ision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                615,
+                151,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.71875,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.861249923706055,
+        "cur_std": 0.33719773292541505,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol East�ision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                5791,
+                151,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.622499942779541,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.648749828338623,
+        "cur_std": 0.36194310188293455,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carolven�ision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                1261,
+                151,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.740000009536743,
+        "best_loss": 3.607499837875366,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.678750038146973,
+        "cur_std": 0.39377758502960203,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol�ision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                20006,
+                151,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.583750009536743,
+        "best_loss": 3.583750009536743,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.856249809265137,
+        "cur_std": 0.37257792949676516,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol minorision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                20006,
+                5884,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.7174999713897705,
+        "best_loss": 3.583750009536743,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.823750019073486,
+        "cur_std": 0.336158013343811,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carolrew minorision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                2663,
+                5884,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -109.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.6737499237060547,
+        "best_loss": 3.583750009536743,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.694999694824219,
+        "cur_std": 0.37732160091400146,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carolters minorision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                1336,
+                5884,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.619999885559082,
+        "best_loss": 3.583750009536743,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.457499980926514,
+        "cur_std": 0.37040627002716064,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas caroltersinision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                1336,
+                249,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.6374998092651367,
+        "best_loss": 3.583750009536743,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.066249847412109,
+        "cur_std": 0.3564983606338501,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol glucinision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                7124,
+                249,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.7300000190734863,
+        "best_loss": 3.583750009536743,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.952499866485596,
+        "cur_std": 0.34185497760772704,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol glucstiision candy calling.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                7124,
+                45994,
+                1297,
+                26996,
+                6789,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.6962499618530273,
+        "best_loss": 3.583750009536743,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.789999961853027,
+        "cur_std": 0.36553664207458497,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol glucstiision candy cardinal.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                7124,
+                45994,
+                1297,
+                26996,
+                26892,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.801249980926514,
+        "cur_std": 0.3551928043365479,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol glucstiaurant candy cardinal.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                7124,
+                45994,
+                28973,
+                26996,
+                26892,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.617499828338623,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.650000095367432,
+        "cur_std": 0.36518728733062744,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol glucsticript candy cardinal.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                7124,
+                45994,
+                1687,
+                26996,
+                26892,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.716249942779541,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.456249713897705,
+        "cur_std": 0.33492221832275393,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carol glucsticript candyuckle.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                7124,
+                45994,
+                1687,
+                26996,
+                47925,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.6575000286102295,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 5.741250038146973,
+        "cur_std": 0.34391472339630125,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carolownsticript candyuckle.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                45994,
+                1687,
+                26996,
+                47925,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.7300000190734863,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.092499732971191,
+        "cur_std": 0.34863379001617434,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates {} a Christmas carolown glycoscript candyuckle.",
+            "ids": [
+                15693,
+                12166,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                26988,
+                1687,
+                26996,
+                47925,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.748749732971191,
+        "cur_std": 0.36748571395874025,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates& a Christmas carolown glycoscript candyuckle.",
+            "ids": [
+                15693,
+                7,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                26988,
+                1687,
+                26996,
+                47925,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.708750009536743,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.792500019073486,
+        "cur_std": 0.36031088829040525,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates& a Christmas carolown glycoscript modeuckle.",
+            "ids": [
+                15693,
+                7,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                26988,
+                1687,
+                4438,
+                47925,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.7049999237060547,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.424999713897705,
+        "cur_std": 0.3311338186264038,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates& a Christmas carolownblcript modeuckle.",
+            "ids": [
+                15693,
+                7,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                1559,
+                1687,
+                4438,
+                47925,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.5612499713897705,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 7.162499904632568,
+        "cur_std": 0.36848936080932615,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates& a Christmas carolown Besscript modeuckle.",
+            "ids": [
+                15693,
+                7,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                45101,
+                1687,
+                4438,
+                47925,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.773749828338623,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.941249847412109,
+        "cur_std": 0.3498171091079712,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " generates& a Christmas carolown Besscript modeensed.",
+            "ids": [
+                15693,
+                7,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                45101,
+                1687,
+                4438,
+                8821,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.669999837875366,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.548749923706055,
+        "cur_std": 0.38144669532775877,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "INIT& a Christmas carolown Besscript modeensed.",
+            "ids": [
+                25844,
+                7,
+                247,
+                9449,
+                1113,
+                311,
+                628,
+                45101,
+                1687,
+                4438,
+                8821,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.771250009536743,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.917500019073486,
+        "cur_std": 0.41949124336242677,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "INIT&uff Christmas carolown Besscript modeensed.",
+            "ids": [
+                25844,
+                7,
+                2066,
+                9449,
+                1113,
+                311,
+                628,
+                45101,
+                1687,
+                4438,
+                8821,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.701249837875366,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 7.388749599456787,
+        "cur_std": 0.3806679964065552,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Resource&uff Christmas carolown Besscript modeensed.",
+            "ids": [
+                11133,
+                7,
+                2066,
+                9449,
+                1113,
+                311,
+                628,
+                45101,
+                1687,
+                4438,
+                8821,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.692499876022339,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 7.976249694824219,
+        "cur_std": 0.39569454193115233,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Resourcechetuff Christmas carolown Besscript modeensed.",
+            "ids": [
+                11133,
+                25742,
+                2066,
+                9449,
+                1113,
+                311,
+                628,
+                45101,
+                1687,
+                4438,
+                8821,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.692499876022339,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 7.476249694824219,
+        "cur_std": 0.41245102882385254,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Resourcechetuff Christmas carolown Besscript mode trim.",
+            "ids": [
+                11133,
+                25742,
+                2066,
+                9449,
+                1113,
+                311,
+                628,
+                45101,
+                1687,
+                4438,
+                13970,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.168749809265137,
+        "cur_std": 0.3729462862014771,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Resourcechetuff Christmas carolownousticcript mode trim.",
+            "ids": [
+                11133,
+                25742,
+                2066,
+                9449,
+                1113,
+                311,
+                628,
+                16623,
+                1687,
+                4438,
+                13970,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.677500009536743,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 6.671249866485596,
+        "cur_std": 0.38009440898895264,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Resourcechetuff Christmas carolownousticcript curve trim.",
+            "ids": [
+                11133,
+                25742,
+                2066,
+                9449,
+                1113,
+                311,
+                628,
+                16623,
+                1687,
+                6970,
+                13970,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 4.797499656677246,
+        "best_std": 0.3259300231933594,
+        "cur_kl": 7.611249923706055,
+        "cur_std": 0.4049835205078125,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Resourcechetuff Christmas carolownousticcript Bean trim.",
+            "ids": [
+                11133,
+                25742,
+                2066,
+                9449,
+                1113,
+                311,
+                628,
+                16623,
+                1687,
+                38102,
+                13970,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -118.5
+    }
+]

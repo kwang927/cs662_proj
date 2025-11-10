@@ -1,0 +1,2102 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.9099998474121094,
+        "best_loss": 3.9099998474121094,
+        "best_kl": 13.014999389648438,
+        "best_std": 0.6228176116943359,
+        "cur_kl": 13.014999389648438,
+        "cur_std": 0.6228176116943359,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about the nutritionalially of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                21989,
+                1365,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -50.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.8949999809265137,
+        "best_loss": 3.8949999809265137,
+        "best_kl": 12.699999809265137,
+        "best_std": 0.6030226707458496,
+        "cur_kl": 12.699999809265137,
+        "cur_std": 0.6030226707458496,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about the gutsially of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                43370,
+                1365,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -46.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.872499942779541,
+        "best_loss": 3.872499942779541,
+        "best_kl": 11.71500015258789,
+        "best_std": 0.5898662090301514,
+        "cur_kl": 11.71500015258789,
+        "cur_std": 0.5898662090301514,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about theIBILITYially of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                38761,
+                1365,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.869999885559082,
+        "best_loss": 3.869999885559082,
+        "best_kl": 11.609999656677246,
+        "best_std": 0.6234305381774903,
+        "cur_kl": 11.609999656677246,
+        "cur_std": 0.6234305381774903,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about theIBILITY definition of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -48.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.8274998664855957,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 10.40999984741211,
+        "cur_std": 0.5892719745635986,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Little about theIBILITY definition of potatoes",
+            "ids": [
+                25392,
+                670,
+                253,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -51.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.8550000190734863,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.550000190734863,
+        "cur_std": 0.6510869026184082,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Little aboutSeriesIBILITY definition of potatoes",
+            "ids": [
+                25392,
+                670,
+                30301,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.859999895095825,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.045000076293945,
+        "cur_std": 0.6527755260467529,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Little about salivIBILITY definition of potatoes",
+            "ids": [
+                25392,
+                670,
+                36203,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.862499952316284,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.449999809265137,
+        "cur_std": 0.6707262516021728,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Little about676IBILITY definition of potatoes",
+            "ids": [
+                25392,
+                670,
+                29462,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.8349997997283936,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 10.72499942779541,
+        "cur_std": 0.6551418781280518,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Little aboutVARIBILITY definition of potatoes",
+            "ids": [
+                25392,
+                670,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -60.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.8399999141693115,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 10.989999771118164,
+        "cur_std": 0.634328556060791,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Little KimVARIBILITY definition of potatoes",
+            "ids": [
+                25392,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.8474998474121094,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.50999927520752,
+        "cur_std": 0.631375789642334,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Else KimVARIBILITY definition of potatoes",
+            "ids": [
+                45953,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.53499984741211,
+        "cur_std": 0.6483956336975097,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "redit KimVARIBILITY definition of potatoes",
+            "ids": [
+                12289,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.8474998474121094,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.13499927520752,
+        "cur_std": 0.6386085987091065,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Mind KimVARIBILITY definition of potatoes",
+            "ids": [
+                18296,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.8424999713897705,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.404999732971191,
+        "cur_std": 0.6414430618286133,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "359 KimVARIBILITY definition of potatoes",
+            "ids": [
+                24454,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.429999351501465,
+        "cur_std": 0.635841178894043,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "water KimVARIBILITY definition of potatoes",
+            "ids": [
+                7779,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.859999895095825,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.75999927520752,
+        "cur_std": 0.6565705299377441,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "51 KimVARIBILITY definition of potatoes",
+            "ids": [
+                3712,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.867499828338623,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.755000114440918,
+        "cur_std": 0.6858782768249512,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "remove KimVARIBILITY definition of potatoes",
+            "ids": [
+                12163,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.524999618530273,
+        "cur_std": 0.6492176532745362,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "zk KimVARIBILITY definition of potatoes",
+            "ids": [
+                32786,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.862499952316284,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.979999542236328,
+        "cur_std": 0.6484604835510254,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " completing KimVARIBILITY definition of potatoes",
+            "ids": [
+                21006,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.865000009536743,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 12.119999885559082,
+        "cur_std": 0.6371147155761718,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " likely KimVARIBILITY definition of potatoes",
+            "ids": [
+                2779,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.8399999141693115,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.375,
+        "cur_std": 0.6541775226593017,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "otics KimVARIBILITY definition of potatoes",
+            "ids": [
+                20290,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.809999465942383,
+        "cur_std": 0.6487664699554443,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "bottom KimVARIBILITY definition of potatoes",
+            "ids": [
+                10492,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.1899995803833,
+        "cur_std": 0.635950756072998,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Ryan KimVARIBILITY definition of potatoes",
+            "ids": [
+                38200,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.8399999141693115,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.579999923706055,
+        "cur_std": 0.6465417385101319,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Og KimVARIBILITY definition of potatoes",
+            "ids": [
+                29256,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.841249942779541,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.164999961853027,
+        "cur_std": 0.6705211639404297,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Full KimVARIBILITY definition of potatoes",
+            "ids": [
+                16135,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.239999771118164,
+        "cur_std": 0.6068830966949463,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "follow KimVARIBILITY definition of potatoes",
+            "ids": [
+                25739,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.8374998569488525,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 10.644999504089355,
+        "cur_std": 0.6801401615142822,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg KimVARIBILITY definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                26205,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.639999389648438,
+        "cur_std": 0.7126235961914062,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg KimelsenIBILITY definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                46323,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.859999895095825,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 12.069999694824219,
+        "cur_std": 0.7002532005310058,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim behavesIBILITY definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                37824,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.869999885559082,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.914999961853027,
+        "cur_std": 0.7482657909393311,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim 285IBILITY definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                27360,
+                38761,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 10.885000228881836,
+        "cur_std": 0.6943805694580079,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim 285 startling definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                27360,
+                42390,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.8550000190734863,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.300000190734863,
+        "cur_std": 0.7166842460632324,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim 285ample definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                27360,
+                4636,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.862499952316284,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.219999313354492,
+        "cur_std": 0.7002640247344971,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim 285 eighth definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                27360,
+                23738,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.867499828338623,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.920000076293945,
+        "cur_std": 0.7154753684997559,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim 28532 definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                27360,
+                1237,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -57.75
+    },
+    {
+        "epoch": 35,
+        "loss": 3.857499837875366,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.4399995803833,
+        "cur_std": 0.724683141708374,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim 285ourses definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                27360,
+                34911,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.609999656677246,
+        "cur_std": 0.713385009765625,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg Kim 285ido definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                27360,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.09999942779541,
+        "cur_std": 0.6613041877746582,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Greg KimATIONido definition of potatoes",
+            "ids": [
+                33612,
+                10766,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.545000076293945,
+        "cur_std": 0.6262399673461914,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " GR KimATIONido definition of potatoes",
+            "ids": [
+                9942,
+                10766,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.862499952316284,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.944999694824219,
+        "cur_std": 0.6455322265625,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Beau KimATIONido definition of potatoes",
+            "ids": [
+                42224,
+                10766,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.865000009536743,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.969999313354492,
+        "cur_std": 0.6606096267700196,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Beau HoustonATIONido definition of potatoes",
+            "ids": [
+                42224,
+                14296,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.469999313354492,
+        "cur_std": 0.6770710945129395,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " BeauPRATIONido definition of potatoes",
+            "ids": [
+                42224,
+                3175,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.594999313354492,
+        "cur_std": 0.67460036277771,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " REDPRATIONido definition of potatoes",
+            "ids": [
+                40559,
+                3175,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.425000190734863,
+        "cur_std": 0.6406820774078369,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " REDvingATIONido definition of potatoes",
+            "ids": [
+                40559,
+                1382,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.862499952316284,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.594999313354492,
+        "cur_std": 0.6394716262817383,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " RED reboundATIONido definition of potatoes",
+            "ids": [
+                40559,
+                44789,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.882499933242798,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 12.00999927520752,
+        "cur_std": 0.6881750106811524,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " RED628ATIONido definition of potatoes",
+            "ids": [
+                40559,
+                49758,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.229999542236328,
+        "cur_std": 0.6534453868865967,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " REDwillATIONido definition of potatoes",
+            "ids": [
+                40559,
+                9846,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.8550000190734863,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.5649995803833,
+        "cur_std": 0.6714470863342286,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " RED NATIONido definition of potatoes",
+            "ids": [
+                40559,
+                427,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -59.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.8550000190734863,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.5649995803833,
+        "cur_std": 0.6565002918243408,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " REDīATIONido definition of potatoes",
+            "ids": [
+                40559,
+                10271,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.857499837875366,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.78499984741211,
+        "cur_std": 0.6487850189208985,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "queeīATIONido definition of potatoes",
+            "ids": [
+                39757,
+                10271,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8274998664855957,
+        "best_kl": 10.40999984741211,
+        "best_std": 0.5892719745635986,
+        "cur_kl": 11.199999809265137,
+        "cur_std": 0.638970136642456,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "quee strainsATIONido definition of potatoes",
+            "ids": [
+                39757,
+                8709,
+                6570,
+                7112,
+                5426,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.5
+    }
+]

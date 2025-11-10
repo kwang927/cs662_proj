@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 2.65625,
+        "best_loss": 2.65625,
+        "best_kl": 5.592499732971191,
+        "best_std": 0.33974244594573977,
+        "cur_kl": 5.592499732971191,
+        "cur_std": 0.33974244594573977,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Can696 have a simple recipe to make banana bread?",
+            "ids": [
+                5804,
+                30651,
+                452,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -54.5
+    },
+    {
+        "epoch": 2,
+        "loss": 2.6549999713897705,
+        "best_loss": 2.6549999713897705,
+        "best_kl": 5.025000095367432,
+        "best_std": 0.3879579544067383,
+        "cur_kl": 5.025000095367432,
+        "cur_std": 0.3879579544067383,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "’696 have a simple recipe to make banana bread?",
+            "ids": [
+                457,
+                30651,
+                452,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -62.5
+    },
+    {
+        "epoch": 3,
+        "loss": 2.6424999237060547,
+        "best_loss": 2.6424999237060547,
+        "best_kl": 4.727499961853027,
+        "best_std": 0.37155990600585936,
+        "cur_kl": 4.727499961853027,
+        "cur_std": 0.37155990600585936,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "’696 logic a simple recipe to make banana bread?",
+            "ids": [
+                457,
+                30651,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 4,
+        "loss": 2.6449999809265137,
+        "best_loss": 2.6424999237060547,
+        "best_kl": 4.727499961853027,
+        "best_std": 0.37155990600585936,
+        "cur_kl": 4.982500076293945,
+        "cur_std": 0.40994973182678224,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "’ont logic a simple recipe to make banana bread?",
+            "ids": [
+                457,
+                834,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 5,
+        "loss": 2.668750047683716,
+        "best_loss": 2.6424999237060547,
+        "best_kl": 4.727499961853027,
+        "best_std": 0.37155990600585936,
+        "cur_kl": 6.039999961853027,
+        "cur_std": 0.34744231700897216,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " describeont logic a simple recipe to make banana bread?",
+            "ids": [
+                6266,
+                834,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 6,
+        "loss": 2.643749952316284,
+        "best_loss": 2.6424999237060547,
+        "best_kl": 4.727499961853027,
+        "best_std": 0.37155990600585936,
+        "cur_kl": 4.773749828338623,
+        "cur_std": 0.3388310670852661,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " oftenont logic a simple recipe to make banana bread?",
+            "ids": [
+                2223,
+                834,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 7,
+        "loss": 2.637500047683716,
+        "best_loss": 2.637500047683716,
+        "best_kl": 4.512499809265137,
+        "best_std": 0.32069556713104247,
+        "cur_kl": 4.512499809265137,
+        "cur_std": 0.32069556713104247,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "シ�ont logic a simple recipe to make banana bread?",
+            "ids": [
+                35259,
+                834,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 8,
+        "loss": 2.6362500190734863,
+        "best_loss": 2.6362500190734863,
+        "best_kl": 4.264999866485596,
+        "best_std": 0.3220989227294922,
+        "cur_kl": 4.264999866485596,
+        "cur_std": 0.3220989227294922,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "シ�ku logic a simple recipe to make banana bread?",
+            "ids": [
+                35259,
+                13312,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 9,
+        "loss": 2.6212499141693115,
+        "best_loss": 2.6212499141693115,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 3.929999828338623,
+        "cur_std": 0.31148226261138917,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "シ� arise logic a simple recipe to make banana bread?",
+            "ids": [
+                35259,
+                12893,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 10,
+        "loss": 2.6212499141693115,
+        "best_loss": 2.6212499141693115,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.227499961853027,
+        "cur_std": 0.3136840105056763,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " discovery arise logic a simple recipe to make banana bread?",
+            "ids": [
+                8900,
+                12893,
+                9317,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 11,
+        "loss": 2.6212499141693115,
+        "best_loss": 2.6212499141693115,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.494999885559082,
+        "cur_std": 0.31546783447265625,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " discovery arise accumulate a simple recipe to make banana bread?",
+            "ids": [
+                8900,
+                12893,
+                29010,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 12,
+        "loss": 2.6187498569488525,
+        "best_loss": 2.6187498569488525,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.5,
+        "cur_std": 0.32748658657073976,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " consider arise accumulate a simple recipe to make banana bread?",
+            "ids": [
+                1908,
+                12893,
+                29010,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 13,
+        "loss": 2.609999895095825,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.276249885559082,
+        "cur_std": 0.33562796115875243,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " consider arise summarized a simple recipe to make banana bread?",
+            "ids": [
+                1908,
+                12893,
+                17903,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 14,
+        "loss": 2.632499933242798,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.861249923706055,
+        "cur_std": 0.3244600296020508,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "}^\\ arise summarized a simple recipe to make banana bread?",
+            "ids": [
+                9616,
+                12893,
+                17903,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 15,
+        "loss": 2.6237499713897705,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.347499847412109,
+        "cur_std": 0.33106987476348876,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "tte arise summarized a simple recipe to make banana bread?",
+            "ids": [
+                38489,
+                12893,
+                17903,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 16,
+        "loss": 2.615000009536743,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.027499675750732,
+        "cur_std": 0.33414473533630373,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " moving arise summarized a simple recipe to make banana bread?",
+            "ids": [
+                4886,
+                12893,
+                17903,
+                247,
+                2969,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 17,
+        "loss": 2.6475000381469727,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 5.269999980926514,
+        "cur_std": 0.3307605266571045,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " moving arise summarized a hit recipe to make banana bread?",
+            "ids": [
+                4886,
+                12893,
+                17903,
+                247,
+                4352,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 18,
+        "loss": 2.6312499046325684,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.787499904632568,
+        "cur_std": 0.32826402187347414,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " moving arise summarized aractical recipe to make banana bread?",
+            "ids": [
+                4886,
+                12893,
+                17903,
+                247,
+                26080,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 19,
+        "loss": 2.6312499046325684,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.767499923706055,
+        "cur_std": 0.324353551864624,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "sembles arise summarized aractical recipe to make banana bread?",
+            "ids": [
+                40275,
+                12893,
+                17903,
+                247,
+                26080,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 20,
+        "loss": 2.6337499618530273,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.65749979019165,
+        "cur_std": 0.34582018852233887,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "sembles arise summarized a formidable recipe to make banana bread?",
+            "ids": [
+                40275,
+                12893,
+                17903,
+                247,
+                36418,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 21,
+        "loss": 2.627500057220459,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.6875,
+        "cur_std": 0.33000946044921875,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " STE arise summarized a formidable recipe to make banana bread?",
+            "ids": [
+                45740,
+                12893,
+                17903,
+                247,
+                36418,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 22,
+        "loss": 2.622499942779541,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.324999809265137,
+        "cur_std": 0.32647297382354734,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " STE checks summarized a formidable recipe to make banana bread?",
+            "ids": [
+                45740,
+                12255,
+                17903,
+                247,
+                36418,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 23,
+        "loss": 2.6262500286102295,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.534999847412109,
+        "cur_std": 0.31414506435394285,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " STE completes summarized a formidable recipe to make banana bread?",
+            "ids": [
+                45740,
+                29141,
+                17903,
+                247,
+                36418,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 24,
+        "loss": 2.6187498569488525,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.317500114440918,
+        "cur_std": 0.3179569959640503,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " moves completes summarized a formidable recipe to make banana bread?",
+            "ids": [
+                9727,
+                29141,
+                17903,
+                247,
+                36418,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 25,
+        "loss": 2.625,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.577499866485596,
+        "cur_std": 0.29868600368499754,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " moves completes summarized a routine recipe to make banana bread?",
+            "ids": [
+                9727,
+                29141,
+                17903,
+                247,
+                10934,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 26,
+        "loss": 2.622499942779541,
+        "best_loss": 2.609999895095825,
+        "best_kl": 3.929999828338623,
+        "best_std": 0.31148226261138917,
+        "cur_kl": 4.292500019073486,
+        "cur_std": 0.299200439453125,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " movesNext summarized a routine recipe to make banana bread?",
+            "ids": [
+                9727,
+                9301,
+                17903,
+                247,
+                10934,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 27,
+        "loss": 2.5999999046325684,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.7149999141693115,
+        "best_std": 0.32086567878723143,
+        "cur_kl": 3.7149999141693115,
+        "cur_std": 0.32086567878723143,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " movesNext summarized a essential recipe to make banana bread?",
+            "ids": [
+                9727,
+                9301,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 28,
+        "loss": 2.601249933242798,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 3.507499933242798,
+        "cur_std": 0.32305078506469725,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "orderingNext summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                9301,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 29,
+        "loss": 2.619999885559082,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.214999675750732,
+        "cur_std": 0.3213964939117432,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering discard summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                37271,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 30,
+        "loss": 2.6212499141693115,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.317500114440918,
+        "cur_std": 0.3205671787261963,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "orderingTER summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                4827,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 31,
+        "loss": 2.6112499237060547,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 3.990000009536743,
+        "cur_std": 0.3167647123336792,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "orderingverter summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                20043,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 32,
+        "loss": 2.619999885559082,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.147500038146973,
+        "cur_std": 0.3194474220275879,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering bo summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                1766,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 33,
+        "loss": 2.615000009536743,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.380000114440918,
+        "cur_std": 0.30537028312683107,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Equations bo summarized a essential recipe to make banana bread?",
+            "ids": [
+                40242,
+                1766,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 34,
+        "loss": 2.646250009536743,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.892499923706055,
+        "cur_std": 0.3386927843093872,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Next bo summarized a essential recipe to make banana bread?",
+            "ids": [
+                10209,
+                1766,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 35,
+        "loss": 2.6287498474121094,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.502500057220459,
+        "cur_std": 0.34188821315765383,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Nextars summarized a essential recipe to make banana bread?",
+            "ids": [
+                10209,
+                1032,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 36,
+        "loss": 2.6475000381469727,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 5.579999923706055,
+        "cur_std": 0.3204494953155518,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Computars summarized a essential recipe to make banana bread?",
+            "ids": [
+                24408,
+                1032,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 37,
+        "loss": 2.6262500286102295,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.387499809265137,
+        "cur_std": 0.34350712299346925,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "TOars summarized a essential recipe to make banana bread?",
+            "ids": [
+                7058,
+                1032,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 38,
+        "loss": 2.6212499141693115,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.007499694824219,
+        "cur_std": 0.3307180404663086,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "TO formula summarized a essential recipe to make banana bread?",
+            "ids": [
+                7058,
+                7212,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 39,
+        "loss": 2.6237499713897705,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.28249979019165,
+        "cur_std": 0.3401510238647461,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Dest formula summarized a essential recipe to make banana bread?",
+            "ids": [
+                22482,
+                7212,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 40,
+        "loss": 2.617499828338623,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.089999675750732,
+        "cur_std": 0.3246116638183594,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering formula summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                7212,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 41,
+        "loss": 2.6087498664855957,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 3.9700000286102295,
+        "cur_std": 0.3149731636047363,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering GRANT summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                44646,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 42,
+        "loss": 2.6050000190734863,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 3.6624999046325684,
+        "cur_std": 0.31158957481384275,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering table summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                2829,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 43,
+        "loss": 2.6137499809265137,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.309999942779541,
+        "cur_std": 0.3244287967681885,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering 1986 summarized a essential recipe to make banana bread?",
+            "ids": [
+                48539,
+                12140,
+                17903,
+                247,
+                5667,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 44,
+        "loss": 2.627500057220459,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.637499809265137,
+        "cur_std": 0.34144253730773927,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering 1986 summarized athe recipe to make banana bread?",
+            "ids": [
+                48539,
+                12140,
+                17903,
+                247,
+                783,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 45,
+        "loss": 2.6399998664855957,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 5.384999752044678,
+        "cur_std": 0.3381175518035889,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ordering 1986 summarized completenessthe recipe to make banana bread?",
+            "ids": [
+                48539,
+                12140,
+                17903,
+                29867,
+                783,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 46,
+        "loss": 2.625,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.739999771118164,
+        "cur_std": 0.32806289196014404,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "orderinguality summarized completenessthe recipe to make banana bread?",
+            "ids": [
+                48539,
+                10982,
+                17903,
+                29867,
+                783,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 47,
+        "loss": 2.6399998664855957,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 5.069999694824219,
+        "cur_std": 0.35985546112060546,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "orderinguality summarizedzelthe recipe to make banana bread?",
+            "ids": [
+                48539,
+                10982,
+                17903,
+                21608,
+                783,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 48,
+        "loss": 2.6262500286102295,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.634999752044678,
+        "cur_std": 0.3456698179244995,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "orderinguality summarized precisethe recipe to make banana bread?",
+            "ids": [
+                48539,
+                10982,
+                17903,
+                10799,
+                783,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 49,
+        "loss": 2.612499952316284,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.132499694824219,
+        "cur_std": 0.33163306713104246,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "orderinguality summarized Secondthe recipe to make banana bread?",
+            "ids": [
+                48539,
+                10982,
+                17903,
+                6347,
+                783,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 50,
+        "loss": 2.632499933242798,
+        "best_loss": 2.5999999046325684,
+        "best_kl": 3.507499933242798,
+        "best_std": 0.32305078506469725,
+        "cur_kl": 4.602499961853027,
+        "cur_std": 0.3439428091049194,
+        "orig_prompt": {
+            "text": "Create a three-step recipe for making banana bread.",
+            "ids": [
+                9395,
+                247,
+                1264,
+                14,
+                10539,
+                13612,
+                323,
+                2403,
+                36767,
+                10238,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " neighborsuality summarized Secondthe recipe to make banana bread?",
+            "ids": [
+                15833,
+                10982,
+                17903,
+                6347,
+                783,
+                13612,
+                281,
+                1056,
+                36767,
+                10238,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.0
+    }
+]

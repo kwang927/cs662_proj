@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 2.817499876022339,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.809999942779541,
+        "best_std": 0.37042019367218015,
+        "cur_kl": 6.724999904632568,
+        "cur_std": 0.3869314193725586,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How can Viking aerate soil in my garden?",
+            "ids": [
+                2347,
+                476,
+                44567,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -48.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.1937499046325684,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.574999809265137,
+        "best_std": 0.3914732217788696,
+        "cur_kl": 5.574999809265137,
+        "cur_std": 0.3914732217788696,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How can adjustments aerate soil in my garden?",
+            "ids": [
+                2347,
+                476,
+                23927,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -48.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.3137500286102295,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 5.480000019073486,
+        "cur_std": 0.35390462875366213,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How can adjustments aerate soil inURE garden?",
+            "ids": [
+                2347,
+                476,
+                23927,
+                247,
+                5034,
+                8825,
+                275,
+                10860,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 4,
+        "loss": 2.9674999713897705,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 6.605000019073486,
+        "cur_std": 0.38417530059814453,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " tiny can adjustments aerate soil inURE garden?",
+            "ids": [
+                10058,
+                476,
+                23927,
+                247,
+                5034,
+                8825,
+                275,
+                10860,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.372499942779541,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 10.704999923706055,
+        "cur_std": 0.45316481590270996,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " tiny can adjustments aerate结 inURE garden?",
+            "ids": [
+                10058,
+                476,
+                23927,
+                247,
+                5034,
+                43799,
+                275,
+                10860,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.4774999618530273,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 12.639999389648438,
+        "cur_std": 0.5206387042999268,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " tiny can adjustments aerate结 in VS garden?",
+            "ids": [
+                10058,
+                476,
+                23927,
+                247,
+                5034,
+                43799,
+                275,
+                29151,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.4237499237060547,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 11.489999771118164,
+        "cur_std": 0.5106432914733887,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon can adjustments aerate结 in VS garden?",
+            "ids": [
+                21880,
+                476,
+                23927,
+                247,
+                5034,
+                43799,
+                275,
+                29151,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.3424999713897705,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.2549991607666,
+        "cur_std": 0.5760144710540771,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon can adjustments aerate结 in VS antimicrobial?",
+            "ids": [
+                21880,
+                476,
+                23927,
+                247,
+                5034,
+                43799,
+                275,
+                29151,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.492499828338623,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.35999870300293,
+        "cur_std": 0.5554632663726806,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon Hod adjustments aerate结 in VS antimicrobial?",
+            "ids": [
+                21880,
+                28940,
+                23927,
+                247,
+                5034,
+                43799,
+                275,
+                29151,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -109.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.369999885559082,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 15.364999771118164,
+        "cur_std": 0.5343198776245117,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon stake adjustments aerate结 in VS antimicrobial?",
+            "ids": [
+                21880,
+                13841,
+                23927,
+                247,
+                5034,
+                43799,
+                275,
+                29151,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.351249933242798,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 19.829999923706055,
+        "cur_std": 0.7492157936096191,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon stake adjustments awoman结 in VS antimicrobial?",
+            "ids": [
+                21880,
+                13841,
+                23927,
+                247,
+                17217,
+                43799,
+                275,
+                29151,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.625,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 19.850000381469727,
+        "cur_std": 0.7200063228607178,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon stake adjustmentsAggwoman结 in VS antimicrobial?",
+            "ids": [
+                21880,
+                13841,
+                23927,
+                35619,
+                17217,
+                43799,
+                275,
+                29151,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.734999895095825,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 18.329999923706055,
+        "cur_std": 0.6863834381103515,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon stake adjustmentsAggwoman结 instorage antimicrobial?",
+            "ids": [
+                21880,
+                13841,
+                23927,
+                35619,
+                17217,
+                43799,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.6262500286102295,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 17.09000015258789,
+        "cur_std": 0.6564512729644776,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon stake TillAggwoman结 instorage antimicrobial?",
+            "ids": [
+                21880,
+                13841,
+                33050,
+                35619,
+                17217,
+                43799,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.317499876022339,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 15.114999771118164,
+        "cur_std": 0.6236036777496338,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon stake TillAggwoman herbs instorage antimicrobial?",
+            "ids": [
+                21880,
+                13841,
+                33050,
+                35619,
+                17217,
+                27495,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.4149999618530273,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 14.9399995803833,
+        "cur_std": 0.6054583549499511,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "poon stake TillAggige herbs instorage antimicrobial?",
+            "ids": [
+                21880,
+                13841,
+                33050,
+                35619,
+                9236,
+                27495,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.6737499237060547,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 15.449999809265137,
+        "cur_std": 0.6282692432403565,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " haul stake TillAggige herbs instorage antimicrobial?",
+            "ids": [
+                36734,
+                13841,
+                33050,
+                35619,
+                9236,
+                27495,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.3712499141693115,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 15.9399995803833,
+        "cur_std": 0.6395342826843262,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " haul stake TillAggimm herbs instorage antimicrobial?",
+            "ids": [
+                36734,
+                13841,
+                33050,
+                35619,
+                12784,
+                27495,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.5425000190734863,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.34000015258789,
+        "cur_std": 0.6584293842315674,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " haul stake TillAgg ceremonies herbs instorage antimicrobial?",
+            "ids": [
+                36734,
+                13841,
+                33050,
+                35619,
+                39781,
+                27495,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.504999876022339,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.03499984741211,
+        "cur_std": 0.6343793392181396,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " haul stake TillAgg Wat herbs instorage antimicrobial?",
+            "ids": [
+                36734,
+                13841,
+                33050,
+                35619,
+                11327,
+                27495,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.6875,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 14.904999732971191,
+        "cur_std": 0.6219347000122071,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " haul stake TillAggground herbs instorage antimicrobial?",
+            "ids": [
+                36734,
+                13841,
+                33050,
+                35619,
+                2595,
+                27495,
+                275,
+                22214,
+                23945,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.484999895095825,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 14.744999885559082,
+        "cur_std": 0.6308362007141113,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " haul stake TillAggground herbs instorage they?",
+            "ids": [
+                36734,
+                13841,
+                33050,
+                35619,
+                2595,
+                27495,
+                275,
+                22214,
+                597,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.612499952316284,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 15.289999961853027,
+        "cur_std": 0.6817305564880372,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " haul stake StarAggground herbs instorage they?",
+            "ids": [
+                36734,
+                13841,
+                8141,
+                35619,
+                2595,
+                27495,
+                275,
+                22214,
+                597,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.7224998474121094,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 17.09000015258789,
+        "cur_std": 0.7300332546234131,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence stake StarAggground herbs instorage they?",
+            "ids": [
+                34306,
+                13841,
+                8141,
+                35619,
+                2595,
+                27495,
+                275,
+                22214,
+                597,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.322499990463257,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.1299991607666,
+        "cur_std": 0.7115788459777832,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence stake StarAggground herbs instorage portions?",
+            "ids": [
+                34306,
+                13841,
+                8141,
+                35619,
+                2595,
+                27495,
+                275,
+                22214,
+                11821,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.4837498664855957,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 15.979999542236328,
+        "cur_std": 0.7285283088684082,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence stake StarAggground herbsinfstorage portions?",
+            "ids": [
+                34306,
+                13841,
+                8141,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                11821,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.4962499141693115,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.104999542236328,
+        "cur_std": 0.6849498748779297,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence stake countryAggground herbsinfstorage portions?",
+            "ids": [
+                34306,
+                13841,
+                2586,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                11821,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.583750009536743,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.625,
+        "cur_std": 0.6955986022949219,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence stake countryAggground herbsinfstorageuminous?",
+            "ids": [
+                34306,
+                13841,
+                2586,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                47524,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.5774998664855957,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.645000457763672,
+        "cur_std": 0.7101107597351074,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence stake countryAggground herbsinfstorageergy?",
+            "ids": [
+                34306,
+                13841,
+                2586,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.4624998569488525,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 16.299999237060547,
+        "cur_std": 0.7050682067871094,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence spraying countryAggground herbsinfstorageergy?",
+            "ids": [
+                34306,
+                45747,
+                2586,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.4524998664855957,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 15.38499927520752,
+        "cur_std": 0.6492363452911377,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceinse countryAggground herbsinfstorageergy?",
+            "ids": [
+                34306,
+                38424,
+                2586,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.3737499713897705,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 14.944999694824219,
+        "cur_std": 0.650985860824585,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceinseiveAggground herbsinfstorageergy?",
+            "ids": [
+                34306,
+                38424,
+                422,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.6424999237060547,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.814998626708984,
+        "cur_std": 0.8369514465332031,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceinseiveAggground herbsinfstorageergy CRC",
+            "ids": [
+                34306,
+                38424,
+                422,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                22023
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.607499837875366,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.799999237060547,
+        "cur_std": 0.8543413162231446,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceinselingsAggground herbsinfstorageergy CRC",
+            "ids": [
+                34306,
+                38424,
+                13713,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                22023
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.6937499046325684,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.639999389648438,
+        "cur_std": 0.838561725616455,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offence vanishlingsAggground herbsinfstorageergy CRC",
+            "ids": [
+                34306,
+                29259,
+                13713,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                22023
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.4499998092651367,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 19.079999923706055,
+        "cur_std": 0.7763785362243653,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderlingsAggground herbsinfstorageergy CRC",
+            "ids": [
+                34306,
+                10117,
+                13713,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                2124,
+                22023
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.53374981880188,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 18.55500030517578,
+        "cur_std": 0.7542102813720704,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderlingsAggground herbsinfstorage rings CRC",
+            "ids": [
+                34306,
+                10117,
+                13713,
+                35619,
+                2595,
+                27495,
+                2050,
+                22214,
+                14445,
+                22023
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.5149998664855957,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 19.174999237060547,
+        "cur_std": 0.7421772003173828,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderlings 212ground herbsinfstorage rings CRC",
+            "ids": [
+                34306,
+                10117,
+                13713,
+                21990,
+                2595,
+                27495,
+                2050,
+                22214,
+                14445,
+                22023
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.742499828338623,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 18.329999923706055,
+        "cur_std": 0.7055773735046387,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderlings 212ground herbsinfstorage rings772",
+            "ids": [
+                34306,
+                10117,
+                13713,
+                21990,
+                2595,
+                27495,
+                2050,
+                22214,
+                14445,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.5112500190734863,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 17.549999237060547,
+        "cur_std": 0.6985013008117675,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderlings Listground herbsinfstorage rings772",
+            "ids": [
+                34306,
+                10117,
+                13713,
+                5552,
+                2595,
+                27495,
+                2050,
+                22214,
+                14445,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.6050000190734863,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 18.5,
+        "cur_std": 0.7107756614685059,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceoundervasive Listground herbsinfstorage rings772",
+            "ids": [
+                34306,
+                10117,
+                34850,
+                5552,
+                2595,
+                27495,
+                2050,
+                22214,
+                14445,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.6837499141693115,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 17.85999870300293,
+        "cur_std": 0.7016603469848632,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderitat Listground herbsinfstorage rings772",
+            "ids": [
+                34306,
+                10117,
+                33101,
+                5552,
+                2595,
+                27495,
+                2050,
+                22214,
+                14445,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.46875,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 17.654998779296875,
+        "cur_std": 0.6959368228912354,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderitat Listground herbsinfstorage parch772",
+            "ids": [
+                34306,
+                10117,
+                33101,
+                5552,
+                2595,
+                27495,
+                2050,
+                22214,
+                44959,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.598749876022339,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.329999923706055,
+        "cur_std": 0.7620486736297607,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " offenceounderitat Listground peroxidaseinfstorage parch772",
+            "ids": [
+                34306,
+                10117,
+                33101,
+                5552,
+                2595,
+                34596,
+                2050,
+                22214,
+                44959,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.672499895095825,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 19.42249870300293,
+        "cur_std": 0.7595993518829346,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " ultimatelyounderitat Listground peroxidaseinfstorage parch772",
+            "ids": [
+                9142,
+                10117,
+                33101,
+                5552,
+                2595,
+                34596,
+                2050,
+                22214,
+                44959,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.643749952316284,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.2549991607666,
+        "cur_std": 0.7853614807128906,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " ultimatelyounderitat Listground peroxidaseinflı parch772",
+            "ids": [
+                9142,
+                10117,
+                33101,
+                5552,
+                2595,
+                34596,
+                2050,
+                41189,
+                44959,
+                36936
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.4800000190734863,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.989999771118164,
+        "cur_std": 0.824252986907959,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " ultimatelyounderitat Listground peroxidaseinflı parch Midwest",
+            "ids": [
+                9142,
+                10117,
+                33101,
+                5552,
+                2595,
+                34596,
+                2050,
+                41189,
+                44959,
+                39030
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.509999990463257,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.334999084472656,
+        "cur_std": 0.8596467971801758,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " ultimatelyounderitat Listground peroxidaseinfking parch Midwest",
+            "ids": [
+                9142,
+                10117,
+                33101,
+                5552,
+                2595,
+                34596,
+                2050,
+                4351,
+                44959,
+                39030
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.711249828338623,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.18000030517578,
+        "cur_std": 0.8241775512695313,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " afterwardounderitat Listground peroxidaseinfking parch Midwest",
+            "ids": [
+                28279,
+                10117,
+                33101,
+                5552,
+                2595,
+                34596,
+                2050,
+                4351,
+                44959,
+                39030
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.5124998092651367,
+        "best_loss": 2.817499876022339,
+        "best_kl": 5.480000019073486,
+        "best_std": 0.35390462875366213,
+        "cur_kl": 20.28499984741211,
+        "cur_std": 0.8010174751281738,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " afterwardounderitat Listground peroxidaseinf hanging parch Midwest",
+            "ids": [
+                28279,
+                10117,
+                33101,
+                5552,
+                2595,
+                34596,
+                2050,
+                14203,
+                44959,
+                39030
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    }
+]

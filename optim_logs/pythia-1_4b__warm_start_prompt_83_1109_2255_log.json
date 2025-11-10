@@ -1,0 +1,2452 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.2874999046325684,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 2.523749828338623,
+        "cur_std": 0.3577280521392822,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Riscuss how the color blue is represented in nature.",
+            "ids": [
+                51,
+                8552,
+                849,
+                253,
+                3295,
+                4797,
+                310,
+                6607,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -45.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.31499981880188,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.319999933242798,
+        "cur_std": 0.41023955345153806,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Riscuss how abundant color blue is represented in nature.",
+            "ids": [
+                51,
+                8552,
+                849,
+                17829,
+                3295,
+                4797,
+                310,
+                6607,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -62.75
+    },
+    {
+        "epoch": 3,
+        "loss": 3.326249837875366,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.4862499237060547,
+        "cur_std": 0.4168101787567139,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Riscuss how abundant color blue is placing in nature.",
+            "ids": [
+                51,
+                8552,
+                849,
+                17829,
+                3295,
+                4797,
+                310,
+                15606,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.3125,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.2337498664855957,
+        "cur_std": 0.39414775371551514,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Riscuss how assigned color blue is placing in nature.",
+            "ids": [
+                51,
+                8552,
+                849,
+                7922,
+                3295,
+                4797,
+                310,
+                15606,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.3399999141693115,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.054999828338623,
+        "cur_std": 0.39406230449676516,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Riscuss how Creative color blue is placing in nature.",
+            "ids": [
+                51,
+                8552,
+                849,
+                28283,
+                3295,
+                4797,
+                310,
+                15606,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.319999933242798,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.21875,
+        "cur_std": 0.3871409177780151,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Refiscuss how Creative color blue is placing in nature.",
+            "ids": [
+                7567,
+                8552,
+                849,
+                28283,
+                3295,
+                4797,
+                310,
+                15606,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.331249952316284,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.276249885559082,
+        "cur_std": 0.36180615425109863,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Refiscuss how Creative color blue ispoints in nature.",
+            "ids": [
+                7567,
+                8552,
+                849,
+                28283,
+                3295,
+                4797,
+                310,
+                10801,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.3037500381469727,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.396250009536743,
+        "cur_std": 0.40336360931396487,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Refiscuss how Creative color blue is that in nature.",
+            "ids": [
+                7567,
+                8552,
+                849,
+                28283,
+                3295,
+                4797,
+                310,
+                326,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.976249933242798,
+        "cur_std": 0.38168575763702395,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Refiscuss how Creative color blue is modeling in nature.",
+            "ids": [
+                7567,
+                8552,
+                849,
+                28283,
+                3295,
+                4797,
+                310,
+                14053,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.331249952316284,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.481249809265137,
+        "cur_std": 0.4324925422668457,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Refiscuss how hostile color blue is modeling in nature.",
+            "ids": [
+                7567,
+                8552,
+                849,
+                21668,
+                3295,
+                4797,
+                310,
+                14053,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.3550000190734863,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 5.179999828338623,
+        "cur_std": 0.4368603706359863,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ferentiscuss how hostile color blue is modeling in nature.",
+            "ids": [
+                5652,
+                8552,
+                849,
+                21668,
+                3295,
+                4797,
+                310,
+                14053,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.336249828338623,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.75,
+        "cur_std": 0.42877850532531736,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how hostile color blue is modeling in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                21668,
+                3295,
+                4797,
+                310,
+                14053,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.3249998092651367,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.456249713897705,
+        "cur_std": 0.37751002311706544,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how rel color blue is modeling in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                774,
+                3295,
+                4797,
+                310,
+                14053,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.3374998569488525,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.786250114440918,
+        "cur_std": 0.41730365753173826,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how rotating color blue is modeling in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                17387,
+                3295,
+                4797,
+                310,
+                14053,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.393749713897705,
+        "cur_std": 0.3954858064651489,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how rotating color blue is particular in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                17387,
+                3295,
+                4797,
+                310,
+                1798,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.326249837875366,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.28249979019165,
+        "cur_std": 0.35842413902282716,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how Bright color blue is particular in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                25225,
+                3295,
+                4797,
+                310,
+                1798,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.3687498569488525,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 5.502500057220459,
+        "cur_std": 0.3867844581604004,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how Photoshop color blue is particular in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                39075,
+                3295,
+                4797,
+                310,
+                1798,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.3499999046325684,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 5.362499713897705,
+        "cur_std": 0.3973932504653931,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how dressed color blue is particular in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                14186,
+                3295,
+                4797,
+                310,
+                1798,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.3087499141693115,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.747499942779541,
+        "cur_std": 0.3749493837356567,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Placeiscuss how colored color blue is particular in nature.",
+            "ids": [
+                23495,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                1798,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.3212499618530273,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.8424999713897705,
+        "cur_std": 0.38238775730133057,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " HMiscuss how colored color blue is particular in nature.",
+            "ids": [
+                20307,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                1798,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.288749933242798,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.15874981880188,
+        "cur_std": 0.35769789218902587,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is particular in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                1798,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.2937498092651367,
+        "best_loss": 3.2874999046325684,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.021250009536743,
+        "cur_std": 0.37369747161865235,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is covered in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                6107,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.286249876022339,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.043750047683716,
+        "cur_std": 0.3667715549468994,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is affected in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                5876,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.3012499809265137,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.333750009536743,
+        "cur_std": 0.3773497581481934,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue isplicated in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                37787,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.3037500381469727,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.453749895095825,
+        "cur_std": 0.4057962894439697,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is disturbed in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                24714,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.302500009536743,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.4462499618530273,
+        "cur_std": 0.37096846103668213,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is distinct in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                5799,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.2962498664855957,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.1137499809265137,
+        "cur_std": 0.38527626991271974,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is with in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                342,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.882499933242798,
+        "cur_std": 0.40235190391540526,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is playful in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                48822,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.3037500381469727,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.369999885559082,
+        "cur_std": 0.37018766403198244,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is applications in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                4893,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.319999933242798,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.72124981880188,
+        "cur_std": 0.3942206144332886,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how colored color blue is interested in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                18010,
+                3295,
+                4797,
+                310,
+                6110,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.00124979019165,
+        "cur_std": 0.367537260055542,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how geometric color blue is interested in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                17856,
+                3295,
+                4797,
+                310,
+                6110,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.7437498569488525,
+        "cur_std": 0.36678879261016845,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Steiscuss how G color blue is interested in nature.",
+            "ids": [
+                6812,
+                8552,
+                849,
+                443,
+                3295,
+                4797,
+                310,
+                6110,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.3212499618530273,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.990000009536743,
+        "cur_std": 0.3604661703109741,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how G color blue is interested in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                443,
+                3295,
+                4797,
+                310,
+                6110,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.3299999237060547,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.440000057220459,
+        "cur_std": 0.3865497589111328,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how ghost color blue is interested in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                14972,
+                3295,
+                4797,
+                310,
+                6110,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.3324999809265137,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.402499675750732,
+        "cur_std": 0.3944836616516113,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how ghost color blue is area in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                14972,
+                3295,
+                4797,
+                310,
+                2170,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.3324999809265137,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.497499942779541,
+        "cur_std": 0.39981837272644044,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how ghost color blue is vitality in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                14972,
+                3295,
+                4797,
+                310,
+                47065,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.299999952316284,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.625,
+        "cur_std": 0.40180306434631347,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how major color blue is vitality in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                2201,
+                3295,
+                4797,
+                310,
+                47065,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.3012499809265137,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.8737499713897705,
+        "cur_std": 0.3983215093612671,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how continuous color blue is vitality in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                5415,
+                3295,
+                4797,
+                310,
+                47065,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.309999942779541,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.9124999046325684,
+        "cur_std": 0.3849172592163086,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how whether color blue is vitality in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                1880,
+                3295,
+                4797,
+                310,
+                47065,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.2899999618530273,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.194999933242798,
+        "cur_std": 0.3328515291213989,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how whether color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                1880,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.3237500190734863,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.523749828338623,
+        "cur_std": 0.3593919277191162,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how --------- color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                16810,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.34375,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.948750019073486,
+        "cur_std": 0.3517726182937622,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss howams color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                1317,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.3424999713897705,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.802499771118164,
+        "cur_std": 0.33947553634643557,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss howerman color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                8592,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.304999828338623,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.953749895095825,
+        "cur_std": 0.35912375450134276,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how concurrent color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                17336,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.2937498092651367,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.804999828338623,
+        "cur_std": 0.34736707210540774,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss howulated color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                2907,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.2925000190734863,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.638749837875366,
+        "cur_std": 0.33535792827606203,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how structured color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                18872,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.297499895095825,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.71875,
+        "cur_std": 0.34243896007537844,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how Contemporary color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                39921,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.074999809265137,
+        "cur_std": 0.3665374994277954,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how Range color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                21277,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.3062498569488525,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 4.0625,
+        "cur_std": 0.3801311254501343,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how\" color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                3,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.2987499237060547,
+        "best_loss": 3.286249876022339,
+        "best_kl": 2.523749828338623,
+        "best_std": 0.3577280521392822,
+        "cur_kl": 3.4462499618530273,
+        "cur_std": 0.33175408840179443,
+        "orig_prompt": {
+            "text": "Describe how the color blue relates to nature.",
+            "ids": [
+                4476,
+                19268,
+                849,
+                253,
+                3295,
+                4797,
+                7033,
+                281,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Selfiscuss how Tex color blue is part in nature.",
+            "ids": [
+                23315,
+                8552,
+                849,
+                5255,
+                3295,
+                4797,
+                310,
+                629,
+                275,
+                3753,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -80.0
+    }
+]

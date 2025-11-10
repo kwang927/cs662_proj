@@ -1,0 +1,2202 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.2387499809265137,
+        "best_loss": 3.2387499809265137,
+        "best_kl": 7.139999866485596,
+        "best_std": 0.4080057621002197,
+        "cur_kl": 7.139999866485596,
+        "cur_std": 0.4080057621002197,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "What interplay to the creation of new stars?",
+            "ids": [
+                1276,
+                36039,
+                281,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -42.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.2024998664855957,
+        "best_loss": 3.2024998664855957,
+        "best_kl": 6.097499847412109,
+        "best_std": 0.41461453437805174,
+        "cur_kl": 6.097499847412109,
+        "cur_std": 0.41461453437805174,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " type interplay to the creation of new stars?",
+            "ids": [
+                1511,
+                36039,
+                281,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -43.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.1999998092651367,
+        "best_loss": 3.1999998092651367,
+        "best_kl": 5.864999771118164,
+        "best_std": 0.4308117389678955,
+        "cur_kl": 5.864999771118164,
+        "cur_std": 0.4308117389678955,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs interplay to the creation of new stars?",
+            "ids": [
+                13139,
+                36039,
+                281,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -42.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.197499990463257,
+        "best_loss": 3.197499990463257,
+        "best_kl": 5.859999656677246,
+        "best_std": 0.4233154296875,
+        "cur_kl": 5.859999656677246,
+        "cur_std": 0.4233154296875,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs interplay histograms the creation of new stars?",
+            "ids": [
+                13139,
+                36039,
+                47846,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.1987500190734863,
+        "best_loss": 3.197499990463257,
+        "best_kl": 5.84499979019165,
+        "best_std": 0.43430514335632325,
+        "cur_kl": 5.84499979019165,
+        "cur_std": 0.43430514335632325,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs interplay its the creation of new stars?",
+            "ids": [
+                13139,
+                36039,
+                697,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -53.75
+    },
+    {
+        "epoch": 6,
+        "loss": 3.1962499618530273,
+        "best_loss": 3.1962499618530273,
+        "best_kl": 5.84499979019165,
+        "best_std": 0.43430514335632325,
+        "cur_kl": 5.94249963760376,
+        "cur_std": 0.41587581634521487,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs interplay St the creation of new stars?",
+            "ids": [
+                13139,
+                36039,
+                659,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.75
+    },
+    {
+        "epoch": 7,
+        "loss": 3.1875,
+        "best_loss": 3.1875,
+        "best_kl": 5.682499885559082,
+        "best_std": 0.40342369079589846,
+        "cur_kl": 5.682499885559082,
+        "cur_std": 0.40342369079589846,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs interplay or the creation of new stars?",
+            "ids": [
+                13139,
+                36039,
+                390,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -44.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.18999981880188,
+        "best_loss": 3.1875,
+        "best_kl": 5.252500057220459,
+        "best_std": 0.38414759635925294,
+        "cur_kl": 5.252500057220459,
+        "cur_std": 0.38414759635925294,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs 15 or the creation of new stars?",
+            "ids": [
+                13139,
+                1458,
+                390,
+                253,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -45.75
+    },
+    {
+        "epoch": 9,
+        "loss": 3.1937499046325684,
+        "best_loss": 3.1875,
+        "best_kl": 5.130000114440918,
+        "best_std": 0.3743593692779541,
+        "cur_kl": 5.130000114440918,
+        "cur_std": 0.3743593692779541,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs 15 or Scul creation of new stars?",
+            "ids": [
+                13139,
+                1458,
+                390,
+                46661,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.182499885559082,
+        "best_loss": 3.182499885559082,
+        "best_kl": 5.025000095367432,
+        "best_std": 0.3711247444152832,
+        "cur_kl": 5.025000095367432,
+        "cur_std": 0.3711247444152832,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Fs 15 or HH creation of new stars?",
+            "ids": [
+                13139,
+                1458,
+                390,
+                34765,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -56.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.182499885559082,
+        "best_loss": 3.182499885559082,
+        "best_kl": 5.025000095367432,
+        "best_std": 0.3711247444152832,
+        "cur_kl": 5.460000038146973,
+        "cur_std": 0.3827683448791504,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " excitation 15 or HH creation of new stars?",
+            "ids": [
+                16820,
+                1458,
+                390,
+                34765,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.177500009536743,
+        "best_loss": 3.177500009536743,
+        "best_kl": 5.025000095367432,
+        "best_std": 0.3711247444152832,
+        "cur_kl": 5.482500076293945,
+        "cur_std": 0.38228206634521483,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " excitation filaments or HH creation of new stars?",
+            "ids": [
+                16820,
+                31368,
+                390,
+                34765,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -55.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.174999952316284,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 4.934999942779541,
+        "cur_std": 0.3727393388748169,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " ID filaments or HH creation of new stars?",
+            "ids": [
+                5417,
+                31368,
+                390,
+                34765,
+                8869,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -57.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.182499885559082,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.072499752044678,
+        "cur_std": 0.36208038330078124,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " ID filaments or HHamilies of new stars?",
+            "ids": [
+                5417,
+                31368,
+                390,
+                34765,
+                27099,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.1862499713897705,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.337500095367432,
+        "cur_std": 0.39548230171203613,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " particles filaments or HHamilies of new stars?",
+            "ids": [
+                6353,
+                31368,
+                390,
+                34765,
+                27099,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.184999942779541,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.134999752044678,
+        "cur_std": 0.38044731616973876,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "10 filaments or HHamilies of new stars?",
+            "ids": [
+                740,
+                31368,
+                390,
+                34765,
+                27099,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.18999981880188,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.065000057220459,
+        "cur_std": 0.394527268409729,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " uncertainties filaments or HHamilies of new stars?",
+            "ids": [
+                20418,
+                31368,
+                390,
+                34765,
+                27099,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.1887500286102295,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.384999752044678,
+        "cur_std": 0.3809779644012451,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " 163 filaments or HHamilies of new stars?",
+            "ids": [
+                23309,
+                31368,
+                390,
+                34765,
+                27099,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.203749895095825,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.664999961853027,
+        "cur_std": 0.39498465061187743,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "}( filaments or HHamilies of new stars?",
+            "ids": [
+                1603,
+                31368,
+                390,
+                34765,
+                27099,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.1875,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.392499923706055,
+        "cur_std": 0.4015949249267578,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "}( filaments or HH**) of new stars?",
+            "ids": [
+                1603,
+                31368,
+                390,
+                34765,
+                5737,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.1999998092651367,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.75499963760376,
+        "cur_std": 0.41510281562805174,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " child filaments or HH**) of new stars?",
+            "ids": [
+                1429,
+                31368,
+                390,
+                34765,
+                5737,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.1962499618530273,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.559999942779541,
+        "cur_std": 0.4167139530181885,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " 554 filaments or HH**) of new stars?",
+            "ids": [
+                47053,
+                31368,
+                390,
+                34765,
+                5737,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.1962499618530273,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.3125,
+        "cur_std": 0.41783738136291504,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " 554 filaments or HH se of new stars?",
+            "ids": [
+                47053,
+                31368,
+                390,
+                34765,
+                396,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.182499885559082,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.144999980926514,
+        "cur_std": 0.40570707321166993,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " 554 filaments or HH formation of new stars?",
+            "ids": [
+                47053,
+                31368,
+                390,
+                34765,
+                4702,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -54.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.18999981880188,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.307499885559082,
+        "cur_std": 0.4082151412963867,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " 554 filaments or HHing of new stars?",
+            "ids": [
+                47053,
+                31368,
+                390,
+                34765,
+                272,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.25
+    },
+    {
+        "epoch": 26,
+        "loss": 3.182499885559082,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.045000076293945,
+        "cur_std": 0.36402943134307864,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "\t\t\t filaments or HHing of new stars?",
+            "ids": [
+                15540,
+                31368,
+                390,
+                34765,
+                272,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.1875,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.210000038146973,
+        "cur_std": 0.3910088062286377,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "\t\t\t filaments or HH propensity of new stars?",
+            "ids": [
+                15540,
+                31368,
+                390,
+                34765,
+                33882,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.1962499618530273,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.682499885559082,
+        "cur_std": 0.4176632881164551,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " leaf filaments or HH propensity of new stars?",
+            "ids": [
+                10617,
+                31368,
+                390,
+                34765,
+                33882,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.1912498474121094,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.349999904632568,
+        "cur_std": 0.37576520442962646,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " leaf filaments or HHraf of new stars?",
+            "ids": [
+                10617,
+                31368,
+                390,
+                34765,
+                41226,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.1862499713897705,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.375,
+        "cur_std": 0.3928255081176758,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " leaf filaments or HH step of new stars?",
+            "ids": [
+                10617,
+                31368,
+                390,
+                34765,
+                3213,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.182499885559082,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.202499866485596,
+        "cur_std": 0.3959979057312012,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " trusts filaments or HH step of new stars?",
+            "ids": [
+                45219,
+                31368,
+                390,
+                34765,
+                3213,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.182499885559082,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.177499771118164,
+        "cur_std": 0.38248088359832766,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " trusts filaments or luminosity step of new stars?",
+            "ids": [
+                45219,
+                31368,
+                390,
+                20545,
+                3213,
+                273,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.1862499713897705,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.224999904632568,
+        "cur_std": 0.39058523178100585,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " trusts filaments or luminosity step properties new stars?",
+            "ids": [
+                45219,
+                31368,
+                390,
+                20545,
+                3213,
+                3607,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.192499876022339,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.727499961853027,
+        "cur_std": 0.3825930833816528,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Delta filaments or luminosity step properties new stars?",
+            "ids": [
+                3442,
+                31368,
+                390,
+                20545,
+                3213,
+                3607,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.182499885559082,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.177499771118164,
+        "cur_std": 0.37266604900360106,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "\\, filaments or luminosity step properties new stars?",
+            "ids": [
+                4615,
+                31368,
+                390,
+                20545,
+                3213,
+                3607,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.1837499141693115,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.167500019073486,
+        "cur_std": 0.35547761917114257,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "\\, filaments or luminosity step meet new stars?",
+            "ids": [
+                4615,
+                31368,
+                390,
+                20545,
+                3213,
+                2525,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.1862499713897705,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.089999675750732,
+        "cur_std": 0.38542773723602297,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "\\, filaments or luminosity step close new stars?",
+            "ids": [
+                4615,
+                31368,
+                390,
+                20545,
+                3213,
+                2810,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.1837499141693115,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.130000114440918,
+        "cur_std": 0.3715664386749268,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Where filaments or luminosity step close new stars?",
+            "ids": [
+                7900,
+                31368,
+                390,
+                20545,
+                3213,
+                2810,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.1862499713897705,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.107500076293945,
+        "cur_std": 0.3566690683364868,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Where filaments or line step close new stars?",
+            "ids": [
+                7900,
+                31368,
+                390,
+                1386,
+                3213,
+                2810,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.179999828338623,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.085000038146973,
+        "cur_std": 0.36790802478790285,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Where filaments or typical step close new stars?",
+            "ids": [
+                7900,
+                31368,
+                390,
+                6867,
+                3213,
+                2810,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.1787500381469727,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.087500095367432,
+        "cur_std": 0.35512795448303225,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Where filaments or typical steprow new stars?",
+            "ids": [
+                7900,
+                31368,
+                390,
+                6867,
+                3213,
+                736,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.1862499713897705,
+        "best_loss": 3.174999952316284,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.349999904632568,
+        "cur_std": 0.35600905418395995,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Where filaments or typical step arises new stars?",
+            "ids": [
+                7900,
+                31368,
+                390,
+                6867,
+                3213,
+                15877,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.1737499237060547,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.164999961853027,
+        "cur_std": 0.36648101806640626,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Where filaments or IR step arises new stars?",
+            "ids": [
+                7900,
+                31368,
+                390,
+                9812,
+                3213,
+                15877,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.1787500381469727,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.429999828338623,
+        "cur_std": 0.41492180824279784,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " projected filaments or IR step arises new stars?",
+            "ids": [
+                16589,
+                31368,
+                390,
+                9812,
+                3213,
+                15877,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.1837499141693115,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.164999961853027,
+        "cur_std": 0.4017200946807861,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " projected filaments or IR step breathe new stars?",
+            "ids": [
+                16589,
+                31368,
+                390,
+                9812,
+                3213,
+                23233,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.174999952316284,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 4.994999885559082,
+        "cur_std": 0.3858118295669556,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " projected filaments or formation step breathe new stars?",
+            "ids": [
+                16589,
+                31368,
+                390,
+                4702,
+                3213,
+                23233,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.1762499809265137,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.474999904632568,
+        "cur_std": 0.39526073932647704,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " enrichment filaments or formation step breathe new stars?",
+            "ids": [
+                19133,
+                31368,
+                390,
+                4702,
+                3213,
+                23233,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.1887500286102295,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.62999963760376,
+        "cur_std": 0.39833109378814696,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " enrichment filaments or formation slipp breathe new stars?",
+            "ids": [
+                19133,
+                31368,
+                390,
+                4702,
+                38947,
+                23233,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.1787500381469727,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.605000019073486,
+        "cur_std": 0.41378059387207033,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " enrichment filaments or formation slipp into new stars?",
+            "ids": [
+                19133,
+                31368,
+                390,
+                4702,
+                38947,
+                715,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.1812498569488525,
+        "best_loss": 3.1737499237060547,
+        "best_kl": 4.934999942779541,
+        "best_std": 0.3727393388748169,
+        "cur_kl": 5.317500114440918,
+        "cur_std": 0.39765496253967286,
+        "orig_prompt": {
+            "text": "Describe the star formation process.",
+            "ids": [
+                4476,
+                19268,
+                253,
+                4177,
+                4702,
+                1232,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "43 filaments or formation slipp into new stars?",
+            "ids": [
+                3079,
+                31368,
+                390,
+                4702,
+                38947,
+                715,
+                747,
+                6114,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.0
+    }
+]

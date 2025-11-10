@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.036249876022339,
+        "best_loss": 3.036249876022339,
+        "best_kl": 7.523749828338623,
+        "best_std": 0.4772960662841797,
+        "cur_kl": 9.007499694824219,
+        "cur_std": 0.45551414489746095,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "hearing the pros of using a Database Management System",
+            "ids": [
+                31629,
+                253,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                4155
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -37.0
+    },
+    {
+        "epoch": 2,
+        "loss": 2.9774999618530273,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 7.179999828338623,
+        "cur_std": 0.44489359855651855,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "En the pros of using a Database Management System",
+            "ids": [
+                3546,
+                253,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                4155
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -40.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.03125,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 8.676249504089355,
+        "cur_std": 0.48984346389770506,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "was the pros of using a Database Management System",
+            "ids": [
+                4238,
+                253,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                4155
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -41.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.0399999618530273,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 9.206250190734863,
+        "cur_std": 0.4738168716430664,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "was the pros of using a Database Management }}",
+            "ids": [
+                4238,
+                253,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                12377
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -58.75
+    },
+    {
+        "epoch": 5,
+        "loss": 3.0349998474121094,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 9.40625,
+        "cur_std": 0.49253382682800295,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ighters the pros of using a Database Management }}",
+            "ids": [
+                15053,
+                253,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                12377
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -58.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.0037498474121094,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 8.301249504089355,
+        "cur_std": 0.4698420524597168,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Meaning the pros of using a Database Management }}",
+            "ids": [
+                45734,
+                253,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                12377
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -55.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.016249895095825,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 8.639999389648438,
+        "cur_std": 0.5106111526489258,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Meaning† pros of using a Database Management }}",
+            "ids": [
+                45734,
+                19960,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                12377
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 8,
+        "loss": 2.9987499713897705,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 7.603749752044678,
+        "cur_std": 0.3687272310256958,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Meaning† pros of using a Database Management~).",
+            "ids": [
+                45734,
+                19960,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.0062499046325684,
+        "best_loss": 2.9774999618530273,
+        "best_kl": 7.179999828338623,
+        "best_std": 0.44489359855651855,
+        "cur_kl": 7.849999904632568,
+        "cur_std": 0.40508136749267576,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Meaninggrow pros of using a Database Management~).",
+            "ids": [
+                45734,
+                47248,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 10,
+        "loss": 2.976249933242798,
+        "best_loss": 2.976249933242798,
+        "best_kl": 6.90625,
+        "best_std": 0.3511991024017334,
+        "cur_kl": 6.90625,
+        "cur_std": 0.3511991024017334,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Meaning Possible pros of using a Database Management~).",
+            "ids": [
+                45734,
+                40550,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 11,
+        "loss": 2.981250047683716,
+        "best_loss": 2.976249933242798,
+        "best_kl": 6.90625,
+        "best_std": 0.3511991024017334,
+        "cur_kl": 7.077499866485596,
+        "cur_std": 0.3982394218444824,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " gets Possible pros of using a Database Management~).",
+            "ids": [
+                4850,
+                40550,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 12,
+        "loss": 2.9800000190734863,
+        "best_loss": 2.976249933242798,
+        "best_kl": 6.90625,
+        "best_std": 0.3511991024017334,
+        "cur_kl": 7.024999618530273,
+        "cur_std": 0.389387321472168,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " switch Possible pros of using a Database Management~).",
+            "ids": [
+                5234,
+                40550,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 13,
+        "loss": 2.961249828338623,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.268749713897705,
+        "best_std": 0.3712241411209106,
+        "cur_kl": 6.268749713897705,
+        "cur_std": 0.3712241411209106,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Lo Possible pros of using a Database Management~).",
+            "ids": [
+                15288,
+                40550,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 14,
+        "loss": 2.9649999141693115,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 6.232500076293945,
+        "cur_std": 0.39423327445983886,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "> Possible pros of using a Database Management~).",
+            "ids": [
+                31,
+                40550,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 15,
+        "loss": 2.9749999046325684,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 6.713749885559082,
+        "cur_std": 0.3976187467575073,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " out Possible pros of using a Database Management~).",
+            "ids": [
+                562,
+                40550,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 16,
+        "loss": 2.992499828338623,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.389999866485596,
+        "cur_std": 0.4570756435394287,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " out (& pros of using a Database Management~).",
+            "ids": [
+                562,
+                41851,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 17,
+        "loss": 2.984999895095825,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.353749752044678,
+        "cur_std": 0.41690921783447266,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "selves (& pros of using a Database Management~).",
+            "ids": [
+                3049,
+                41851,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 18,
+        "loss": 2.9887499809265137,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.527499675750732,
+        "cur_std": 0.425065279006958,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "selves[ pros of using a Database Management~).",
+            "ids": [
+                3049,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 19,
+        "loss": 2.997499942779541,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.467499732971191,
+        "cur_std": 0.39566233158111574,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " strategies[ pros of using a Database Management~).",
+            "ids": [
+                8130,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 20,
+        "loss": 2.9837498664855957,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 6.84874963760376,
+        "cur_std": 0.42215814590454104,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Bad[ pros of using a Database Management~).",
+            "ids": [
+                24494,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 21,
+        "loss": 2.9837498664855957,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.147500038146973,
+        "cur_std": 0.3999541521072388,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " summar[ pros of using a Database Management~).",
+            "ids": [
+                10405,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 22,
+        "loss": 2.9700000286102295,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 6.632499694824219,
+        "cur_std": 0.40255584716796877,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " ****[ pros of using a Database Management~).",
+            "ids": [
+                33684,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 23,
+        "loss": 2.997499942779541,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.53249979019165,
+        "cur_std": 0.44923696517944334,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " talked[ pros of using a Database Management~).",
+            "ids": [
+                10062,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 24,
+        "loss": 2.984999895095825,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.216249942779541,
+        "cur_std": 0.42079339027404783,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "oring[ pros of using a Database Management~).",
+            "ids": [
+                4263,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.0062499046325684,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 8.237500190734863,
+        "cur_std": 0.44240751266479494,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " workshop[ pros of using a Database Management~).",
+            "ids": [
+                22586,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 26,
+        "loss": 2.990000009536743,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.378749847412109,
+        "cur_std": 0.46920123100280764,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " workshop[ pros of using a Database Management.)",
+            "ids": [
+                22586,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 27,
+        "loss": 2.9862499237060547,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.193749904632568,
+        "cur_std": 0.42006335258483884,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Frequency[ pros of using a Database Management.)",
+            "ids": [
+                38544,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.0062499046325684,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.734999656677246,
+        "cur_std": 0.45618395805358886,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "\r\n[ pros of using a Database Management.)",
+            "ids": [
+                2379,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 29,
+        "loss": 2.9624998569488525,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 6.372499942779541,
+        "cur_std": 0.42943315505981444,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " topics[ pros of using a Database Management.)",
+            "ids": [
+                12989,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.004999876022339,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.81749963760376,
+        "cur_std": 0.4495347499847412,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "|^{[ pros of using a Database Management.)",
+            "ids": [
+                23882,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 31,
+        "loss": 2.984999895095825,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 6.93874979019165,
+        "cur_std": 0.4556065559387207,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " believe[ pros of using a Database Management.)",
+            "ids": [
+                2868,
+                60,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 32,
+        "loss": 2.984999895095825,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 7.171249866485596,
+        "cur_std": 0.45839762687683105,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " believe guide pros of using a Database Management.)",
+            "ids": [
+                2868,
+                7102,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 33,
+        "loss": 2.961249828338623,
+        "best_loss": 2.961249828338623,
+        "best_kl": 6.232500076293945,
+        "best_std": 0.39423327445983886,
+        "cur_kl": 6.25499963760376,
+        "cur_std": 0.4258233070373535,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " - guide pros of using a Database Management.)",
+            "ids": [
+                428,
+                7102,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 34,
+        "loss": 2.9600000381469727,
+        "best_loss": 2.9600000381469727,
+        "best_kl": 6.21875,
+        "best_std": 0.40440821647644043,
+        "cur_kl": 6.21875,
+        "cur_std": 0.40440821647644043,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "mean guide pros of using a Database Management.)",
+            "ids": [
+                10722,
+                7102,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 35,
+        "loss": 2.9437499046325684,
+        "best_loss": 2.9437499046325684,
+        "best_kl": 5.641249656677246,
+        "best_std": 0.4001445770263672,
+        "cur_kl": 5.641249656677246,
+        "cur_std": 0.4001445770263672,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Section guide pros of using a Database Management.)",
+            "ids": [
+                12612,
+                7102,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 36,
+        "loss": 2.9287500381469727,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 5.366250038146973,
+        "cur_std": 0.39401798248291015,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Section? pros of using a Database Management.)",
+            "ids": [
+                12612,
+                32,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 37,
+        "loss": 2.9649999141693115,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 6.543749809265137,
+        "cur_std": 0.4148078918457031,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Sectionoms pros of using a Database Management.)",
+            "ids": [
+                12612,
+                3056,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 38,
+        "loss": 2.96875,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 6.641249656677246,
+        "cur_std": 0.3975963830947876,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Sectionerobic pros of using a Database Management.)",
+            "ids": [
+                12612,
+                33586,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 39,
+        "loss": 2.966249942779541,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 6.639999866485596,
+        "cur_std": 0.40985832214355467,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Section dealing pros of using a Database Management.)",
+            "ids": [
+                12612,
+                10620,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 40,
+        "loss": 2.9624998569488525,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 6.559999942779541,
+        "cur_std": 0.42228217124938966,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Sectionstar pros of using a Database Management.)",
+            "ids": [
+                12612,
+                7873,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 41,
+        "loss": 2.9574999809265137,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 6.581249713897705,
+        "cur_std": 0.41008963584899905,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Sectionits pros of using a Database Management.)",
+            "ids": [
+                12612,
+                953,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 42,
+        "loss": 2.961249828338623,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 6.684999942779541,
+        "cur_std": 0.41625161170959474,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Sectionits pros of using a Database Management_:",
+            "ids": [
+                12612,
+                953,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                21712
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 43,
+        "loss": 2.9600000381469727,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 6.75124979019165,
+        "cur_std": 0.46017022132873536,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "SectionNEY pros of using a Database Management_:",
+            "ids": [
+                12612,
+                40740,
+                5847,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                21712
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.012500047683716,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 8.84999942779541,
+        "cur_std": 0.5400968074798584,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "SectionNEYPages of using a Database Management_:",
+            "ids": [
+                12612,
+                40740,
+                38496,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                21712
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.0199999809265137,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 8.764999389648438,
+        "cur_std": 0.5301136016845703,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Section54Pages of using a Database Management_:",
+            "ids": [
+                12612,
+                3439,
+                38496,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                21712
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.007499933242798,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 8.609999656677246,
+        "cur_std": 0.5300242900848389,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "SectionANPages of using a Database Management_:",
+            "ids": [
+                12612,
+                1539,
+                38496,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                21712
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.007499933242798,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 8.510000228881836,
+        "cur_std": 0.5207793235778808,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "SectionreprenePages of using a Database Management_:",
+            "ids": [
+                12612,
+                14807,
+                38496,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                21712
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.007499933242798,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 8.604999542236328,
+        "cur_std": 0.5101269721984864,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "SectionreprenePages of using a Database Management?:",
+            "ids": [
+                12612,
+                14807,
+                38496,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                18346
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 49,
+        "loss": 2.997499942779541,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 8.054999351501465,
+        "cur_std": 0.5128103733062744,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Sectionrepreneock of using a Database Management?:",
+            "ids": [
+                12612,
+                14807,
+                825,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                18346
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 50,
+        "loss": 2.997499942779541,
+        "best_loss": 2.9287500381469727,
+        "best_kl": 5.366250038146973,
+        "best_std": 0.39401798248291015,
+        "cur_kl": 7.507499694824219,
+        "cur_std": 0.47260098457336425,
+        "orig_prompt": {
+            "text": "What are the pros and cons of using a database management system?",
+            "ids": [
+                1276,
+                403,
+                253,
+                5847,
+                285,
+                772,
+                273,
+                970,
+                247,
+                5447,
+                4323,
+                985,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "Sectionreprene prefer of using a Database Management?:",
+            "ids": [
+                12612,
+                14807,
+                4510,
+                273,
+                970,
+                247,
+                20421,
+                11354,
+                18346
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    }
+]

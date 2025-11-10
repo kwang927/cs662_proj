@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.166249990463257,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 3.484999895095825,
+        "cur_std": 0.3686212062835693,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can you give a unique Ah for making tea?",
+            "ids": [
+                5804,
+                368,
+                1918,
+                247,
+                4451,
+                15344,
+                323,
+                2403,
+                10331,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.1893749237060547,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 4.934999942779541,
+        "cur_std": 0.428272008895874,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can you give a unique� for making tea?",
+            "ids": [
+                5804,
+                368,
+                1918,
+                247,
+                4451,
+                224,
+                323,
+                2403,
+                10331,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -61.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.3112499713897705,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 7.799999713897705,
+        "cur_std": 0.47852888107299807,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can you give a unique� for wre tea?",
+            "ids": [
+                5804,
+                368,
+                1918,
+                247,
+                4451,
+                224,
+                323,
+                39137,
+                10331,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.372499942779541,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 9.844999313354492,
+        "cur_std": 0.5036079406738281,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can youenc a unique� for wre tea?",
+            "ids": [
+                5804,
+                368,
+                2083,
+                247,
+                4451,
+                224,
+                323,
+                39137,
+                10331,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.463749885559082,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 9.864999771118164,
+        "cur_std": 0.505867338180542,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can microglenc a unique� for wre tea?",
+            "ids": [
+                5804,
+                26832,
+                2083,
+                247,
+                4451,
+                224,
+                323,
+                39137,
+                10331,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.179999828338623,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 11.925000190734863,
+        "cur_std": 0.5717850208282471,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can microglenc a unique� for wre tea.'",
+            "ids": [
+                5804,
+                26832,
+                2083,
+                247,
+                4451,
+                224,
+                323,
+                39137,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.5199999809265137,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 12.149999618530273,
+        "cur_std": 0.5640536785125733,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can microglenc a uniqueA for wre tea.'",
+            "ids": [
+                5804,
+                26832,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                39137,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.393749952316284,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 12.074999809265137,
+        "cur_std": 0.5856609344482422,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "CanMOESMenc a uniqueA for wre tea.'",
+            "ids": [
+                5804,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                39137,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.3374998569488525,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 10.585000038146973,
+        "cur_std": 0.5625992774963379,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "CanMOESMenc a uniqueA forhappy tea.'",
+            "ids": [
+                5804,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                42256,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.3737499713897705,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 11.844999313354492,
+        "cur_std": 0.5767680168151855,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " diplMOESMenc a uniqueA forhappy tea.'",
+            "ids": [
+                11833,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                42256,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.4624998569488525,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 11.454999923706055,
+        "cur_std": 0.563722038269043,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " transMOESMenc a uniqueA forhappy tea.'",
+            "ids": [
+                811,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                42256,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.3037500381469727,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 11.429999351501465,
+        "cur_std": 0.6032328605651855,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ExportMOESMenc a uniqueA forhappy tea.'",
+            "ids": [
+                39139,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                42256,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.369374990463257,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 10.359999656677246,
+        "cur_std": 0.5687164306640625,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "aternMOESMenc a uniqueA forhappy tea.'",
+            "ids": [
+                17752,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                42256,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.487499952316284,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 11.484999656677246,
+        "cur_std": 0.5608190059661865,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "aternMOESMenc a uniqueA for24 tea.'",
+            "ids": [
+                17752,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                1348,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.4287500381469727,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 12.644999504089355,
+        "cur_std": 0.575698709487915,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc a uniqueA for24 tea.'",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                1348,
+                10331,
+                2464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.492499828338623,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 13.864999771118164,
+        "cur_std": 0.6042298793792724,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc a uniqueA for24 tea }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                323,
+                1348,
+                10331,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.557499885559082,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 12.545000076293945,
+        "cur_std": 0.5751194477081298,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc a uniqueAInter24 tea }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                247,
+                4451,
+                34,
+                6504,
+                1348,
+                10331,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.388749837875366,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 12.889999389648438,
+        "cur_std": 0.5772006511688232,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc stable uniqueAInter24 tea }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                6474,
+                4451,
+                34,
+                6504,
+                1348,
+                10331,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.3499999046325684,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 13.1899995803833,
+        "cur_std": 0.5943241119384766,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc stableructoseAInter24 tea }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                6474,
+                42437,
+                34,
+                6504,
+                1348,
+                10331,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.4700000286102295,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 16.989999771118164,
+        "cur_std": 0.6652629375457764,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc stableructoseAInter24 phosphatidyl }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                6474,
+                42437,
+                34,
+                6504,
+                1348,
+                48093,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.6050000190734863,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 16.424999237060547,
+        "cur_std": 0.6763081550598145,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc touchedructoseAInter24 phosphatidyl }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                14435,
+                42437,
+                34,
+                6504,
+                1348,
+                48093,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.4362499713897705,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.755000114440918,
+        "cur_std": 0.659296178817749,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc touchedructoseAInter Less phosphatidyl }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                14435,
+                42437,
+                34,
+                6504,
+                15405,
+                48093,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.424999952316284,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.859999656677246,
+        "cur_std": 0.6938066959381104,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriageMOESMenc touchedcentrationAInter Less phosphatidyl }).",
+            "ids": [
+                7875,
+                13270,
+                2083,
+                14435,
+                36551,
+                34,
+                6504,
+                15405,
+                48093,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.263749837875366,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.604999542236328,
+        "cur_std": 0.7167651176452636,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriage CLenc touchedcentrationAInter Less phosphatidyl }).",
+            "ids": [
+                7875,
+                8951,
+                2083,
+                14435,
+                36551,
+                34,
+                6504,
+                15405,
+                48093,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.598749876022339,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 16.549999237060547,
+        "cur_std": 0.738634443283081,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriage CLenc touchedcentrationěInter Less phosphatidyl }).",
+            "ids": [
+                7875,
+                8951,
+                2083,
+                14435,
+                36551,
+                11738,
+                6504,
+                15405,
+                48093,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -141.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.5512499809265137,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 14.454999923706055,
+        "cur_std": 0.6914008140563965,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriage CLenc touchedcentrationěInter Less lemon }).",
+            "ids": [
+                7875,
+                8951,
+                2083,
+                14435,
+                36551,
+                11738,
+                6504,
+                15405,
+                18616,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.375,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 13.829999923706055,
+        "cur_std": 0.6958470344543457,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " marriage CLenc touchedcentrationěTime Less lemon }).",
+            "ids": [
+                7875,
+                8951,
+                2083,
+                14435,
+                36551,
+                11738,
+                4769,
+                15405,
+                18616,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 13.059999465942383,
+        "cur_std": 0.683288288116455,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Ellen CLenc touchedcentrationěTime Less lemon }).",
+            "ids": [
+                31316,
+                8951,
+                2083,
+                14435,
+                36551,
+                11738,
+                4769,
+                15405,
+                18616,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.375,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 13.324999809265137,
+        "cur_std": 0.7062983036041259,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Ellen CLenc touched SomeěTime Less lemon }).",
+            "ids": [
+                31316,
+                8951,
+                2083,
+                14435,
+                3808,
+                11738,
+                4769,
+                15405,
+                18616,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.48687481880188,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 13.47499942779541,
+        "cur_std": 0.7101136207580566,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Ellen indefenc touched SomeěTime Less lemon }).",
+            "ids": [
+                31316,
+                23570,
+                2083,
+                14435,
+                3808,
+                11738,
+                4769,
+                15405,
+                18616,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.375,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 13.529999732971191,
+        "cur_std": 0.7016510009765625,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Ellenέenc touched SomeěTime Less lemon }).",
+            "ids": [
+                31316,
+                9203,
+                2083,
+                14435,
+                3808,
+                11738,
+                4769,
+                15405,
+                18616,
+                44141
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.3975000381469727,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 18.389999389648438,
+        "cur_std": 0.7516842842102051,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Ellenέenc touched SomeěTime Less lemon harmed",
+            "ids": [
+                31316,
+                9203,
+                2083,
+                14435,
+                3808,
+                11738,
+                4769,
+                15405,
+                18616,
+                44137
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.4774999618530273,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 21.114999771118164,
+        "cur_std": 0.8315694808959961,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Ellenέenc touched SomeěTime Lesscrypto harmed",
+            "ids": [
+                31316,
+                9203,
+                2083,
+                14435,
+                3808,
+                11738,
+                4769,
+                15405,
+                36371,
+                44137
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.7649998664855957,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 21.25,
+        "cur_std": 0.8382129669189453,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�έenc touched SomeěTime Lesscrypto harmed",
+            "ids": [
+                98,
+                9203,
+                2083,
+                14435,
+                3808,
+                11738,
+                4769,
+                15405,
+                36371,
+                44137
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.6112499237060547,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 18.75,
+        "cur_std": 0.7699042320251465,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�έenc touched SomeěTime Less bitter harmed",
+            "ids": [
+                98,
+                9203,
+                2083,
+                14435,
+                3808,
+                11738,
+                4769,
+                15405,
+                17123,
+                44137
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.586249828338623,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 17.299999237060547,
+        "cur_std": 0.7346407413482666,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�έenc touched SomeSummerTime Less bitter harmed",
+            "ids": [
+                98,
+                9203,
+                2083,
+                14435,
+                3808,
+                46735,
+                4769,
+                15405,
+                17123,
+                44137
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.504999876022339,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 17.279998779296875,
+        "cur_std": 0.7452991008758545,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�έApple touched SomeSummerTime Less bitter harmed",
+            "ids": [
+                98,
+                9203,
+                25989,
+                14435,
+                3808,
+                46735,
+                4769,
+                15405,
+                17123,
+                44137
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.5687499046325684,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.829999923706055,
+        "cur_std": 0.716057538986206,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�έApple touched SomeSummerTime Less bitterah",
+            "ids": [
+                98,
+                9203,
+                25989,
+                14435,
+                3808,
+                46735,
+                4769,
+                15405,
+                17123,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.7174999713897705,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 17.31999969482422,
+        "cur_std": 0.7145147800445557,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�)(\\Apple touched SomeSummerTime Less bitterah",
+            "ids": [
+                98,
+                26669,
+                25989,
+                14435,
+                3808,
+                46735,
+                4769,
+                15405,
+                17123,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.442499876022339,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.78499984741211,
+        "cur_std": 0.7173975467681885,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "� MaxwellApple touched SomeSummerTime Less bitterah",
+            "ids": [
+                98,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                4769,
+                15405,
+                17123,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.629999876022339,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 16.065000534057617,
+        "cur_std": 0.6986153602600098,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "� MaxwellApple touched SomeSummer joints Less bitterah",
+            "ids": [
+                98,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                22136,
+                15405,
+                17123,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.6050000190734863,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.989999771118164,
+        "cur_std": 0.7397440433502197,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ifndef MaxwellApple touched SomeSummer joints Less bitterah",
+            "ids": [
+                17331,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                22136,
+                15405,
+                17123,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.588749885559082,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.429999351501465,
+        "cur_std": 0.7093182563781738,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ifndef MaxwellApple touched SomeSummerability Less bitterah",
+            "ids": [
+                17331,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                1430,
+                15405,
+                17123,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.5512499809265137,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 16.875,
+        "cur_std": 0.7589658260345459,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ifndef MaxwellApple touched SomeSummerability Less drankah",
+            "ids": [
+                17331,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                1430,
+                15405,
+                27215,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.583750009536743,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 16.84000015258789,
+        "cur_std": 0.7652780532836914,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ifndef MaxwellApple touched SomeSummer ail Less drankah",
+            "ids": [
+                17331,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                44244,
+                15405,
+                27215,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.536249876022339,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 19.43000030517578,
+        "cur_std": 0.7916553974151611,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ifndef MaxwellApple touched SomeSummer ail Less accomah",
+            "ids": [
+                17331,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                44244,
+                15405,
+                3648,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.6187498569488525,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 20.69999885559082,
+        "cur_std": 0.8340602874755859,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ifndef MaxwellApple touched SomeSummer ail019 accomah",
+            "ids": [
+                17331,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                44244,
+                11325,
+                3648,
+                1240
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.596874952316284,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.934999465942383,
+        "cur_std": 0.7711874485015869,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "ifndef MaxwellApple touched SomeSummer ail019 accom……",
+            "ids": [
+                17331,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                44244,
+                11325,
+                3648,
+                18780
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.53374981880188,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 15.199999809265137,
+        "cur_std": 0.7546488761901855,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rit MaxwellApple touched SomeSummer ail019 accom……",
+            "ids": [
+                902,
+                28200,
+                25989,
+                14435,
+                3808,
+                46735,
+                44244,
+                11325,
+                3648,
+                18780
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.166249990463257,
+        "best_kl": 3.31499981880188,
+        "best_std": 0.3427204847335815,
+        "cur_kl": 16.1299991607666,
+        "cur_std": 0.7674113273620605,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "rit miracleApple touched SomeSummer ail019 accom……",
+            "ids": [
+                902,
+                28065,
+                25989,
+                14435,
+                3808,
+                46735,
+                44244,
+                11325,
+                3648,
+                18780
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    }
+]

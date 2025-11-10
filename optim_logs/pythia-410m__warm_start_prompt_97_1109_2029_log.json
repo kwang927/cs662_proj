@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.0999999046325684,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 7.634999752044678,
+        "cur_std": 0.4464141845703125,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can you give a unique recipe for making accusation?",
+            "ids": [
+                5804,
+                368,
+                1918,
+                247,
+                4451,
+                13612,
+                323,
+                2403,
+                41679,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -45.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.476249933242798,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 7.279999732971191,
+        "cur_std": 0.44768314361572265,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can you give a unique recipe for grand accusation?",
+            "ids": [
+                5804,
+                368,
+                1918,
+                247,
+                4451,
+                13612,
+                323,
+                4936,
+                41679,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -52.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.5437498092651367,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 7.349999904632568,
+        "cur_std": 0.47100257873535156,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can you Joy a unique recipe for grand accusation?",
+            "ids": [
+                5804,
+                368,
+                20614,
+                247,
+                4451,
+                13612,
+                323,
+                4936,
+                41679,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.5399999618530273,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 7.864999771118164,
+        "cur_std": 0.4659548282623291,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can you breaks a unique recipe for grand accusation?",
+            "ids": [
+                5804,
+                368,
+                13471,
+                247,
+                4451,
+                13612,
+                323,
+                4936,
+                41679,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.5625,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 7.519999980926514,
+        "cur_std": 0.45902400016784667,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Can youOU a unique recipe for grand accusation?",
+            "ids": [
+                5804,
+                368,
+                2185,
+                247,
+                4451,
+                13612,
+                323,
+                4936,
+                41679,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.4212498664855957,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 8.085000038146973,
+        "cur_std": 0.48471875190734864,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é youOU a unique recipe for grand accusation?",
+            "ids": [
+                860,
+                368,
+                2185,
+                247,
+                4451,
+                13612,
+                323,
+                4936,
+                41679,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.5437498092651367,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 8.260000228881836,
+        "cur_std": 0.46004390716552734,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é youOU a unique recipe for grandSTER?",
+            "ids": [
+                860,
+                368,
+                2185,
+                247,
+                4451,
+                13612,
+                323,
+                4936,
+                30883,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.641249895095825,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 9.234999656677246,
+        "cur_std": 0.46663718223571776,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU a unique recipe for grandSTER?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                247,
+                4451,
+                13612,
+                323,
+                4936,
+                30883,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.6162500381469727,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 10.28499984741211,
+        "cur_std": 0.4913522720336914,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU a unique recipe overly grandSTER?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                247,
+                4451,
+                13612,
+                27662,
+                4936,
+                30883,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.4700000286102295,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 9.864999771118164,
+        "cur_std": 0.48916826248168943,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU a unique recipeidentally grandSTER?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                247,
+                4451,
+                13612,
+                37536,
+                4936,
+                30883,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.4624998569488525,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 9.835000038146973,
+        "cur_std": 0.47953338623046876,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOUASM unique recipeidentally grandSTER?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                45352,
+                4451,
+                13612,
+                37536,
+                4936,
+                30883,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.513749837875366,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 10.899999618530273,
+        "cur_std": 0.5190803527832031,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU evening unique recipeidentally grandSTER?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                4451,
+                13612,
+                37536,
+                4936,
+                30883,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.213749885559082,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 10.109999656677246,
+        "cur_std": 0.4965832710266113,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveninganch recipeidentally grandSTER?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                3903,
+                13612,
+                37536,
+                4936,
+                30883,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.526249885559082,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 9.220000267028809,
+        "cur_std": 0.47817625999450686,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveninganch recipeidentally grand yellow?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                3903,
+                13612,
+                37536,
+                4936,
+                8862,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 12.4399995803833,
+        "cur_std": 0.5499439716339112,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveninganch Abidentally grand yellow?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                3903,
+                3506,
+                37536,
+                4936,
+                8862,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.661249876022339,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.569999694824219,
+        "cur_std": 0.595650053024292,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveninganch Abidentally grandrab?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                3903,
+                3506,
+                37536,
+                4936,
+                37588,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.5225000381469727,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.144999504089355,
+        "cur_std": 0.5937509059906005,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveningshot Abidentally grandrab?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                11860,
+                3506,
+                37536,
+                4936,
+                37588,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.6374998092651367,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.239999771118164,
+        "cur_std": 0.6111538887023926,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveningshot Ab手 grandrab?",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                11860,
+                3506,
+                29554,
+                4936,
+                37588,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.6262500286102295,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 16.91499900817871,
+        "cur_std": 0.7014074802398682,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveningshot Ab手 grandrab\"—",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                11860,
+                3506,
+                29554,
+                4936,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.674999952316284,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.40999984741211,
+        "cur_std": 0.6562589168548584,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimeOU eveningshotjsfiddle手 grandrab\"—",
+            "ids": [
+                860,
+                2606,
+                2185,
+                7237,
+                11860,
+                43265,
+                29554,
+                4936,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.682499885559082,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.049999237060547,
+        "cur_std": 0.6491447448730469,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimejq eveningshotjsfiddle手 grandrab\"—",
+            "ids": [
+                860,
+                2606,
+                43863,
+                7237,
+                11860,
+                43265,
+                29554,
+                4936,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.581249952316284,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.184999465942383,
+        "cur_std": 0.6623593807220459,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimejq eveningshotjsfiddle harmonic grandrab\"—",
+            "ids": [
+                860,
+                2606,
+                43863,
+                7237,
+                11860,
+                43265,
+                23007,
+                4936,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.6112499237060547,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.369999885559082,
+        "cur_std": 0.656614351272583,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "étimejq eveningshotjsfiddle harmonicdarab\"—",
+            "ids": [
+                860,
+                2606,
+                43863,
+                7237,
+                11860,
+                43265,
+                23007,
+                1473,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.5087499618530273,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.489999771118164,
+        "cur_std": 0.6568589210510254,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "éANYjq eveningshotjsfiddle harmonicdarab\"—",
+            "ids": [
+                860,
+                22026,
+                43863,
+                7237,
+                11860,
+                43265,
+                23007,
+                1473,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.6937499046325684,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.22499942779541,
+        "cur_std": 0.6463719367980957,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "éANY STRICT eveningshotjsfiddle harmonicdarab\"—",
+            "ids": [
+                860,
+                22026,
+                47528,
+                7237,
+                11860,
+                43265,
+                23007,
+                1473,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -144.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.552500009536743,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.210000038146973,
+        "cur_std": 0.6318635463714599,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "éspecifically STRICT eveningshotjsfiddle harmonicdarab\"—",
+            "ids": [
+                860,
+                46458,
+                47528,
+                7237,
+                11860,
+                43265,
+                23007,
+                1473,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -143.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.482499837875366,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.274999618530273,
+        "cur_std": 0.6452771186828613,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "éspecifically STRICT eveningshot amplify harmonicdarab\"—",
+            "ids": [
+                860,
+                46458,
+                47528,
+                7237,
+                11860,
+                42074,
+                23007,
+                1473,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.6649999618530273,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.75,
+        "cur_std": 0.631796407699585,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é coupon STRICT eveningshot amplify harmonicdarab\"—",
+            "ids": [
+                860,
+                44254,
+                47528,
+                7237,
+                11860,
+                42074,
+                23007,
+                1473,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.776249885559082,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.524999618530273,
+        "cur_std": 0.5718733787536621,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é coupon STRICTsaltshot amplify harmonicdarab\"—",
+            "ids": [
+                860,
+                44254,
+                47528,
+                40918,
+                11860,
+                42074,
+                23007,
+                1473,
+                37588,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.5874998569488525,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.130000114440918,
+        "cur_std": 0.5929561138153077,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é coupon STRICTsaltshot amplify harmonicda homemade\"—",
+            "ids": [
+                860,
+                44254,
+                47528,
+                40918,
+                11860,
+                42074,
+                23007,
+                1473,
+                36018,
+                23887
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.6675000190734863,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 17.55500030517578,
+        "cur_std": 0.6963430404663086,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é coupon STRICTsaltshot amplify harmonicda homemade place",
+            "ids": [
+                860,
+                44254,
+                47528,
+                40918,
+                11860,
+                42074,
+                23007,
+                1473,
+                36018,
+                1659
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.828749895095825,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 16.920000076293945,
+        "cur_std": 0.6754242897033691,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é folk STRICTsaltshot amplify harmonicda homemade place",
+            "ids": [
+                860,
+                19365,
+                47528,
+                40918,
+                11860,
+                42074,
+                23007,
+                1473,
+                36018,
+                1659
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.8349997997283936,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 16.56999969482422,
+        "cur_std": 0.6396029949188232,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é folk STRICTsaltshot amplify harmonicda warmer place",
+            "ids": [
+                860,
+                19365,
+                47528,
+                40918,
+                11860,
+                42074,
+                23007,
+                1473,
+                34562,
+                1659
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.677500009536743,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.8149995803833,
+        "cur_std": 0.6143344879150391,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é folk STRICTsaltshot amplify harmonicda warmer Tea",
+            "ids": [
+                860,
+                19365,
+                47528,
+                40918,
+                11860,
+                42074,
+                23007,
+                1473,
+                34562,
+                29464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.641249895095825,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.59999942779541,
+        "cur_std": 0.6222312450408936,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é folk STRICTsaltshot amplify harmonicsciously warmer Tea",
+            "ids": [
+                860,
+                19365,
+                47528,
+                40918,
+                11860,
+                42074,
+                23007,
+                43386,
+                34562,
+                29464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.576249837875366,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.53499984741211,
+        "cur_std": 0.5983671188354492,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é folk puzzlesaltshot amplify harmonicsciously warmer Tea",
+            "ids": [
+                860,
+                19365,
+                25351,
+                40918,
+                11860,
+                42074,
+                23007,
+                43386,
+                34562,
+                29464
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.583750009536743,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.444999694824219,
+        "cur_std": 0.7049211978912353,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é folk puzzlesaltshot amplify harmonicsciously warmer adolescence",
+            "ids": [
+                860,
+                19365,
+                25351,
+                40918,
+                11860,
+                42074,
+                23007,
+                43386,
+                34562,
+                43570
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.6262500286102295,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.09999942779541,
+        "cur_std": 0.7018733978271484,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "é folk puzzlesaltshot amplifyESSsciously warmer adolescence",
+            "ids": [
+                860,
+                19365,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                34562,
+                43570
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.809999942779541,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.174999237060547,
+        "cur_std": 0.7087254047393798,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "éized puzzlesaltshot amplifyESSsciously warmer adolescence",
+            "ids": [
+                860,
+                1025,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                34562,
+                43570
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.819999933242798,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.539999961853027,
+        "cur_std": 0.7142022609710693,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "éized puzzlesaltshot amplifyESSsciously polish adolescence",
+            "ids": [
+                860,
+                1025,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                40167,
+                43570
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.6962499618530273,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.369999885559082,
+        "cur_std": 0.6855514526367188,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "VARized puzzlesaltshot amplifyESSsciously polish adolescence",
+            "ids": [
+                26205,
+                1025,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                40167,
+                43570
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.706249952316284,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.22499942779541,
+        "cur_std": 0.6560662746429443,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneized puzzlesaltshot amplifyESSsciously polish adolescence",
+            "ids": [
+                24955,
+                1025,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                40167,
+                43570
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.8924999237060547,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 17.55500030517578,
+        "cur_std": 0.6295700073242188,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneized puzzlesaltshot amplifyESSsciously polishFONT",
+            "ids": [
+                24955,
+                1025,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                40167,
+                23758
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.5612499713897705,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 16.600000381469727,
+        "cur_std": 0.6452234268188477,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneabi puzzlesaltshot amplifyESSsciously polishFONT",
+            "ids": [
+                24955,
+                18754,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                40167,
+                23758
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.7724997997283936,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 15.309999465942383,
+        "cur_std": 0.6336036682128906,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneabi puzzlesaltshot amplifyESSsciously polish farming",
+            "ids": [
+                24955,
+                18754,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                40167,
+                23420
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.744999885559082,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.279999732971191,
+        "cur_std": 0.6184585094451904,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneabi puzzlesaltshot amplifyESSsciously cinnamon farming",
+            "ids": [
+                24955,
+                18754,
+                25351,
+                40918,
+                11860,
+                42074,
+                5479,
+                43386,
+                33871,
+                23420
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.53125,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.694999694824219,
+        "cur_std": 0.6123268127441406,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneabi puzzlesaltbyterian amplifyESSsciously cinnamon farming",
+            "ids": [
+                24955,
+                18754,
+                25351,
+                40918,
+                49945,
+                42074,
+                5479,
+                43386,
+                33871,
+                23420
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -137.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.759999990463257,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 13.045000076293945,
+        "cur_std": 0.6179999828338623,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneabi puzzlesaltbyterian amplifyESSsciously cinnamon texture",
+            "ids": [
+                24955,
+                18754,
+                25351,
+                40918,
+                49945,
+                42074,
+                5479,
+                43386,
+                33871,
+                14542
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.7612500190734863,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.210000038146973,
+        "cur_std": 0.6332607269287109,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneabi puzzlesalt� amplifyESSsciously cinnamon texture",
+            "ids": [
+                24955,
+                18754,
+                25351,
+                40918,
+                229,
+                42074,
+                5479,
+                43386,
+                33871,
+                14542
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.679999828338623,
+        "best_loss": 3.0999999046325684,
+        "best_kl": 3.6050000190734863,
+        "best_std": 0.307177996635437,
+        "cur_kl": 14.210000038146973,
+        "cur_std": 0.6294209003448487,
+        "orig_prompt": {
+            "text": "Tell me a unique way to make tea.",
+            "ids": [
+                17570,
+                479,
+                247,
+                4451,
+                1039,
+                281,
+                1056,
+                10331,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Someoneabi puzzlesalt� amplifyttessciously cinnamon texture",
+            "ids": [
+                24955,
+                18754,
+                25351,
+                40918,
+                229,
+                42074,
+                20543,
+                43386,
+                33871,
+                14542
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    }
+]

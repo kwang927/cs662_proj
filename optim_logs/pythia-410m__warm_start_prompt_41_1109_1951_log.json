@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.737499952316284,
+        "best_loss": 3.737499952316284,
+        "best_kl": 7.837499618530273,
+        "best_std": 0.5693272590637207,
+        "cur_kl": 7.837499618530273,
+        "cur_std": 0.5693272590637207,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Can youLear the structure of this sentence?",
+            "ids": [
+                5804,
+                368,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -50.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.7099997997283936,
+        "best_kl": 6.524999618530273,
+        "best_std": 0.5394944667816162,
+        "cur_kl": 6.524999618530273,
+        "cur_std": 0.5394944667816162,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Can latterLear the structure of this sentence?",
+            "ids": [
+                5804,
+                6158,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.7249999046325684,
+        "best_loss": 3.7099997997283936,
+        "best_kl": 6.524999618530273,
+        "best_std": 0.5394944667816162,
+        "cur_kl": 6.940000057220459,
+        "cur_std": 0.5597180843353271,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Can eliminateLear the structure of this sentence?",
+            "ids": [
+                5804,
+                13469,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 4.967499732971191,
+        "best_std": 0.46833648681640627,
+        "cur_kl": 4.967499732971191,
+        "cur_std": 0.46833648681640627,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Can eliminateLear the structure of this sentence).",
+            "ids": [
+                5804,
+                13469,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 4.809999942779541,
+        "best_std": 0.5065993785858154,
+        "cur_kl": 4.809999942779541,
+        "cur_std": 0.5065993785858154,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param eliminateLear the structure of this sentence).",
+            "ids": [
+                3575,
+                13469,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 4.809999942779541,
+        "best_std": 0.5065993785858154,
+        "cur_kl": 4.897500038146973,
+        "cur_std": 0.4731569290161133,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param ordinarilyLear the structure of this sentence).",
+            "ids": [
+                3575,
+                36165,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 4.809999942779541,
+        "best_std": 0.5065993785858154,
+        "cur_kl": 4.949999809265137,
+        "cur_std": 0.5060368061065674,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param367Lear the structure of this sentence).",
+            "ids": [
+                3575,
+                25140,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 4.809999942779541,
+        "best_std": 0.5065993785858154,
+        "cur_kl": 5.355000019073486,
+        "cur_std": 0.47486281394958496,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param corporateLear the structure of this sentence).",
+            "ids": [
+                3575,
+                10459,
+                24055,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.666249990463257,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 4.809999942779541,
+        "best_std": 0.5065993785858154,
+        "cur_kl": 5.329999923706055,
+        "cur_std": 0.469389820098877,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param corporate natural the structure of this sentence).",
+            "ids": [
+                3575,
+                10459,
+                3626,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.6374998092651367,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.789999961853027,
+        "best_std": 0.47831406593322756,
+        "cur_kl": 4.789999961853027,
+        "cur_std": 0.47831406593322756,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramBig natural the structure of this sentence).",
+            "ids": [
+                3575,
+                5178,
+                3626,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.6374998092651367,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.65749979019165,
+        "best_std": 0.46880807876586916,
+        "cur_kl": 4.65749979019165,
+        "cur_std": 0.46880807876586916,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Bet natural the structure of this sentence).",
+            "ids": [
+                3575,
+                8387,
+                3626,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.6399998664855957,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.605000019073486,
+        "best_std": 0.49440274238586424,
+        "cur_kl": 4.605000019073486,
+        "cur_std": 0.49440274238586424,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Bet sneak the structure of this sentence).",
+            "ids": [
+                3575,
+                8387,
+                36129,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.25
+    },
+    {
+        "epoch": 13,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.605000019073486,
+        "best_std": 0.49440274238586424,
+        "cur_kl": 4.652499675750732,
+        "cur_std": 0.49916467666625974,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param cost sneak the structure of this sentence).",
+            "ids": [
+                3575,
+                2105,
+                36129,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.75
+    },
+    {
+        "epoch": 14,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.605000019073486,
+        "best_std": 0.49440274238586424,
+        "cur_kl": 5.122499942779541,
+        "cur_std": 0.4880321979522705,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramDog sneak the structure of this sentence).",
+            "ids": [
+                3575,
+                47074,
+                36129,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.605000019073486,
+        "best_std": 0.49440274238586424,
+        "cur_kl": 4.942500114440918,
+        "cur_std": 0.49686970710754397,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Ster sneak the structure of this sentence).",
+            "ids": [
+                3575,
+                27900,
+                36129,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.605000019073486,
+        "best_std": 0.49440274238586424,
+        "cur_kl": 4.737499713897705,
+        "cur_std": 0.45714550018310546,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Beth sneak the structure of this sentence).",
+            "ids": [
+                3575,
+                22169,
+                36129,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -59.75
+    },
+    {
+        "epoch": 17,
+        "loss": 3.6449999809265137,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.605000019073486,
+        "best_std": 0.49440274238586424,
+        "cur_kl": 4.697499752044678,
+        "cur_std": 0.46684651374816893,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Beth� the structure of this sentence).",
+            "ids": [
+                3575,
+                22169,
+                233,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.567500114440918,
+        "cur_std": 0.4849614143371582,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Bethict the structure of this sentence).",
+            "ids": [
+                3575,
+                22169,
+                882,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.9375,
+        "cur_std": 0.4831684112548828,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Mariict the structure of this sentence).",
+            "ids": [
+                3575,
+                34370,
+                882,
+                253,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.25
+    },
+    {
+        "epoch": 20,
+        "loss": 3.6575000286102295,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.857500076293945,
+        "cur_std": 0.4871875762939453,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Mariictsuc structure of this sentence).",
+            "ids": [
+                3575,
+                34370,
+                882,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.819999694824219,
+        "cur_std": 0.4760962963104248,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param Mari Clarksuc structure of this sentence).",
+            "ids": [
+                3575,
+                34370,
+                15319,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.6575000286102295,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.934999942779541,
+        "cur_std": 0.4921431064605713,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramshape Clarksuc structure of this sentence).",
+            "ids": [
+                3575,
+                15721,
+                15319,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.651249885559082,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.804999828338623,
+        "cur_std": 0.4874897480010986,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param existence Clarksuc structure of this sentence).",
+            "ids": [
+                3575,
+                6242,
+                15319,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.3125,
+        "cur_std": 0.5271705627441406,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param existence Chesuc structure of this sentence).",
+            "ids": [
+                3575,
+                6242,
+                4661,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.96999979019165,
+        "cur_std": 0.4627716541290283,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramrization Chesuc structure of this sentence).",
+            "ids": [
+                3575,
+                45031,
+                4661,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.6675000190734863,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.252500057220459,
+        "cur_std": 0.4778885364532471,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramrizationéqusuc structure of this sentence).",
+            "ids": [
+                3575,
+                45031,
+                40552,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.6649999618530273,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.045000076293945,
+        "cur_std": 0.4695847511291504,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramrizationoutsuc structure of this sentence).",
+            "ids": [
+                3575,
+                45031,
+                483,
+                47924,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.012499809265137,
+        "cur_std": 0.4432201862335205,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramrizationout Kamp structure of this sentence).",
+            "ids": [
+                3575,
+                45031,
+                483,
+                46882,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.672499895095825,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.255000114440918,
+        "cur_std": 0.4579679012298584,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "paramrization))/ Kamp structure of this sentence).",
+            "ids": [
+                3575,
+                45031,
+                13987,
+                46882,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.674999952316284,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.59499979019165,
+        "cur_std": 0.4717094898223877,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param see))/ Kamp structure of this sentence).",
+            "ids": [
+                3575,
+                923,
+                13987,
+                46882,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.669999837875366,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.315000057220459,
+        "cur_std": 0.473750638961792,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "param see))/ Tree structure of this sentence).",
+            "ids": [
+                3575,
+                923,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.679999828338623,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.807499885559082,
+        "cur_std": 0.47883028984069825,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "aming see))/ Tree structure of this sentence).",
+            "ids": [
+                6472,
+                923,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.682499885559082,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.457499980926514,
+        "cur_std": 0.4620039939880371,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\ see))/ Tree structure of this sentence).",
+            "ids": [
+                2704,
+                923,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.6712498664855957,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.522500038146973,
+        "cur_std": 0.48133201599121095,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\ control))/ Tree structure of this sentence).",
+            "ids": [
+                2704,
+                1453,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.669999837875366,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.174999713897705,
+        "cur_std": 0.46657867431640626,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\85))/ Tree structure of this sentence).",
+            "ids": [
+                2704,
+                2227,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.6675000190734863,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.234999656677246,
+        "cur_std": 0.4847395896911621,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\rection))/ Tree structure of this sentence).",
+            "ids": [
+                2704,
+                15831,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.6687498092651367,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.302499771118164,
+        "cur_std": 0.4517823219299316,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\OR))/ Tree structure of this sentence).",
+            "ids": [
+                2704,
+                1372,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.6649999618530273,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.262499809265137,
+        "cur_std": 0.48371686935424807,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\rtl))/ Tree structure of this sentence).",
+            "ids": [
+                2704,
+                44964,
+                13987,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.842499732971191,
+        "cur_std": 0.4646554946899414,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\rtltte Tree structure of this sentence).",
+            "ids": [
+                2704,
+                44964,
+                38489,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.400000095367432,
+        "cur_std": 0.4676666736602783,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\martte Tree structure of this sentence).",
+            "ids": [
+                2704,
+                4175,
+                38489,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.924999713897705,
+        "cur_std": 0.4597773551940918,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\matte Tree structure of this sentence).",
+            "ids": [
+                2704,
+                785,
+                38489,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.669999837875366,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.957499980926514,
+        "cur_std": 0.48282437324523925,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}{\\maetting Tree structure of this sentence).",
+            "ids": [
+                2704,
+                785,
+                33513,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 4.835000038146973,
+        "cur_std": 0.4474989414215088,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " satisfyingmaetting Tree structure of this sentence).",
+            "ids": [
+                14127,
+                785,
+                33513,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.567500114440918,
+        "best_std": 0.4849614143371582,
+        "cur_kl": 5.102499961853027,
+        "cur_std": 0.47326364517211916,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " satisfyingJECTetting Tree structure of this sentence).",
+            "ids": [
+                14127,
+                19290,
+                33513,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.6449999809265137,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.5625,
+        "best_std": 0.4440455436706543,
+        "cur_kl": 4.5625,
+        "cur_std": 0.4440455436706543,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " satisfyingJECTwith Tree structure of this sentence).",
+            "ids": [
+                14127,
+                19290,
+                3113,
+                19128,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.6449999809265137,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.542500019073486,
+        "best_std": 0.4339310169219971,
+        "cur_kl": 4.542500019073486,
+        "cur_std": 0.4339310169219971,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " satisfyingJECTwith sentences structure of this sentence).",
+            "ids": [
+                14127,
+                19290,
+                3113,
+                14683,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.542500019073486,
+        "best_std": 0.4339310169219971,
+        "cur_kl": 4.5625,
+        "cur_std": 0.417822265625,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " satisfyingensionwith sentences structure of this sentence).",
+            "ids": [
+                14127,
+                2452,
+                3113,
+                14683,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.542500019073486,
+        "best_std": 0.4339310169219971,
+        "cur_kl": 4.710000038146973,
+        "cur_std": 0.4428260803222656,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Setensionwith sentences structure of this sentence).",
+            "ids": [
+                4531,
+                2452,
+                3113,
+                14683,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.534999847412109,
+        "best_std": 0.45342440605163575,
+        "cur_kl": 4.534999847412109,
+        "cur_std": 0.45342440605163575,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Set measureswith sentences structure of this sentence).",
+            "ids": [
+                4531,
+                5593,
+                3113,
+                14683,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.6449999809265137,
+        "best_loss": 3.6374998092651367,
+        "best_kl": 4.534999847412109,
+        "best_std": 0.45342440605163575,
+        "cur_kl": 4.534999847412109,
+        "cur_std": 0.41254048347473143,
+        "orig_prompt": {
+            "text": "Generate a sentence which has at least three clauses.",
+            "ids": [
+                40731,
+                247,
+                6197,
+                534,
+                556,
+                387,
+                1878,
+                1264,
+                34510,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Sethamwith sentences structure of this sentence).",
+            "ids": [
+                4531,
+                3964,
+                3113,
+                14683,
+                2605,
+                273,
+                436,
+                6197,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    }
+]

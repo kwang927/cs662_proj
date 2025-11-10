@@ -1,0 +1,2202 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.554999828338623,
+        "best_loss": 3.554999828338623,
+        "best_kl": 9.237500190734863,
+        "best_std": 0.41265301704406737,
+        "cur_kl": 9.237500190734863,
+        "cur_std": 0.41265301704406737,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "What are some major causes of air pollutionvens",
+            "ids": [
+                1276,
+                403,
+                690,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                14941
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -45.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 8.057499885559082,
+        "best_std": 0.46656999588012693,
+        "cur_kl": 8.057499885559082,
+        "cur_std": 0.46656999588012693,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "les are some major causes of air pollutionvens",
+            "ids": [
+                868,
+                403,
+                690,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                14941
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -48.75
+    },
+    {
+        "epoch": 3,
+        "loss": 3.507499933242798,
+        "best_loss": 3.507499933242798,
+        "best_kl": 7.932499885559082,
+        "best_std": 0.43724713325500486,
+        "cur_kl": 7.932499885559082,
+        "cur_std": 0.43724713325500486,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "les exercised some major causes of air pollutionvens",
+            "ids": [
+                868,
+                25796,
+                690,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                14941
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.4624998569488525,
+        "best_loss": 3.4624998569488525,
+        "best_kl": 6.427499771118164,
+        "best_std": 0.3895622968673706,
+        "cur_kl": 6.427499771118164,
+        "cur_std": 0.3895622968673706,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "les exercised some major causes of air pollution elements",
+            "ids": [
+                868,
+                25796,
+                690,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.25
+    },
+    {
+        "epoch": 5,
+        "loss": 3.434999942779541,
+        "best_loss": 3.434999942779541,
+        "best_kl": 5.364999771118164,
+        "best_std": 0.3551109790802002,
+        "cur_kl": 5.364999771118164,
+        "cur_std": 0.3551109790802002,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "les6 some major causes of air pollution elements",
+            "ids": [
+                868,
+                23,
+                690,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.4049999713897705,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.517499923706055,
+        "best_std": 0.3460684061050415,
+        "cur_kl": 4.517499923706055,
+        "cur_std": 0.3460684061050415,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "lesround some major causes of air pollution elements",
+            "ids": [
+                868,
+                4650,
+                690,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.424999952316284,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.517499923706055,
+        "best_std": 0.3460684061050415,
+        "cur_kl": 5.099999904632568,
+        "cur_std": 0.3662187337875366,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "lesapped some major causes of air pollution elements",
+            "ids": [
+                868,
+                6965,
+                690,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -58.25
+    },
+    {
+        "epoch": 8,
+        "loss": 3.442499876022339,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.517499923706055,
+        "best_std": 0.3460684061050415,
+        "cur_kl": 5.237499713897705,
+        "cur_std": 0.35255870819091795,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "lesapped inspiration major causes of air pollution elements",
+            "ids": [
+                868,
+                6965,
+                17006,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.4375,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.517499923706055,
+        "best_std": 0.3460684061050415,
+        "cur_kl": 5.339999675750732,
+        "cur_std": 0.36332011222839355,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "lesappedV major causes of air pollution elements",
+            "ids": [
+                868,
+                6965,
+                55,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.429999828338623,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.517499923706055,
+        "best_std": 0.3460684061050415,
+        "cur_kl": 5.184999942779541,
+        "cur_std": 0.3633392333984375,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "lesappedcluding major causes of air pollution elements",
+            "ids": [
+                868,
+                6965,
+                6547,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.411249876022339,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.434999942779541,
+        "best_std": 0.3455456018447876,
+        "cur_kl": 4.434999942779541,
+        "cur_std": 0.3455456018447876,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "lesappediking major causes of air pollution elements",
+            "ids": [
+                868,
+                6965,
+                16434,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.411249876022339,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.434999942779541,
+        "best_std": 0.3455456018447876,
+        "cur_kl": 4.674999713897705,
+        "cur_std": 0.3508197546005249,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Lerappediking major causes of air pollution elements",
+            "ids": [
+                41664,
+                6965,
+                16434,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.432499885559082,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.434999942779541,
+        "best_std": 0.3455456018447876,
+        "cur_kl": 5.039999961853027,
+        "cur_std": 0.3585661888122559,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "linesappediking major causes of air pollution elements",
+            "ids": [
+                8737,
+                6965,
+                16434,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.4049999713897705,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.190000057220459,
+        "best_std": 0.3440166711807251,
+        "cur_kl": 4.190000057220459,
+        "cur_std": 0.3440166711807251,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " scrapingappediking major causes of air pollution elements",
+            "ids": [
+                47232,
+                6965,
+                16434,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.4049999713897705,
+        "best_loss": 3.4049999713897705,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.102499961853027,
+        "cur_std": 0.34559080600738523,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " scrapingappedcluded major causes of air pollution elements",
+            "ids": [
+                47232,
+                6965,
+                4686,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.3837499618530273,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.134999752044678,
+        "cur_std": 0.35177078247070315,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ishedappedcluded major causes of air pollution elements",
+            "ids": [
+                1428,
+                6965,
+                4686,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.4099998474121094,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.897500038146973,
+        "cur_std": 0.38666362762451173,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ishedappedAt major causes of air pollution elements",
+            "ids": [
+                1428,
+                6965,
+                3404,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.43999981880188,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 5.724999904632568,
+        "cur_std": 0.40975322723388674,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "layappedAt major causes of air pollution elements",
+            "ids": [
+                15328,
+                6965,
+                3404,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.444999933242798,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 6.034999847412109,
+        "cur_std": 0.4061400890350342,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "laycodedAt major causes of air pollution elements",
+            "ids": [
+                15328,
+                38059,
+                3404,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.424999952316284,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 5.259999752044678,
+        "cur_std": 0.3813837289810181,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "progresscodedAt major causes of air pollution elements",
+            "ids": [
+                24951,
+                38059,
+                3404,
+                2201,
+                5997,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.393749952316284,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.400000095367432,
+        "cur_std": 0.3470656394958496,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "progresscodedAt major sources of air pollution elements",
+            "ids": [
+                24951,
+                38059,
+                3404,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.3874998092651367,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.369999885559082,
+        "cur_std": 0.33121447563171386,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "progressoperAt major sources of air pollution elements",
+            "ids": [
+                24951,
+                2211,
+                3404,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.396250009536743,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.480000019073486,
+        "cur_std": 0.323367714881897,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "progressoperitect major sources of air pollution elements",
+            "ids": [
+                24951,
+                2211,
+                5671,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.284999847412109,
+        "cur_std": 0.3118659257888794,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "progressoper650 major sources of air pollution elements",
+            "ids": [
+                24951,
+                2211,
+                31036,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.40625,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.587500095367432,
+        "cur_std": 0.3240248680114746,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " directoper650 major sources of air pollution elements",
+            "ids": [
+                1480,
+                2211,
+                31036,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.391249895095825,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.409999847412109,
+        "cur_std": 0.35026183128356936,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " direct Circle650 major sources of air pollution elements",
+            "ids": [
+                1480,
+                29572,
+                31036,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.3975000381469727,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.847499847412109,
+        "cur_std": 0.3628049850463867,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " direct Circleapse major sources of air pollution elements",
+            "ids": [
+                1480,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.3899998664855957,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.542500019073486,
+        "cur_std": 0.35072174072265627,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Start Circleapse major sources of air pollution elements",
+            "ids": [
+                11075,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.391249895095825,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.644999980926514,
+        "cur_std": 0.3596115350723267,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "olving Circleapse major sources of air pollution elements",
+            "ids": [
+                11932,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.3899998664855957,
+        "best_loss": 3.3837499618530273,
+        "best_kl": 4.102499961853027,
+        "best_std": 0.34559080600738523,
+        "cur_kl": 4.46999979019165,
+        "cur_std": 0.3547349214553833,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "atoes Circleapse major sources of air pollution elements",
+            "ids": [
+                45000,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.3787498474121094,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.092499732971191,
+        "best_std": 0.33072187900543215,
+        "cur_kl": 4.092499732971191,
+        "cur_std": 0.33072187900543215,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "choice Circleapse major sources of air pollution elements",
+            "ids": [
+                22122,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.092499732971191,
+        "best_std": 0.33072187900543215,
+        "cur_kl": 4.464999675750732,
+        "cur_std": 0.3490611553192139,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " challenges Circleapse major sources of air pollution elements",
+            "ids": [
+                7881,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.403749942779541,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.092499732971191,
+        "best_std": 0.33072187900543215,
+        "cur_kl": 4.852499961853027,
+        "cur_std": 0.3662893295288086,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " continuing Circleapse major sources of air pollution elements",
+            "ids": [
+                11440,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.092499732971191,
+        "best_std": 0.33072187900543215,
+        "cur_kl": 4.467499732971191,
+        "cur_std": 0.3519185304641724,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "613 Circleapse major sources of air pollution elements",
+            "ids": [
+                46878,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.4149999618530273,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.092499732971191,
+        "best_std": 0.33072187900543215,
+        "cur_kl": 5.214999675750732,
+        "cur_std": 0.3579723358154297,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ocyan Circleapse major sources of air pollution elements",
+            "ids": [
+                26632,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.3949999809265137,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.092499732971191,
+        "best_std": 0.33072187900543215,
+        "cur_kl": 4.875,
+        "cur_std": 0.3838517665863037,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hampshire Circleapse major sources of air pollution elements",
+            "ids": [
+                24129,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.379999876022339,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.012499809265137,
+        "best_std": 0.3308501482009888,
+        "cur_kl": 4.012499809265137,
+        "cur_std": 0.3308501482009888,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " illustrate Circleapse major sources of air pollution elements",
+            "ids": [
+                17093,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.4124999046325684,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.012499809265137,
+        "best_std": 0.3308501482009888,
+        "cur_kl": 5.014999866485596,
+        "cur_std": 0.34598746299743655,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " hypothesized Circleapse major sources of air pollution elements",
+            "ids": [
+                24045,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.012499809265137,
+        "best_std": 0.3308501482009888,
+        "cur_kl": 4.352499961853027,
+        "cur_std": 0.37115190029144285,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " False Circleapse major sources of air pollution elements",
+            "ids": [
+                16708,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.40874981880188,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.012499809265137,
+        "best_std": 0.3308501482009888,
+        "cur_kl": 4.904999732971191,
+        "cur_std": 0.3645562410354614,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "08 Circleapse major sources of air pollution elements",
+            "ids": [
+                2904,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.3949999809265137,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.012499809265137,
+        "best_std": 0.3308501482009888,
+        "cur_kl": 4.759999752044678,
+        "cur_std": 0.35659232139587405,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "benef Circleapse major sources of air pollution elements",
+            "ids": [
+                31891,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.3949999809265137,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.012499809265137,
+        "best_std": 0.3308501482009888,
+        "cur_kl": 4.460000038146973,
+        "cur_std": 0.3561636209487915,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "225 Circleapse major sources of air pollution elements",
+            "ids": [
+                14832,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.398749828338623,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 4.012499809265137,
+        "best_std": 0.3308501482009888,
+        "cur_kl": 4.59499979019165,
+        "cur_std": 0.3579857349395752,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "adren Circleapse major sources of air pollution elements",
+            "ids": [
+                31211,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.3762500286102295,
+        "best_loss": 3.3762500286102295,
+        "best_kl": 3.8299999237060547,
+        "best_std": 0.3245408535003662,
+        "cur_kl": 3.8299999237060547,
+        "cur_std": 0.3245408535003662,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ptions Circleapse major sources of air pollution elements",
+            "ids": [
+                6372,
+                29572,
+                8023,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.3837499618530273,
+        "best_loss": 3.3762500286102295,
+        "best_kl": 3.8299999237060547,
+        "best_std": 0.3245408535003662,
+        "cur_kl": 3.8424999713897705,
+        "cur_std": 0.30743429660797117,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ptions Circle recommend major sources of air pollution elements",
+            "ids": [
+                6372,
+                29572,
+                5583,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.401249885559082,
+        "best_loss": 3.3762500286102295,
+        "best_kl": 3.8299999237060547,
+        "best_std": 0.3245408535003662,
+        "cur_kl": 4.684999942779541,
+        "cur_std": 0.3303009748458862,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ptions Circle plane major sources of air pollution elements",
+            "ids": [
+                6372,
+                29572,
+                6415,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.3975000381469727,
+        "best_loss": 3.3762500286102295,
+        "best_kl": 3.8299999237060547,
+        "best_std": 0.3245408535003662,
+        "cur_kl": 4.789999961853027,
+        "cur_std": 0.3329111099243164,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ptions Circleof major sources of air pollution elements",
+            "ids": [
+                6372,
+                29572,
+                1171,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -59.25
+    },
+    {
+        "epoch": 48,
+        "loss": 3.424999952316284,
+        "best_loss": 3.3762500286102295,
+        "best_kl": 3.8299999237060547,
+        "best_std": 0.3245408535003662,
+        "cur_kl": 5.484999656677246,
+        "cur_std": 0.3633079767227173,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ptions Circle meals major sources of air pollution elements",
+            "ids": [
+                6372,
+                29572,
+                16961,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.411249876022339,
+        "best_loss": 3.3762500286102295,
+        "best_kl": 3.8299999237060547,
+        "best_std": 0.3245408535003662,
+        "cur_kl": 4.802499771118164,
+        "cur_std": 0.3350767850875854,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ptions Circleurally major sources of air pollution elements",
+            "ids": [
+                6372,
+                29572,
+                8572,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.25
+    },
+    {
+        "epoch": 50,
+        "loss": 3.3874998092651367,
+        "best_loss": 3.3762500286102295,
+        "best_kl": 3.8299999237060547,
+        "best_std": 0.3245408535003662,
+        "cur_kl": 4.037499904632568,
+        "cur_std": 0.3173909902572632,
+        "orig_prompt": {
+            "text": "Name five common sources of air pollution",
+            "ids": [
+                2402,
+                2620,
+                1846,
+                4973,
+                273,
+                2329,
+                17432
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ptions Circle mutually major sources of air pollution elements",
+            "ids": [
+                6372,
+                29572,
+                25834,
+                2201,
+                4973,
+                273,
+                2329,
+                17432,
+                3603
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    }
+]

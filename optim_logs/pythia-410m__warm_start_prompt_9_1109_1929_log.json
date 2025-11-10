@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.953749895095825,
+        "best_loss": 3.953749895095825,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 5.192500114440918,
+        "cur_std": 0.40680532455444335,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is the consecutive between active and regular listening?",
+            "ids": [
+                1276,
+                310,
+                253,
+                12640,
+                875,
+                3939,
+                285,
+                3963,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -55.25
+    },
+    {
+        "epoch": 2,
+        "loss": 4.0,
+        "best_loss": 3.953749895095825,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 5.877500057220459,
+        "cur_std": 0.4820842742919922,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is the consecutive between active and respected listening?",
+            "ids": [
+                1276,
+                310,
+                253,
+                12640,
+                875,
+                3939,
+                285,
+                22694,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -60.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.947499990463257,
+        "best_loss": 3.947499990463257,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 7.732499599456787,
+        "cur_std": 0.5842336654663086,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is the consecutiveMO active and respected listening?",
+            "ids": [
+                1276,
+                310,
+                253,
+                12640,
+                6329,
+                3939,
+                285,
+                22694,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.9124999046325684,
+        "best_loss": 3.9124999046325684,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 7.9375,
+        "cur_std": 0.5631505966186523,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What isimet consecutiveMO active and respected listening?",
+            "ids": [
+                1276,
+                310,
+                33256,
+                12640,
+                6329,
+                3939,
+                285,
+                22694,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.919999837875366,
+        "best_loss": 3.9124999046325684,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 6.842499732971191,
+        "cur_std": 0.5340271949768066,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What isimet consecutive lambda active and respected listening?",
+            "ids": [
+                1276,
+                310,
+                33256,
+                12640,
+                29331,
+                3939,
+                285,
+                22694,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 6,
+        "loss": 4.085000038146973,
+        "best_loss": 3.9124999046325684,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 6.777499675750732,
+        "cur_std": 0.5213000774383545,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is prepared consecutive lambda active and respected listening?",
+            "ids": [
+                1276,
+                310,
+                5480,
+                12640,
+                29331,
+                3939,
+                285,
+                22694,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 7,
+        "loss": 4.089999675750732,
+        "best_loss": 3.9124999046325684,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 7.19249963760376,
+        "cur_std": 0.555832815170288,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is prepared consecutive lambda active and congenital listening?",
+            "ids": [
+                1276,
+                310,
+                5480,
+                12640,
+                29331,
+                3939,
+                285,
+                28296,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.916249990463257,
+        "best_loss": 3.9124999046325684,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 6.272500038146973,
+        "cur_std": 0.576880931854248,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is prepared Cle lambda active and congenital listening?",
+            "ids": [
+                1276,
+                310,
+                5480,
+                8148,
+                29331,
+                3939,
+                285,
+                28296,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.8112499713897705,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 6.967499732971191,
+        "cur_std": 0.5712123394012452,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is prepared Cle lambda active and old listening?",
+            "ids": [
+                1276,
+                310,
+                5480,
+                8148,
+                29331,
+                3939,
+                285,
+                1711,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 10,
+        "loss": 4.15749979019165,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 6.94249963760376,
+        "cur_std": 0.6287498950958252,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What is preparedbenz lambda active and old listening?",
+            "ids": [
+                1276,
+                310,
+                5480,
+                24865,
+                29331,
+                3939,
+                285,
+                1711,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 11,
+        "loss": 4.054999828338623,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 8.517499923706055,
+        "cur_std": 0.6130139350891113,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What TN preparedbenz lambda active and old listening?",
+            "ids": [
+                1276,
+                24758,
+                5480,
+                24865,
+                29331,
+                3939,
+                285,
+                1711,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 12,
+        "loss": 4.239999771118164,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 9.952499389648438,
+        "cur_std": 0.6343164443969727,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What TN prepared community lambda active and old listening?",
+            "ids": [
+                1276,
+                24758,
+                5480,
+                3114,
+                29331,
+                3939,
+                285,
+                1711,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 13,
+        "loss": 4.019999980926514,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 11.47249984741211,
+        "cur_std": 0.6772819042205811,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What TN prepared community lambdathreatening and old listening?",
+            "ids": [
+                1276,
+                24758,
+                5480,
+                3114,
+                29331,
+                33897,
+                285,
+                1711,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 14,
+        "loss": 4.112499713897705,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 9.952499389648438,
+        "cur_std": 0.6670329570770264,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What Shock prepared community lambdathreatening and old listening?",
+            "ids": [
+                1276,
+                46085,
+                5480,
+                3114,
+                29331,
+                33897,
+                285,
+                1711,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 15,
+        "loss": 4.087500095367432,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 8.149999618530273,
+        "cur_std": 0.6544235706329345,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What Shock prepared Although lambdathreatening and old listening?",
+            "ids": [
+                1276,
+                46085,
+                5480,
+                4129,
+                29331,
+                33897,
+                285,
+                1711,
+                11298,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.869999885559082,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 8.477499961853027,
+        "cur_std": 0.6631735801696778,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What Shock prepared Although lambdathreatening and old listening?**",
+            "ids": [
+                1276,
+                46085,
+                5480,
+                4129,
+                29331,
+                33897,
+                285,
+                1711,
+                11298,
+                39148
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 17,
+        "loss": 4.142499923706055,
+        "best_loss": 3.8112499713897705,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 9.727499961853027,
+        "cur_std": 0.6826594829559326,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "What Shock prepared Although lambdathreatening andhydroxy listening?**",
+            "ids": [
+                1276,
+                46085,
+                5480,
+                4129,
+                29331,
+                33897,
+                285,
+                19304,
+                11298,
+                39148
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 8.927499771118164,
+        "cur_std": 0.6798163414001465,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Н Shock prepared Although lambdathreatening andhydroxy listening?**",
+            "ids": [
+                25077,
+                46085,
+                5480,
+                4129,
+                29331,
+                33897,
+                285,
+                19304,
+                11298,
+                39148
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.8874998092651367,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 8.142499923706055,
+        "cur_std": 0.6831509113311768,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Н Shockds Although lambdathreatening andhydroxy listening?**",
+            "ids": [
+                25077,
+                46085,
+                1397,
+                4129,
+                29331,
+                33897,
+                285,
+                19304,
+                11298,
+                39148
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.992499828338623,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 7.899999618530273,
+        "cur_std": 0.7082575798034668,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Н Shockds Althoughmodulethreatening andhydroxy listening?**",
+            "ids": [
+                25077,
+                46085,
+                1397,
+                4129,
+                8640,
+                33897,
+                285,
+                19304,
+                11298,
+                39148
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 21,
+        "loss": 4.0625,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.797499656677246,
+        "cur_std": 0.7982913017272949,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Н Shockds Althoughmodulethreatening andhydroxy listeningRob",
+            "ids": [
+                25077,
+                46085,
+                1397,
+                4129,
+                8640,
+                33897,
+                285,
+                19304,
+                11298,
+                17895
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 22,
+        "loss": 4.371249675750732,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.967499732971191,
+        "cur_std": 0.77851243019104,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " showed Shockds Althoughmodulethreatening andhydroxy listeningRob",
+            "ids": [
+                2692,
+                46085,
+                1397,
+                4129,
+                8640,
+                33897,
+                285,
+                19304,
+                11298,
+                17895
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 23,
+        "loss": 4.252500057220459,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 15.902499198913574,
+        "cur_std": 0.7278279304504395,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " showed intersectionds Althoughmodulethreatening andhydroxy listeningRob",
+            "ids": [
+                2692,
+                15171,
+                1397,
+                4129,
+                8640,
+                33897,
+                285,
+                19304,
+                11298,
+                17895
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 24,
+        "loss": 4.027499675750732,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 15.57249927520752,
+        "cur_std": 0.7624744892120361,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " showed intersection You Althoughmodulethreatening andhydroxy listeningRob",
+            "ids": [
+                2692,
+                15171,
+                1422,
+                4129,
+                8640,
+                33897,
+                285,
+                19304,
+                11298,
+                17895
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.8737499713897705,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 17.3174991607666,
+        "cur_std": 0.8155051231384277,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " showed intersection You Althoughmodulethreatening sellinghydroxy listeningRob",
+            "ids": [
+                2692,
+                15171,
+                1422,
+                4129,
+                8640,
+                33897,
+                10156,
+                19304,
+                11298,
+                17895
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 26,
+        "loss": 4.286250114440918,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 17.072500228881836,
+        "cur_std": 0.8007280349731445,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minima intersection You Althoughmodulethreatening sellinghydroxy listeningRob",
+            "ids": [
+                46836,
+                15171,
+                1422,
+                4129,
+                8640,
+                33897,
+                10156,
+                19304,
+                11298,
+                17895
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 27,
+        "loss": 4.420000076293945,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 16.75749969482422,
+        "cur_std": 0.757483434677124,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minima behavior You Althoughmodulethreatening sellinghydroxy listeningRob",
+            "ids": [
+                46836,
+                3879,
+                1422,
+                4129,
+                8640,
+                33897,
+                10156,
+                19304,
+                11298,
+                17895
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 28,
+        "loss": 4.317500114440918,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.982500076293945,
+        "cur_std": 0.7728526592254639,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minima behavior You Althoughmodulethreatening sellinghydroxy listeningcm",
+            "ids": [
+                46836,
+                3879,
+                1422,
+                4129,
+                8640,
+                33897,
+                10156,
+                19304,
+                11298,
+                3591
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 29,
+        "loss": 4.079999923706055,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 15.017499923706055,
+        "cur_std": 0.7728035926818848,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minima behavior You Althoughmodulethreateningnewshydroxy listeningcm",
+            "ids": [
+                46836,
+                3879,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                19304,
+                11298,
+                3591
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 30,
+        "loss": 4.272500038146973,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 15.492499351501465,
+        "cur_std": 0.7966347694396972,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minima 68 You Althoughmodulethreateningnewshydroxy listeningcm",
+            "ids": [
+                46836,
+                9934,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                19304,
+                11298,
+                3591
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.947499990463257,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.157499313354492,
+        "cur_std": 0.7641977787017822,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minima traumatic You Althoughmodulethreateningnewshydroxy listeningcm",
+            "ids": [
+                46836,
+                27784,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                19304,
+                11298,
+                3591
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 32,
+        "loss": 4.198750019073486,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.962499618530273,
+        "cur_std": 0.7855013370513916,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minima traumatic You Althoughmodulethreateningnews completing listeningcm",
+            "ids": [
+                46836,
+                27784,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                21006,
+                11298,
+                3591
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 33,
+        "loss": 4.088749885559082,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 16.67249870300293,
+        "cur_std": 0.8455519676208496,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted You Althoughmodulethreateningnews completing listeningcm",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                21006,
+                11298,
+                3591
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 34,
+        "loss": 4.444999694824219,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 15.757499694824219,
+        "cur_std": 0.8281006813049316,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted You Althoughmodulethreateningnews completing listening DOC",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                21006,
+                11298,
+                38909
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 35,
+        "loss": 4.131249904632568,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 15.112499237060547,
+        "cur_std": 0.8007916450500489,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted You Althoughmodulethreateningnews Prix listening DOC",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                36244,
+                11298,
+                38909
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 36,
+        "loss": 4.107500076293945,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 12.767499923706055,
+        "cur_std": 0.7721089363098145,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted You Althoughmodulethreateningnews Prix listening waves",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                4129,
+                8640,
+                33897,
+                13608,
+                36244,
+                11298,
+                10212
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 37,
+        "loss": 4.227499961853027,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 13.032499313354492,
+        "cur_std": 0.7205993175506592,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted You Althoughmodulethreatening competency Prix listening waves",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                4129,
+                8640,
+                33897,
+                43346,
+                36244,
+                11298,
+                10212
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 38,
+        "loss": 4.296249866485596,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.57249927520752,
+        "cur_std": 0.8204326629638672,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted You Althoughmodulethreatening competency Prix Frequency waves",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                4129,
+                8640,
+                33897,
+                43346,
+                36244,
+                38544,
+                10212
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 39,
+        "loss": 4.264999866485596,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.34749984741211,
+        "cur_std": 0.8431385040283204,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted You Althoughmodulethreatening competency Prix Frequency Workshop",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                4129,
+                8640,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.9649999141693115,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.182499885559082,
+        "cur_std": 0.8850316047668457,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted YouINmodulethreatening competency Prix Frequency Workshop",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                1042,
+                8640,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 41,
+        "loss": 4.15749979019165,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.307499885559082,
+        "cur_std": 0.8650834083557128,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted YouINBrownthreatening competency Prix Frequency Workshop",
+            "ids": [
+                46836,
+                44255,
+                1422,
+                1042,
+                27543,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 42,
+        "loss": 4.319999694824219,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.172499656677246,
+        "cur_std": 0.8768393516540527,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted MITINBrownthreatening competency Prix Frequency Workshop",
+            "ids": [
+                46836,
+                44255,
+                20695,
+                1042,
+                27543,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 43,
+        "loss": 4.116250038146973,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.229999542236328,
+        "cur_std": 0.8734342575073242,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestricted MITstateBrownthreatening competency Prix Frequency Workshop",
+            "ids": [
+                46836,
+                44255,
+                20695,
+                3409,
+                27543,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 44,
+        "loss": 4.125,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.337499618530273,
+        "cur_std": 0.8520576477050781,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestrictedTilestateBrownthreatening competency Prix Frequency Workshop",
+            "ids": [
+                46836,
+                44255,
+                44334,
+                3409,
+                27543,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 45,
+        "loss": 4.28249979019165,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 13.807499885559082,
+        "cur_std": 0.820436954498291,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " minimarestrictedBufferstateBrownthreatening competency Prix Frequency Workshop",
+            "ids": [
+                46836,
+                44255,
+                10644,
+                3409,
+                27543,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.9149999618530273,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 12.657499313354492,
+        "cur_std": 0.779217529296875,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "bbrestrictedBufferstateBrownthreatening competency Prix Frequency Workshop",
+            "ids": [
+                4482,
+                44255,
+                10644,
+                3409,
+                27543,
+                33897,
+                43346,
+                36244,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 47,
+        "loss": 4.027499675750732,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 12.28749942779541,
+        "cur_std": 0.7954604148864746,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "bbrestrictedBufferstateBrownthreatening competency Mickey Frequency Workshop",
+            "ids": [
+                4482,
+                44255,
+                10644,
+                3409,
+                27543,
+                33897,
+                43346,
+                44065,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 48,
+        "loss": 4.299999713897705,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 12.295000076293945,
+        "cur_std": 0.8009730339050293,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "574restrictedBufferstateBrownthreatening competency Mickey Frequency Workshop",
+            "ids": [
+                38503,
+                44255,
+                10644,
+                3409,
+                27543,
+                33897,
+                43346,
+                44065,
+                38544,
+                40394
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 49,
+        "loss": 4.179999828338623,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 15.087499618530273,
+        "cur_std": 0.847652530670166,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "574restrictedBufferstateBrownthreatening competency Mickey Frequency Biosystems",
+            "ids": [
+                38503,
+                44255,
+                10644,
+                3409,
+                27543,
+                33897,
+                43346,
+                44065,
+                38544,
+                40073
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 50,
+        "loss": 4.110000133514404,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 4.557499885559082,
+        "best_std": 0.43808374404907224,
+        "cur_kl": 14.967499732971191,
+        "cur_std": 0.8814849853515625,
+        "orig_prompt": {
+            "text": "Compare and contrast active listening and regular listening.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                3939,
+                11298,
+                285,
+                3963,
+                11298,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "574 wartBufferstateBrownthreatening competency Mickey Frequency Biosystems",
+            "ids": [
+                38503,
+                34950,
+                10644,
+                3409,
+                27543,
+                33897,
+                43346,
+                44065,
+                38544,
+                40073
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -142.0
+    }
+]
