@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.0274999141693115,
+        "best_loss": 3.0274999141693115,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 5.569999694824219,
+        "cur_std": 0.4043494701385498,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you share examples of widelyossip family values?",
+            "ids": [
+                5804,
+                368,
+                3894,
+                6667,
+                273,
+                7561,
+                30336,
+                2021,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.0899999141693115,
+        "best_loss": 3.0274999141693115,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 5.352499961853027,
+        "cur_std": 0.4124344825744629,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you share examples of biologicallyossip family values?",
+            "ids": [
+                5804,
+                368,
+                3894,
+                6667,
+                273,
+                35605,
+                30336,
+                2021,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.0112500190734863,
+        "best_loss": 3.0112500190734863,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 11.642499923706055,
+        "cur_std": 0.5872407913208008,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you share examples of biologicallyossip after values?",
+            "ids": [
+                5804,
+                368,
+                3894,
+                6667,
+                273,
+                35605,
+                30336,
+                846,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 4,
+        "loss": 2.9962499141693115,
+        "best_loss": 2.9962499141693115,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 10.34749984741211,
+        "cur_std": 0.5868067264556884,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you share examples of roleossip after values?",
+            "ids": [
+                5804,
+                368,
+                3894,
+                6667,
+                273,
+                2554,
+                30336,
+                846,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.1862499713897705,
+        "best_loss": 2.9962499141693115,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.5,
+        "cur_std": 0.6896877288818359,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you share emphasizes of roleossip after values?",
+            "ids": [
+                5804,
+                368,
+                3894,
+                35520,
+                273,
+                2554,
+                30336,
+                846,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.1293749809265137,
+        "best_loss": 2.9962499141693115,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 11.967499732971191,
+        "cur_std": 0.5972121238708497,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you share emphasizes of role.\"_ after values?",
+            "ids": [
+                5804,
+                368,
+                3894,
+                35520,
+                273,
+                2554,
+                38039,
+                846,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 7,
+        "loss": 2.9674999713897705,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 12.962499618530273,
+        "cur_std": 0.6505570411682129,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you scientific emphasizes of role.\"_ after values?",
+            "ids": [
+                5804,
+                368,
+                8249,
+                35520,
+                273,
+                2554,
+                38039,
+                846,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.263749837875366,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 13.182499885559082,
+        "cur_std": 0.6530605316162109,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can saying scientific emphasizes of role.\"_ after values?",
+            "ids": [
+                5804,
+                3981,
+                8249,
+                35520,
+                273,
+                2554,
+                38039,
+                846,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.2725000381469727,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.007499694824219,
+        "cur_std": 0.6669360637664795,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can saying scientific emphasizes of role.\"_ You values?",
+            "ids": [
+                5804,
+                3981,
+                8249,
+                35520,
+                273,
+                2554,
+                38039,
+                1422,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.169999837875366,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.53499984741211,
+        "cur_std": 0.6807602405548095,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can saying scientific betrayal of role.\"_ You values?",
+            "ids": [
+                5804,
+                3981,
+                8249,
+                46337,
+                273,
+                2554,
+                38039,
+                1422,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.2337498664855957,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.842499732971191,
+        "cur_std": 0.6922611236572266,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can saying scientific betrayal oflaughter.\"_ You values?",
+            "ids": [
+                5804,
+                3981,
+                8249,
+                46337,
+                273,
+                36425,
+                38039,
+                1422,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 12,
+        "loss": 2.994999885559082,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 15.167499542236328,
+        "cur_std": 0.6281089782714844,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can saying scientific betrayal oflaughter.\"_ 122 values?",
+            "ids": [
+                5804,
+                3981,
+                8249,
+                46337,
+                273,
+                36425,
+                38039,
+                17115,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.1024999618530273,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.427499771118164,
+        "cur_std": 0.6107444286346435,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can saying opposite betrayal oflaughter.\"_ 122 values?",
+            "ids": [
+                5804,
+                3981,
+                7285,
+                46337,
+                273,
+                36425,
+                38039,
+                17115,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.28125,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 13.957499504089355,
+        "cur_std": 0.6056036472320556,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can sayinginstead betrayal oflaughter.\"_ 122 values?",
+            "ids": [
+                5804,
+                3981,
+                34235,
+                46337,
+                273,
+                36425,
+                38039,
+                17115,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.226249933242798,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 13.59749984741211,
+        "cur_std": 0.6061229228973388,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can Sprintinstead betrayal oflaughter.\"_ 122 values?",
+            "ids": [
+                5804,
+                41058,
+                34235,
+                46337,
+                273,
+                36425,
+                38039,
+                17115,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.0487499237060547,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.5649995803833,
+        "cur_std": 0.6934726238250732,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can Sprintinstead betrayal oflaughter Training 122 values?",
+            "ids": [
+                5804,
+                41058,
+                34235,
+                46337,
+                273,
+                36425,
+                19036,
+                17115,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.3212499618530273,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 13.407499313354492,
+        "cur_std": 0.6550277233123779,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can Sprintinstead betrayal oflaughterATION 122 values?",
+            "ids": [
+                5804,
+                41058,
+                34235,
+                46337,
+                273,
+                36425,
+                6570,
+                17115,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.429999828338623,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 11.364999771118164,
+        "cur_std": 0.6461660861968994,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Sprintinstead betrayal oflaughterATION 122 values?",
+            "ids": [
+                33458,
+                41058,
+                34235,
+                46337,
+                273,
+                36425,
+                6570,
+                17115,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.200624942779541,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 10.779999732971191,
+        "cur_std": 0.6371920108795166,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Sprintinstead betrayal oflaughterATION 4 values?",
+            "ids": [
+                33458,
+                41058,
+                34235,
+                46337,
+                273,
+                36425,
+                6570,
+                577,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -109.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.237499952316284,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 12.899999618530273,
+        "cur_std": 0.6902001380920411,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Sprintabstract betrayal oflaughterATION 4 values?",
+            "ids": [
+                33458,
+                41058,
+                15834,
+                46337,
+                273,
+                36425,
+                6570,
+                577,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.129999876022339,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.21500015258789,
+        "cur_std": 0.7655791282653809,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Sprintabstract betrayal oflaughterquark 4 values?",
+            "ids": [
+                33458,
+                41058,
+                15834,
+                46337,
+                273,
+                36425,
+                46310,
+                577,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.302500009536743,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 13.554999351501465,
+        "cur_std": 0.7864588260650635,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Sprintabstract betrayal ofOLOGquark 4 values?",
+            "ids": [
+                33458,
+                41058,
+                15834,
+                46337,
+                273,
+                41232,
+                46310,
+                577,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.132499933242798,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.242499351501465,
+        "cur_std": 0.8226700782775879,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Sprintabstract betrayal of-quark 4 values?",
+            "ids": [
+                33458,
+                41058,
+                15834,
+                46337,
+                273,
+                14,
+                46310,
+                577,
+                2193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.036875009536743,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 16.98499870300293,
+        "cur_std": 0.9715967178344727,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Sprintabstract betrayal of-quark 4Qiagen?",
+            "ids": [
+                33458,
+                41058,
+                15834,
+                46337,
+                273,
+                14,
+                46310,
+                577,
+                47738,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.3975000381469727,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 16.774999618530273,
+        "cur_std": 0.9215469360351562,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Hugabstract betrayal of-quark 4Qiagen?",
+            "ids": [
+                33458,
+                12818,
+                15834,
+                46337,
+                273,
+                14,
+                46310,
+                577,
+                47738,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.382499933242798,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 17.182498931884766,
+        "cur_std": 0.9384320259094239,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Hugabstract betrayal of factorquark 4Qiagen?",
+            "ids": [
+                33458,
+                12818,
+                15834,
+                46337,
+                273,
+                2803,
+                46310,
+                577,
+                47738,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.4124999046325684,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 19.92249870300293,
+        "cur_std": 1.025333786010742,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Hugabstract pretended of factorquark 4Qiagen?",
+            "ids": [
+                33458,
+                12818,
+                15834,
+                43325,
+                273,
+                2803,
+                46310,
+                577,
+                47738,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.422499895095825,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 17.6875,
+        "cur_std": 0.9062520027160644,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Hugabstract pretended theme factorquark 4Qiagen?",
+            "ids": [
+                33458,
+                12818,
+                15834,
+                43325,
+                10014,
+                2803,
+                46310,
+                577,
+                47738,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.341249942779541,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 17.809999465942383,
+        "cur_std": 0.9240756034851074,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Hugabstract pretended theme factorquark circumferenceQiagen?",
+            "ids": [
+                33458,
+                12818,
+                15834,
+                43325,
+                10014,
+                2803,
+                46310,
+                30341,
+                47738,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.244999885559082,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 18.677499771118164,
+        "cur_std": 0.913460636138916,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Hugabstract pretended theme factorNU circumferenceQiagen?",
+            "ids": [
+                33458,
+                12818,
+                15834,
+                43325,
+                10014,
+                2803,
+                9744,
+                30341,
+                47738,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.244999885559082,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 17.832500457763672,
+        "cur_std": 0.871157169342041,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood Hugabstract pretended theme factorNU circumference lion?",
+            "ids": [
+                33458,
+                12818,
+                15834,
+                43325,
+                10014,
+                2803,
+                9744,
+                30341,
+                27405,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.1912498474121094,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 16.969999313354492,
+        "cur_std": 0.8404715538024903,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead pretended theme factorNU circumference lion?",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                43325,
+                10014,
+                2803,
+                9744,
+                30341,
+                27405,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -137.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.1624999046325684,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 18.142499923706055,
+        "cur_std": 0.8053503036499023,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead pretended theme factor stray circumference lion?",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                43325,
+                10014,
+                2803,
+                38134,
+                30341,
+                27405,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.1712498664855957,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.03499984741211,
+        "cur_std": 0.8055365562438965,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead362 theme factor stray circumference lion?",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                28615,
+                10014,
+                2803,
+                38134,
+                30341,
+                27405,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.338749885559082,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 13.179999351501465,
+        "cur_std": 0.8128162384033203,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead362 theme factor form circumference lion?",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                28615,
+                10014,
+                2803,
+                830,
+                30341,
+                27405,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.1987500190734863,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 14.867499351501465,
+        "cur_std": 0.8465352058410645,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead362 theme factorEINVAL circumference lion?",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                28615,
+                10014,
+                2803,
+                37213,
+                30341,
+                27405,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.148749828338623,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 15.487499237060547,
+        "cur_std": 0.8417632102966308,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead women theme factorEINVAL circumference lion?",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                2255,
+                10014,
+                2803,
+                37213,
+                30341,
+                27405,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.1762499809265137,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 21.729999542236328,
+        "cur_std": 1.031466293334961,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead women theme factorEINVAL circumference lion pharmacokinetic",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                2255,
+                10014,
+                2803,
+                37213,
+                30341,
+                27405,
+                47502
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.5462498664855957,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 21.25749969482422,
+        "cur_std": 0.9641781806945801,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead women theme factorded circumference lion pharmacokinetic",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                2255,
+                10014,
+                2803,
+                4861,
+                30341,
+                27405,
+                47502
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.53125,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 20.559999465942383,
+        "cur_std": 0.9924851417541504,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afood HugLead obedience theme factorded circumference lion pharmacokinetic",
+            "ids": [
+                33458,
+                12818,
+                28749,
+                40138,
+                10014,
+                2803,
+                4861,
+                30341,
+                27405,
+                47502
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.257499933242798,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 20.28499984741211,
+        "cur_std": 1.0249539375305177,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodKilosLead obedience theme factorded circumference lion pharmacokinetic",
+            "ids": [
+                33458,
+                48622,
+                28749,
+                40138,
+                10014,
+                2803,
+                4861,
+                30341,
+                27405,
+                47502
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.4124999046325684,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 21.020000457763672,
+        "cur_std": 1.0665996551513672,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodKilosLead obedience theme factorded circumference Summary pharmacokinetic",
+            "ids": [
+                33458,
+                48622,
+                28749,
+                40138,
+                10014,
+                2803,
+                4861,
+                30341,
+                18435,
+                47502
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.4700000286102295,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 19.295000076293945,
+        "cur_std": 1.013166904449463,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodKilosLead obedience theme factorded circumference Summary be",
+            "ids": [
+                33458,
+                48622,
+                28749,
+                40138,
+                10014,
+                2803,
+                4861,
+                30341,
+                18435,
+                320
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.4049999713897705,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 20.362499237060547,
+        "cur_std": 1.0359532356262207,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodKilosLead Scots theme factorded circumference Summary be",
+            "ids": [
+                33458,
+                48622,
+                28749,
+                45690,
+                10014,
+                2803,
+                4861,
+                30341,
+                18435,
+                320
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.4937498569488525,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 20.744998931884766,
+        "cur_std": 1.0951972007751465,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodKilosLead Scots theme factorded circumferenceshifts be",
+            "ids": [
+                33458,
+                48622,
+                28749,
+                45690,
+                10014,
+                2803,
+                4861,
+                30341,
+                37758,
+                320
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.5274999141693115,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 20.807498931884766,
+        "cur_std": 1.1008540153503419,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodseverLead Scots theme factorded circumferenceshifts be",
+            "ids": [
+                33458,
+                26219,
+                28749,
+                45690,
+                10014,
+                2803,
+                4861,
+                30341,
+                37758,
+                320
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.240000009536743,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 18.78999900817871,
+        "cur_std": 1.0471686363220214,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodseverLead Scots theme factorded circumferenceshiftsulsion",
+            "ids": [
+                33458,
+                26219,
+                28749,
+                45690,
+                10014,
+                2803,
+                4861,
+                30341,
+                37758,
+                15305
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.259999990463257,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 17.85249900817871,
+        "cur_std": 0.9985285758972168,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodseverLead Scots theme factorded�shiftsulsion",
+            "ids": [
+                33458,
+                26219,
+                28749,
+                45690,
+                10014,
+                2803,
+                4861,
+                38675,
+                37758,
+                15305
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.338749885559082,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 18.739999771118164,
+        "cur_std": 0.9349750518798828,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodsever evalu Scots theme factorded�shiftsulsion",
+            "ids": [
+                33458,
+                26219,
+                3595,
+                45690,
+                10014,
+                2803,
+                4861,
+                38675,
+                37758,
+                15305
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.2925000190734863,
+        "best_loss": 2.9674999713897705,
+        "best_kl": 4.259999752044678,
+        "best_std": 0.37735657691955565,
+        "cur_kl": 18.670000076293945,
+        "cur_std": 0.9681407928466796,
+        "orig_prompt": {
+            "text": "Give 5 examples of common family values.",
+            "ids": [
+                19735,
+                608,
+                6667,
+                273,
+                1846,
+                2021,
+                2193,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "afoodo evalu Scots theme factorded�shiftsulsion",
+            "ids": [
+                33458,
+                80,
+                3595,
+                45690,
+                10014,
+                2803,
+                4861,
+                38675,
+                37758,
+                15305
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    }
+]

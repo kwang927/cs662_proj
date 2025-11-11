@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.22124981880188,
+        "best_loss": 3.22124981880188,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 7.392499923706055,
+        "cur_std": 0.42748465538024905,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How can I aerate soil in mytime?",
+            "ids": [
+                2347,
+                476,
+                309,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -45.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.47124981880188,
+        "best_loss": 3.22124981880188,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 9.71500015258789,
+        "cur_std": 0.49768428802490233,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Living can I aerate soil in mytime?",
+            "ids": [
+                19383,
+                476,
+                309,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -60.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.206249952316284,
+        "best_loss": 3.206249952316284,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.902499198913574,
+        "cur_std": 0.6753309726715088,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Living can I Onterate soil in mytime?",
+            "ids": [
+                19383,
+                476,
+                309,
+                15195,
+                5034,
+                8825,
+                275,
+                619,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.294999837875366,
+        "best_loss": 3.206249952316284,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 17.407499313354492,
+        "cur_std": 0.7069251060485839,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Living can I Onterate soil in uppertime?",
+            "ids": [
+                19383,
+                476,
+                309,
+                15195,
+                5034,
+                8825,
+                275,
+                5170,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.444999933242798,
+        "best_loss": 3.206249952316284,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 15.827499389648438,
+        "cur_std": 0.6722934722900391,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Living can I Onterate soil in arrangetime?",
+            "ids": [
+                19383,
+                476,
+                309,
+                15195,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.31499981880188,
+        "best_loss": 3.206249952316284,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 12.802499771118164,
+        "cur_std": 0.5972929000854492,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Living can Iāserate soil in arrangetime?",
+            "ids": [
+                19383,
+                476,
+                309,
+                42257,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.257499933242798,
+        "best_loss": 3.206249952316284,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 12.617499351501465,
+        "cur_std": 0.5965331077575684,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "CAL can Iāserate soil in arrangetime?",
+            "ids": [
+                39350,
+                476,
+                309,
+                42257,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.03374981880188,
+        "best_loss": 3.03374981880188,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.602499961853027,
+        "cur_std": 0.6437941551208496,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "CAL can I makeerate soil in arrangetime?",
+            "ids": [
+                39350,
+                476,
+                309,
+                1056,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.429999828338623,
+        "best_loss": 3.03374981880188,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 11.2524995803833,
+        "cur_std": 0.6615666389465332,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "CAL can I makeerate soil in arrangetime**).",
+            "ids": [
+                39350,
+                476,
+                309,
+                1056,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.4724998474121094,
+        "best_loss": 3.03374981880188,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 9.52750015258789,
+        "cur_std": 0.6056332111358642,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "cuts can I makeerate soil in arrangetime**).",
+            "ids": [
+                43969,
+                476,
+                309,
+                1056,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.4287500381469727,
+        "best_loss": 3.03374981880188,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 11.077499389648438,
+        "cur_std": 0.6582392692565918,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "cuts can nicer makeerate soil in arrangetime**).",
+            "ids": [
+                43969,
+                476,
+                49482,
+                1056,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.197499990463257,
+        "best_loss": 3.03374981880188,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 10.767499923706055,
+        "cur_std": 0.6801223278045654,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "cuts can Keller makeerate soil in arrangetime**).",
+            "ids": [
+                43969,
+                476,
+                44172,
+                1056,
+                5034,
+                8825,
+                275,
+                23240,
+                2606,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 13,
+        "loss": 2.7024998664855957,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 10.612500190734863,
+        "cur_std": 0.6792410373687744,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "cuts can Keller makeerate soil in BBtime**).",
+            "ids": [
+                43969,
+                476,
+                44172,
+                1056,
+                5034,
+                8825,
+                275,
+                22819,
+                2606,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.206249952316284,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 10.84749984741211,
+        "cur_std": 0.6574542999267579,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "s can Keller makeerate soil in BBtime**).",
+            "ids": [
+                84,
+                476,
+                44172,
+                1056,
+                5034,
+                8825,
+                275,
+                22819,
+                2606,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.328749895095825,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 10.792499542236328,
+        "cur_std": 0.6728881359100342,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "s can Keller makeerate soil in BB,&**).",
+            "ids": [
+                84,
+                476,
+                44172,
+                1056,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.15874981880188,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 11.532499313354492,
+        "cur_std": 0.6771677970886231,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "s can Kellergerate soil in BB,&**).",
+            "ids": [
+                84,
+                476,
+                44172,
+                72,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.223749876022339,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 12.692500114440918,
+        "cur_std": 0.6966265678405762,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "s aside Kellergerate soil in BB,&**).",
+            "ids": [
+                84,
+                9255,
+                44172,
+                72,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.2649998664855957,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.452499389648438,
+        "cur_std": 0.7024370670318604,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ι aside Kellergerate soil in BB,&**).",
+            "ids": [
+                2989,
+                9255,
+                44172,
+                72,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.3299999237060547,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 11.867499351501465,
+        "cur_std": 0.6190214633941651,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ι aside Keller.,erate soil in BB,&**).",
+            "ids": [
+                2989,
+                9255,
+                44172,
+                904,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.1875,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 11.637499809265137,
+        "cur_std": 0.6723186492919921,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ι aside Keller{erate soil in BB,&**).",
+            "ids": [
+                2989,
+                9255,
+                44172,
+                92,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.3062498569488525,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 11.77750015258789,
+        "cur_std": 0.6638472557067872,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ι aside Kellerasteerate soil in BB,&**).",
+            "ids": [
+                2989,
+                9255,
+                44172,
+                4740,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.2149999141693115,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 10.892499923706055,
+        "cur_std": 0.6465258121490478,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Y aside Kellerasteerate soil in BB,&**).",
+            "ids": [
+                58,
+                9255,
+                44172,
+                4740,
+                5034,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.3212499618530273,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.53749942779541,
+        "cur_std": 0.709988021850586,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Y aside Kellerasteday soil in BB,&**).",
+            "ids": [
+                58,
+                9255,
+                44172,
+                4740,
+                1201,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.5299999713897705,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 12.672499656677246,
+        "cur_std": 0.7039991855621338,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "YOnce Kellerasteday soil in BB,&**).",
+            "ids": [
+                58,
+                10758,
+                44172,
+                4740,
+                1201,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.328749895095825,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.512499809265137,
+        "cur_std": 0.7284650802612305,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "YOncexCasteday soil in BB,&**).",
+            "ids": [
+                58,
+                10758,
+                31932,
+                4740,
+                1201,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.3562498092651367,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.987499237060547,
+        "cur_std": 0.7697104930877685,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "YOncexCaste], soil in BB,&**).",
+            "ids": [
+                58,
+                10758,
+                31932,
+                4740,
+                1092,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.424999952316284,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.337499618530273,
+        "cur_std": 0.7280055522918701,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "YOncexCaste cour soil in BB,&**).",
+            "ids": [
+                58,
+                10758,
+                31932,
+                4740,
+                1960,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.4624998569488525,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 17.407499313354492,
+        "cur_std": 0.7591833114624024,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "YOnce dressedaste cour soil in BB,&**).",
+            "ids": [
+                58,
+                10758,
+                14186,
+                4740,
+                1960,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.3949999809265137,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.742499351501465,
+        "cur_std": 0.7223301410675049,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "YOnce dressed banana cour soil in BB,&**).",
+            "ids": [
+                58,
+                10758,
+                14186,
+                36767,
+                1960,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.5687499046325684,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.6274995803833,
+        "cur_std": 0.6977190017700196,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "IOnce dressed banana cour soil in BB,&**).",
+            "ids": [
+                42,
+                10758,
+                14186,
+                36767,
+                1960,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -109.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.3524999618530273,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 16.862499237060547,
+        "cur_std": 0.773482370376587,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " constantlyOnce dressed banana cour soil in BB,&**).",
+            "ids": [
+                11485,
+                10758,
+                14186,
+                36767,
+                1960,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.1837499141693115,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 15.592499732971191,
+        "cur_std": 0.7381697654724121,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " constantlyOnce dressed bananaudge soil in BB,&**).",
+            "ids": [
+                11485,
+                10758,
+                14186,
+                36767,
+                15414,
+                8825,
+                275,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.391249895095825,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 15.202499389648438,
+        "cur_std": 0.7739908218383789,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " constantlyOnce dressed bananaudge soilGas BB,&**).",
+            "ids": [
+                11485,
+                10758,
+                14186,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.4337499141693115,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 16.037500381469727,
+        "cur_std": 0.7422271728515625,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " heOnce dressed bananaudge soilGas BB,&**).",
+            "ids": [
+                344,
+                10758,
+                14186,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                39108,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.3249998092651367,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.917499542236328,
+        "cur_std": 0.7639035224914551,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " heOnce dressed bananaudge soilGas BBus**).",
+            "ids": [
+                344,
+                10758,
+                14186,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                316,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.3474998474121094,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 15.307499885559082,
+        "cur_std": 0.7812904834747314,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce dressed bananaudge soilGas BBus**).",
+            "ids": [
+                12710,
+                10758,
+                14186,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                316,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.3975000381469727,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.582499504089355,
+        "cur_std": 0.7462791442871094,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce $ bananaudge soilGas BBus**).",
+            "ids": [
+                12710,
+                10758,
+                370,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                316,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.341249942779541,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 15.007499694824219,
+        "cur_std": 0.7854456424713134,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce� bananaudge soilGas BBus**).",
+            "ids": [
+                12710,
+                10758,
+                151,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                316,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.5087499618530273,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.94749927520752,
+        "cur_std": 0.7651689529418946,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce� bananaudge soilGas BB hitch**).",
+            "ids": [
+                12710,
+                10758,
+                151,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                47826,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.4887499809265137,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.57249927520752,
+        "cur_std": 0.7568733215332031,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce� bananaudge soilGas BB obsession**).",
+            "ids": [
+                12710,
+                10758,
+                151,
+                36767,
+                15414,
+                8825,
+                43537,
+                22819,
+                37238,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.401249885559082,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.41249942779541,
+        "cur_std": 0.7512647151947022,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce� usingudge soilGas BB obsession**).",
+            "ids": [
+                12710,
+                10758,
+                151,
+                970,
+                15414,
+                8825,
+                43537,
+                22819,
+                37238,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.286249876022339,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.66249942779541,
+        "cur_std": 0.718877649307251,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce��udge soilGas BB obsession**).",
+            "ids": [
+                12710,
+                10758,
+                151,
+                16800,
+                15414,
+                8825,
+                43537,
+                22819,
+                37238,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.4574999809265137,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.97249984741211,
+        "cur_std": 0.691469383239746,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madeOnce��udge soilGas BB advancing**).",
+            "ids": [
+                12710,
+                10758,
+                151,
+                16800,
+                15414,
+                8825,
+                43537,
+                22819,
+                26441,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.2962498664855957,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.367499351501465,
+        "cur_std": 0.6960426807403565,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madetheir��udge soilGas BB advancing**).",
+            "ids": [
+                12710,
+                14094,
+                151,
+                16800,
+                15414,
+                8825,
+                43537,
+                22819,
+                26441,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.18999981880188,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.82249927520752,
+        "cur_std": 0.6786358833312989,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "madetheir��udge soilGas� advancing**).",
+            "ids": [
+                12710,
+                14094,
+                151,
+                16800,
+                15414,
+                8825,
+                43537,
+                28492,
+                26441,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.3862500190734863,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.202499389648438,
+        "cur_std": 0.70696120262146,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "made just��udge soilGas� advancing**).",
+            "ids": [
+                12710,
+                816,
+                151,
+                16800,
+                15414,
+                8825,
+                43537,
+                28492,
+                26441,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.4812498092651367,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 13.007499694824219,
+        "cur_std": 0.702668571472168,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "made just��udge soilGas�illing**).",
+            "ids": [
+                12710,
+                816,
+                151,
+                16800,
+                15414,
+                8825,
+                43537,
+                28492,
+                3867,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.5249998569488525,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.397500038146973,
+        "cur_std": 0.7055166244506836,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "made just��udge soilYou�illing**).",
+            "ids": [
+                12710,
+                816,
+                151,
+                16800,
+                15414,
+                8825,
+                1394,
+                28492,
+                3867,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -134.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.369999885559082,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.47249984741211,
+        "cur_std": 0.6988978862762452,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "made just�Illustrationudge soilYou�illing**).",
+            "ids": [
+                12710,
+                816,
+                151,
+                26559,
+                15414,
+                8825,
+                1394,
+                28492,
+                3867,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.3687498569488525,
+        "best_loss": 2.7024998664855957,
+        "best_kl": 7.392499923706055,
+        "best_std": 0.42748465538024905,
+        "cur_kl": 14.217499732971191,
+        "cur_std": 0.6911476135253907,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "made just�Illustration From soilYou�illing**).",
+            "ids": [
+                12710,
+                816,
+                151,
+                26559,
+                4325,
+                8825,
+                1394,
+                28492,
+                3867,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    }
+]

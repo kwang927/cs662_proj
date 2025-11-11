@@ -1,0 +1,2052 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.40625,
+        "best_loss": 3.40625,
+        "best_kl": 7.335000038146973,
+        "best_std": 0.5512637138366699,
+        "cur_kl": 7.480000019073486,
+        "cur_std": 0.5889736175537109,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Whate API stands for?",
+            "ids": [
+                1276,
+                70,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -34.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.299999952316284,
+        "best_loss": 3.299999952316284,
+        "best_kl": 7.335000038146973,
+        "best_std": 0.5512637138366699,
+        "cur_kl": 7.982499599456787,
+        "cur_std": 0.5380151271820068,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " commencemente API stands for?",
+            "ids": [
+                37877,
+                70,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -45.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.393749952316284,
+        "best_loss": 3.299999952316284,
+        "best_kl": 7.199999809265137,
+        "best_std": 0.5135045051574707,
+        "cur_kl": 7.199999809265137,
+        "cur_std": 0.5135045051574707,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " commencement outlined API stands for?",
+            "ids": [
+                37877,
+                18627,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -43.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.3712499141693115,
+        "best_loss": 3.299999952316284,
+        "best_kl": 7.199999809265137,
+        "best_std": 0.5135045051574707,
+        "cur_kl": 7.25499963760376,
+        "cur_std": 0.5648364067077637,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " connection outlined API stands for?",
+            "ids": [
+                4602,
+                18627,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -41.75
+    },
+    {
+        "epoch": 5,
+        "loss": 3.4212498664855957,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 5.674999713897705,
+        "cur_std": 0.5346279621124268,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ency outlined API stands for?",
+            "ids": [
+                1371,
+                18627,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -41.75
+    },
+    {
+        "epoch": 6,
+        "loss": 3.3687498569488525,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 5.799999713897705,
+        "cur_std": 0.5008578777313233,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Services outlined API stands for?",
+            "ids": [
+                9491,
+                18627,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -39.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.3712499141693115,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 6.125,
+        "cur_std": 0.5382291793823242,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "um outlined API stands for?",
+            "ids": [
+                360,
+                18627,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -44.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.3524999618530273,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.832499980926514,
+        "cur_std": 0.5549257755279541,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "umismatic API stands for?",
+            "ids": [
+                360,
+                43307,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -44.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.3112499713897705,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.244999885559082,
+        "cur_std": 0.5809038162231446,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "um repertoire API stands for?",
+            "ids": [
+                360,
+                39287,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -46.75
+    },
+    {
+        "epoch": 10,
+        "loss": 3.4499998092651367,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.744999885559082,
+        "cur_std": 0.5738953113555908,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " 1886 repertoire API stands for?",
+            "ids": [
+                48305,
+                39287,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -47.25
+    },
+    {
+        "epoch": 11,
+        "loss": 3.3562498092651367,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.300000190734863,
+        "cur_std": 0.6058844566345215,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " skip repertoire API stands for?",
+            "ids": [
+                17049,
+                39287,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -47.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.3637499809265137,
+        "best_loss": 3.299999952316284,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.28249979019165,
+        "cur_std": 0.5972543716430664,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " skip digitally API stands for?",
+            "ids": [
+                17049,
+                48225,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -50.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.2699999809265137,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.627500057220459,
+        "cur_std": 0.5832737445831299,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " skip ' API stands for?",
+            "ids": [
+                17049,
+                686,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -38.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.3562498092651367,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.847499847412109,
+        "cur_std": 0.6020471572875976,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "shit ' API stands for?",
+            "ids": [
+                26871,
+                686,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -40.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.3374998569488525,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.484999656677246,
+        "cur_std": 0.5891144752502442,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " widely ' API stands for?",
+            "ids": [
+                7561,
+                686,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -41.75
+    },
+    {
+        "epoch": 16,
+        "loss": 3.3450000286102295,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.31749963760376,
+        "cur_std": 0.6069864273071289,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "older ' API stands for?",
+            "ids": [
+                4486,
+                686,
+                8990,
+                9572,
+                323,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -39.25
+    },
+    {
+        "epoch": 17,
+        "loss": 3.3550000190734863,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.512499809265137,
+        "cur_std": 0.6296481609344482,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "older ' API standsually?",
+            "ids": [
+                4486,
+                686,
+                8990,
+                9572,
+                1230,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -54.25
+    },
+    {
+        "epoch": 18,
+        "loss": 3.482499837875366,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.630000114440918,
+        "cur_std": 0.6689212322235107,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "older Seems API standsually?",
+            "ids": [
+                4486,
+                50140,
+                8990,
+                9572,
+                1230,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.75
+    },
+    {
+        "epoch": 19,
+        "loss": 3.338749885559082,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.954999923706055,
+        "cur_std": 0.6241497039794922,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "inners Seems API standsually?",
+            "ids": [
+                12947,
+                50140,
+                8990,
+                9572,
+                1230,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.75
+    },
+    {
+        "epoch": 20,
+        "loss": 3.3249998092651367,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.147500038146973,
+        "cur_std": 0.620403242111206,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "innersł API standsually?",
+            "ids": [
+                12947,
+                7679,
+                8990,
+                9572,
+                1230,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.4099998474121094,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.442500114440918,
+        "cur_std": 0.5672552108764648,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "innersł API stands environments?",
+            "ids": [
+                12947,
+                7679,
+                8990,
+                9572,
+                12620,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.75
+    },
+    {
+        "epoch": 22,
+        "loss": 3.351249933242798,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 10.135000228881836,
+        "cur_std": 0.6002674102783203,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "inners     API stands environments?",
+            "ids": [
+                12947,
+                50274,
+                8990,
+                9572,
+                12620,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.75
+    },
+    {
+        "epoch": 23,
+        "loss": 3.4724998474121094,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 10.362500190734863,
+        "cur_std": 0.6936251640319824,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "inners     API stands most?",
+            "ids": [
+                12947,
+                50274,
+                8990,
+                9572,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.4987499713897705,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.994999885559082,
+        "cur_std": 0.6931207656860352,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "inners128 API stands most?",
+            "ids": [
+                12947,
+                8196,
+                8990,
+                9572,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -58.75
+    },
+    {
+        "epoch": 25,
+        "loss": 3.473749876022339,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 10.242499351501465,
+        "cur_std": 0.6785350322723389,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " latter128 API stands most?",
+            "ids": [
+                6158,
+                8196,
+                8990,
+                9572,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.25
+    },
+    {
+        "epoch": 26,
+        "loss": 3.4437499046325684,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.522500038146973,
+        "cur_std": 0.6176803112030029,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly128 API stands most?",
+            "ids": [
+                16907,
+                8196,
+                8990,
+                9572,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -55.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.444999933242798,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.487500190734863,
+        "cur_std": 0.6271969318389893,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly� API stands most?",
+            "ids": [
+                16907,
+                26532,
+                8990,
+                9572,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -62.25
+    },
+    {
+        "epoch": 28,
+        "loss": 3.4412498474121094,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.940000057220459,
+        "cur_std": 0.5961060523986816,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly أن API stands most?",
+            "ids": [
+                16907,
+                49043,
+                8990,
+                9572,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.432499885559082,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.117499351501465,
+        "cur_std": 0.652524757385254,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly than API stands most?",
+            "ids": [
+                16907,
+                685,
+                8990,
+                9572,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -50.25
+    },
+    {
+        "epoch": 30,
+        "loss": 3.398749828338623,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.59749984741211,
+        "cur_std": 0.670536994934082,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly than API possesses most?",
+            "ids": [
+                16907,
+                685,
+                8990,
+                25099,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -50.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.4524998664855957,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.427499771118164,
+        "cur_std": 0.64906005859375,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly repeated API possesses most?",
+            "ids": [
+                16907,
+                6015,
+                8990,
+                25099,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -52.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.396250009536743,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.357499599456787,
+        "cur_std": 0.5947927951812744,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible API possesses most?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                25099,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -52.25
+    },
+    {
+        "epoch": 33,
+        "loss": 3.336249828338623,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.772500038146973,
+        "cur_std": 0.5636741161346436,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APISay most?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                27128,
+                954,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.4099998474121094,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.050000190734863,
+        "cur_std": 0.6325354099273681,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APISay derivative?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                27128,
+                4309,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.25
+    },
+    {
+        "epoch": 35,
+        "loss": 3.351249933242798,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 7.84499979019165,
+        "cur_std": 0.6113899707794189,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APISayITS?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                27128,
+                24265,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -60.75
+    },
+    {
+        "epoch": 36,
+        "loss": 3.319999933242798,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.15999984741211,
+        "cur_std": 0.5909836292266846,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APISayprise?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                27128,
+                10344,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.25
+    },
+    {
+        "epoch": 37,
+        "loss": 3.4362499713897705,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.554999351501465,
+        "cur_std": 0.6087698459625244,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APItaitprise?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                19340,
+                10344,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -60.25
+    },
+    {
+        "epoch": 38,
+        "loss": 3.4237499237060547,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.595000267028809,
+        "cur_std": 0.6108734607696533,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APISRCprise?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                31694,
+                10344,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.25
+    },
+    {
+        "epoch": 39,
+        "loss": 3.463749885559082,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.202499389648438,
+        "cur_std": 0.5974133491516114,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible API Empprise?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                11274,
+                10344,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.40874981880188,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.3774995803833,
+        "cur_std": 0.623523473739624,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible API Emple?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                11274,
+                282,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.4387500286102295,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.34000015258789,
+        "cur_std": 0.6223481178283692,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APICastle?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                19447,
+                282,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -48.25
+    },
+    {
+        "epoch": 42,
+        "loss": 3.4375,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.41249942779541,
+        "cur_std": 0.6647451400756836,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APICastF?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                19447,
+                39,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -55.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.4524998664855957,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.220000267028809,
+        "cur_std": 0.6212491512298584,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APICast kidding?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                19447,
+                29521,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.75
+    },
+    {
+        "epoch": 44,
+        "loss": 3.396250009536743,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 10.262499809265137,
+        "cur_std": 0.6634427547454834,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APICast glucose?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                19447,
+                8383,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.75
+    },
+    {
+        "epoch": 45,
+        "loss": 3.362499952316284,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.147500038146973,
+        "cur_std": 0.5992008209228515,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APICast feels?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                19447,
+                9193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.3949999809265137,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.27750015258789,
+        "cur_std": 0.5989247322082519,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible API polype feels?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                27743,
+                9193,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.3687498569488525,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 8.9375,
+        "cur_std": 0.6257155418395997,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible API polypeとい?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                27743,
+                26594,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.461249828338623,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.512499809265137,
+        "cur_std": 0.6183574199676514,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible API polype perturbed?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                27743,
+                44711,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.434999942779541,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.362500190734863,
+        "cur_std": 0.6223973274230957,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APIke perturbed?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                413,
+                44711,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.442499876022339,
+        "best_loss": 3.2699999809265137,
+        "best_kl": 5.674999713897705,
+        "best_std": 0.5346279621124268,
+        "cur_kl": 9.042499542236328,
+        "cur_std": 0.6537581443786621,
+        "orig_prompt": {
+            "text": "Explain what an API is.",
+            "ids": [
+                1672,
+                19104,
+                752,
+                271,
+                8990,
+                310,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " seemingly tangible APIkephab?",
+            "ids": [
+                16907,
+                33631,
+                8990,
+                413,
+                20376,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -64.5
+    }
+]

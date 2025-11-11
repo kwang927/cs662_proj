@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.3787498474121094,
+        "best_loss": 3.3787498474121094,
+        "best_kl": 10.34749984741211,
+        "best_std": 0.4534783840179443,
+        "cur_kl": 10.34749984741211,
+        "cur_std": 0.4534783840179443,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "PRLiscuss the factors contributing to the Ice Age",
+            "ids": [
+                49255,
+                8552,
+                253,
+                2616,
+                15979,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -49.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.3112499713897705,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 8.532500267028809,
+        "cur_std": 0.42970004081726076,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "PRLiscuss the factors Change to the Ice Age",
+            "ids": [
+                49255,
+                8552,
+                253,
+                2616,
+                15836,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.34375,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.03749942779541,
+        "cur_std": 0.46896586418151853,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "PRLiscussSub factors Change to the Ice Age",
+            "ids": [
+                49255,
+                8552,
+                5623,
+                2616,
+                15836,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.331249952316284,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.087499618530273,
+        "cur_std": 0.47499837875366213,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "PRLiscuss Even factors Change to the Ice Age",
+            "ids": [
+                49255,
+                8552,
+                4952,
+                2616,
+                15836,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.3524999618530273,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.059999465942383,
+        "cur_std": 0.45122056007385253,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " cyclesiscuss Even factors Change to the Ice Age",
+            "ids": [
+                11945,
+                8552,
+                4952,
+                2616,
+                15836,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.37749981880188,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.577499389648438,
+        "cur_std": 0.5310164451599121,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "######iscuss Even factors Change to the Ice Age",
+            "ids": [
+                5146,
+                8552,
+                4952,
+                2616,
+                15836,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.3562498092651367,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.969999313354492,
+        "cur_std": 0.48350677490234373,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "raceiscuss Even factors Change to the Ice Age",
+            "ids": [
+                27679,
+                8552,
+                4952,
+                2616,
+                15836,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.3274998664855957,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.385000228881836,
+        "cur_std": 0.4874617576599121,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ycliscuss Even factors Change to the Ice Age",
+            "ids": [
+                9920,
+                8552,
+                4952,
+                2616,
+                15836,
+                281,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.3712499141693115,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.359999656677246,
+        "cur_std": 0.5016931056976318,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ycliscuss Even factors Changeä the Ice Age",
+            "ids": [
+                9920,
+                8552,
+                4952,
+                2616,
+                15836,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.37749981880188,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.982500076293945,
+        "cur_std": 0.536428689956665,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ycliscuss Even factor Changeä the Ice Age",
+            "ids": [
+                9920,
+                8552,
+                4952,
+                2803,
+                15836,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.359999895095825,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.362500190734863,
+        "cur_std": 0.47320070266723635,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ycliscussulative factor Changeä the Ice Age",
+            "ids": [
+                9920,
+                8552,
+                12581,
+                2803,
+                15836,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.3637499809265137,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.772500038146973,
+        "cur_std": 0.4738502502441406,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ycldiscussionulative factor Changeä the Ice Age",
+            "ids": [
+                9920,
+                49794,
+                12581,
+                2803,
+                15836,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.365000009536743,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.207499504089355,
+        "cur_std": 0.49268712997436526,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "bdiscussionulative factor Changeä the Ice Age",
+            "ids": [
+                67,
+                49794,
+                12581,
+                2803,
+                15836,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.37749981880188,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 11.577499389648438,
+        "cur_std": 0.470944881439209,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "b BVulative factor Changeä the Ice Age",
+            "ids": [
+                67,
+                43264,
+                12581,
+                2803,
+                15836,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.37749981880188,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 11.019999504089355,
+        "cur_std": 0.4946899890899658,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "b BVulative factor Withinä the Ice Age",
+            "ids": [
+                67,
+                43264,
+                12581,
+                2803,
+                15092,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.3712499141693115,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.079999923706055,
+        "cur_std": 0.5540585041046142,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "bWhetherulative factor Withinä the Ice Age",
+            "ids": [
+                67,
+                22191,
+                12581,
+                2803,
+                15092,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.362499952316284,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.545000076293945,
+        "cur_std": 0.5274340152740479,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "09Whetherulative factor Withinä the Ice Age",
+            "ids": [
+                2693,
+                22191,
+                12581,
+                2803,
+                15092,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.3762500286102295,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.507499694824219,
+        "cur_std": 0.5569063186645508,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OctoberWhetherulative factor Withinä the Ice Age",
+            "ids": [
+                22117,
+                22191,
+                12581,
+                2803,
+                15092,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.3499999046325684,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 11.057499885559082,
+        "cur_std": 0.5277986526489258,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'tWhetherulative factor Withinä the Ice Age",
+            "ids": [
+                626,
+                22191,
+                12581,
+                2803,
+                15092,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.357499837875366,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.5,
+        "cur_std": 0.5139223575592041,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "GGWhetherulative factor Withinä the Ice Age",
+            "ids": [
+                6435,
+                22191,
+                12581,
+                2803,
+                15092,
+                1392,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.3662500381469727,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.739999771118164,
+        "cur_std": 0.48801183700561523,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "GGWhetherulative factor Within� the Ice Age",
+            "ids": [
+                6435,
+                22191,
+                12581,
+                2803,
+                15092,
+                46982,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.372499942779541,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.789999961853027,
+        "cur_std": 0.47095861434936526,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyWhetherulative factor Within� the Ice Age",
+            "ids": [
+                5954,
+                22191,
+                12581,
+                2803,
+                15092,
+                46982,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.375,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.729999542236328,
+        "cur_std": 0.5207279205322266,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyWhetherulative factor Within\u001f the Ice Age",
+            "ids": [
+                5954,
+                22191,
+                12581,
+                2803,
+                15092,
+                208,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.3637499809265137,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.25,
+        "cur_std": 0.4542170524597168,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyWhetherulative factor Withinids the Ice Age",
+            "ids": [
+                5954,
+                22191,
+                12581,
+                2803,
+                15092,
+                2352,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.37749981880188,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 11.050000190734863,
+        "cur_std": 0.4742617607116699,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyWhetherulative factor Withinidsbin Ice Age",
+            "ids": [
+                5954,
+                22191,
+                12581,
+                2803,
+                15092,
+                2352,
+                4805,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.3975000381469727,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 11.625,
+        "cur_std": 0.5302407741546631,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antly luckyulative factor Withinidsbin Ice Age",
+            "ids": [
+                5954,
+                13476,
+                12581,
+                2803,
+                15092,
+                2352,
+                4805,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.4124999046325684,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 12.0625,
+        "cur_std": 0.5492691993713379,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antly luckyulative factor Within Thatbin Ice Age",
+            "ids": [
+                5954,
+                13476,
+                12581,
+                2803,
+                15092,
+                2064,
+                4805,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.3787498474121094,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 11.3149995803833,
+        "cur_std": 0.5293485164642334,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyMeasureulative factor Within Thatbin Ice Age",
+            "ids": [
+                5954,
+                30563,
+                12581,
+                2803,
+                15092,
+                2064,
+                4805,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.362499952316284,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.462499618530273,
+        "cur_std": 0.540346622467041,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyMeasureulative factor Within That LH Ice Age",
+            "ids": [
+                5954,
+                30563,
+                12581,
+                2803,
+                15092,
+                2064,
+                33896,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.3562498092651367,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.944999694824219,
+        "cur_std": 0.5293599605560303,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyallyulative factor Within That LH Ice Age",
+            "ids": [
+                5954,
+                595,
+                12581,
+                2803,
+                15092,
+                2064,
+                33896,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.3812499046325684,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.804999351501465,
+        "cur_std": 0.589636754989624,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "antlyallyulativeWater Within That LH Ice Age",
+            "ids": [
+                5954,
+                595,
+                12581,
+                26042,
+                15092,
+                2064,
+                33896,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.3637499809265137,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.005000114440918,
+        "cur_std": 0.5913089275360107,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AsallyulativeWater Within That LH Ice Age",
+            "ids": [
+                1909,
+                595,
+                12581,
+                26042,
+                15092,
+                2064,
+                33896,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.357499837875366,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.91249942779541,
+        "cur_std": 0.5913238048553466,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AsallyencesWater Within That LH Ice Age",
+            "ids": [
+                1909,
+                595,
+                2979,
+                26042,
+                15092,
+                2064,
+                33896,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.3587498664855957,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.904999732971191,
+        "cur_std": 0.5810429573059082,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AsallyencesWater Within That Transition Ice Age",
+            "ids": [
+                1909,
+                595,
+                2979,
+                26042,
+                15092,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.3712499141693115,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.957499504089355,
+        "cur_std": 0.5703319072723388,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AsallyforWater Within That Transition Ice Age",
+            "ids": [
+                1909,
+                595,
+                1542,
+                26042,
+                15092,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.357499837875366,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.482500076293945,
+        "cur_std": 0.5431884765625,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "72allyforWater Within That Transition Ice Age",
+            "ids": [
+                3547,
+                595,
+                1542,
+                26042,
+                15092,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.3787498474121094,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 11.212499618530273,
+        "cur_std": 0.5419914722442627,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "72 sgforWater Within That Transition Ice Age",
+            "ids": [
+                3547,
+                48237,
+                1542,
+                26042,
+                15092,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.3662500381469727,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.529999732971191,
+        "cur_std": 0.5491416931152344,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "72crforWater Within That Transition Ice Age",
+            "ids": [
+                3547,
+                7083,
+                1542,
+                26042,
+                15092,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.365000009536743,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.97499942779541,
+        "cur_std": 0.5411769390106201,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "hercrforWater Within That Transition Ice Age",
+            "ids": [
+                379,
+                7083,
+                1542,
+                26042,
+                15092,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.367499828338623,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.137499809265137,
+        "cur_std": 0.5154479503631592,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "hercrforWater DM That Transition Ice Age",
+            "ids": [
+                379,
+                7083,
+                1542,
+                26042,
+                11085,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.357499837875366,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.085000038146973,
+        "cur_std": 0.5217034816741943,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "hercrforWaterof That Transition Ice Age",
+            "ids": [
+                379,
+                7083,
+                1542,
+                26042,
+                1171,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.359999895095825,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.65250015258789,
+        "cur_std": 0.5506297588348389,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskcrforWaterof That Transition Ice Age",
+            "ids": [
+                30326,
+                7083,
+                1542,
+                26042,
+                1171,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.359999895095825,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.137499809265137,
+        "cur_std": 0.548556137084961,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskoustforWaterof That Transition Ice Age",
+            "ids": [
+                30326,
+                26202,
+                1542,
+                26042,
+                1171,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.37749981880188,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.260000228881836,
+        "cur_std": 0.5631118774414062,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskactorsforWaterof That Transition Ice Age",
+            "ids": [
+                30326,
+                46435,
+                1542,
+                26042,
+                1171,
+                2064,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.375,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.357500076293945,
+        "cur_std": 0.5388710975646973,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskactorsforWaterof cal Transition Ice Age",
+            "ids": [
+                30326,
+                46435,
+                1542,
+                26042,
+                1171,
+                1724,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.369999885559082,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 9.872499465942383,
+        "cur_std": 0.5442827224731446,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskesforWaterof cal Transition Ice Age",
+            "ids": [
+                30326,
+                265,
+                1542,
+                26042,
+                1171,
+                1724,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.3612499237060547,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.024999618530273,
+        "cur_std": 0.5403130054473877,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskesforWaterofVery Transition Ice Age",
+            "ids": [
+                30326,
+                265,
+                1542,
+                26042,
+                1171,
+                17534,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.372499942779541,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.394999504089355,
+        "cur_std": 0.5583975315093994,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskesforWaterofAye Transition Ice Age",
+            "ids": [
+                30326,
+                265,
+                1542,
+                26042,
+                1171,
+                50195,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.3562498092651367,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.179999351501465,
+        "cur_std": 0.5344222068786622,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "AskesforWatergroupIdAye Transition Ice Age",
+            "ids": [
+                30326,
+                265,
+                1542,
+                26042,
+                24548,
+                50195,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.379999876022339,
+        "best_loss": 3.3112499713897705,
+        "best_kl": 8.532500267028809,
+        "best_std": 0.42970004081726076,
+        "cur_kl": 10.989999771118164,
+        "cur_std": 0.5141424179077149,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ÃesforWatergroupIdAye Transition Ice Age",
+            "ids": [
+                5022,
+                265,
+                1542,
+                26042,
+                24548,
+                50195,
+                48332,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.0
+    }
+]

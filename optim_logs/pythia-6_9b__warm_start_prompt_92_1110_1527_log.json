@@ -1,0 +1,2152 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.9649999141693115,
+        "best_loss": 3.9649999141693115,
+        "best_kl": 11.63124942779541,
+        "best_std": 0.7519700527191162,
+        "cur_kl": 11.63124942779541,
+        "cur_std": 0.7519700527191162,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Which molecules make up the air around use",
+            "ids": [
+                7371,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -45.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.9524998664855957,
+        "best_loss": 3.9524998664855957,
+        "best_kl": 10.960000038146973,
+        "best_std": 0.7031379222869873,
+        "cur_kl": 10.960000038146973,
+        "cur_std": 0.7031379222869873,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " little molecules make up the air around use",
+            "ids": [
+                1652,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -45.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.947499990463257,
+        "best_loss": 3.947499990463257,
+        "best_kl": 10.728750228881836,
+        "best_std": 0.6260169982910156,
+        "cur_kl": 10.728750228881836,
+        "cur_std": 0.6260169982910156,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "bilt molecules make up the air around use",
+            "ids": [
+                50243,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -49.75
+    },
+    {
+        "epoch": 4,
+        "loss": 3.929999828338623,
+        "best_loss": 3.929999828338623,
+        "best_kl": 10.632499694824219,
+        "best_std": 0.677631950378418,
+        "cur_kl": 10.632499694824219,
+        "cur_std": 0.677631950378418,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "species molecules make up the air around use",
+            "ids": [
+                28956,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -48.75
+    },
+    {
+        "epoch": 5,
+        "loss": 3.9674999713897705,
+        "best_loss": 3.929999828338623,
+        "best_kl": 10.632499694824219,
+        "best_std": 0.677631950378418,
+        "cur_kl": 11.618749618530273,
+        "cur_std": 0.7045293807983398,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " cycle molecules make up the air around use",
+            "ids": [
+                5880,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -48.75
+    },
+    {
+        "epoch": 6,
+        "loss": 3.919999837875366,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 10.12874984741211,
+        "cur_std": 0.6118140697479248,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " study molecules make up the air around use",
+            "ids": [
+                1263,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -49.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.942499876022339,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 10.99625015258789,
+        "cur_std": 0.7082808971405029,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make up the air around use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                253,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -50.25
+    },
+    {
+        "epoch": 8,
+        "loss": 3.9700000286102295,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.920000076293945,
+        "cur_std": 0.6890730857849121,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make uporie air around use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                23297,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.9724998474121094,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.364999771118164,
+        "cur_std": 0.7055911064147949,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make up ocular air around use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                32791,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.9774999618530273,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.344999313354492,
+        "cur_std": 0.7041703224182129,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make upWW air around use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                26562,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.9749999046325684,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.227499961853027,
+        "cur_std": 0.6998655796051025,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make up Mask air around use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                36685,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.990000009536743,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.920000076293945,
+        "cur_std": 0.7073110580444336,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make upella air around use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                5021,
+                2329,
+                1475,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 13,
+        "loss": 4.017499923706055,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 13.411250114440918,
+        "cur_std": 0.6625471591949463,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make upella air de use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                5021,
+                2329,
+                372,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.992499828338623,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.93375015258789,
+        "cur_std": 0.6699079990386962,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Char molecules make upist air de use",
+            "ids": [
+                8662,
+                8094,
+                1056,
+                598,
+                382,
+                2329,
+                372,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 15,
+        "loss": 4.002500057220459,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 13.024999618530273,
+        "cur_std": 0.6259387016296387,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ynes molecules make upist air de use",
+            "ids": [
+                37889,
+                8094,
+                1056,
+                598,
+                382,
+                2329,
+                372,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 16,
+        "loss": 4.005000114440918,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 13.268749237060547,
+        "cur_std": 0.6596873760223388,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ynes molecules make up reach air de use",
+            "ids": [
+                37889,
+                8094,
+                1056,
+                598,
+                3986,
+                2329,
+                372,
+                441,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.9724998474121094,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.946249961853027,
+        "cur_std": 0.628523588180542,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ynes molecules make up reach air deiae",
+            "ids": [
+                37889,
+                8094,
+                1056,
+                598,
+                3986,
+                2329,
+                372,
+                571,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.9649999141693115,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.4087495803833,
+        "cur_std": 0.6498831272125244,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ynes molecules make up reach airADiae",
+            "ids": [
+                37889,
+                8094,
+                1056,
+                598,
+                3986,
+                2329,
+                2350,
+                571,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.9524998664855957,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 10.903749465942383,
+        "cur_std": 0.6520675659179688,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " purely molecules make up reach airADiae",
+            "ids": [
+                15846,
+                8094,
+                1056,
+                598,
+                3986,
+                2329,
+                2350,
+                571,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.990000009536743,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.931249618530273,
+        "cur_std": 0.6196879863739013,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " purely molecules make up hereinafter airADiae",
+            "ids": [
+                15846,
+                8094,
+                1056,
+                598,
+                41611,
+                2329,
+                2350,
+                571,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.9574999809265137,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.051249504089355,
+        "cur_std": 0.6385651588439941,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " everything molecules make up hereinafter airADiae",
+            "ids": [
+                3253,
+                8094,
+                1056,
+                598,
+                41611,
+                2329,
+                2350,
+                571,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.944999933242798,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.362500190734863,
+        "cur_std": 0.6462828636169433,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " everything molecules make up� airADiae",
+            "ids": [
+                3253,
+                8094,
+                1056,
+                598,
+                165,
+                2329,
+                2350,
+                571,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.9599997997283936,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.852499961853027,
+        "cur_std": 0.66606125831604,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " everything molecules make up� airADsoce",
+            "ids": [
+                3253,
+                8094,
+                1056,
+                598,
+                165,
+                2329,
+                2350,
+                33353,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.9499998092651367,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.613749504089355,
+        "cur_std": 0.6516420364379882,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " everything molecules make up� airREFsoce",
+            "ids": [
+                3253,
+                8094,
+                1056,
+                598,
+                165,
+                2329,
+                15619,
+                33353,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.9599997997283936,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.84999942779541,
+        "cur_std": 0.6140300273895264,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " everything molecules make upings airREFsoce",
+            "ids": [
+                3253,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                15619,
+                33353,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.9774999618530273,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.13499927520752,
+        "cur_std": 0.5919324874877929,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make upings airREFsoce",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                15619,
+                33353,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.997499942779541,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.863749504089355,
+        "cur_std": 0.6034546375274659,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make upings air+soce",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                12,
+                33353,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 28,
+        "loss": 4.009999752044678,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.907499313354492,
+        "cur_std": 0.624486255645752,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make upings air_soce",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                64,
+                33353,
+                70
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 29,
+        "loss": 4.03249979019165,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 13.944999694824219,
+        "cur_std": 0.6381849765777587,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make upings air_socic",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                64,
+                33353,
+                280
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 30,
+        "loss": 4.069999694824219,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 15.6899995803833,
+        "cur_std": 0.644754695892334,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make upings air法socic",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                20113,
+                33353,
+                280
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 31,
+        "loss": 4.049999713897705,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 14.844999313354492,
+        "cur_std": 0.6966168403625488,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make upings air法soc nuclei",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                20113,
+                33353,
+                15935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.982499837875366,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.661250114440918,
+        "cur_std": 0.6590695858001709,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make upings airSilsoc nuclei",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                723,
+                2329,
+                18074,
+                33353,
+                15935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.9599997997283936,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.0625,
+        "cur_std": 0.6760268211364746,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "arie molecules make up7 airSilsoc nuclei",
+            "ids": [
+                49941,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                18074,
+                33353,
+                15935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.947499990463257,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.6875,
+        "cur_std": 0.6394479274749756,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " discovery molecules make up7 airSilsoc nuclei",
+            "ids": [
+                8900,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                18074,
+                33353,
+                15935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.9700000286102295,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.09999942779541,
+        "cur_std": 0.6568212509155273,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "urbed molecules make up7 airSilsoc nuclei",
+            "ids": [
+                16193,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                18074,
+                33353,
+                15935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.9524998664855957,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.44749927520752,
+        "cur_std": 0.6496920585632324,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "urbed molecules make up7 airSilsocates",
+            "ids": [
+                16193,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                18074,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.9574999809265137,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.5024995803833,
+        "cur_std": 0.6536657810211182,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " IN molecules make up7 airSilsocates",
+            "ids": [
+                2949,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                18074,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.9549999237060547,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 11.497499465942383,
+        "cur_std": 0.6178989887237549,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " IN molecules make up7 air280socates",
+            "ids": [
+                2949,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                19100,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.9749999046325684,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 12.142499923706055,
+        "cur_std": 0.6244720458984375,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " IN molecules make up7 airsubjectsocates",
+            "ids": [
+                2949,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                19091,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.942499876022339,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 10.617499351501465,
+        "cur_std": 0.6180416584014893,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " IN molecules make up7 airasocates",
+            "ids": [
+                2949,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                66,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.9375,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 10.524999618530273,
+        "cur_std": 0.6074505805969238,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "- molecules make up7 airasocates",
+            "ids": [
+                14,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                66,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.93999981880188,
+        "best_loss": 3.919999837875366,
+        "best_kl": 10.12874984741211,
+        "best_std": 0.6118140697479248,
+        "cur_kl": 10.417499542236328,
+        "cur_std": 0.628711748123169,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "- molecules make up7 air sigsocates",
+            "ids": [
+                14,
+                8094,
+                1056,
+                598,
+                24,
+                2329,
+                9788,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.922499895095825,
+        "best_loss": 3.919999837875366,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 9.97249984741211,
+        "cur_std": 0.6245796203613281,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "- molecules make up limits air sigsocates",
+            "ids": [
+                14,
+                8094,
+                1056,
+                598,
+                7787,
+                2329,
+                9788,
+                33353,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.93999981880188,
+        "best_loss": 3.919999837875366,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 11.045000076293945,
+        "cur_std": 0.6305298805236816,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "- molecules make up limits air sigantisates",
+            "ids": [
+                14,
+                8094,
+                1056,
+                598,
+                7787,
+                2329,
+                9788,
+                35902,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.9375,
+        "best_loss": 3.919999837875366,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 10.979999542236328,
+        "cur_std": 0.6284971237182617,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "- molecules make up limits air sigOpates",
+            "ids": [
+                14,
+                8094,
+                1056,
+                598,
+                7787,
+                2329,
+                9788,
+                12535,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.9574999809265137,
+        "best_loss": 3.919999837875366,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 11.386249542236328,
+        "cur_std": 0.6363442420959473,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "- molecules make up ------ air sigOpates",
+            "ids": [
+                14,
+                8094,
+                1056,
+                598,
+                16081,
+                2329,
+                9788,
+                12535,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.944999933242798,
+        "best_loss": 3.919999837875366,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 11.063749313354492,
+        "cur_std": 0.6190155506134033,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "- molecules make up ------ airZZOpates",
+            "ids": [
+                14,
+                8094,
+                1056,
+                598,
+                16081,
+                2329,
+                25314,
+                12535,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.947499990463257,
+        "best_loss": 3.919999837875366,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 11.163749694824219,
+        "cur_std": 0.6195384979248046,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " surroundings molecules make up ------ airZZOpates",
+            "ids": [
+                27762,
+                8094,
+                1056,
+                598,
+                16081,
+                2329,
+                25314,
+                12535,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.9175000190734863,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 10.577499389648438,
+        "cur_std": 0.5826261520385743,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " identifies molecules make up ------ airZZOpates",
+            "ids": [
+                22649,
+                8094,
+                1056,
+                598,
+                16081,
+                2329,
+                25314,
+                12535,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.929999828338623,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 9.97249984741211,
+        "best_std": 0.6245796203613281,
+        "cur_kl": 11.011249542236328,
+        "cur_std": 0.6324258327484131,
+        "orig_prompt": {
+            "text": "Name three molecules found in air",
+            "ids": [
+                2402,
+                1264,
+                8094,
+                1119,
+                275,
+                2329
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " brought molecules make up ------ airZZOpates",
+            "ids": [
+                3982,
+                8094,
+                1056,
+                598,
+                16081,
+                2329,
+                25314,
+                12535,
+                684
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.5
+    }
+]

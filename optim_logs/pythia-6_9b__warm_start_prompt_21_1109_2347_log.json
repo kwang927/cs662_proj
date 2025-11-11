@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.490000009536743,
+        "best_loss": 3.490000009536743,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 5.984999656677246,
+        "cur_std": 0.4769142627716064,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "uous can a beginner start working out indoors?",
+            "ids": [
+                3472,
+                476,
+                247,
+                43240,
+                1265,
+                2444,
+                562,
+                42842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -46.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.4800000190734863,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.052499771118164,
+        "cur_std": 0.45416555404663084,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "asting can a beginner start working out indoors?",
+            "ids": [
+                14669,
+                476,
+                247,
+                43240,
+                1265,
+                2444,
+                562,
+                42842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -45.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.4774999618530273,
+        "best_loss": 3.4774999618530273,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 5.78249979019165,
+        "cur_std": 0.46199851036071776,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "asting * a beginner start working out indoors?",
+            "ids": [
+                14669,
+                475,
+                247,
+                43240,
+                1265,
+                2444,
+                562,
+                42842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.25
+    },
+    {
+        "epoch": 4,
+        "loss": 3.476249933242798,
+        "best_loss": 3.476249933242798,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 5.804999828338623,
+        "cur_std": 0.46378412246704104,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "asting precursor a beginner start working out indoors?",
+            "ids": [
+                14669,
+                20379,
+                247,
+                43240,
+                1265,
+                2444,
+                562,
+                42842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.194999694824219,
+        "cur_std": 0.49496941566467284,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "asting precursor a beginner start working out indoors**).",
+            "ids": [
+                14669,
+                20379,
+                247,
+                43240,
+                1265,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.4600000381469727,
+        "best_loss": 3.4600000381469727,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 5.78249979019165,
+        "cur_std": 0.4772958755493164,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "asting Chase a beginner start working out indoors**).",
+            "ids": [
+                14669,
+                27917,
+                247,
+                43240,
+                1265,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.453749895095825,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 5.75,
+        "cur_std": 0.45363292694091795,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "aya Chase a beginner start working out indoors**).",
+            "ids": [
+                12451,
+                27917,
+                247,
+                43240,
+                1265,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.4700000286102295,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.545000076293945,
+        "cur_std": 0.4708736419677734,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "aya Chase a beginnerToday working out indoors**).",
+            "ids": [
+                12451,
+                27917,
+                247,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.456249952316284,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 5.71999979019165,
+        "cur_std": 0.4558995723724365,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Values Chase a beginnerToday working out indoors**).",
+            "ids": [
+                23409,
+                27917,
+                247,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.478749990463257,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.052499771118164,
+        "cur_std": 0.47884931564331057,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Being Chase a beginnerToday working out indoors**).",
+            "ids": [
+                26143,
+                27917,
+                247,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.490000009536743,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.554999828338623,
+        "cur_std": 0.5008525848388672,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Being Chaseilization beginnerToday working out indoors**).",
+            "ids": [
+                26143,
+                27917,
+                17700,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.47124981880188,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.322499752044678,
+        "cur_std": 0.4842375755310059,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " entrepreneur Chaseilization beginnerToday working out indoors**).",
+            "ids": [
+                23721,
+                27917,
+                17700,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.476249933242798,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.897500038146973,
+        "cur_std": 0.5016902923583985,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " entrepreneur Jerilization beginnerToday working out indoors**).",
+            "ids": [
+                23721,
+                5633,
+                17700,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.487499952316284,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.882499694824219,
+        "cur_std": 0.4861393928527832,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " entrepreneur JerMON beginnerToday working out indoors**).",
+            "ids": [
+                23721,
+                5633,
+                22362,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.47124981880188,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.822499752044678,
+        "cur_std": 0.49084157943725587,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " entrepreneur Jerymmetry beginnerToday working out indoors**).",
+            "ids": [
+                23721,
+                5633,
+                41961,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.4812498092651367,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.829999923706055,
+        "cur_std": 0.5118406295776368,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " customize Jerymmetry beginnerToday working out indoors**).",
+            "ids": [
+                36219,
+                5633,
+                41961,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.492499828338623,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.75,
+        "cur_std": 0.5178871631622315,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CHO Jerymmetry beginnerToday working out indoors**).",
+            "ids": [
+                45534,
+                5633,
+                41961,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.4837498664855957,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.609999656677246,
+        "cur_std": 0.49678664207458495,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CHO JerS beginnerToday working out indoors**).",
+            "ids": [
+                45534,
+                5633,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.494999885559082,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.829999923706055,
+        "cur_std": 0.5116432189941407,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CHO showsS beginnerToday working out indoors**).",
+            "ids": [
+                45534,
+                2722,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.494999885559082,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.577499866485596,
+        "cur_std": 0.47860403060913087,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " accomplish showsS beginnerToday working out indoors**).",
+            "ids": [
+                14294,
+                2722,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.4674999713897705,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.324999809265137,
+        "cur_std": 0.4412090301513672,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " accomplish 85S beginnerToday working out indoors**).",
+            "ids": [
+                14294,
+                9330,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.466249942779541,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.509999752044678,
+        "cur_std": 0.4529911994934082,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " accomplish briS beginnerToday working out indoors**).",
+            "ids": [
+                14294,
+                45633,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.4624998569488525,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.409999847412109,
+        "cur_std": 0.44040727615356445,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " accomplisherS beginnerToday working out indoors**).",
+            "ids": [
+                14294,
+                254,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.199999809265137,
+        "cur_std": 0.472260856628418,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " accomplishsS beginnerToday working out indoors**).",
+            "ids": [
+                14294,
+                84,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.4800000190734863,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.045000076293945,
+        "cur_std": 0.45886855125427245,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�sS beginnerToday working out indoors**).",
+            "ids": [
+                13262,
+                84,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.4887499809265137,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.309999942779541,
+        "cur_std": 0.4933794021606445,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "� polS beginnerToday working out indoors**).",
+            "ids": [
+                13262,
+                877,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.47124981880188,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.764999866485596,
+        "cur_std": 0.49141392707824705,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�stitutingS beginnerToday working out indoors**).",
+            "ids": [
+                13262,
+                46306,
+                52,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.478749990463257,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.315000057220459,
+        "cur_std": 0.5098848819732666,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�stituting Wilcox beginnerToday working out indoors**).",
+            "ids": [
+                13262,
+                46306,
+                37225,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.484999895095825,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.049999713897705,
+        "cur_std": 0.533262300491333,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�stituting Breakfast beginnerToday working out indoors**).",
+            "ids": [
+                13262,
+                46306,
+                46798,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.473749876022339,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.717499732971191,
+        "cur_std": 0.4893390655517578,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�stituting Profile beginnerToday working out indoors**).",
+            "ids": [
+                13262,
+                46306,
+                27047,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.4624998569488525,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.517499923706055,
+        "cur_std": 0.5132370948791504,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "�stituting,’ beginnerToday working out indoors**).",
+            "ids": [
+                13262,
+                46306,
+                15933,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.4674999713897705,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.277499675750732,
+        "cur_std": 0.518141794204712,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Dropstituting,’ beginnerToday working out indoors**).",
+            "ids": [
+                26829,
+                46306,
+                15933,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.4774999618530273,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.797499656677246,
+        "cur_std": 0.4957864761352539,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Dropstitutingurance beginnerToday working out indoors**).",
+            "ids": [
+                26829,
+                46306,
+                4628,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.4937498569488525,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.127500057220459,
+        "cur_std": 0.5038174629211426,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Dropッurance beginnerToday working out indoors**).",
+            "ids": [
+                26829,
+                15815,
+                4628,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.473749876022339,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.927499771118164,
+        "cur_std": 0.48142642974853517,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "aroundッurance beginnerToday working out indoors**).",
+            "ids": [
+                16576,
+                15815,
+                4628,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.4912500381469727,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.949999809265137,
+        "cur_std": 0.5074943542480469,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "around imaginurance beginnerToday working out indoors**).",
+            "ids": [
+                16576,
+                30087,
+                4628,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.487499952316284,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 7.027499675750732,
+        "cur_std": 0.4893808841705322,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "around65urance beginnerToday working out indoors**).",
+            "ids": [
+                16576,
+                2082,
+                4628,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.478749990463257,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.704999923706055,
+        "cur_std": 0.5025739669799805,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "around65rance beginnerToday working out indoors**).",
+            "ids": [
+                16576,
+                2082,
+                27638,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.592499732971191,
+        "cur_std": 0.4626676082611084,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "aroundpelrance beginnerToday working out indoors**).",
+            "ids": [
+                16576,
+                44187,
+                27638,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.4774999618530273,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.319999694824219,
+        "cur_std": 0.49002780914306643,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Exercisepelrance beginnerToday working out indoors**).",
+            "ids": [
+                40626,
+                44187,
+                27638,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.484999895095825,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.432499885559082,
+        "cur_std": 0.48703980445861816,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Exercisepel at beginnerToday working out indoors**).",
+            "ids": [
+                40626,
+                44187,
+                387,
+                43240,
+                14569,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.47124981880188,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.065000057220459,
+        "cur_std": 0.4791435718536377,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Exercisepel at beginnerGetting working out indoors**).",
+            "ids": [
+                40626,
+                44187,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.46875,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.292500019073486,
+        "cur_std": 0.50141282081604,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Againpel at beginnerGetting working out indoors**).",
+            "ids": [
+                10036,
+                44187,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.46875,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.384999752044678,
+        "cur_std": 0.4997905731201172,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Again Wars at beginnerGetting working out indoors**).",
+            "ids": [
+                10036,
+                14848,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.4674999713897705,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.152499675750732,
+        "cur_std": 0.47548351287841795,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Againsteps at beginnerGetting working out indoors**).",
+            "ids": [
+                10036,
+                20528,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.476249933242798,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.664999961853027,
+        "cur_std": 0.5011630535125733,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Again ana at beginnerGetting working out indoors**).",
+            "ids": [
+                10036,
+                19059,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.482499837875366,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.387499809265137,
+        "cur_std": 0.4816110134124756,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Gen ana at beginnerGetting working out indoors**).",
+            "ids": [
+                7475,
+                19059,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.478749990463257,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.364999771118164,
+        "cur_std": 0.48683972358703614,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Gen ali at beginnerGetting working out indoors**).",
+            "ids": [
+                7475,
+                19541,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.473749876022339,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.144999980926514,
+        "cur_std": 0.46619539260864257,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "86 ali at beginnerGetting working out indoors**).",
+            "ids": [
+                2691,
+                19541,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.4624998569488525,
+        "best_loss": 3.453749895095825,
+        "best_kl": 5.389999866485596,
+        "best_std": 0.41381325721740725,
+        "cur_kl": 6.107500076293945,
+        "cur_std": 0.4885204315185547,
+        "orig_prompt": {
+            "text": "Design an indoor workout plan for a beginner.",
+            "ids": [
+                23045,
+                271,
+                24340,
+                30755,
+                2098,
+                323,
+                247,
+                43240,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "86 and at beginnerGetting working out indoors**).",
+            "ids": [
+                2691,
+                285,
+                387,
+                43240,
+                27347,
+                2444,
+                562,
+                42842,
+                20883
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    }
+]

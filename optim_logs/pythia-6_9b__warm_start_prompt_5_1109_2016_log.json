@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.259999990463257,
+        "best_loss": 3.259999990463257,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 18.654998779296875,
+        "cur_std": 0.8964983940124511,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Explainid you made improvements to your eating habits.",
+            "ids": [
+                1672,
+                19104,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                634,
+                9123,
+                16964,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -52.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.28125,
+        "best_loss": 3.259999990463257,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 19.559999465942383,
+        "cur_std": 0.9777585029602051,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Exありid you made improvements to your eating habits.",
+            "ids": [
+                1672,
+                38591,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                634,
+                9123,
+                16964,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.291249990463257,
+        "best_loss": 3.259999990463257,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 20.16499900817871,
+        "cur_std": 1.0141127586364747,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Exありid you made improvements to the eating habits.",
+            "ids": [
+                1672,
+                38591,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                253,
+                9123,
+                16964,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.3212499618530273,
+        "best_loss": 3.259999990463257,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 20.48499870300293,
+        "cur_std": 1.0144462585449219,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Treatありid you made improvements to the eating habits.",
+            "ids": [
+                48940,
+                38591,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                253,
+                9123,
+                16964,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.2962498664855957,
+        "best_loss": 3.259999990463257,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 19.962499618530273,
+        "cur_std": 0.9587738037109375,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Treatありid you made improvements to the eating habits[])",
+            "ids": [
+                48940,
+                38591,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                253,
+                9123,
+                16964,
+                47093
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.2774999141693115,
+        "best_loss": 3.259999990463257,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 19.625,
+        "cur_std": 0.9305865287780761,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Treat consistedid you made improvements to the eating habits[])",
+            "ids": [
+                48940,
+                14278,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                253,
+                9123,
+                16964,
+                47093
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.2512500286102295,
+        "best_loss": 3.2512500286102295,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 18.86750030517578,
+        "cur_std": 0.931338882446289,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " qu consistedid you made improvements to the eating habits[])",
+            "ids": [
+                572,
+                14278,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                253,
+                9123,
+                16964,
+                47093
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.2674999237060547,
+        "best_loss": 3.2512500286102295,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 19.25749969482422,
+        "cur_std": 0.9515833854675293,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " fails consistedid you made improvements to the eating habits[])",
+            "ids": [
+                10224,
+                14278,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                253,
+                9123,
+                16964,
+                47093
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.266249895095825,
+        "best_loss": 3.2512500286102295,
+        "best_kl": 18.654998779296875,
+        "best_std": 0.8964983940124511,
+        "cur_kl": 18.834999084472656,
+        "cur_std": 0.9312288284301757,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " fails consistedid you made improvements to../ eating habits[])",
+            "ids": [
+                10224,
+                14278,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                3043,
+                9123,
+                16964,
+                47093
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.254999876022339,
+        "best_loss": 3.2512500286102295,
+        "best_kl": 17.989999771118164,
+        "best_std": 0.9209604263305664,
+        "cur_kl": 17.989999771118164,
+        "cur_std": 0.9209604263305664,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " fails^+(id you made improvements to../ eating habits[])",
+            "ids": [
+                10224,
+                46849,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                3043,
+                9123,
+                16964,
+                47093
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.208750009536743,
+        "best_loss": 3.208750009536743,
+        "best_kl": 16.649999618530273,
+        "best_std": 0.8976892471313477,
+        "cur_kl": 16.649999618530273,
+        "cur_std": 0.8976892471313477,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " fails^+(id you made improvements to../ eating habits.)",
+            "ids": [
+                10224,
+                46849,
+                301,
+                368,
+                1160,
+                11701,
+                281,
+                3043,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.192499876022339,
+        "best_loss": 3.192499876022339,
+        "best_kl": 16.357500076293945,
+        "best_std": 0.9045148849487304,
+        "cur_kl": 16.357500076293945,
+        "cur_std": 0.9045148849487304,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " fails^+(ế you made improvements to../ eating habits.)",
+            "ids": [
+                10224,
+                46849,
+                32595,
+                368,
+                1160,
+                11701,
+                281,
+                3043,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.172499895095825,
+        "best_loss": 3.172499895095825,
+        "best_kl": 16.182498931884766,
+        "best_std": 0.8918036460876465,
+        "cur_kl": 16.182498931884766,
+        "cur_std": 0.8918036460876465,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "p^+(ế you made improvements to../ eating habits.)",
+            "ids": [
+                81,
+                46849,
+                32595,
+                368,
+                1160,
+                11701,
+                281,
+                3043,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.1837499141693115,
+        "best_loss": 3.172499895095825,
+        "best_kl": 15.920000076293945,
+        "best_std": 0.9248661994934082,
+        "cur_kl": 15.920000076293945,
+        "cur_std": 0.9248661994934082,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "p^+(ế you made improvements to� eating habits.)",
+            "ids": [
+                81,
+                46849,
+                32595,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.172499895095825,
+        "best_loss": 3.172499895095825,
+        "best_kl": 15.72249984741211,
+        "best_std": 0.9089475631713867,
+        "cur_kl": 15.72249984741211,
+        "cur_std": 0.9089475631713867,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "p}}}(\\ế you made improvements to� eating habits.)",
+            "ids": [
+                81,
+                39111,
+                32595,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.1575000286102295,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.710000038146973,
+        "best_std": 0.8795352935791015,
+        "cur_kl": 15.710000038146973,
+        "cur_std": 0.8795352935791015,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "p}}}(\\� you made improvements to� eating habits.)",
+            "ids": [
+                81,
+                39111,
+                49835,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.1675000190734863,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.710000038146973,
+        "best_std": 0.8795352935791015,
+        "cur_kl": 16.094999313354492,
+        "cur_std": 0.9228837966918946,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Eh}}}(\\� you made improvements to� eating habits.)",
+            "ids": [
+                47733,
+                39111,
+                49835,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.177500009536743,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.4399995803833,
+        "best_std": 0.9086295127868652,
+        "cur_kl": 15.4399995803833,
+        "cur_std": 0.9086295127868652,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Am}}}(\\� you made improvements to� eating habits.)",
+            "ids": [
+                3052,
+                39111,
+                49835,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.177500009536743,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.4399995803833,
+        "best_std": 0.9086295127868652,
+        "cur_kl": 16.475000381469727,
+        "cur_std": 0.9288209915161133,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "to}}}(\\� you made improvements to� eating habits.)",
+            "ids": [
+                936,
+                39111,
+                49835,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.169999837875366,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.4399995803833,
+        "best_std": 0.9086295127868652,
+        "cur_kl": 15.727499961853027,
+        "cur_std": 0.9061386108398437,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "to}}}(\\m you made improvements to� eating habits.)",
+            "ids": [
+                936,
+                39111,
+                78,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.179999828338623,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.4399995803833,
+        "best_std": 0.9086295127868652,
+        "cur_kl": 16.752500534057617,
+        "cur_std": 0.9205598831176758,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "to}}}(\\urel you made improvements to� eating habits.)",
+            "ids": [
+                936,
+                39111,
+                37281,
+                368,
+                1160,
+                11701,
+                281,
+                20031,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.1624999046325684,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.4399995803833,
+        "best_std": 0.9086295127868652,
+        "cur_kl": 15.992499351501465,
+        "cur_std": 0.9006553649902344,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "to}}}(\\urel you made improvements to� eating habits.)",
+            "ids": [
+                936,
+                39111,
+                37281,
+                368,
+                1160,
+                11701,
+                281,
+                16127,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.161249876022339,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 15.4399995803833,
+        "best_std": 0.9086295127868652,
+        "cur_kl": 15.454999923706055,
+        "cur_std": 0.8958333969116211,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "of}}}(\\urel you made improvements to� eating habits.)",
+            "ids": [
+                1171,
+                39111,
+                37281,
+                368,
+                1160,
+                11701,
+                281,
+                16127,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.166249990463257,
+        "best_loss": 3.1575000286102295,
+        "best_kl": 14.917499542236328,
+        "best_std": 0.8723737716674804,
+        "cur_kl": 14.917499542236328,
+        "cur_std": 0.8723737716674804,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "of}}}(\\urel you made improvements to� eating habits.)",
+            "ids": [
+                1171,
+                39111,
+                37281,
+                368,
+                1160,
+                11701,
+                281,
+                127,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.153749942779541,
+        "best_loss": 3.153749942779541,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 14.619999885559082,
+        "cur_std": 0.8635102272033691,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "of}}}(\\lotte you made improvements to� eating habits.)",
+            "ids": [
+                1171,
+                39111,
+                20885,
+                368,
+                1160,
+                11701,
+                281,
+                127,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.15625,
+        "best_loss": 3.153749942779541,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 14.880000114440918,
+        "cur_std": 0.8905046463012696,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " slide}}}(\\lotte you made improvements to� eating habits.)",
+            "ids": [
+                14518,
+                39111,
+                20885,
+                368,
+                1160,
+                11701,
+                281,
+                127,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.1549999713897705,
+        "best_loss": 3.153749942779541,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.279999732971191,
+        "cur_std": 0.8808589935302734,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " sn}}}(\\lotte you made improvements to� eating habits.)",
+            "ids": [
+                3802,
+                39111,
+                20885,
+                368,
+                1160,
+                11701,
+                281,
+                127,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.1524999141693115,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.0,
+        "cur_std": 0.8935869216918946,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " sn}}}(\\lotte you made improvements toə eating habits.)",
+            "ids": [
+                3802,
+                39111,
+                20885,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.15625,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.174999237060547,
+        "cur_std": 0.8885672569274903,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " sn}}}(\\loe you made improvements toə eating habits.)",
+            "ids": [
+                3802,
+                39111,
+                34072,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.1599998474121094,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.045000076293945,
+        "cur_std": 0.9203190803527832,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " decision}}}(\\loe you made improvements toə eating habits.)",
+            "ids": [
+                3061,
+                39111,
+                34072,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.1575000286102295,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.027499198913574,
+        "cur_std": 0.905210018157959,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "º}}}(\\loe you made improvements toə eating habits.)",
+            "ids": [
+                11703,
+                39111,
+                34072,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.153749942779541,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 14.694999694824219,
+        "cur_std": 0.9067130088806152,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "OVER}}}(\\loe you made improvements toə eating habits.)",
+            "ids": [
+                28614,
+                39111,
+                34072,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.1599998474121094,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.654999732971191,
+        "cur_std": 0.9152039527893067,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " was}}}(\\loe you made improvements toə eating habits.)",
+            "ids": [
+                369,
+                39111,
+                34072,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.153749942779541,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.744999885559082,
+        "cur_std": 0.9029622077941895,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " slight}}}(\\loe you made improvements toə eating habits.)",
+            "ids": [
+                4512,
+                39111,
+                34072,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.1599998474121094,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.032499313354492,
+        "cur_std": 0.897250747680664,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ation}}}(\\loe you made improvements toə eating habits.)",
+            "ids": [
+                318,
+                39111,
+                34072,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.1524999141693115,
+        "best_loss": 3.1524999141693115,
+        "best_kl": 14.619999885559082,
+        "best_std": 0.8635102272033691,
+        "cur_kl": 15.282499313354492,
+        "cur_std": 0.8929837226867676,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ation}}}(\\ blo you made improvements toə eating habits.)",
+            "ids": [
+                318,
+                39111,
+                31767,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.134999990463257,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.479999542236328,
+        "best_std": 0.8784360885620117,
+        "cur_kl": 14.479999542236328,
+        "cur_std": 0.8784360885620117,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Jane}}}(\\ blo you made improvements toə eating habits.)",
+            "ids": [
+                45478,
+                39111,
+                31767,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.1624999046325684,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.479999542236328,
+        "best_std": 0.8784360885620117,
+        "cur_kl": 15.489999771118164,
+        "cur_std": 0.8958724021911622,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Jane}}}(\\ Dale you made improvements toə eating habits.)",
+            "ids": [
+                45478,
+                39111,
+                28710,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -93.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.1399998664855957,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 14.414999961853027,
+        "cur_std": 0.8697586059570312,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Jane}}}(\\dee you made improvements toə eating habits.)",
+            "ids": [
+                45478,
+                39111,
+                46208,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.137500047683716,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 14.552499771118164,
+        "cur_std": 0.858125877380371,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "Jane}}}(\\. you made improvements toə eating habits.)",
+            "ids": [
+                45478,
+                39111,
+                15,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.146250009536743,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 15.137499809265137,
+        "cur_std": 0.8852493286132812,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Suddenly}}}(\\. you made improvements toə eating habits.)",
+            "ids": [
+                34399,
+                39111,
+                15,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.1624999046325684,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 15.507499694824219,
+        "cur_std": 0.880222225189209,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Suddenly}}}(\\ Bills you made improvements toə eating habits.)",
+            "ids": [
+                34399,
+                39111,
+                47491,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.1424999237060547,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 14.897500038146973,
+        "cur_std": 0.8699753761291504,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Suddenly}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                34399,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.15625,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 15.152499198913574,
+        "cur_std": 0.8730742454528808,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "ydr}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                31892,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.1499998569488525,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 14.817500114440918,
+        "cur_std": 0.8943485260009766,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": " Budget}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                31706,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.15625,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 14.452499389648438,
+        "cur_std": 0.8859288215637207,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "+}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                12,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.166249990463257,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 15.147500038146973,
+        "cur_std": 0.9113627433776855,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "V}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                55,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.15625,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 14.799999237060547,
+        "cur_std": 0.9107869148254395,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "J}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                43,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.1599998474121094,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 15.524999618530273,
+        "cur_std": 0.9100900650024414,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "997}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                28315,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.15625,
+        "best_loss": 3.134999990463257,
+        "best_kl": 14.414999961853027,
+        "best_std": 0.8697586059570312,
+        "cur_kl": 15.457499504089355,
+        "cur_std": 0.8967819213867188,
+        "orig_prompt": {
+            "text": "Reword this sentence:\nI started eating healthier.",
+            "ids": [
+                30802,
+                636,
+                436,
+                6197,
+                27,
+                187,
+                42,
+                3053,
+                9123,
+                33696,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "optim_prompt": {
+            "text": "un}}}(\\y you made improvements toə eating habits.)",
+            "ids": [
+                328,
+                39111,
+                90,
+                368,
+                1160,
+                11701,
+                281,
+                24870,
+                9123,
+                16964,
+                2698
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -87.0
+    }
+]

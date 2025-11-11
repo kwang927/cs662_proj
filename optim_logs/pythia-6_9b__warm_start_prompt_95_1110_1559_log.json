@@ -1,0 +1,2402 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.2587499618530273,
+        "best_loss": 3.2587499618530273,
+        "best_kl": 5.141249656677246,
+        "best_std": 0.378754997253418,
+        "cur_kl": 5.141249656677246,
+        "cur_std": 0.378754997253418,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Why is having a balanced diet's for your health?",
+            "ids": [
+                4967,
+                310,
+                1907,
+                247,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -48.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.2725000381469727,
+        "best_loss": 3.2587499618530273,
+        "best_kl": 5.141249656677246,
+        "best_std": 0.378754997253418,
+        "cur_kl": 5.228749752044678,
+        "cur_std": 0.3923231840133667,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Why … having a balanced diet's for your health?",
+            "ids": [
+                4967,
+                8139,
+                1907,
+                247,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -58.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.247499942779541,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.464999675750732,
+        "cur_std": 0.4062644004821777,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Why … 4 a balanced diet's for your health?",
+            "ids": [
+                4967,
+                8139,
+                577,
+                247,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.271250009536743,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.966249942779541,
+        "cur_std": 0.43886637687683105,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Why …k a balanced diet's for your health?",
+            "ids": [
+                4967,
+                8139,
+                76,
+                247,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.254999876022339,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.811249732971191,
+        "cur_std": 0.39263460636138914,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Why ­k a balanced diet's for your health?",
+            "ids": [
+                4967,
+                43044,
+                76,
+                247,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.263749837875366,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.141249656677246,
+        "cur_std": 0.4537395477294922,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "Why ­k a balanced diet's for your health:",
+            "ids": [
+                4967,
+                43044,
+                76,
+                247,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.28125,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.28125,
+        "cur_std": 0.4571657657623291,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "AAAAAAAA ­k a balanced diet's for your health:",
+            "ids": [
+                14587,
+                43044,
+                76,
+                247,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.2849998474121094,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.436249732971191,
+        "cur_std": 0.4601736545562744,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "AAAAAAAA ­k1 balanced diet's for your health:",
+            "ids": [
+                14587,
+                43044,
+                76,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.2899999618530273,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.237499713897705,
+        "cur_std": 0.49298582077026365,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " susp ­k1 balanced diet's for your health:",
+            "ids": [
+                5167,
+                43044,
+                76,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.2899999618530273,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.914999961853027,
+        "cur_std": 0.43886289596557615,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " susp ­/1 balanced diet's for your health:",
+            "ids": [
+                5167,
+                43044,
+                16,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.276249885559082,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.375,
+        "cur_std": 0.46465339660644533,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­/1 balanced diet's for your health:",
+            "ids": [
+                85,
+                43044,
+                16,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.2774999141693115,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.371249675750732,
+        "cur_std": 0.46509289741516113,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­inations1 balanced diet's for your health:",
+            "ids": [
+                85,
+                43044,
+                7097,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.2937498092651367,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.886250019073486,
+        "cur_std": 0.46358251571655273,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­MOESM1 balanced diet's for your health:",
+            "ids": [
+                85,
+                43044,
+                13270,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.28374981880188,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.394999980926514,
+        "cur_std": 0.49029955863952634,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­Bottom1 balanced diet's for your health:",
+            "ids": [
+                85,
+                43044,
+                24788,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.278749942779541,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.471250057220459,
+        "cur_std": 0.4777031898498535,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­el1 balanced diet's for your health:",
+            "ids": [
+                85,
+                43044,
+                293,
+                18,
+                16645,
+                6196,
+                434,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.28125,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.533750057220459,
+        "cur_std": 0.4789273262023926,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­el1 balanced diet to for your health:",
+            "ids": [
+                85,
+                43044,
+                293,
+                18,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.291249990463257,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.962500095367432,
+        "cur_std": 0.48743524551391604,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­el endoscopic balanced diet to for your health:",
+            "ids": [
+                85,
+                43044,
+                293,
+                32709,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.3037500381469727,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.989999771118164,
+        "cur_std": 0.49750542640686035,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­el Nom balanced diet to for your health:",
+            "ids": [
+                85,
+                43044,
+                293,
+                37947,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.288749933242798,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.646249771118164,
+        "cur_std": 0.48538637161254883,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "t ­elsmallcaps balanced diet to for your health:",
+            "ids": [
+                85,
+                43044,
+                293,
+                17318,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.2774999141693115,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.016249656677246,
+        "cur_std": 0.47975969314575195,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "tREGelsmallcaps balanced diet to for your health:",
+            "ids": [
+                85,
+                11991,
+                293,
+                17318,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.302500009536743,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.696249961853027,
+        "cur_std": 0.4711743354797363,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "tREGeliers balanced diet to for your health:",
+            "ids": [
+                85,
+                11991,
+                293,
+                4670,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.3087499141693115,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 6.00124979019165,
+        "cur_std": 0.5010988712310791,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "EXTREGeliers balanced diet to for your health:",
+            "ids": [
+                9465,
+                11991,
+                293,
+                4670,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.2825000286102295,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.284999847412109,
+        "cur_std": 0.47255511283874513,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "SMREGeliers balanced diet to for your health:",
+            "ids": [
+                6955,
+                11991,
+                293,
+                4670,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.286249876022339,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.351249694824219,
+        "cur_std": 0.4743340015411377,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "SMREGel83 balanced diet to for your health:",
+            "ids": [
+                6955,
+                11991,
+                293,
+                3245,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.2987499237060547,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.244999885559082,
+        "cur_std": 0.48952383995056153,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " StREGel83 balanced diet to for your health:",
+            "ids": [
+                659,
+                11991,
+                293,
+                3245,
+                16645,
+                6196,
+                281,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.2987499237060547,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.84499979019165,
+        "cur_std": 0.4648745536804199,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " StREGel83 balanced diet above for your health:",
+            "ids": [
+                659,
+                11991,
+                293,
+                3245,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.2849998474121094,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.964999675750732,
+        "cur_std": 0.4674238681793213,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " StREGeloday balanced diet above for your health:",
+            "ids": [
+                659,
+                11991,
+                293,
+                7172,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.2874999046325684,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.791249752044678,
+        "cur_std": 0.4744316577911377,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " StREGIoday balanced diet above for your health:",
+            "ids": [
+                659,
+                11991,
+                42,
+                7172,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.2849998474121094,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.183749675750732,
+        "cur_std": 0.493973970413208,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "otREGIoday balanced diet above for your health:",
+            "ids": [
+                302,
+                11991,
+                42,
+                7172,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.2799999713897705,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.514999866485596,
+        "cur_std": 0.43617682456970214,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "CTREGIoday balanced diet above for your health:",
+            "ids": [
+                1647,
+                11991,
+                42,
+                7172,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.2899999618530273,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.045000076293945,
+        "cur_std": 0.46365885734558104,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "CTREGI marg balanced diet above for your health:",
+            "ids": [
+                1647,
+                11991,
+                42,
+                10792,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.276249885559082,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.431250095367432,
+        "cur_std": 0.47491817474365233,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGI marg balanced diet above for your health:",
+            "ids": [
+                7306,
+                11991,
+                42,
+                10792,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.2899999618530273,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.462500095367432,
+        "cur_std": 0.4866574764251709,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREG fif marg balanced diet above for your health:",
+            "ids": [
+                7306,
+                11991,
+                5813,
+                10792,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.2799999713897705,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.923749923706055,
+        "cur_std": 0.47731990814208985,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREG BH marg balanced diet above for your health:",
+            "ids": [
+                7306,
+                11991,
+                28789,
+                10792,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.2825000286102295,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.359999656677246,
+        "cur_std": 0.4639030933380127,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREG BHuents balanced diet above for your health:",
+            "ids": [
+                7306,
+                11991,
+                28789,
+                44385,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.2849998474121094,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.072499752044678,
+        "cur_std": 0.46719799041748045,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGfreyuents balanced diet above for your health:",
+            "ids": [
+                7306,
+                11991,
+                49804,
+                44385,
+                16645,
+                6196,
+                1840,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.2799999713897705,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.278749942779541,
+        "cur_std": 0.4434706687927246,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGfreyuents balanced diet* for your health:",
+            "ids": [
+                7306,
+                11991,
+                49804,
+                44385,
+                16645,
+                6196,
+                11,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.276249885559082,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.026249885559082,
+        "cur_std": 0.45060386657714846,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGaderuents balanced diet* for your health:",
+            "ids": [
+                7306,
+                11991,
+                6475,
+                44385,
+                16645,
+                6196,
+                11,
+                323,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.268749952316284,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.869999885559082,
+        "cur_std": 0.44022393226623535,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGaderuents balanced diet* to your health:",
+            "ids": [
+                7306,
+                11991,
+                6475,
+                44385,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.273749828338623,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.922499656677246,
+        "cur_std": 0.4150832653045654,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREG warrioruents balanced diet* to your health:",
+            "ids": [
+                7306,
+                11991,
+                27237,
+                44385,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.268749952316284,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.123749732971191,
+        "cur_std": 0.43464069366455077,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREG Barbarauents balanced diet* to your health:",
+            "ids": [
+                7306,
+                11991,
+                19917,
+                44385,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.268749952316284,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.137499809265137,
+        "cur_std": 0.45333185195922854,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREG Barbara long balanced diet* to your health:",
+            "ids": [
+                7306,
+                11991,
+                19917,
+                1048,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.2674999237060547,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.777499675750732,
+        "cur_std": 0.42359237670898436,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGPT long balanced diet* to your health:",
+            "ids": [
+                7306,
+                11991,
+                5736,
+                1048,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.2774999141693115,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 5.03249979019165,
+        "cur_std": 0.44301400184631345,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGBy long balanced diet* to your health:",
+            "ids": [
+                7306,
+                11991,
+                3463,
+                1048,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.2612500190734863,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.623749732971191,
+        "cur_std": 0.4206682682037354,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " CrREGblk long balanced diet* to your health:",
+            "ids": [
+                7306,
+                11991,
+                35167,
+                1048,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.278749942779541,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.958749771118164,
+        "cur_std": 0.46948909759521484,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Cr stimblk long balanced diet* to your health:",
+            "ids": [
+                7306,
+                4308,
+                35167,
+                1048,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.2674999237060547,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.577499866485596,
+        "cur_std": 0.4470681190490723,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Cr stimblkin balanced diet* to your health:",
+            "ids": [
+                7306,
+                4308,
+                35167,
+                249,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.2674999237060547,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.888750076293945,
+        "cur_std": 0.4295393943786621,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Crifleblkin balanced diet* to your health:",
+            "ids": [
+                7306,
+                31757,
+                35167,
+                249,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.2699999809265137,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.912499904632568,
+        "cur_std": 0.4221626281738281,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": " Crifleblk012 balanced diet* to your health:",
+            "ids": [
+                7306,
+                31757,
+                35167,
+                12522,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.271250009536743,
+        "best_loss": 3.247499942779541,
+        "best_kl": 4.464999675750732,
+        "best_std": 0.4062644004821777,
+        "cur_kl": 4.767499923706055,
+        "cur_std": 0.4594442844390869,
+        "orig_prompt": {
+            "text": "List 3 benefits for eating a balanced diet.",
+            "ids": [
+                2765,
+                495,
+                5373,
+                323,
+                9123,
+                247,
+                16645,
+                6196,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "optim_prompt": {
+            "text": "reifleblk012 balanced diet* to your health:",
+            "ids": [
+                250,
+                31757,
+                35167,
+                12522,
+                16645,
+                6196,
+                11,
+                281,
+                634,
+                1786,
+                27
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -89.0
+    }
+]
