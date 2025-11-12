@@ -1,0 +1,1952 @@
+[
+    {
+        "epoch": 1,
+        "loss": 1.78249990940094,
+        "best_loss": 1.78249990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 8.863749504089355,
+        "cur_std": 0.5366878032684326,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate 7Modified by 5.",
+            "ids": [
+                5850,
+                818,
+                37765,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -34.75
+    },
+    {
+        "epoch": 2,
+        "loss": 1.8324999809265137,
+        "best_loss": 1.78249990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 8.436249732971191,
+        "cur_std": 0.5409187793731689,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate 7 mono by 5.",
+            "ids": [
+                5850,
+                818,
+                23783,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -36.0
+    },
+    {
+        "epoch": 3,
+        "loss": 1.71999990940094,
+        "best_loss": 1.71999990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 7.831249713897705,
+        "cur_std": 0.5098505020141602,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate 7 charcoal by 5.",
+            "ids": [
+                5850,
+                818,
+                43573,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -36.25
+    },
+    {
+        "epoch": 4,
+        "loss": 1.7793749570846558,
+        "best_loss": 1.71999990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.863749504089355,
+        "cur_std": 0.4929205417633057,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate predicting charcoal by 5.",
+            "ids": [
+                5850,
+                21565,
+                43573,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -44.75
+    },
+    {
+        "epoch": 5,
+        "loss": 1.9512499570846558,
+        "best_loss": 1.71999990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 11.921249389648438,
+        "cur_std": 0.4250692844390869,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate predicting1900 by 5.",
+            "ids": [
+                5850,
+                21565,
+                37044,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -45.25
+    },
+    {
+        "epoch": 6,
+        "loss": 1.928749918937683,
+        "best_loss": 1.71999990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.618749618530273,
+        "cur_std": 0.4092883586883545,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate CDK1900 by 5.",
+            "ids": [
+                5850,
+                44288,
+                37044,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -44.0
+    },
+    {
+        "epoch": 7,
+        "loss": 1.8993749618530273,
+        "best_loss": 1.71999990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 8.751250267028809,
+        "cur_std": 0.44356541633605956,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate CDK 383 by 5.",
+            "ids": [
+                5850,
+                44288,
+                38162,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -45.25
+    },
+    {
+        "epoch": 8,
+        "loss": 1.8087499141693115,
+        "best_loss": 1.71999990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 8.451250076293945,
+        "cur_std": 0.5173470973968506,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate polyethylene 383 by 5.",
+            "ids": [
+                5850,
+                37352,
+                38162,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -48.0
+    },
+    {
+        "epoch": 9,
+        "loss": 1.8812499046325684,
+        "best_loss": 1.71999990940094,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.763750076293945,
+        "cur_std": 0.4391146183013916,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate polyethyleneicism by 5.",
+            "ids": [
+                5850,
+                37352,
+                36106,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -50.0
+    },
+    {
+        "epoch": 10,
+        "loss": 1.7174999713897705,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.2212495803833,
+        "cur_std": 0.4651621341705322,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate polyethylene Geo by 5.",
+            "ids": [
+                5850,
+                37352,
+                44826,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -52.75
+    },
+    {
+        "epoch": 11,
+        "loss": 1.8700000047683716,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.211249351501465,
+        "cur_std": 0.5680456161499023,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate79 Geo by 5.",
+            "ids": [
+                5850,
+                2787,
+                44826,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -44.25
+    },
+    {
+        "epoch": 12,
+        "loss": 1.8862498998641968,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.75374984741211,
+        "cur_std": 0.5409040451049805,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over Geo by 5.",
+            "ids": [
+                5850,
+                689,
+                44826,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -39.0
+    },
+    {
+        "epoch": 13,
+        "loss": 1.8581249713897705,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.636249542236328,
+        "cur_std": 0.4281120777130127,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over annually by 5.",
+            "ids": [
+                5850,
+                689,
+                21051,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -33.0
+    },
+    {
+        "epoch": 14,
+        "loss": 1.919374942779541,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 13.563749313354492,
+        "cur_std": 0.7311379909515381,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over 378 by 5.",
+            "ids": [
+                5850,
+                689,
+                38316,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -31.5
+    },
+    {
+        "epoch": 15,
+        "loss": 1.8949999809265137,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 11.331250190734863,
+        "cur_std": 0.500389289855957,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over information by 5.",
+            "ids": [
+                5850,
+                689,
+                1491,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -33.75
+    },
+    {
+        "epoch": 16,
+        "loss": 1.8824999332427979,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.811249732971191,
+        "cur_std": 0.48671913146972656,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over defic by 5.",
+            "ids": [
+                5850,
+                689,
+                8315,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -41.0
+    },
+    {
+        "epoch": 17,
+        "loss": 1.847499966621399,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.801249504089355,
+        "cur_std": 0.5250363826751709,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over unbelie by 5.",
+            "ids": [
+                5850,
+                689,
+                31570,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -47.75
+    },
+    {
+        "epoch": 18,
+        "loss": 1.866249918937683,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.831250190734863,
+        "cur_std": 0.49224853515625,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over excessively by 5.",
+            "ids": [
+                5850,
+                689,
+                45891,
+                407,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -38.0
+    },
+    {
+        "epoch": 19,
+        "loss": 1.8381249904632568,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.288749694824219,
+        "cur_std": 0.5632688522338867,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over excessively by653.",
+            "ids": [
+                5850,
+                689,
+                45891,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -48.0
+    },
+    {
+        "epoch": 20,
+        "loss": 1.9237499237060547,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.168749809265137,
+        "cur_std": 0.5351925849914551,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate over reduced by653.",
+            "ids": [
+                5850,
+                689,
+                3777,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -38.5
+    },
+    {
+        "epoch": 21,
+        "loss": 1.8306249380111694,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.338749885559082,
+        "cur_std": 0.6232078075408936,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate overon by653.",
+            "ids": [
+                5850,
+                689,
+                251,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -44.75
+    },
+    {
+        "epoch": 22,
+        "loss": 1.7587499618530273,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.19374942779541,
+        "cur_std": 0.6442205905914307,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate framedon by653.",
+            "ids": [
+                5850,
+                29318,
+                251,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -50.75
+    },
+    {
+        "epoch": 23,
+        "loss": 1.8518749475479126,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.286250114440918,
+        "cur_std": 0.5821478843688965,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate framed omit by653.",
+            "ids": [
+                5850,
+                29318,
+                35991,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -55.75
+    },
+    {
+        "epoch": 24,
+        "loss": 1.8312499523162842,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.50624942779541,
+        "cur_std": 0.6186199188232422,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate framedatter by653.",
+            "ids": [
+                5850,
+                29318,
+                2569,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -53.25
+    },
+    {
+        "epoch": 25,
+        "loss": 1.9950000047683716,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 13.276249885559082,
+        "cur_std": 0.5316863059997559,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate framed antioxid by653.",
+            "ids": [
+                5850,
+                29318,
+                15998,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 26,
+        "loss": 1.86062490940094,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.641249656677246,
+        "cur_std": 0.5722007751464844,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate framedocyan by653.",
+            "ids": [
+                5850,
+                29318,
+                26632,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.75
+    },
+    {
+        "epoch": 27,
+        "loss": 1.7587499618530273,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.176249504089355,
+        "cur_std": 0.5997029304504394,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate10ocyan by653.",
+            "ids": [
+                5850,
+                740,
+                26632,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -54.0
+    },
+    {
+        "epoch": 28,
+        "loss": 1.8443750143051147,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.493749618530273,
+        "cur_std": 0.5691522121429443,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculateودocyan by653.",
+            "ids": [
+                5850,
+                49788,
+                26632,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 29,
+        "loss": 1.834999918937683,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.548749923706055,
+        "cur_std": 0.5882930278778076,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate Buddocyan by653.",
+            "ids": [
+                5850,
+                12961,
+                26632,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 30,
+        "loss": 1.90625,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 12.108749389648438,
+        "cur_std": 0.5213153839111329,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate galaxyocyan by653.",
+            "ids": [
+                5850,
+                13649,
+                26632,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 31,
+        "loss": 1.831874966621399,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.403749465942383,
+        "cur_std": 0.5845249176025391,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fillocyan by653.",
+            "ids": [
+                5850,
+                7522,
+                26632,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.0
+    },
+    {
+        "epoch": 32,
+        "loss": 1.8768749237060547,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 11.091249465942383,
+        "cur_std": 0.6140090942382812,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fill lic by653.",
+            "ids": [
+                5850,
+                7522,
+                8374,
+                407,
+                35726,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -58.5
+    },
+    {
+        "epoch": 33,
+        "loss": 1.8524999618530273,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.208749771118164,
+        "cur_std": 0.5490035533905029,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fill lic by 4.",
+            "ids": [
+                5850,
+                7522,
+                8374,
+                407,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -49.25
+    },
+    {
+        "epoch": 34,
+        "loss": 1.8424999713897705,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 8.646249771118164,
+        "cur_std": 0.505087947845459,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fillensis by 4.",
+            "ids": [
+                5850,
+                7522,
+                16520,
+                407,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -49.0
+    },
+    {
+        "epoch": 35,
+        "loss": 1.8424999713897705,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 12.013750076293945,
+        "cur_std": 0.5016194820404053,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fillensis 425 4.",
+            "ids": [
+                5850,
+                7522,
+                16520,
+                33314,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -58.0
+    },
+    {
+        "epoch": 36,
+        "loss": 1.9518749713897705,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 11.213749885559082,
+        "cur_std": 0.5559716701507569,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fill tt 425 4.",
+            "ids": [
+                5850,
+                7522,
+                42085,
+                33314,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -58.5
+    },
+    {
+        "epoch": 37,
+        "loss": 1.9275000095367432,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 12.026249885559082,
+        "cur_std": 0.5529714584350586,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fill represents 425 4.",
+            "ids": [
+                5850,
+                7522,
+                6125,
+                33314,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -54.0
+    },
+    {
+        "epoch": 38,
+        "loss": 1.8824999332427979,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 11.938749313354492,
+        "cur_std": 0.5278796195983887,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate fill represents 117 4.",
+            "ids": [
+                5850,
+                7522,
+                6125,
+                12387,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -54.75
+    },
+    {
+        "epoch": 39,
+        "loss": 1.89187490940094,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.203749656677246,
+        "cur_std": 0.4576084613800049,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculatea represents 117 4.",
+            "ids": [
+                5850,
+                66,
+                6125,
+                12387,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -48.0
+    },
+    {
+        "epoch": 40,
+        "loss": 1.9549999237060547,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.53125,
+        "cur_std": 0.47344698905944826,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculatepu represents 117 4.",
+            "ids": [
+                5850,
+                11113,
+                6125,
+                12387,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.5
+    },
+    {
+        "epoch": 41,
+        "loss": 1.87624990940094,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.548749923706055,
+        "cur_std": 0.4662433624267578,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate 424 represents 117 4.",
+            "ids": [
+                5850,
+                36988,
+                6125,
+                12387,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.5
+    },
+    {
+        "epoch": 42,
+        "loss": 1.8862498998641968,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 13.081249237060547,
+        "cur_std": 0.4648890018463135,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate 424 dimensions 117 4.",
+            "ids": [
+                5850,
+                36988,
+                10103,
+                12387,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -50.25
+    },
+    {
+        "epoch": 43,
+        "loss": 1.897499918937683,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 11.458749771118164,
+        "cur_std": 0.45560154914855955,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate 424 dimensions 237 4.",
+            "ids": [
+                5850,
+                36988,
+                10103,
+                27332,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -51.5
+    },
+    {
+        "epoch": 44,
+        "loss": 1.9587500095367432,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 11.848750114440918,
+        "cur_std": 0.44610161781311036,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate от dimensions 237 4.",
+            "ids": [
+                5850,
+                15095,
+                10103,
+                27332,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -55.25
+    },
+    {
+        "epoch": 45,
+        "loss": 1.8574999570846558,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.761249542236328,
+        "cur_std": 0.4037157535552979,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate от hig 237 4.",
+            "ids": [
+                5850,
+                15095,
+                1725,
+                27332,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 46,
+        "loss": 1.834999918937683,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 8.668749809265137,
+        "cur_std": 0.4247599601745605,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate от hig 53 4.",
+            "ids": [
+                5850,
+                15095,
+                1725,
+                8676,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.5
+    },
+    {
+        "epoch": 47,
+        "loss": 1.8418749570846558,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.4087495803833,
+        "cur_std": 0.44891791343688964,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate отlm 53 4.",
+            "ids": [
+                5850,
+                15095,
+                20347,
+                8676,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -54.0
+    },
+    {
+        "epoch": 48,
+        "loss": 1.7793749570846558,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.75374984741211,
+        "cur_std": 0.45825915336608886,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate отlm 353 4.",
+            "ids": [
+                5850,
+                15095,
+                20347,
+                35829,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -58.75
+    },
+    {
+        "epoch": 49,
+        "loss": 1.9306249618530273,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 9.938749313354492,
+        "cur_std": 0.4467987060546875,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate отlm 395 4.",
+            "ids": [
+                5850,
+                15095,
+                20347,
+                33900,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -58.0
+    },
+    {
+        "epoch": 50,
+        "loss": 1.9637500047683716,
+        "best_loss": 1.7174999713897705,
+        "best_kl": 6.97374963760376,
+        "best_std": 0.640347671508789,
+        "cur_kl": 10.1587495803833,
+        "cur_std": 0.4720597743988037,
+        "orig_prompt": {
+            "text": "Calculate 7 times 5.",
+            "ids": [
+                5850,
+                818,
+                2069,
+                608,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "Calculate отlm 549 4.",
+            "ids": [
+                5850,
+                15095,
+                20347,
+                45910,
+                577,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.5
+    }
+]

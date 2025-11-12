@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6499998569488525,
+        "best_kl": 9.170000076293945,
+        "best_std": 0.49999847412109377,
+        "cur_kl": 9.170000076293945,
+        "cur_std": 0.49999847412109377,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Discuss the factors contributing By the Ice Age",
+            "ids": [
+                37,
+                8552,
+                253,
+                2616,
+                15979,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6474997997283936,
+        "best_kl": 9.170000076293945,
+        "best_std": 0.49999847412109377,
+        "cur_kl": 9.220000267028809,
+        "cur_std": 0.49663362503051756,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Talkiscuss the factors contributing By the Ice Age",
+            "ids": [
+                34766,
+                8552,
+                253,
+                2616,
+                15979,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.632499933242798,
+        "best_loss": 3.632499933242798,
+        "best_kl": 8.389999389648438,
+        "best_std": 0.4627995014190674,
+        "cur_kl": 8.389999389648438,
+        "cur_std": 0.4627995014190674,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Talkiscuss the factors Cause By the Ice Age",
+            "ids": [
+                34766,
+                8552,
+                253,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.612499952316284,
+        "best_loss": 3.612499952316284,
+        "best_kl": 7.799999713897705,
+        "best_std": 0.4789376735687256,
+        "cur_kl": 7.799999713897705,
+        "cur_std": 0.4789376735687256,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "5iscuss the factors Cause By the Ice Age",
+            "ids": [
+                22,
+                8552,
+                253,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.6062498092651367,
+        "best_loss": 3.6062498092651367,
+        "best_kl": 7.799999713897705,
+        "best_std": 0.4789376735687256,
+        "cur_kl": 7.824999809265137,
+        "cur_std": 0.4939086437225342,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "5iscussconfirmed factors Cause By the Ice Age",
+            "ids": [
+                22,
+                8552,
+                37467,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.607499837875366,
+        "best_loss": 3.6062498092651367,
+        "best_kl": 7.799999713897705,
+        "best_std": 0.4789376735687256,
+        "cur_kl": 7.884999752044678,
+        "cur_std": 0.4611473083496094,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "5iscuss GU factors Cause By the Ice Age",
+            "ids": [
+                22,
+                8552,
+                31844,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.59375,
+        "best_loss": 3.59375,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.37999963760376,
+        "cur_std": 0.4539039611816406,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "5iscuss dominating factors Cause By the Ice Age",
+            "ids": [
+                22,
+                8552,
+                41297,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.5974998474121094,
+        "best_loss": 3.59375,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.484999656677246,
+        "cur_std": 0.44680147171020507,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "BTiscuss dominating factors Cause By the Ice Age",
+            "ids": [
+                11584,
+                8552,
+                41297,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.6050000190734863,
+        "best_loss": 3.59375,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.074999809265137,
+        "cur_std": 0.45627641677856445,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "BTiscussime factors Cause By the Ice Age",
+            "ids": [
+                11584,
+                8552,
+                553,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.5974998474121094,
+        "best_loss": 3.59375,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.569999694824219,
+        "cur_std": 0.4598402500152588,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "BTiscuss Current factors Cause By the Ice Age",
+            "ids": [
+                11584,
+                8552,
+                11604,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.5824999809265137,
+        "best_loss": 3.5824999809265137,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.919999599456787,
+        "cur_std": 0.47747073173522947,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "BTSimilar Current factors Cause By the Ice Age",
+            "ids": [
+                11584,
+                33397,
+                11604,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.5874998569488525,
+        "best_loss": 3.5824999809265137,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.869999885559082,
+        "cur_std": 0.4998166561126709,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " pintSimilar Current factors Cause By the Ice Age",
+            "ids": [
+                36991,
+                33397,
+                11604,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.5874998569488525,
+        "best_loss": 3.5824999809265137,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.799999713897705,
+        "cur_std": 0.4962613105773926,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "678Similar Current factors Cause By the Ice Age",
+            "ids": [
+                25025,
+                33397,
+                11604,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.607499837875366,
+        "best_loss": 3.5824999809265137,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.380000114440918,
+        "cur_std": 0.472601318359375,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "678ENCE Current factors Cause By the Ice Age",
+            "ids": [
+                25025,
+                17740,
+                11604,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.5824999809265137,
+        "best_loss": 3.5824999809265137,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.784999847412109,
+        "cur_std": 0.4695261478424072,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "678PE Current factors Cause By the Ice Age",
+            "ids": [
+                25025,
+                3246,
+                11604,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.5774998664855957,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.674999713897705,
+        "cur_std": 0.45380682945251466,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iqPE Current factors Cause By the Ice Age",
+            "ids": [
+                29370,
+                3246,
+                11604,
+                2616,
+                32872,
+                2896,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.6024999618530273,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.909999847412109,
+        "cur_std": 0.47657928466796873,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iqPE Current factors Causecess the Ice Age",
+            "ids": [
+                29370,
+                3246,
+                11604,
+                2616,
+                32872,
+                829,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.591249942779541,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.599999904632568,
+        "cur_std": 0.46953930854797366,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iqirds Current factors Causecess the Ice Age",
+            "ids": [
+                29370,
+                14950,
+                11604,
+                2616,
+                32872,
+                829,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.6024999618530273,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.869999885559082,
+        "cur_std": 0.4491220474243164,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iqirds Current factors Cause Mick the Ice Age",
+            "ids": [
+                29370,
+                14950,
+                11604,
+                2616,
+                32872,
+                42735,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.612499952316284,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.34999942779541,
+        "cur_std": 0.5057372570037841,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iqirds Current factors CauseBefore the Ice Age",
+            "ids": [
+                29370,
+                14950,
+                11604,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.615000009536743,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.375,
+        "cur_std": 0.5058558464050293,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iqembedded Current factors CauseBefore the Ice Age",
+            "ids": [
+                29370,
+                40964,
+                11604,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.5974998474121094,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.989999771118164,
+        "cur_std": 0.4688385486602783,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "iq effect Current factors CauseBefore the Ice Age",
+            "ids": [
+                29370,
+                1055,
+                11604,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.5999999046325684,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.045000076293945,
+        "cur_std": 0.4610508918762207,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " conc effect Current factors CauseBefore the Ice Age",
+            "ids": [
+                7036,
+                1055,
+                11604,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.5974998474121094,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.922499656677246,
+        "cur_std": 0.4707437515258789,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " conc effect Alternative factors CauseBefore the Ice Age",
+            "ids": [
+                7036,
+                1055,
+                37757,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.609999895095825,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.019999504089355,
+        "cur_std": 0.46632399559021,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " concapple Alternative factors CauseBefore the Ice Age",
+            "ids": [
+                7036,
+                19934,
+                37757,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.6050000190734863,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 7.914999961853027,
+        "cur_std": 0.49150896072387695,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Levapple Alternative factors CauseBefore the Ice Age",
+            "ids": [
+                35438,
+                19934,
+                37757,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.607499837875366,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.125,
+        "cur_std": 0.4627064228057861,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Levapple probable factors CauseBefore the Ice Age",
+            "ids": [
+                35438,
+                19934,
+                14051,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.6024999618530273,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.524999618530273,
+        "cur_std": 0.5208590984344482,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Levappleoking factors CauseBefore the Ice Age",
+            "ids": [
+                35438,
+                19934,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.622499942779541,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.484999656677246,
+        "cur_std": 0.49411716461181643,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Levเoking factors CauseBefore the Ice Age",
+            "ids": [
+                35438,
+                22311,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.612499952316284,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.449999809265137,
+        "cur_std": 0.48882718086242677,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Betเoking factors CauseBefore the Ice Age",
+            "ids": [
+                8387,
+                22311,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.629999876022339,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 9.170000076293945,
+        "cur_std": 0.5005285263061523,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Bet ωoking factors CauseBefore the Ice Age",
+            "ids": [
+                8387,
+                46422,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.615000009536743,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.559999465942383,
+        "cur_std": 0.48336100578308105,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " BetOhoking factors CauseBefore the Ice Age",
+            "ids": [
+                8387,
+                4013,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.615000009536743,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.194999694824219,
+        "cur_std": 0.47594380378723145,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Betkuroking factors CauseBefore the Ice Age",
+            "ids": [
+                8387,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.5974998474121094,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.09000015258789,
+        "cur_std": 0.45260915756225584,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ESkuroking factors CauseBefore the Ice Age",
+            "ids": [
+                1410,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.607499837875366,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.380000114440918,
+        "cur_std": 0.45035734176635744,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " brigkuroking factors CauseBefore the Ice Age",
+            "ids": [
+                28097,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                253,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.615000009536743,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.819999694824219,
+        "cur_std": 0.4982175350189209,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " brigkuroking factors CauseBefore THIS Ice Age",
+            "ids": [
+                28097,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                10113,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.629999876022339,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.755000114440918,
+        "cur_std": 0.48140921592712405,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " chekuroking factors CauseBefore THIS Ice Age",
+            "ids": [
+                1161,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                10113,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.607499837875366,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.289999961853027,
+        "cur_std": 0.4805788516998291,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " spirkuroking factors CauseBefore THIS Ice Age",
+            "ids": [
+                15009,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                10113,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.607499837875366,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.279999732971191,
+        "cur_std": 0.4654242515563965,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " spirkuroking factors CauseBefore Our Ice Age",
+            "ids": [
+                15009,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.5999999046325684,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.184999465942383,
+        "cur_std": 0.4523454666137695,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " desertkuroking factors CauseBefore Our Ice Age",
+            "ids": [
+                13438,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.622499942779541,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.769999504089355,
+        "cur_std": 0.4763958930969238,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " spekuroking factors CauseBefore Our Ice Age",
+            "ids": [
+                705,
+                49103,
+                6856,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.62749981880188,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.710000038146973,
+        "cur_std": 0.45929951667785646,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " spekurtemperature factors CauseBefore Our Ice Age",
+            "ids": [
+                705,
+                49103,
+                26158,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.6374998092651367,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 9.420000076293945,
+        "cur_std": 0.49007678031921387,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " spe Lucytemperature factors CauseBefore Our Ice Age",
+            "ids": [
+                705,
+                24112,
+                26158,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.6399998664855957,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 9.304999351501465,
+        "cur_std": 0.4900084972381592,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Nic Lucytemperature factors CauseBefore Our Ice Age",
+            "ids": [
+                37433,
+                24112,
+                26158,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.625,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 9.204999923706055,
+        "cur_std": 0.4798119068145752,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Nicexctemperature factors CauseBefore Our Ice Age",
+            "ids": [
+                37433,
+                36688,
+                26158,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.609999895095825,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.699999809265137,
+        "cur_std": 0.47496676445007324,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Nicdertemperature factors CauseBefore Our Ice Age",
+            "ids": [
+                37433,
+                491,
+                26158,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.6112499237060547,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.644999504089355,
+        "cur_std": 0.4623471736907959,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " macdertemperature factors CauseBefore Our Ice Age",
+            "ids": [
+                5315,
+                491,
+                26158,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.617499828338623,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.654999732971191,
+        "cur_std": 0.4919783592224121,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " macderonce factors CauseBefore Our Ice Age",
+            "ids": [
+                5315,
+                491,
+                19131,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.607499837875366,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.760000228881836,
+        "cur_std": 0.47922654151916505,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " macderulation factors CauseBefore Our Ice Age",
+            "ids": [
+                5315,
+                491,
+                1427,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.6024999618530273,
+        "best_loss": 3.5774998664855957,
+        "best_kl": 7.37999963760376,
+        "best_std": 0.4539039611816406,
+        "cur_kl": 8.414999961853027,
+        "cur_std": 0.4880286693572998,
+        "orig_prompt": {
+            "text": "What is the major cause of the ice age?",
+            "ids": [
+                1276,
+                310,
+                253,
+                2201,
+                2847,
+                273,
+                253,
+                6749,
+                2363,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "otsderulation factors CauseBefore Our Ice Age",
+            "ids": [
+                1502,
+                491,
+                1427,
+                2616,
+                32872,
+                8639,
+                3824,
+                22078,
+                11362
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    }
+]

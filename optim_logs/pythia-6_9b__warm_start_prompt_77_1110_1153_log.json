@@ -1,0 +1,2102 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.50249981880188,
+        "best_loss": 3.50249981880188,
+        "best_kl": 12.19749927520752,
+        "best_std": 0.6438745975494384,
+        "cur_kl": 12.19749927520752,
+        "cur_std": 0.6438745975494384,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about theIndust benefits of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                47219,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -53.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.5174999237060547,
+        "best_loss": 3.50249981880188,
+        "best_kl": 12.079999923706055,
+        "best_std": 0.6182604312896729,
+        "cur_kl": 12.079999923706055,
+        "cur_std": 0.6182604312896729,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about theh benefits of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                73,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -44.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.5037498474121094,
+        "best_loss": 3.50249981880188,
+        "best_kl": 11.864999771118164,
+        "best_std": 0.6470252513885498,
+        "cur_kl": 11.864999771118164,
+        "cur_std": 0.6470252513885498,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about the from benefits of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                432,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -42.75
+    },
+    {
+        "epoch": 4,
+        "loss": 3.5325000286102295,
+        "best_loss": 3.50249981880188,
+        "best_kl": 11.864999771118164,
+        "best_std": 0.6470252513885498,
+        "cur_kl": 13.22249984741211,
+        "cur_std": 0.6127835750579834,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about the from model of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                432,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -44.75
+    },
+    {
+        "epoch": 5,
+        "loss": 3.5299999713897705,
+        "best_loss": 3.50249981880188,
+        "best_kl": 11.864999771118164,
+        "best_std": 0.6470252513885498,
+        "cur_kl": 12.739999771118164,
+        "cur_std": 0.5957861423492432,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about thel model of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                77,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -46.25
+    },
+    {
+        "epoch": 6,
+        "loss": 3.5,
+        "best_loss": 3.5,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 11.529999732971191,
+        "cur_std": 0.547887134552002,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about theKernel model of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                38561,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -48.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.4912500381469727,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 11.872499465942383,
+        "cur_std": 0.5651438713073731,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about the subord model of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                42272,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -53.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.5124998092651367,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 12.612500190734863,
+        "cur_std": 0.567694902420044,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about extended subord model of potatoes",
+            "ids": [
+                17570,
+                670,
+                6508,
+                42272,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.5399999618530273,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 12.827499389648438,
+        "cur_std": 0.6070263385772705,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about extended 228 model of potatoes",
+            "ids": [
+                17570,
+                670,
+                6508,
+                26249,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.5124998092651367,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 12.375,
+        "cur_std": 0.5935309886932373,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about extendedbiggl model of potatoes",
+            "ids": [
+                17570,
+                670,
+                6508,
+                33438,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.5487499237060547,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 12.882499694824219,
+        "cur_std": 0.6112007141113281,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about extended refract model of potatoes",
+            "ids": [
+                17570,
+                670,
+                6508,
+                20124,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -62.25
+    },
+    {
+        "epoch": 12,
+        "loss": 3.507499933242798,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 12.34749984741211,
+        "cur_std": 0.6276247501373291,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about extendedcholine model of potatoes",
+            "ids": [
+                17570,
+                670,
+                6508,
+                36992,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.509999990463257,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 11.59000015258789,
+        "cur_std": 0.6069725036621094,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about extendedies model of potatoes",
+            "ids": [
+                17570,
+                670,
+                6508,
+                447,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.5149998664855957,
+        "best_loss": 3.4912500381469727,
+        "best_kl": 11.529999732971191,
+        "best_std": 0.547887134552002,
+        "cur_kl": 12.802499771118164,
+        "cur_std": 0.6122208118438721,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about rigidies model of potatoes",
+            "ids": [
+                17570,
+                670,
+                16572,
+                447,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.484999895095825,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 11.005000114440918,
+        "cur_std": 0.5544924259185791,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell aboutGies model of potatoes",
+            "ids": [
+                17570,
+                670,
+                40,
+                447,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -55.75
+    },
+    {
+        "epoch": 16,
+        "loss": 3.4962499141693115,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.324999809265137,
+        "cur_std": 0.5665163040161133,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Wrong aboutGies model of potatoes",
+            "ids": [
+                47693,
+                670,
+                40,
+                447,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -58.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.509999990463257,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.862499237060547,
+        "cur_std": 0.5844618320465088,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutGies model of potatoes",
+            "ids": [
+                40385,
+                670,
+                40,
+                447,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -58.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.516249895095825,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.614999771118164,
+        "cur_std": 0.5554871082305908,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutGrelim model of potatoes",
+            "ids": [
+                40385,
+                670,
+                40,
+                26827,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.5512499809265137,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 13.617499351501465,
+        "cur_std": 0.6348214149475098,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutG advisor model of potatoes",
+            "ids": [
+                40385,
+                670,
+                40,
+                31149,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.549999952316284,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 13.182499885559082,
+        "cur_std": 0.5870321273803711,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutG conference model of potatoes",
+            "ids": [
+                40385,
+                670,
+                40,
+                8059,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -62.75
+    },
+    {
+        "epoch": 21,
+        "loss": 3.4937498569488525,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 11.764999389648438,
+        "cur_std": 0.5690770626068116,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about) conference model of potatoes",
+            "ids": [
+                40385,
+                670,
+                10,
+                8059,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -55.25
+    },
+    {
+        "epoch": 22,
+        "loss": 3.4987499713897705,
+        "best_loss": 3.484999895095825,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 11.587499618530273,
+        "cur_std": 0.5629823684692383,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about) Conn model of potatoes",
+            "ids": [
+                40385,
+                670,
+                10,
+                27301,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -62.25
+    },
+    {
+        "epoch": 23,
+        "loss": 3.4800000190734863,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 11.179999351501465,
+        "cur_std": 0.5549033164978028,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about) Gould model of potatoes",
+            "ids": [
+                40385,
+                670,
+                10,
+                44511,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -58.25
+    },
+    {
+        "epoch": 24,
+        "loss": 3.504999876022339,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 11.420000076293945,
+        "cur_std": 0.5455499649047851,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about %> Gould model of potatoes",
+            "ids": [
+                40385,
+                670,
+                20322,
+                44511,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.509999990463257,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.467499732971191,
+        "cur_std": 0.609143877029419,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about Bell Gould model of potatoes",
+            "ids": [
+                40385,
+                670,
+                11590,
+                44511,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.509999990463257,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.387499809265137,
+        "cur_std": 0.5889274120330811,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about … Gould model of potatoes",
+            "ids": [
+                40385,
+                670,
+                8139,
+                44511,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.75
+    },
+    {
+        "epoch": 27,
+        "loss": 3.5225000381469727,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.774999618530273,
+        "cur_std": 0.6471625804901123,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about unjust Gould model of potatoes",
+            "ids": [
+                40385,
+                670,
+                26694,
+                44511,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.528749942779541,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.769999504089355,
+        "cur_std": 0.5884052276611328,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutpaths Gould model of potatoes",
+            "ids": [
+                40385,
+                670,
+                34605,
+                44511,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.5299999713897705,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.522500038146973,
+        "cur_std": 0.601304292678833,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutpathsbur model of potatoes",
+            "ids": [
+                40385,
+                670,
+                34605,
+                13156,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.832499504089355,
+        "cur_std": 0.6228706359863281,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutpaths conspir model of potatoes",
+            "ids": [
+                40385,
+                670,
+                34605,
+                11882,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.554999828338623,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 13.854999542236328,
+        "cur_std": 0.5969850540161132,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutpathsϕ model of potatoes",
+            "ids": [
+                40385,
+                670,
+                34605,
+                50020,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.547499895095825,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 13.217499732971191,
+        "cur_std": 0.5929580211639405,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutpaths visibility model of potatoes",
+            "ids": [
+                40385,
+                670,
+                34605,
+                23114,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.5199999809265137,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.425000190734863,
+        "cur_std": 0.6237563133239746,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about g visibility model of potatoes",
+            "ids": [
+                40385,
+                670,
+                305,
+                23114,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.5274999141693115,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.53749942779541,
+        "cur_std": 0.5831642150878906,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about standard visibility model of potatoes",
+            "ids": [
+                40385,
+                670,
+                2629,
+                23114,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -55.25
+    },
+    {
+        "epoch": 35,
+        "loss": 3.5325000286102295,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.704999923706055,
+        "cur_std": 0.621554946899414,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about standardi model of potatoes",
+            "ids": [
+                40385,
+                670,
+                2629,
+                74,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -56.25
+    },
+    {
+        "epoch": 36,
+        "loss": 3.5425000190734863,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 13.28749942779541,
+        "cur_std": 0.6164042949676514,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about�i model of potatoes",
+            "ids": [
+                40385,
+                670,
+                40153,
+                74,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 12.729999542236328,
+        "cur_std": 0.6472814083099365,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about verschi model of potatoes",
+            "ids": [
+                40385,
+                670,
+                48080,
+                74,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.4962499141693115,
+        "best_loss": 3.4800000190734863,
+        "best_kl": 11.005000114440918,
+        "best_std": 0.5544924259185791,
+        "cur_kl": 11.717499732971191,
+        "cur_std": 0.5969160556793213,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about verschisms model of potatoes",
+            "ids": [
+                40385,
+                670,
+                48080,
+                3931,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -63.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 10.977499961853027,
+        "cur_std": 0.5444403648376465,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about Stevenisms model of potatoes",
+            "ids": [
+                40385,
+                670,
+                19436,
+                3931,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -62.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.5174999237060547,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.47249984741211,
+        "cur_std": 0.617320442199707,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about Steven DFT model of potatoes",
+            "ids": [
+                40385,
+                670,
+                19436,
+                41711,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.5149998664855957,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.380000114440918,
+        "cur_std": 0.624676513671875,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about Steven Benson model of potatoes",
+            "ids": [
+                40385,
+                670,
+                19436,
+                45004,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.5174999237060547,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.302499771118164,
+        "cur_std": 0.6066684722900391,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive about Steven lift model of potatoes",
+            "ids": [
+                40385,
+                670,
+                19436,
+                8488,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -60.75
+    },
+    {
+        "epoch": 43,
+        "loss": 3.5299999713897705,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.507499694824219,
+        "cur_std": 0.5930197715759278,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive aboutcanonical lift model of potatoes",
+            "ids": [
+                40385,
+                670,
+                36020,
+                8488,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.5325000286102295,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.772500038146973,
+        "cur_std": 0.5849986553192139,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive Trentcanonical lift model of potatoes",
+            "ids": [
+                40385,
+                34722,
+                36020,
+                8488,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.5225000381469727,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.434999465942383,
+        "cur_std": 0.6250820159912109,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Positive Trentietzsche lift model of potatoes",
+            "ids": [
+                40385,
+                34722,
+                37483,
+                8488,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.712499618530273,
+        "cur_std": 0.5662138938903809,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": ")|\\ Trentietzsche lift model of potatoes",
+            "ids": [
+                30919,
+                34722,
+                37483,
+                8488,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.5399999618530273,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 13.317500114440918,
+        "cur_std": 0.6008186340332031,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": ")|\\ Trentietzscheor model of potatoes",
+            "ids": [
+                30919,
+                34722,
+                37483,
+                263,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.5299999713897705,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.710000038146973,
+        "cur_std": 0.5782431602478028,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": ")|\\ Trentcor model of potatoes",
+            "ids": [
+                30919,
+                34722,
+                68,
+                263,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.5149998664855957,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.407499313354492,
+        "cur_std": 0.5829939842224121,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": ")|\\ Murraycor model of potatoes",
+            "ids": [
+                30919,
+                19995,
+                68,
+                263,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.5124998092651367,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 10.977499961853027,
+        "best_std": 0.5444403648376465,
+        "cur_kl": 12.22499942779541,
+        "cur_std": 0.5927646636962891,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": ")|\\ Murray Gaussor model of potatoes",
+            "ids": [
+                30919,
+                19995,
+                46111,
+                263,
+                1566,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.5
+    }
+]

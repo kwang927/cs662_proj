@@ -1,0 +1,2402 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.072499990463257,
+        "best_loss": 3.072499990463257,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 8.03749942779541,
+        "cur_std": 0.4962787628173828,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "What parts or structure does a relational database,?",
+            "ids": [
+                1276,
+                4243,
+                390,
+                2605,
+                1057,
+                247,
+                38524,
+                5447,
+                13,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -59.75
+    },
+    {
+        "epoch": 2,
+        "loss": 2.8350000381469727,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 8.09000015258789,
+        "cur_std": 0.474029016494751,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "What parts or structure does a relational databaseorus?",
+            "ids": [
+                1276,
+                4243,
+                390,
+                2605,
+                1057,
+                247,
+                38524,
+                5447,
+                16973,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.0687499046325684,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 9.96500015258789,
+        "cur_std": 0.5276211738586426,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " 115 parts or structure does a relational databaseorus?",
+            "ids": [
+                11343,
+                4243,
+                390,
+                2605,
+                1057,
+                247,
+                38524,
+                5447,
+                16973,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.0612499713897705,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 8.91249942779541,
+        "cur_std": 0.5209908962249756,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " 115 parts or structure does a relational database it?",
+            "ids": [
+                11343,
+                4243,
+                390,
+                2605,
+                1057,
+                247,
+                38524,
+                5447,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.0349998474121094,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 8.897500038146973,
+        "cur_std": 0.5235019207000733,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " 115 parts or)]( does a relational database it?",
+            "ids": [
+                11343,
+                4243,
+                390,
+                36586,
+                1057,
+                247,
+                38524,
+                5447,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.013749837875366,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 10.507499694824219,
+        "cur_std": 0.5576313495635986,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}$\\ parts or)]( does a relational database it?",
+            "ids": [
+                23743,
+                4243,
+                390,
+                36586,
+                1057,
+                247,
+                38524,
+                5447,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.1162500381469727,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 13.674999237060547,
+        "cur_std": 0.6101881504058838,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "}$\\ parts or)]( does a relational expanded it?",
+            "ids": [
+                23743,
+                4243,
+                390,
+                36586,
+                1057,
+                247,
+                38524,
+                11848,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.1837499141693115,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 11.359999656677246,
+        "cur_std": 0.5892483711242675,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " served parts or)]( does a relational expanded it?",
+            "ids": [
+                5608,
+                4243,
+                390,
+                36586,
+                1057,
+                247,
+                38524,
+                11848,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.148749828338623,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 14.022500038146973,
+        "cur_std": 0.624146842956543,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " served parts or)](ukary a relational expanded it?",
+            "ids": [
+                5608,
+                4243,
+                390,
+                36586,
+                28420,
+                247,
+                38524,
+                11848,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.2512500286102295,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 15.767499923706055,
+        "cur_std": 0.6975991725921631,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!-- parts or)](ukary a relational expanded it?",
+            "ids": [
+                8145,
+                4243,
+                390,
+                36586,
+                28420,
+                247,
+                38524,
+                11848,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.1675000190734863,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 14.237499237060547,
+        "cur_std": 0.6765776157379151,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!-- syntax or)](ukary a relational expanded it?",
+            "ids": [
+                8145,
+                16144,
+                390,
+                36586,
+                28420,
+                247,
+                38524,
+                11848,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.1050000190734863,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 15.420000076293945,
+        "cur_std": 0.6849839687347412,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!-- syntax or()\">ukary a relational expanded it?",
+            "ids": [
+                8145,
+                16144,
+                390,
+                49384,
+                28420,
+                247,
+                38524,
+                11848,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.1549999713897705,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 14.329999923706055,
+        "cur_std": 0.6647024631500245,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!--UNC or()\">ukary a relational expanded it?",
+            "ids": [
+                8145,
+                34893,
+                390,
+                49384,
+                28420,
+                247,
+                38524,
+                11848,
+                352,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.2799999713897705,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 14.380000114440918,
+        "cur_std": 0.6652682304382325,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!--UNC or()\">ukary a relational expandedhemer?",
+            "ids": [
+                8145,
+                34893,
+                390,
+                49384,
+                28420,
+                247,
+                38524,
+                11848,
+                47842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.211249828338623,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 19.34749984741211,
+        "cur_std": 0.7457107543945313,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!--UNC or()\">ukary a docker expandedhemer?",
+            "ids": [
+                8145,
+                34893,
+                390,
+                49384,
+                28420,
+                247,
+                36191,
+                11848,
+                47842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.3899998664855957,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.869998931884766,
+        "cur_std": 0.7481921195983887,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!--UNC or Chambersukary a docker expandedhemer?",
+            "ids": [
+                8145,
+                34893,
+                390,
+                40972,
+                28420,
+                247,
+                36191,
+                11848,
+                47842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.434999942779541,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.770000457763672,
+        "cur_std": 0.7459713459014893,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "!--UNC Mans Chambersukary a docker expandedhemer?",
+            "ids": [
+                8145,
+                34893,
+                25686,
+                40972,
+                28420,
+                247,
+                36191,
+                11848,
+                47842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.2562499046325684,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 19.4424991607666,
+        "cur_std": 0.715386962890625,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "itherUNC Mans Chambersukary a docker expandedhemer?",
+            "ids": [
+                1622,
+                34893,
+                25686,
+                40972,
+                28420,
+                247,
+                36191,
+                11848,
+                47842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.427500009536743,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 20.162500381469727,
+        "cur_std": 0.7254428863525391,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen Mans Chambersukary a docker expandedhemer?",
+            "ids": [
+                1622,
+                32369,
+                25686,
+                40972,
+                28420,
+                247,
+                36191,
+                11848,
+                47842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.088749885559082,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.25,
+        "cur_std": 0.683647346496582,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen Mans Chambersukary a filesystem expandedhemer?",
+            "ids": [
+                1622,
+                32369,
+                25686,
+                40972,
+                28420,
+                247,
+                42357,
+                11848,
+                47842,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.1887500286102295,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 21.5674991607666,
+        "cur_std": 0.7724245071411133,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen Mans Chambersukary a filesystem expandedhemeramination",
+            "ids": [
+                1622,
+                32369,
+                25686,
+                40972,
+                28420,
+                247,
+                42357,
+                11848,
+                47842,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -138.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.1624999046325684,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 22.5,
+        "cur_std": 0.7745151996612549,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen millions Chambersukary a filesystem expandedhemeramination",
+            "ids": [
+                1622,
+                32369,
+                9790,
+                40972,
+                28420,
+                247,
+                42357,
+                11848,
+                47842,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.5325000286102295,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 21.467498779296875,
+        "cur_std": 0.7709093570709229,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen millionsistenceukary a filesystem expandedhemeramination",
+            "ids": [
+                1622,
+                32369,
+                9790,
+                11347,
+                28420,
+                247,
+                42357,
+                11848,
+                47842,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.3687498569488525,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 20.55500030517578,
+        "cur_std": 0.7225584506988525,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen millionsistenceukary a filesystem/hemeramination",
+            "ids": [
+                1622,
+                32369,
+                9790,
+                11347,
+                28420,
+                247,
+                42357,
+                16,
+                47842,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.4375,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 20.457500457763672,
+        "cur_std": 0.7527395248413086,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen millionsistenceukaryasso filesystem/hemeramination",
+            "ids": [
+                1622,
+                32369,
+                9790,
+                11347,
+                28420,
+                26341,
+                42357,
+                16,
+                47842,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.447499990463257,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 21.654998779296875,
+        "cur_std": 0.7666237354278564,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumen millions aggregationukaryasso filesystem/hemeramination",
+            "ids": [
+                1622,
+                32369,
+                9790,
+                20828,
+                28420,
+                26341,
+                42357,
+                16,
+                47842,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.5662498474121094,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 20.657499313354492,
+        "cur_std": 0.7805047035217285,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumenference aggregationukaryasso filesystem/hemeramination",
+            "ids": [
+                1622,
+                32369,
+                1793,
+                20828,
+                28420,
+                26341,
+                42357,
+                16,
+                47842,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.424999952316284,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 20.342498779296875,
+        "cur_std": 0.7745450019836426,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither lumenference aggregationukaryasso filesystem/representationamination",
+            "ids": [
+                1622,
+                32369,
+                1793,
+                20828,
+                28420,
+                26341,
+                42357,
+                16,
+                37626,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.278749942779541,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.84749984741211,
+        "cur_std": 0.7516051769256592,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither rememberference aggregationukaryasso filesystem/representationamination",
+            "ids": [
+                1622,
+                4456,
+                1793,
+                20828,
+                28420,
+                26341,
+                42357,
+                16,
+                37626,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.3612499237060547,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 20.16499900817871,
+        "cur_std": 0.7967121601104736,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ither rememberference aggregationukaryasso servers/representationamination",
+            "ids": [
+                1622,
+                4456,
+                1793,
+                20828,
+                28420,
+                26341,
+                14903,
+                16,
+                37626,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.419999837875366,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 19.717498779296875,
+        "cur_std": 0.778561019897461,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound rememberference aggregationukaryasso servers/representationamination",
+            "ids": [
+                35987,
+                4456,
+                1793,
+                20828,
+                28420,
+                26341,
+                14903,
+                16,
+                37626,
+                10899
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.1912498474121094,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 16.59000015258789,
+        "cur_std": 0.6898938655853272,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound rememberference aggregationukaryasso servers/representation Description",
+            "ids": [
+                35987,
+                4456,
+                1793,
+                20828,
+                28420,
+                26341,
+                14903,
+                16,
+                37626,
+                11451
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 33,
+        "loss": 2.987499952316284,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 17.627500534057617,
+        "cur_std": 0.6776043891906738,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound rememberference aggregationukaryasso servers/representation lesson",
+            "ids": [
+                35987,
+                4456,
+                1793,
+                20828,
+                28420,
+                26341,
+                14903,
+                16,
+                37626,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.348749876022339,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 17.97249984741211,
+        "cur_std": 0.6805272579193116,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound rememberference aggregationukaryICK servers/representation lesson",
+            "ids": [
+                35987,
+                4456,
+                1793,
+                20828,
+                28420,
+                16539,
+                14903,
+                16,
+                37626,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.326249837875366,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 16.584999084472656,
+        "cur_std": 0.6563522338867187,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound rememberferencewalukaryICK servers/representation lesson",
+            "ids": [
+                35987,
+                4456,
+                1793,
+                18758,
+                28420,
+                16539,
+                14903,
+                16,
+                37626,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -116.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.2587499618530273,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.537500381469727,
+        "cur_std": 0.671670389175415,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound inpatientferencewalukaryICK servers/representation lesson",
+            "ids": [
+                35987,
+                40083,
+                1793,
+                18758,
+                28420,
+                16539,
+                14903,
+                16,
+                37626,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.3012499809265137,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 17.875,
+        "cur_std": 0.6744760513305664,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound inpatientferencewalukarySON servers/representation lesson",
+            "ids": [
+                35987,
+                40083,
+                1793,
+                18758,
+                28420,
+                8301,
+                14903,
+                16,
+                37626,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.1787500381469727,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 17.97749900817871,
+        "cur_std": 0.6873963832855224,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound inpatientferencerikukarySON servers/representation lesson",
+            "ids": [
+                35987,
+                40083,
+                1793,
+                16409,
+                28420,
+                8301,
+                14903,
+                16,
+                37626,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.3137500286102295,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 19.4375,
+        "cur_std": 0.7187810420989991,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound inpatientferencerikukarySON servers/serialize lesson",
+            "ids": [
+                35987,
+                40083,
+                1793,
+                16409,
+                28420,
+                8301,
+                14903,
+                16,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.2937498092651367,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.86750030517578,
+        "cur_std": 0.6931980133056641,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "pound inpatient bastrikukarySON servers/serialize lesson",
+            "ids": [
+                35987,
+                40083,
+                19697,
+                16409,
+                28420,
+                8301,
+                14903,
+                16,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.18999981880188,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 17.987499237060547,
+        "cur_std": 0.7136951923370362,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " thym inpatient bastrikukarySON servers/serialize lesson",
+            "ids": [
+                21871,
+                40083,
+                19697,
+                16409,
+                28420,
+                8301,
+                14903,
+                16,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.3037500381469727,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.497499465942383,
+        "cur_std": 0.6861683368682862,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " thym inpatient bastReturnukarySON servers/serialize lesson",
+            "ids": [
+                21871,
+                40083,
+                19697,
+                15968,
+                28420,
+                8301,
+                14903,
+                16,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.478749990463257,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 17.92249870300293,
+        "cur_std": 0.6791139125823975,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие inpatient bastReturnukarySON servers/serialize lesson",
+            "ids": [
+                13080,
+                40083,
+                19697,
+                15968,
+                28420,
+                8301,
+                14903,
+                16,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.357499837875366,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 19.81999969482422,
+        "cur_std": 0.7400269508361816,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие inpatient bastReturnhenticSON servers/serialize lesson",
+            "ids": [
+                13080,
+                40083,
+                19697,
+                15968,
+                7737,
+                8301,
+                14903,
+                16,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.2849998474121094,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 18.8799991607666,
+        "cur_std": 0.7630140304565429,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие staying bastReturnhenticSON servers/serialize lesson",
+            "ids": [
+                13080,
+                14596,
+                19697,
+                15968,
+                7737,
+                8301,
+                14903,
+                16,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -126.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.2362499237060547,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 19.529998779296875,
+        "cur_std": 0.7618448734283447,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие staying bastReturnhenticSON servers—serialize lesson",
+            "ids": [
+                13080,
+                14596,
+                19697,
+                15968,
+                7737,
+                8301,
+                14903,
+                1128,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.331249952316284,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 21.952499389648438,
+        "cur_std": 0.8517339706420899,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие staying bastReturnhenticSON servers_{serialize lesson",
+            "ids": [
+                13080,
+                14596,
+                19697,
+                15968,
+                7737,
+                8301,
+                14903,
+                578,
+                49197,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.56499981880188,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 22.04749870300293,
+        "cur_std": 0.8002816200256347,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие staying bastReturnhenticSON servers_{urance lesson",
+            "ids": [
+                13080,
+                14596,
+                19697,
+                15968,
+                7737,
+                8301,
+                14903,
+                578,
+                4628,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.2587499618530273,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 21.885000228881836,
+        "cur_std": 0.7580328464508057,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие staying bastReturnhenticSON serversreurance lesson",
+            "ids": [
+                13080,
+                14596,
+                19697,
+                15968,
+                7737,
+                8301,
+                14903,
+                250,
+                4628,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.137500047683716,
+        "best_loss": 2.8350000381469727,
+        "best_kl": 7.315000057220459,
+        "best_std": 0.484033203125,
+        "cur_kl": 20.744998931884766,
+        "cur_std": 0.7434986591339111,
+        "orig_prompt": {
+            "text": "Explain the basic components of a relational database.",
+            "ids": [
+                1672,
+                19104,
+                253,
+                5044,
+                4295,
+                273,
+                247,
+                38524,
+                5447,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ие staying bastReturnhentic entities serversreurance lesson",
+            "ids": [
+                13080,
+                14596,
+                19697,
+                15968,
+                7737,
+                14429,
+                14903,
+                250,
+                4628,
+                16507
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.5
+    }
+]

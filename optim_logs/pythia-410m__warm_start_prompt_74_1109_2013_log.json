@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.9175000190734863,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.4549999237060547,
+        "best_std": 0.2662017583847046,
+        "cur_kl": 2.5299999713897705,
+        "cur_std": 0.2555267810821533,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Compose a Christmas carol about jing Chu bells.",
+            "ids": [
+                2115,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                272,
+                48012,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.9774999618530273,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.4549999237060547,
+        "best_std": 0.2662017583847046,
+        "cur_kl": 2.5950000286102295,
+        "cur_std": 0.2290400505065918,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "делpose a Christmas carol about jing Chu bells.",
+            "ids": [
+                45578,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                272,
+                48012,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.927500009536743,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.134999990463257,
+        "best_std": 0.22594974040985108,
+        "cur_kl": 2.134999990463257,
+        "cur_std": 0.22594974040985108,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about jing Chu bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                480,
+                272,
+                48012,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 4,
+        "loss": 4.007499694824219,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.134999990463257,
+        "best_std": 0.22594974040985108,
+        "cur_kl": 2.5899999141693115,
+        "cur_std": 0.2574525594711304,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about spling Chu bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                6821,
+                272,
+                48012,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 5,
+        "loss": 4.007499694824219,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.134999990463257,
+        "best_std": 0.22594974040985108,
+        "cur_kl": 2.75,
+        "cur_std": 0.24167971611022948,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol aboutasking Chu bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                1945,
+                272,
+                48012,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.9800000190734863,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.119999885559082,
+        "cur_std": 0.22463438510894776,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about Pasing Chu bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                272,
+                48012,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.992499828338623,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.3499999046325684,
+        "cur_std": 0.21619994640350343,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about Pasing double bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                272,
+                4021,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.9212498664855957,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.134999990463257,
+        "cur_std": 0.22336442470550538,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about Pasing judge bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                272,
+                5963,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.93999981880188,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.809999942779541,
+        "cur_std": 0.25895867347717283,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about Pas encourages judge bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                29426,
+                5963,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.9749999046325684,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.7100000381469727,
+        "cur_std": 0.25167920589447024,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about Pas encourages Show bells.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                29426,
+                10684,
+                36161,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.961249828338623,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.129999876022339,
+        "cur_std": 0.2636783361434937,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about Pas encourages Show Fa.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                29426,
+                10684,
+                15404,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 12,
+        "loss": 4.019999980926514,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.309999942779541,
+        "cur_std": 0.2730097770690918,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Componentpose a Christmas carol about Pas encourages Show Valley.",
+            "ids": [
+                27740,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                29426,
+                10684,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 13,
+        "loss": 4.019999980926514,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.299999952316284,
+        "cur_std": 0.27560768127441404,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymepose a Christmas carol about Pas encourages Show Valley.",
+            "ids": [
+                28705,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                29426,
+                10684,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.9599997997283936,
+        "best_loss": 3.9175000190734863,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.7100000381469727,
+        "cur_std": 0.2797166585922241,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymepose a Christmas carol about Pasimate Show Valley.",
+            "ids": [
+                28705,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                17231,
+                2542,
+                10684,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.8349997997283936,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.669999837875366,
+        "cur_std": 0.30144600868225097,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymepose a Christmas carol about dummyimate Show Valley.",
+            "ids": [
+                28705,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                28726,
+                2542,
+                10684,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.9937498569488525,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.1599998474121094,
+        "cur_std": 0.2894509077072144,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymepose a Christmas carol about materialimate Show Valley.",
+            "ids": [
+                28705,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                2144,
+                2542,
+                10684,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.984999895095825,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.4600000381469727,
+        "cur_std": 0.27067816257476807,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymepose a Christmas carol about materialconomic Show Valley.",
+            "ids": [
+                28705,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                2144,
+                11109,
+                10684,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.944999933242798,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.490000009536743,
+        "cur_std": 0.24700016975402833,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymepose a Christmas carol about materialconomic Red Valley.",
+            "ids": [
+                28705,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                2144,
+                11109,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.944999933242798,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.794999837875366,
+        "cur_std": 0.2815088272094727,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymepose a Christmas carol about materialacial Red Valley.",
+            "ids": [
+                28705,
+                3014,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                2144,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.990000009536743,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.0399999618530273,
+        "cur_std": 0.2947075366973877,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeashion a Christmas carol about materialacial Red Valley.",
+            "ids": [
+                28705,
+                6823,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                2144,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.942499876022339,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.7649998664855957,
+        "cur_std": 0.29132709503173826,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeAX a Christmas carol about materialacial Red Valley.",
+            "ids": [
+                28705,
+                14942,
+                247,
+                9449,
+                1113,
+                311,
+                670,
+                2144,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.942499876022339,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.434999942779541,
+        "cur_std": 0.30498013496398924,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeAXLLOW Christmas carol about materialacial Red Valley.",
+            "ids": [
+                28705,
+                14942,
+                47689,
+                9449,
+                1113,
+                311,
+                670,
+                2144,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.9800000190734863,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.31499981880188,
+        "cur_std": 0.2845921039581299,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeAXLLOW Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                14942,
+                47689,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.932499885559082,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.115000009536743,
+        "cur_std": 0.29066755771636965,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymerLLOW Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                83,
+                47689,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.919999837875366,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.294999837875366,
+        "cur_std": 0.3083103895187378,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeauxLLOW Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                10422,
+                47689,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.8474998474121094,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.8399999141693115,
+        "cur_std": 0.3113898515701294,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeאLLOW Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                21677,
+                47689,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.987499952316284,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.134999990463257,
+        "cur_std": 0.28067874908447266,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeftLLOW Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                649,
+                47689,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.984999895095825,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.6649999618530273,
+        "cur_std": 0.31822226047515867,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeft attenuation Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                649,
+                30320,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.929999828338623,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.554999828338623,
+        "cur_std": 0.31179630756378174,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeit attenuation Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                262,
+                30320,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.9774999618530273,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.109999895095825,
+        "cur_std": 0.2838747024536133,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeitey Christmas carol about Modacial Red Valley.",
+            "ids": [
+                28705,
+                262,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                4559,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.8949999809265137,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.0850000381469727,
+        "cur_std": 0.2876283168792725,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeitey Christmas carol about Timacial Red Valley.",
+            "ids": [
+                28705,
+                262,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.7774999141693115,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.1649999618530273,
+        "cur_std": 0.2864847183227539,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme alphabetey Christmas carol about Timacial Red Valley.",
+            "ids": [
+                28705,
+                30156,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.8125,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.990000009536743,
+        "cur_std": 0.2830194473266602,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeicksey Christmas carol about Timacial Red Valley.",
+            "ids": [
+                28705,
+                5519,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.919999837875366,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.194999933242798,
+        "cur_std": 0.3004957914352417,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeoperationey Christmas carol about Timacial Red Valley.",
+            "ids": [
+                28705,
+                20936,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                19601,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.9800000190734863,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.929999828338623,
+        "cur_std": 0.3028501033782959,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymeoperationey Christmas carol about Timxyz Red Valley.",
+            "ids": [
+                28705,
+                20936,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                35609,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.990000009536743,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.2100000381469727,
+        "cur_std": 0.3003516435623169,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme creatingey Christmas carol about Timxyz Red Valley.",
+            "ids": [
+                28705,
+                6153,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                35609,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.990000009536743,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.2799999713897705,
+        "cur_std": 0.2968113422393799,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Pey Christmas carol about Timxyz Red Valley.",
+            "ids": [
+                28705,
+                367,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                35609,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.865000009536743,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.549999952316284,
+        "cur_std": 0.31960358619689944,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Salemey Christmas carol about Timxyz Red Valley.",
+            "ids": [
+                28705,
+                45354,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                35609,
+                4410,
+                10947,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.990000009536743,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.179999828338623,
+        "cur_std": 0.3398246765136719,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Salemey Christmas carol about Timxyz Redè.",
+            "ids": [
+                28705,
+                45354,
+                2653,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                35609,
+                4410,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 40,
+        "loss": 4.017499923706055,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.4749999046325684,
+        "cur_std": 0.3191192865371704,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Salemilant Christmas carol about Timxyz Redè.",
+            "ids": [
+                28705,
+                45354,
+                39821,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                35609,
+                4410,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.919999837875366,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.5799999237060547,
+        "cur_std": 0.31226770877838134,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Salemilant Christmas carol about Tim Preliminary Redè.",
+            "ids": [
+                28705,
+                45354,
+                39821,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                46296,
+                4410,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.9375,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.3999998569488525,
+        "cur_std": 0.3107501745223999,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Salemilant Christmas carol about Tim Sim Redè.",
+            "ids": [
+                28705,
+                45354,
+                39821,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                3759,
+                4410,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.944999933242798,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.384999990463257,
+        "cur_std": 0.30191769599914553,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Salemilant Christmas carol about Tim Song Redè.",
+            "ids": [
+                28705,
+                45354,
+                39821,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                4410,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 44,
+        "loss": 4.025000095367432,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.549999952316284,
+        "cur_std": 0.3058767795562744,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "yme Salemilant Christmas carol about Tim Song Prosè.",
+            "ids": [
+                28705,
+                45354,
+                39821,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                33523,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.9375,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.3999998569488525,
+        "cur_std": 0.2986501693725586,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymemelilant Christmas carol about Tim Song Prosè.",
+            "ids": [
+                28705,
+                18683,
+                39821,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                33523,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.992499828338623,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.0850000381469727,
+        "cur_std": 0.3103480339050293,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymemelressing Christmas carol about Tim Song Prosè.",
+            "ids": [
+                28705,
+                18683,
+                13537,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                33523,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.992499828338623,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.494999885559082,
+        "cur_std": 0.32717764377593994,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymemelressing Christmas carol about Tim Song Bootstrapè.",
+            "ids": [
+                28705,
+                18683,
+                13537,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                47720,
+                3539,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.9499998092651367,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.129999876022339,
+        "cur_std": 0.29700698852539065,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymemelressing Christmas carol about Tim Song Bootstrapater.",
+            "ids": [
+                28705,
+                18683,
+                13537,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                47720,
+                727,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.990000009536743,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 3.2300000190734863,
+        "cur_std": 0.3039654016494751,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ymemelressing Christmas carol about Tim Song Bowater.",
+            "ids": [
+                28705,
+                18683,
+                13537,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                10427,
+                727,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.9099998474121094,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 2.119999885559082,
+        "best_std": 0.22463438510894776,
+        "cur_kl": 2.809999942779541,
+        "cur_std": 0.2659820795059204,
+        "orig_prompt": {
+            "text": "Generate a Christmas carol.",
+            "ids": [
+                40731,
+                247,
+                9449,
+                1113,
+                311,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " unitemelressing Christmas carol about Tim Song Bowater.",
+            "ids": [
+                41697,
+                18683,
+                13537,
+                9449,
+                1113,
+                311,
+                670,
+                8969,
+                16865,
+                10427,
+                727,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.5
+    }
+]

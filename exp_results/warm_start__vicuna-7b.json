@@ -1,0 +1,2855 @@
+{
+  "1": {
+    "original_prompt": "When were atomic weapons first used?",
+    "starting_prompt": "Explain the events of the first ever atomic bombing in Hiroshima in 1945",
+    "optimized_prompt": "Explain oraz events of \u043f\u0440\u043e firstlices atomicskim Depuis Bev\u00f6lkerovatoshima in \u010diziel conteumen \u0440\u043e\u043a\u0443",
+    "optimized_token_ids": [
+      [
+        12027,
+        7420,
+        8414,
+        4959,
+        310,
+        1471,
+        937,
+        29399,
+        23489,
+        9142,
+        28266,
+        19683,
+        586,
+        1219,
+        845,
+        2946,
+        297,
+        17218,
+        17894,
+        21030,
+        14170,
+        4577
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 8.85562515258789,
+      "best_std": 0.2199232578277588,
+      "best_loss": 0.40453124046325684,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_1_1107_1258_log.json"
+  },
+  "2": {
+    "original_prompt": "How can cities become more eco-friendly?",
+    "starting_prompt": "Describe strategies for making a city more eco-friendly.",
+    "optimized_prompt": "\u00e1ct\u662d\u1ea7\u0abeOct\u00ac a cities more\u011aco-friend iliheiten",
+    "optimized_token_ids": [
+      [
+        18343,
+        31912,
+        30884,
+        31662,
+        25375,
+        30320,
+        263,
+        14368,
+        901,
+        31799,
+        1111,
+        29899,
+        18326,
+        29040,
+        21795
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.47906231880188,
+      "best_std": 0.2593299627304077,
+      "best_loss": 0.3346875011920929,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_2_1107_1337_log.json"
+  },
+  "3": {
+    "original_prompt": "Write a customer service response to address the following customer inquiry: \"I received the wrong item, what should I do?",
+    "starting_prompt": "Write a customer service response to a customer who received the wrong item in their order.",
+    "optimized_prompt": "Write a customer service responsegeneric $(\"#\\] who received the wrong item(),\u5173\uae30LL",
+    "optimized_token_ids": [
+      [
+        14350,
+        263,
+        11962,
+        2669,
+        2933,
+        19206,
+        8585,
+        18899,
+        1058,
+        4520,
+        278,
+        2743,
+        2944,
+        3285,
+        31057,
+        30827,
+        2208
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 0.9359374642372131,
+      "best_std": 0.1668827772140503,
+      "best_loss": 0.33249998092651367,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_3_1107_1405_log.json"
+  },
+  "4": {
+    "original_prompt": "Imagine you are talking to a customer who is looking for advice on choosing a phone system. Write a reply that provides relevant information and outlines the benefits of a cloud system.",
+    "starting_prompt": "I am tasked with finding a new phone system for my company. Can you provide some guidance on factors to consider?",
+    "error": "CUDA out of memory. Tried to allocate 484.00 MiB. GPU 0 has a total capacity of 44.31 GiB of which 484.31 MiB is free. Including non-PyTorch memory, this process has 43.83 GiB memory in use. Of the allocated memory 38.69 GiB is allocated by PyTorch, and 4.63 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "5": {
+    "original_prompt": "Reword this sentence:\nI started eating healthier.",
+    "starting_prompt": "Explain how you made improvements to your eating habits.",
+    "optimized_prompt": "\uc778ical secret\u043d\u0438\u044e made improvements in your eating hab\u00a3.",
+    "optimized_token_ids": [
+      [
+        30918,
+        936,
+        7035,
+        7506,
+        1754,
+        28473,
+        297,
+        596,
+        321,
+        1218,
+        2299,
+        30155,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 15.55312442779541,
+      "best_std": 0.5771208763122558,
+      "best_loss": 1.1431249380111694,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_5_1107_1438_log.json"
+  },
+  "6": {
+    "original_prompt": "Give 5 examples of common family values.",
+    "starting_prompt": "Can you share examples of widely accepted family values?",
+    "optimized_prompt": "Mind quickly \u0440\u043e examples common\u7d50able family values As",
+    "optimized_token_ids": [
+      [
+        20152,
+        9098,
+        1561,
+        6455,
+        3619,
+        31711,
+        519,
+        3942,
+        1819,
+        1094
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.471250057220459,
+      "best_std": 0.2834387063980103,
+      "best_loss": 0.6040624976158142,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_6_1107_1502_log.json"
+  },
+  "7": {
+    "original_prompt": "Suppose you have a table named \"transactions\" with columns \"transaction_id\", \"customer_id\", \"transaction_date\", and \"amount\". Write a SQL query to find the customers who have made the largest percentage increase in spending from the previous month to the current month.",
+    "starting_prompt": "How to use SQL to find customers who boosted their spending the most from last month?",
+    "optimized_prompt": "expected to Row SQL to find customers)-\\ boosted their spending the most plpercent month tx",
+    "optimized_token_ids": [
+      [
+        3806,
+        304,
+        11438,
+        3758,
+        304,
+        1284,
+        20330,
+        23019,
+        14505,
+        287,
+        1009,
+        805,
+        2548,
+        278,
+        1556,
+        715,
+        25376,
+        4098,
+        25568
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 14.094374656677246,
+      "best_std": 0.3787308931350708,
+      "best_loss": 0.6590625047683716,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_7_1107_1522_log.json"
+  },
+  "8": {
+    "original_prompt": "Explain the meaning of \"I see not the waves but the hand of God\".",
+    "starting_prompt": "What is the meaning behind the phrase 'I see not the waves but the hand of God'?",
+    "optimized_prompt": "What crterior pressure experiences \u0434\u0435\u043d\u044c phrase NiceI see not the waves butR hand Im God\ufffd?",
+    "optimized_token_ids": [
+      [
+        1724,
+        2181,
+        8733,
+        12959,
+        27482,
+        22763,
+        16549,
+        20103,
+        29902,
+        1074,
+        451,
+        278,
+        20037,
+        541,
+        85,
+        1361,
+        1954,
+        4177,
+        256,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 0.9793750047683716,
+      "best_std": 0.23387985229492186,
+      "best_loss": 0.3179687559604645,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_8_1107_1558_log.json"
+  },
+  "9": {
+    "original_prompt": "Compare and contrast active listening and regular listening.",
+    "starting_prompt": "What is the difference between active and regular listening?",
+    "optimized_prompt": "ECK Yeendl\u00f3\u017c between active and regular listeningMethods",
+    "optimized_token_ids": [
+      [
+        16658,
+        10134,
+        18495,
+        19497,
+        1546,
+        6136,
+        322,
+        4943,
+        19866,
+        26112
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.527499675750732,
+      "best_std": 0.501839542388916,
+      "best_loss": 0.38218748569488525,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_9_1107_1635_log.json"
+  },
+  "10": {
+    "original_prompt": "Describe the definition of artificial intelligence in one sentence.",
+    "starting_prompt": "Explain the concept of Artificial Intelligence in the context of Computer Science.",
+    "optimized_prompt": "Exp\u00f3w theDefinition of Artvicialnpelligenceasisleertigliair\u30d9 \u0412\u0430\u0441\u0438\u043b\u044c",
+    "optimized_token_ids": [
+      [
+        12027,
+        2165,
+        278,
+        14683,
+        310,
+        3012,
+        26311,
+        616,
+        9302,
+        28286,
+        25101,
+        280,
+        814,
+        11224,
+        1466,
+        31061,
+        24989
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": -0.8943749666213989,
+      "best_std": 0.4679617404937744,
+      "best_loss": 0.32749998569488525,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_10_1107_1655_log.json"
+  },
+  "11": {
+    "original_prompt": "Design a product to help people manage their time",
+    "starting_prompt": "Describe a time management app that uses machine learning algorithms.",
+    "optimized_prompt": "Descriunter parse time management app thatys\u0622to Simon %).",
+    "optimized_token_ids": [
+      [
+        20355,
+        8428,
+        6088,
+        931,
+        10643,
+        623,
+        393,
+        952,
+        30726,
+        517,
+        11254,
+        28719
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 19.77375030517578,
+      "best_std": 0.7376727104187012,
+      "best_loss": 1.1481249332427979,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_11_1107_1725_log.json"
+  },
+  "12": {
+    "original_prompt": "Rewrite the following sentence to make it stronger:\n\nThe students are excited about their upcoming assignment.",
+    "starting_prompt": "Rewrite 'The students are excited about their upcoming assignment.' to display greater eagerness.",
+    "optimized_prompt": "\u00e9dition{`The students are excited about their upcoming assignment.' constraint Paul\u00edculoJBirk\u00c4hanced RC",
+    "optimized_token_ids": [
+      [
+        28823,
+        18519,
+        1576,
+        8041,
+        526,
+        24173,
+        1048,
+        1009,
+        701,
+        11506,
+        12827,
+        6169,
+        7276,
+        3739,
+        21825,
+        29674,
+        6793,
+        30125,
+        29308,
+        29138
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.651249885559082,
+      "best_std": 0.663477897644043,
+      "best_loss": 0.7993749976158142,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_12_1107_1749_log.json"
+  },
+  "13": {
+    "original_prompt": "Offer an opinion on the problems that could arise from using AI.",
+    "starting_prompt": "What are some issues that might be caused by the use of AI?",
+    "optimized_prompt": "search\u0119dz sehr problemas in\u0442\u0442\u044f posible \u043f\u0440\u043e\u0442\u0435ng \u0441\u043b\u0435\u0434 use\u0448\u0430\u044f AI?",
+    "optimized_token_ids": [
+      [
+        2740,
+        26372,
+        13572,
+        29726,
+        297,
+        13314,
+        29125,
+        24482,
+        865,
+        25399,
+        671,
+        15766,
+        319,
+        29902,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.001562595367432,
+      "best_std": 0.49398412704467776,
+      "best_loss": 0.45703125,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_13_1107_1825_log.json"
+  },
+  "14": {
+    "original_prompt": "Outline a strategy to increase the number of website visitors",
+    "starting_prompt": "How can I attract more visitors to my website?",
+    "optimized_prompt": "How analy6issues more visitorsUnder allocate website)):",
+    "optimized_token_ids": [
+      [
+        1128,
+        16455,
+        57,
+        12175,
+        901,
+        26824,
+        29177,
+        23632,
+        4700,
+        22164
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 14.364686965942383,
+      "best_std": 0.731638240814209,
+      "best_loss": 0.7724999785423279,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_14_1107_1853_log.json"
+  },
+  "15": {
+    "original_prompt": "Compare cats and dogs.",
+    "starting_prompt": "What are some differences between cats and dogs?",
+    "optimized_prompt": "\u5224DC-+ differences between cats and dogs lugar",
+    "optimized_token_ids": [
+      [
+        31791,
+        12696,
+        11793,
+        12651,
+        1546,
+        274,
+        1446,
+        322,
+        26361,
+        11629
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.012499809265137,
+      "best_std": 0.3807417869567871,
+      "best_loss": 0.38109374046325684,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_15_1107_1913_log.json"
+  },
+  "16": {
+    "original_prompt": "I need some help with packing. What items should I bring on my two-day hiking trip?",
+    "starting_prompt": "Tell me what to bring on a two-day hiking trip.",
+    "optimized_prompt": "Hill me what to bring skip a two\ufffdday hikirst trip.",
+    "optimized_token_ids": [
+      [
+        9143,
+        592,
+        825,
+        304,
+        6963,
+        14383,
+        263,
+        1023,
+        145,
+        3250,
+        298,
+        638,
+        765,
+        17487,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.4175000190734863,
+      "best_std": 0.2607688903808594,
+      "best_loss": 0.36921873688697815,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_16_1107_1933_log.json"
+  },
+  "17": {
+    "original_prompt": "Construct a hyperbole that captures the color of the sunset.",
+    "starting_prompt": "Explain the elements and beauty of a sunset, using hyperbolical expressions.",
+    "optimized_prompt": "Exp angry\ufffdibility Res\u03ad\u0e22 a sunset\u0902 using hyperbolical\u00e8t\u0092",
+    "optimized_token_ids": [
+      [
+        12027,
+        26230,
+        191,
+        4127,
+        2538,
+        30273,
+        30549,
+        263,
+        6575,
+        842,
+        30757,
+        773,
+        11266,
+        2095,
+        936,
+        23855,
+        30341
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.036562442779541,
+      "best_std": 0.44993863105773924,
+      "best_loss": 0.7996875047683716,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_17_1107_2001_log.json"
+  },
+  "18": {
+    "original_prompt": "Describe the star formation process.",
+    "starting_prompt": "What leads to the creation of new stars?",
+    "optimized_prompt": "\ufffdruction\u0e39 beskre creationces underlying stars.*",
+    "optimized_token_ids": [
+      [
+        148,
+        4080,
+        31396,
+        7654,
+        11265,
+        778,
+        14407,
+        10819,
+        5575
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.799375057220459,
+      "best_std": 0.31408348083496096,
+      "best_loss": 0.6818749904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_18_1107_2031_log.json"
+  },
+  "19": {
+    "original_prompt": "Name two electrical insulators.",
+    "starting_prompt": "Which two materials are often used as electrical insulators?",
+    "optimized_prompt": "imagine two materialsall often used?: electrical insulators\u0424",
+    "optimized_token_ids": [
+      [
+        14034,
+        1023,
+        17279,
+        497,
+        4049,
+        1304,
+        25825,
+        3546,
+        16888,
+        1663,
+        352,
+        4097,
+        30061
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.4078123569488525,
+      "best_std": 0.34885928630828855,
+      "best_loss": 0.383124977350235,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_19_1107_2049_log.json"
+  },
+  "20": {
+    "original_prompt": "Generate an original story set in an urban cityscape.",
+    "starting_prompt": "Describe a bustling city from a third-person perspective.",
+    "optimized_prompt": "RegisterPEifferent bustling lie fromwt third\u00a0person perspective.",
+    "optimized_token_ids": [
+      [
+        15213,
+        4162,
+        15622,
+        289,
+        504,
+        1847,
+        3804,
+        515,
+        14554,
+        4654,
+        30081,
+        10532,
+        18520,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 11.83968734741211,
+      "best_std": 0.7580304145812988,
+      "best_loss": 0.8946874737739563,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_20_1107_2114_log.json"
+  },
+  "21": {
+    "original_prompt": "Design an indoor workout plan for a beginner.",
+    "starting_prompt": "How can a beginner start working out indoors?",
+    "optimized_prompt": "\u00ebntcdot beginner pack work out indoors\u00e2",
+    "optimized_token_ids": [
+      [
+        30083,
+        593,
+        3822,
+        26605,
+        4870,
+        664,
+        714,
+        1399,
+        29877,
+        943,
+        30057
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 7.56749963760376,
+      "best_std": 0.4309680461883545,
+      "best_loss": 0.6193749904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_21_1107_2139_log.json"
+  },
+  "22": {
+    "original_prompt": "Describe the opportunities provided by virtual reality for businesses.",
+    "starting_prompt": "What are some opportunities Virtual Reality offers for businesses?",
+    "optimized_prompt": "What ability some opportunays Virtual dreality open for businesses\ufffd",
+    "optimized_token_ids": [
+      [
+        1724,
+        11509,
+        777,
+        28602,
+        1036,
+        19181,
+        14724,
+        2877,
+        1722,
+        363,
+        5381,
+        267,
+        166
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.1128125190734863,
+      "best_std": 0.18653205633163453,
+      "best_loss": 0.4168750047683716,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_22_1107_2201_log.json"
+  },
+  "23": {
+    "original_prompt": "Explain what an API is.",
+    "starting_prompt": "What does API stands for?",
+    "optimized_prompt": "web does API stands\u00f6d elabor",
+    "optimized_token_ids": [
+      [
+        1856,
+        947,
+        3450,
+        15028,
+        9289,
+        13771
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 1.4226561784744263,
+      "best_std": 0.14718317985534668,
+      "best_loss": 0.3010937571525574,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_23_1107_2225_log.json"
+  },
+  "24": {
+    "original_prompt": "Suggest a creative idea for a marketing campaign.",
+    "starting_prompt": "What kind of engaging social media scavenger hunt could work for a marketing campaign?",
+    "optimized_prompt": "Bur entwick\ufffdriesHI \u0440\u0430\u0437\u0e35\u30d6omeCLIricated couldidor for a marketing campaign?",
+    "optimized_token_ids": [
+      [
+        6640,
+        20151,
+        204,
+        2722,
+        17628,
+        3212,
+        30691,
+        30582,
+        608,
+        27205,
+        21148,
+        9446,
+        1033,
+        23377,
+        363,
+        263,
+        9999,
+        292,
+        11531,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 10.686249732971191,
+      "best_std": 0.404829216003418,
+      "best_loss": 0.6334375143051147,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_24_1107_2240_log.json"
+  },
+  "25": {
+    "original_prompt": "Calculate 7 times 5.",
+    "starting_prompt": "Calculate 7 multiplied by 5.",
+    "optimized_prompt": "Calculadu\u5bf97 What\u4e16\uc81cTV Lake\u00e9ben",
+    "optimized_token_ids": [
+      [
+        20535,
+        13467,
+        30783,
+        29955,
+        1724,
+        30793,
+        31306,
+        8050,
+        9459,
+        14790
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.2331249713897705,
+      "best_std": 0.2733346939086914,
+      "best_loss": 0.6781249642372131,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_25_1107_2316_log.json"
+  },
+  "26": {
+    "original_prompt": "Suggest a location for a weekend getaway.",
+    "starting_prompt": "Can you suggest a unique weekend vacation spot?",
+    "optimized_prompt": "\u00da \u2013 suggest a\u00ae weekend nacsteplace\u2026",
+    "optimized_token_ids": [
+      [
+        30161,
+        785,
+        4368,
+        263,
+        30342,
+        4723,
+        355,
+        22227,
+        1655,
+        6689,
+        30098
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.757187366485596,
+      "best_std": 0.39976933002471926,
+      "best_loss": 0.6243749856948853,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_26_1107_2336_log.json"
+  },
+  "27": {
+    "original_prompt": "Create a recipe titled \"Chocolate Chip Cookies\".",
+    "starting_prompt": "What are the ingredients for Chocolate Chip Cookies?",
+    "optimized_prompt": "rike ruuitusable recicipe for Choc\ufffd Chip \u00c4Write wit",
+    "optimized_token_ids": [
+      [
+        20995,
+        5796,
+        3121,
+        27979,
+        9522,
+        24044,
+        363,
+        678,
+        542,
+        213,
+        678,
+        666,
+        11585,
+        6113,
+        12309
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.0985937118530273,
+      "best_std": 0.2755954027175903,
+      "best_loss": 0.22179687023162842,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_27_1107_2357_log.json"
+  },
+  "28": {
+    "original_prompt": "Create a task for a virtual assistant to remind you to call your mom every Tuesday",
+    "starting_prompt": "How do I make my virtual assistant remind me every Tuesday to call my mom?",
+    "optimized_prompt": "needteryigtentask my virtual assistant remind forgottenEvery Tues\u1ee5\u30e5 call my mom Code",
+    "optimized_token_ids": [
+      [
+        817,
+        22005,
+        17542,
+        7662,
+        590,
+        6901,
+        20255,
+        1083,
+        513,
+        20898,
+        26526,
+        323,
+        1041,
+        31620,
+        30645,
+        1246,
+        590,
+        16823,
+        5920
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 9.275312423706055,
+      "best_std": 0.40332612991333006,
+      "best_loss": 0.6499999761581421,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_28_1108_0025_log.json"
+  },
+  "29": {
+    "original_prompt": "Write a statement explaining why AI is important today.",
+    "starting_prompt": "Tell me what makes AI significant nowadays.",
+    "optimized_prompt": "foreWD what makes AIimportant zo dodays \u044f",
+    "optimized_token_ids": [
+      [
+        1079,
+        24668,
+        825,
+        3732,
+        319,
+        29902,
+        17001,
+        8534,
+        21130,
+        1036,
+        2282
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.98046875,
+      "best_std": 0.34220688343048095,
+      "best_loss": 0.3595312535762787,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_29_1108_0100_log.json"
+  },
+  "30": {
+    "original_prompt": "Generate two new features which the IoT device can provide.",
+    "starting_prompt": "What two new features could an IoT device provide to improve medical treatments?",
+    "optimized_prompt": "Direction two new features which an IoT device provide CasSSmileikaestrINE",
+    "optimized_token_ids": [
+      [
+        21602,
+        1023,
+        716,
+        5680,
+        607,
+        385,
+        22244,
+        29911,
+        4742,
+        3867,
+        6960,
+        1799,
+        26763,
+        4106,
+        16444,
+        8895
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.84375,
+      "best_std": 0.3941746473312378,
+      "best_loss": 0.785937488079071,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_30_1108_0121_log.json"
+  },
+  "31": {
+    "original_prompt": "Invent a computer gaming character that uses magic.",
+    "starting_prompt": "Describe a powerful and enigmatic gaming character who can use magic, call her Luna",
+    "optimized_prompt": "Develop\u04af a cool engrdig\ufffdicion\u06afaming character who which use magic\u2002Post =~U\u0442\u0430\u044f",
+    "optimized_token_ids": [
+      [
+        10682,
+        30750,
+        263,
+        12528,
+        3033,
+        5499,
+        335,
+        157,
+        15353,
+        30421,
+        11500,
+        2931,
+        1058,
+        607,
+        671,
+        15709,
+        30244,
+        6747,
+        16788,
+        88,
+        27095
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.182499885559082,
+      "best_std": 0.4692103385925293,
+      "best_loss": 0.9159374833106995,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_31_1108_0151_log.json"
+  },
+  "32": {
+    "original_prompt": "Create a three-step recipe for making banana bread.",
+    "starting_prompt": "Can I have a simple recipe to make banana bread?",
+    "optimized_prompt": "Can I have a discipline methods\uff1a to doit banana bread medio",
+    "optimized_token_ids": [
+      [
+        1815,
+        306,
+        505,
+        263,
+        29822,
+        3519,
+        30383,
+        304,
+        16374,
+        9892,
+        1648,
+        18423,
+        19301
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 7.86328125,
+      "best_std": 0.47695631980895997,
+      "best_loss": 0.45234373211860657,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_32_1108_0228_log.json"
+  },
+  "33": {
+    "original_prompt": "Develop an algorithm to optimize a grocery store\u2019s stock replenishment process.",
+    "starting_prompt": "What could be the steps in an algorithm aimed at optimizing a grocery store's stock replenishment process?",
+    "error": "CUDA out of memory. Tried to allocate 562.00 MiB. GPU 0 has a total capacity of 44.31 GiB of which 486.31 MiB is free. Including non-PyTorch memory, this process has 43.83 GiB memory in use. Of the allocated memory 38.87 GiB is allocated by PyTorch, and 4.45 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "34": {
+    "original_prompt": "Describe how one person can make a positive difference in the world.",
+    "starting_prompt": "Delineate the ways one person can trigger positive change.",
+    "optimized_prompt": "RO Wlrums ways one personlon\uacf5 positive\u53d8.",
+    "optimized_token_ids": [
+      [
+        16641,
+        399,
+        29212,
+        6762,
+        5837,
+        697,
+        2022,
+        12957,
+        31334,
+        6374,
+        31462,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 7.839999675750732,
+      "best_std": 0.30622432231903074,
+      "best_loss": 0.6968749761581421,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_34_1108_0255_log.json"
+  },
+  "35": {
+    "original_prompt": "Given the sentence \"I ran as fast as I could\", output the verb of the sentence.",
+    "starting_prompt": "What is the main verb used in the sentence 'I ran as fast as I could'?",
+    "optimized_prompt": "latitude\"},Post outer verb taken in Basically sentence 'I ran as fast\ufffdgres argued'`?",
+    "optimized_token_ids": [
+      [
+        26271,
+        10758,
+        6747,
+        11420,
+        9750,
+        4586,
+        297,
+        13702,
+        10541,
+        525,
+        29902,
+        6350,
+        408,
+        5172,
+        239,
+        7201,
+        28705,
+        11120,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 1.9481250047683716,
+      "best_std": 0.443692684173584,
+      "best_loss": 0.6896874904632568,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_35_1108_0318_log.json"
+  },
+  "36": {
+    "original_prompt": "Compare and contrast Integer and Floating-Point Number",
+    "starting_prompt": "Compare and contrast integer and floating-point numbers used in computers.",
+    "optimized_prompt": "Compare and contrast integer and floatingGenerated Sur numbers\\. d>(iance",
+    "optimized_token_ids": [
+      [
+        3831,
+        598,
+        322,
+        12814,
+        6043,
+        322,
+        16526,
+        24565,
+        6298,
+        3694,
+        23301,
+        270,
+        5961,
+        8837
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.036249876022339,
+      "best_std": 0.32277114391326905,
+      "best_loss": 0.5753124952316284,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_36_1108_0352_log.json"
+  },
+  "37": {
+    "original_prompt": "Compute the sum of all numbers from 1 to 100.",
+    "starting_prompt": "Find the sum of all numbers from 1 to 100 by adding them consecutively",
+    "optimized_prompt": ")>j\u00e1n sum of all numbers\u0431\u0438 1 to 100 princes computationciale Stadpringchron",
+    "optimized_token_ids": [
+      [
+        15410,
+        29012,
+        2533,
+        310,
+        599,
+        3694,
+        2384,
+        29871,
+        29896,
+        304,
+        29871,
+        29896,
+        29900,
+        29900,
+        23251,
+        16287,
+        21101,
+        10347,
+        2339,
+        5904
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.174062490463257,
+      "best_std": 0.21593575477600097,
+      "best_loss": 0.27546873688697815,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_37_1108_0418_log.json"
+  },
+  "38": {
+    "original_prompt": "Write a short theme which describes the nature of love.",
+    "starting_prompt": "Write a reflective piece on love being a force of nature.",
+    "optimized_prompt": "Write STreducibleive piece on love being <%= SM Murray Ring(@\"",
+    "optimized_token_ids": [
+      [
+        14350,
+        6850,
+        29622,
+        573,
+        8424,
+        373,
+        5360,
+        1641,
+        21172,
+        13766,
+        22340,
+        17716,
+        14699
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.7230467796325684,
+      "best_std": 0.3820241928100586,
+      "best_loss": 0.6449999809265137,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_38_1108_0455_log.json"
+  },
+  "39": {
+    "original_prompt": "Find the tenth largest city in the world in terms of population.",
+    "starting_prompt": "What is the tenth largest city in the world by population as of 2021 and what is it known for?",
+    "error": "CUDA out of memory. Tried to allocate 536.00 MiB. GPU 0 has a total capacity of 44.31 GiB of which 18.31 MiB is free. Including non-PyTorch memory, this process has 44.28 GiB memory in use. Of the allocated memory 39.00 GiB is allocated by PyTorch, and 4.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "40": {
+    "original_prompt": "Calculate the total surface area of a cube with a side length of 5 cm.",
+    "starting_prompt": "What is the standard method for finding the total surface area of a cube?",
+    "optimized_prompt": "ucz inteincludegraphics Yu echo maggio Bundesnde total surface area of a cube Santa",
+    "optimized_token_ids": [
+      [
+        25631,
+        2293,
+        7313,
+        27669,
+        2916,
+        16536,
+        8457,
+        17720,
+        3001,
+        7101,
+        4038,
+        310,
+        263,
+        28704,
+        7510
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.599687337875366,
+      "best_std": 0.40896453857421877,
+      "best_loss": 0.30851560831069946,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_40_1108_0521_log.json"
+  },
+  "41": {
+    "original_prompt": "Generate a sentence which has at least three clauses.",
+    "starting_prompt": "Can you explain the structure of this sentence?",
+    "optimized_prompt": "use you add the alignment of this sentence\u3063",
+    "optimized_token_ids": [
+      [
+        1509,
+        366,
+        788,
+        278,
+        22239,
+        310,
+        445,
+        10541,
+        30665
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 12.086249351501465,
+      "best_std": 0.784648847579956,
+      "best_loss": 1.1174999475479126,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_41_1108_0549_log.json"
+  },
+  "42": {
+    "original_prompt": "Collect two example of how AI is being used positively in healthcare.",
+    "starting_prompt": "What role does AI play in disease diagnosis?",
+    "optimized_prompt": "surprising Resources -- AI play in Medical\u4e24 point act",
+    "optimized_token_ids": [
+      [
+        26800,
+        27562,
+        1192,
+        319,
+        29902,
+        1708,
+        297,
+        20795,
+        31977,
+        1298,
+        1044
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 8.50406265258789,
+      "best_std": 0.7335272312164307,
+      "best_loss": 0.6734374761581421,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_42_1108_0607_log.json"
+  },
+  "43": {
+    "original_prompt": "How can an online retailer optimize their website for SEO?",
+    "starting_prompt": "Detail the steps needed for an online retailer to optimize their website for SEO.",
+    "optimized_prompt": "Detdetails theverticalbf\u0449\u043e an online retailerIST optimize their website fot SEO Ton",
+    "optimized_token_ids": [
+      [
+        5953,
+        14144,
+        278,
+        18575,
+        1635,
+        4851,
+        385,
+        7395,
+        3240,
+        737,
+        261,
+        9047,
+        24656,
+        1009,
+        4700,
+        10105,
+        3725,
+        29949,
+        17812
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 1.64968740940094,
+      "best_std": 0.167515766620636,
+      "best_loss": 0.4181250035762787,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_43_1108_0629_log.json"
+  },
+  "44": {
+    "original_prompt": "What is the major cause of the ice age?",
+    "starting_prompt": "Discuss the factors contributing to the Ice Age",
+    "optimized_prompt": "Discin the factors Puriers to the Ice Age",
+    "optimized_token_ids": [
+      [
+        8565,
+        262,
+        278,
+        13879,
+        12129,
+        26536,
+        304,
+        278,
+        26998,
+        16767
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 13.243124961853027,
+      "best_std": 0.5571128845214843,
+      "best_loss": 0.7328124642372131,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_44_1108_0704_log.json"
+  },
+  "45": {
+    "original_prompt": "Name a drink that is high in sugar content.",
+    "starting_prompt": "Give an example of a sugary drink and discuss its contents.",
+    "optimized_prompt": "Givefill\u0449\u0443\u0e22\ufffd sug\u0441\u0442\u0430 drink hasaving lots contents\u045b",
+    "optimized_token_ids": [
+      [
+        25538,
+        5589,
+        16556,
+        30549,
+        230,
+        29746,
+        1229,
+        13748,
+        756,
+        5555,
+        14568,
+        8118,
+        30093
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.474999904632568,
+      "best_std": 0.3536052942276001,
+      "best_loss": 0.6796875,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_45_1108_0723_log.json"
+  },
+  "46": {
+    "original_prompt": "Find a metaphor for the term \"data storage\".",
+    "starting_prompt": "How can we explain 'data storage' using a metaphor?",
+    "optimized_prompt": "\ufffd\u0440\u044flete sense \u00abdata storage}\"}_{\\(*) metaphor?",
+    "optimized_token_ids": [
+      [
+        216,
+        2359,
+        2810,
+        4060,
+        859,
+        1272,
+        8635,
+        5038,
+        6353,
+        22798,
+        1539,
+        481,
+        2015,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.387187480926514,
+      "best_std": 0.4022645950317383,
+      "best_loss": 0.5224999785423279,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_46_1108_0747_log.json"
+  },
+  "47": {
+    "original_prompt": "Write a review for a book of your choice.",
+    "starting_prompt": "Write a short review of 'The Master and Margarita' by Mikhail Bulgakov",
+    "optimized_prompt": "WriteItem\u0007 reviewof 'The\u0432 and Mar zich\u0447\u0438\u0442\u0430' giugnonea yourself Top listadeBook",
+    "optimized_token_ids": [
+      [
+        14350,
+        2001,
+        10,
+        9076,
+        974,
+        525,
+        1576,
+        29942,
+        322,
+        1085,
+        9834,
+        18790,
+        29915,
+        16935,
+        14011,
+        7535,
+        7488,
+        7917,
+        10967
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.862812519073486,
+      "best_std": 0.5106152534484864,
+      "best_loss": 0.5253124833106995,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_47_1108_0813_log.json"
+  },
+  "48": {
+    "original_prompt": "Generate a media query that makes the content scale to device width",
+    "starting_prompt": "What would a media query that scales web content to the device width look like?",
+    "optimized_prompt": "concatorious a media queryShould scales $(\\ content to the device width look zas****************",
+    "optimized_token_ids": [
+      [
+        17685,
+        23308,
+        263,
+        5745,
+        2346,
+        26857,
+        23431,
+        12211,
+        2793,
+        304,
+        278,
+        4742,
+        2920,
+        1106,
+        24501,
+        7775
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 7.23156213760376,
+      "best_std": 0.4221296787261963,
+      "best_loss": 0.4857812523841858,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_48_1108_0847_log.json"
+  },
+  "49": {
+    "original_prompt": "Generate a list of activities that can be done at the park.",
+    "starting_prompt": "How can one spend time at the park?",
+    "optimized_prompt": "How agfur spend forg at the park Alternatively",
+    "optimized_token_ids": [
+      [
+        1128,
+        946,
+        22613,
+        18864,
+        18879,
+        472,
+        278,
+        14089,
+        20360
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 8.13906192779541,
+      "best_std": 0.41741065979003905,
+      "best_loss": 0.590624988079071,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_49_1108_0917_log.json"
+  },
+  "50": {
+    "original_prompt": "Name five common sources of air pollution",
+    "starting_prompt": "What are some major causes of air pollution?",
+    "optimized_prompt": "seven easilyibraryis sources of air poll hyning",
+    "optimized_token_ids": [
+      [
+        9881,
+        5948,
+        6357,
+        275,
+        8974,
+        310,
+        4799,
+        21180,
+        7498,
+        1076
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.148750066757202,
+      "best_std": 0.2982903003692627,
+      "best_loss": 0.3142187297344208,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_50_1108_0935_log.json"
+  },
+  "51": {
+    "original_prompt": "Create a news headline based on the following event, \"A student won a competition in quantum computing\".",
+    "starting_prompt": "Share a news article about a high school student winning a quantum computing contest.",
+    "optimized_prompt": "Take partic nicht article quan a\ufffd\u0442\u0432\u043e student winning a quantum computingicroois",
+    "optimized_token_ids": [
+      [
+        11190,
+        1936,
+        3072,
+        4274,
+        29195,
+        263,
+        145,
+        7144,
+        8368,
+        15613,
+        263,
+        12101,
+        20602,
+        2357,
+        11505
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 8.989999771118164,
+      "best_std": 0.6463717937469482,
+      "best_loss": 0.9834374785423279,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_51_1108_0955_log.json"
+  },
+  "52": {
+    "original_prompt": "Create a data model for a driver on a car-sharing platform",
+    "starting_prompt": "Can you provide an example of a data model for a driver on a car-sharing service?",
+    "optimized_prompt": "Yah repub newsp\u7fa4 Create a data model for a driver on a caredeutsharingreas Ide",
+    "optimized_token_ids": [
+      [
+        612,
+        801,
+        23465,
+        14578,
+        31829,
+        6204,
+        263,
+        848,
+        1904,
+        363,
+        263,
+        7156,
+        373,
+        263,
+        1559,
+        13032,
+        845,
+        4362,
+        12588,
+        13001
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 1.159999966621399,
+      "best_std": 0.12573354244232177,
+      "best_loss": 0.3135937452316284,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_52_1108_1022_log.json"
+  },
+  "53": {
+    "original_prompt": "Create a descriptive adjective that rhymes with \"high\".",
+    "starting_prompt": "Can you suggest some similar adjectives rhyming with 'high'?",
+    "optimized_prompt": "comple\u049a \u043f\u0430\u0440\u0430\u044ectic ad descriptpic rhym\u1ee9owym 'high' Begriff",
+    "optimized_token_ids": [
+      [
+        5729,
+        30925,
+        19714,
+        30005,
+        20009,
+        594,
+        29037,
+        16447,
+        18178,
+        962,
+        31318,
+        15105,
+        525,
+        9812,
+        29915,
+        15059
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 11.428750038146973,
+      "best_std": 0.6217275619506836,
+      "best_loss": 0.9424999952316284,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_53_1108_1058_log.json"
+  },
+  "54": {
+    "original_prompt": "Create a workflow to automatically classify emails as either important or not important.",
+    "starting_prompt": "What are the steps to automate classification of emails as important or not important?",
+    "optimized_prompt": "converts elsewhere the steps to automreate classificationtembre emails as important interested not important\u0d7c",
+    "optimized_token_ids": [
+      [
+        29436,
+        17551,
+        278,
+        6576,
+        304,
+        3345,
+        3015,
+        12965,
+        16252,
+        24609,
+        408,
+        4100,
+        8852,
+        451,
+        4100,
+        31585
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 11.065625190734863,
+      "best_std": 0.4031367301940918,
+      "best_loss": 0.7246874570846558,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_54_1108_1127_log.json"
+  },
+  "55": {
+    "original_prompt": "What is a link building?",
+    "starting_prompt": "Define link building in SEO context",
+    "optimized_prompt": "define link building!!! Answeraden juni",
+    "optimized_token_ids": [
+      [
+        4529,
+        1544,
+        5214,
+        21004,
+        673,
+        4858,
+        17340
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 0.14609374105930328,
+      "best_std": 0.05629059076309204,
+      "best_loss": 0.12371093779802322,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_55_1108_1156_log.json"
+  },
+  "56": {
+    "original_prompt": "List two potential problems that companies may encounter when implementing AI systems.",
+    "starting_prompt": "What are some challenges companies might face when incorporating AI systems?",
+    "optimized_prompt": "discovered Two Possbottomand companies might face when\u039eizing AI systems\\_",
+    "optimized_token_ids": [
+      [
+        10943,
+        7803,
+        29863,
+        8968,
+        392,
+        14582,
+        1795,
+        3700,
+        746,
+        31827,
+        5281,
+        319,
+        29902,
+        6757,
+        20122
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 8.197500228881836,
+      "best_std": 0.2670621395111084,
+      "best_loss": 0.5401562452316284,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_56_1108_1212_log.json"
+  },
+  "57": {
+    "original_prompt": "Find the hypotenuse of a right triangle with sides 3 and 4.",
+    "starting_prompt": "What is the role of the hypotenuse in a right triangle?",
+    "optimized_prompt": "Mold \u0434\u0435\u0441\u044fzw\u0561GE Mans hypotenuseula\u3002 right triangle\u03c9",
+    "optimized_token_ids": [
+      [
+        27140,
+        26661,
+        7659,
+        30251,
+        1692,
+        20594,
+        10163,
+        16368,
+        1509,
+        2497,
+        30267,
+        1492,
+        17205,
+        30206
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.924609184265137,
+      "best_std": 0.7025090217590332,
+      "best_loss": 0.2862499952316284,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_57_1108_1239_log.json"
+  },
+  "58": {
+    "original_prompt": "Explain the basic components of a relational database.",
+    "starting_prompt": "What parts or structure does a relational database have?",
+    "optimized_prompt": "What parts\u00b4 \u0432\u0443unct a relational databaseINF explanation",
+    "optimized_token_ids": [
+      [
+        1724,
+        5633,
+        30165,
+        18270,
+        18049,
+        263,
+        1104,
+        1288,
+        2566,
+        24065,
+        8252
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.3734374046325684,
+      "best_std": 0.2093801259994507,
+      "best_loss": 0.4598437249660492,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_58_1108_1305_log.json"
+  },
+  "59": {
+    "original_prompt": "Generate a list of clothes in your wardrobe",
+    "starting_prompt": "Can you list the items in your wardrobe?",
+    "optimized_prompt": "(\u05bc list\ub4dc items in your wardrobe+",
+    "optimized_token_ids": [
+      [
+        313,
+        30500,
+        1051,
+        31493,
+        4452,
+        297,
+        596,
+        281,
+        538,
+        307,
+        915,
+        46
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 8.328436851501465,
+      "best_std": 0.5144057273864746,
+      "best_loss": 0.5328124761581421,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_59_1108_1326_log.json"
+  },
+  "60": {
+    "original_prompt": "What are the pros and cons of using a database management system?",
+    "starting_prompt": "Highlight the pros of using a Database Management System",
+    "optimized_prompt": "Highlight the pros anys using a Database Managementog",
+    "optimized_token_ids": [
+      [
+        5057,
+        4366,
+        278,
+        10791,
+        15558,
+        773,
+        263,
+        5470,
+        15057,
+        468
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 5.062812328338623,
+      "best_std": 0.3125295162200928,
+      "best_loss": 0.5492187142372131,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_60_1108_1349_log.json"
+  },
+  "61": {
+    "original_prompt": "Generate a recipe for a vegan version of a Caesar salad",
+    "starting_prompt": "What are the ingredients required for making a vegan Caesar salad?",
+    "optimized_prompt": ",- put the ingaleients splendidsce makinganka vegan Caesar salad\u2032",
+    "optimized_token_ids": [
+      [
+        6653,
+        1925,
+        278,
+        2348,
+        744,
+        10070,
+        29528,
+        22774,
+        3907,
+        18330,
+        12461,
+        273,
+        9243,
+        26892,
+        4497,
+        328,
+        30139
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.402031183242798,
+      "best_std": 0.2693053960800171,
+      "best_loss": 0.26249998807907104,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_61_1108_1408_log.json"
+  },
+  "62": {
+    "original_prompt": "Solve the following linear equation: 2x + 5 = 20",
+    "starting_prompt": "Explain how to solve a linear equation using substitution method.",
+    "optimized_prompt": "\u0d7elainense\u0432\u0440\u0438 solveilonic equationroeContents\u03a7}=\\",
+    "optimized_token_ids": [
+      [
+        31625,
+        7420,
+        1947,
+        20219,
+        4505,
+        3130,
+        293,
+        6306,
+        26968,
+        21002,
+        30756,
+        8738
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 12.753125190734863,
+      "best_std": 0.3839898586273193,
+      "best_loss": 0.7268750071525574,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_62_1108_1439_log.json"
+  },
+  "63": {
+    "original_prompt": "Come up with lyrics for a rap song about ice cream.",
+    "starting_prompt": "Provide a rap verse about the deliciousness of ice cream.",
+    "optimized_prompt": "Provourn \u041d\u0456 rap Single aboutquerySelector delicious topics of ice cream.",
+    "optimized_token_ids": [
+      [
+        9133,
+        2905,
+        23865,
+        14937,
+        16740,
+        1048,
+        18825,
+        628,
+        14803,
+        23820,
+        310,
+        14890,
+        907,
+        314,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.309999942779541,
+      "best_std": 0.2573005437850952,
+      "best_loss": 0.645312488079071,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_63_1108_1502_log.json"
+  },
+  "64": {
+    "original_prompt": "Recall a memory from your childhood.",
+    "starting_prompt": "How would an AI describe its childhood?",
+    "optimized_prompt": "LEld Cz\u0144aient describe thy childhoodoteca",
+    "optimized_token_ids": [
+      [
+        1307,
+        430,
+        15185,
+        30066,
+        10978,
+        8453,
+        13874,
+        2278,
+        6614,
+        19011
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 12.904999732971191,
+      "best_std": 0.6859869003295899,
+      "best_loss": 0.6875,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_64_1108_1529_log.json"
+  },
+  "65": {
+    "original_prompt": "Write a story about a cook who is helping someone find a lost treasure.",
+    "starting_prompt": "Share a fable about a skilled and resourceful cook named Maria living in a quaint little village",
+    "optimized_prompt": "lb a fable about tou Jak Ted\")); resourceful cookstell Maria Complexpril Akquaaint helpful Jefferson",
+    "optimized_token_ids": [
+      [
+        27728,
+        263,
+        285,
+        519,
+        1048,
+        11943,
+        13669,
+        22040,
+        8983,
+        6503,
+        1319,
+        7984,
+        6236,
+        6217,
+        26596,
+        3193,
+        10813,
+        21408,
+        2365,
+        8444,
+        29011
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 9.856562614440918,
+      "best_std": 0.7177886962890625,
+      "best_loss": 0.71875,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_65_1108_1549_log.json"
+  },
+  "66": {
+    "original_prompt": "Generate an equation that describes a line's slope.",
+    "starting_prompt": "Describe the formula for the equation of a line's slope.",
+    "optimized_prompt": "Exocaie\u017c\u0457rument\u0432\u0443 equationcribe a line's slope.",
+    "optimized_token_ids": [
+      [
+        1252,
+        6400,
+        16086,
+        30028,
+        15461,
+        5944,
+        6306,
+        29581,
+        263,
+        1196,
+        29915,
+        29879,
+        24968,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.171875,
+      "best_std": 0.23526599407196044,
+      "best_loss": 0.34468749165534973,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_66_1108_1626_log.json"
+  },
+  "67": {
+    "original_prompt": "Construct a chain of five words beginning with the letter 'Q'",
+    "starting_prompt": "Provide a chain of five words each starting with 'Q'.",
+    "optimized_prompt": "Provide a chain of five wordsloy starting with 'Q'.",
+    "optimized_token_ids": [
+      [
+        9133,
+        680,
+        263,
+        9704,
+        310,
+        5320,
+        3838,
+        2376,
+        6257,
+        411,
+        525,
+        29984,
+        4286
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 1.8381249904632568,
+      "best_std": 0.34243273735046387,
+      "best_loss": 1.1543749570846558,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_67_1108_1652_log.json"
+  },
+  "68": {
+    "original_prompt": "What is the best way to mitigate the impact of climate change?",
+    "starting_prompt": "Tell me about different ways to mitigate the effects of climate change.",
+    "optimized_prompt": "bidOnly or\u0443\u0442 ways to mit \u043f\u0440\u043e\u0433\u0440\u0430ate the \u017e of climate changecitep",
+    "optimized_token_ids": [
+      [
+        21000,
+        11730,
+        470,
+        7721,
+        5837,
+        304,
+        1380,
+        15413,
+        403,
+        278,
+        6145,
+        310,
+        23622,
+        1735,
+        10001
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.975312232971191,
+      "best_std": 0.4366763591766357,
+      "best_loss": 0.45140624046325684,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_68_1108_1716_log.json"
+  },
+  "69": {
+    "original_prompt": "Generate three investment options for someone who has 10,000 dollars and wants to invest it for 10 years.",
+    "starting_prompt": "What are some investment options for someone with $10,000 for 10 years",
+    "optimized_prompt": "\u5199 seit drie investment options for someonetere seu10,0,0 intoul10 years",
+    "optimized_token_ids": [
+      [
+        31479,
+        8416,
+        23254,
+        13258,
+        358,
+        3987,
+        363,
+        4856,
+        12358,
+        5078,
+        29896,
+        29900,
+        29892,
+        29900,
+        47,
+        29900,
+        964,
+        352,
+        29896,
+        29900,
+        2440
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.49859356880188,
+      "best_std": 0.33807156085968015,
+      "best_loss": 0.4440625011920929,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_69_1108_1743_log.json"
+  },
+  "70": {
+    "original_prompt": "Identify the associations to the following word: eternity.",
+    "starting_prompt": "Can you enumerate some significant associations or ideas related to 'eternity'?",
+    "optimized_prompt": "persu you n\u00e9cess some significant associations\u8be5 k\u00f6\u1eddnome 'eternity\uff1fnam",
+    "optimized_token_ids": [
+      [
+        20408,
+        366,
+        16253,
+        777,
+        7282,
+        27733,
+        31751,
+        4929,
+        30997,
+        25155,
+        525,
+        300,
+        824,
+        537,
+        30882,
+        8588
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.929999828338623,
+      "best_std": 0.3547947645187378,
+      "best_loss": 0.5912500023841858,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_70_1108_1822_log.json"
+  },
+  "71": {
+    "original_prompt": "Generate a plan for taking care of the environment",
+    "starting_prompt": "What is a basic plan for improving the environmental health of the planet?",
+    "optimized_prompt": "Please^{\\ a basic plan\u0431\u043a\u0430textareavingolate environmentalel }} rin planet\u043c\u043e\u0432",
+    "optimized_token_ids": [
+      [
+        12148,
+        3311,
+        263,
+        6996,
+        3814,
+        23348,
+        20433,
+        1747,
+        23167,
+        29380,
+        295,
+        9156,
+        29053,
+        15754,
+        10556
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 9.0181245803833,
+      "best_std": 0.4257039070129395,
+      "best_loss": 0.5628125071525574,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_71_1108_1851_log.json"
+  },
+  "72": {
+    "original_prompt": "Rewrite the following sentence using passive voice: He found the lost key beneath the sofa.",
+    "starting_prompt": "What is a simple definition of passive voice?",
+    "optimized_prompt": "perd\u00e9ri\u0db8]/\u5207 Deport passive voice G\u00e9ographie",
+    "optimized_token_ids": [
+      [
+        11113,
+        4894,
+        31917,
+        16261,
+        31757,
+        26736,
+        1209,
+        573,
+        7314,
+        27770
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 27.05875015258789,
+      "best_std": 0.9854537010192871,
+      "best_loss": 1.5081249475479126,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_72_1108_1919_log.json"
+  },
+  "73": {
+    "original_prompt": "Identify the type of pronoun in the sentence \"He had to finish the job.\"",
+    "starting_prompt": "Identify the pronoun and its function in the sentence 'He had to finish the job'",
+    "optimized_prompt": "Ident\ufffderie pronoun and its nature \u0161 the sentence \u0432\u044aHe had to finish\u0103 job ...",
+    "optimized_token_ids": [
+      [
+        13355,
+        153,
+        10681,
+        11504,
+        1309,
+        322,
+        967,
+        5469,
+        6569,
+        278,
+        10541,
+        16915,
+        3868,
+        750,
+        304,
+        8341,
+        30035,
+        4982,
+        2023
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 0.1356249898672104,
+      "best_std": 0.38804876804351807,
+      "best_loss": 0.4490624964237213,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_73_1108_1939_log.json"
+  },
+  "74": {
+    "original_prompt": "Generate a Christmas carol.",
+    "starting_prompt": "Compose a Christmas carol about jingling bells.",
+    "optimized_prompt": "Compose a Christmas carol\"; \u043f\u03c1snCancel Termannt",
+    "optimized_token_ids": [
+      [
+        3831,
+        852,
+        263,
+        17661,
+        1559,
+        324,
+        1769,
+        469,
+        30147,
+        16586,
+        19420,
+        11814,
+        5805
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 0.6382812261581421,
+      "best_std": 0.12490594387054443,
+      "best_loss": 0.44343748688697815,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_74_1108_2014_log.json"
+  },
+  "75": {
+    "original_prompt": "Given this sentence, \"Software engineering is a challenging field,\" suggest a follow-up question that could be asked.",
+    "starting_prompt": "Can you talk about a software engineering project that challenged you?",
+    "optimized_prompt": "\u8bddltwhat enc instead software engineeringSwlicit challeng mail you?",
+    "optimized_token_ids": [
+      [
+        31852,
+        1896,
+        5816,
+        2094,
+        2012,
+        7047,
+        21639,
+        10840,
+        4019,
+        18066,
+        10524,
+        366,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 17.565624237060547,
+      "best_std": 0.6435108661651612,
+      "best_loss": 1.138124942779541,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_75_1108_2038_log.json"
+  },
+  "76": {
+    "original_prompt": "Name two ways to aerate soil.",
+    "starting_prompt": "How can I aerate soil in my garden?",
+    "optimized_prompt": "How Tow zv aerate soil.\r Karl resistducation",
+    "optimized_token_ids": [
+      [
+        1128,
+        22578,
+        15486,
+        14911,
+        403,
+        22473,
+        22993,
+        8425,
+        9241,
+        29392
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.375625133514404,
+      "best_std": 0.24535212516784669,
+      "best_loss": 0.6368749737739563,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_76_1108_2102_log.json"
+  },
+  "77": {
+    "original_prompt": "Generate two interesting facts about potatoes.",
+    "starting_prompt": "Tell about the nutritional benefits of potatoes",
+    "optimized_prompt": "lists about the These encountered\u017e assistantinstance Cotatoes",
+    "optimized_token_ids": [
+      [
+        8857,
+        1048,
+        278,
+        4525,
+        18169,
+        30044,
+        20255,
+        8758,
+        26783,
+        20452
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 13.862499237060547,
+      "best_std": 0.353682804107666,
+      "best_loss": 0.7324999570846558,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_77_1108_2122_log.json"
+  },
+  "78": {
+    "original_prompt": "Create a list of steps people can take to reduce their risk of catching a cold.",
+    "starting_prompt": "Tell me what precautions I should take to avoid catching a cold.",
+    "optimized_prompt": "''pas Can gevcautionssters should take to avoid catching a cold:",
+    "optimized_token_ids": [
+      [
+        4907,
+        18182,
+        1815,
+        22407,
+        1113,
+        17925,
+        23080,
+        881,
+        2125,
+        304,
+        4772,
+        4380,
+        292,
+        263,
+        11220,
+        29901
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.353125095367432,
+      "best_std": 0.3151683807373047,
+      "best_loss": 0.2867187559604645,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_78_1108_2142_log.json"
+  },
+  "79": {
+    "original_prompt": "Create a story about a group of friends that go on an adventure",
+    "starting_prompt": "Write an introduction about a group of friends planning an adventure",
+    "optimized_prompt": "Write an excellent about a group of friendsapt an adventure",
+    "optimized_token_ids": [
+      [
+        14350,
+        385,
+        15129,
+        1048,
+        263,
+        2318,
+        310,
+        7875,
+        2156,
+        385,
+        17623,
+        545
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.4368748664855957,
+      "best_std": 0.20747573375701905,
+      "best_loss": 0.37296873331069946,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_79_1108_2211_log.json"
+  },
+  "80": {
+    "original_prompt": "How would you explain the word centrifugal force in one sentence?",
+    "starting_prompt": "What is the role of centrifugal force on Earth?",
+    "optimized_prompt": "What\u0e02 Definitionictionary of centrifentibt force Denabelstory",
+    "optimized_token_ids": [
+      [
+        1724,
+        31310,
+        21940,
+        4334,
+        310,
+        1644,
+        9710,
+        7268,
+        3116,
+        4889,
+        3384,
+        1107,
+        24098
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": -0.9862304329872131,
+      "best_std": 0.35741212368011477,
+      "best_loss": 0.1390039026737213,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_80_1108_2234_log.json"
+  },
+  "81": {
+    "original_prompt": "Generate HTML code for a button.",
+    "starting_prompt": "How to create a simple button element in HTML?",
+    "optimized_prompt": "yer Ras \u00d6impl n\u00e4 button \u0444\u043e\u0442\u043e Weg HTMLSk",
+    "optimized_token_ids": [
+      [
+        7598,
+        25351,
+        6450,
+        13699,
+        22248,
+        2826,
+        26592,
+        17412,
+        4544,
+        15797
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.681874752044678,
+      "best_std": 0.7091957569122315,
+      "best_loss": 0.9896875023841858,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_81_1108_2258_log.json"
+  },
+  "82": {
+    "original_prompt": "What would be the most logical next step in the following conversation?\n\nPerson 1: I'm not sure what I should do.\nPerson 2:",
+    "starting_prompt": "How can someone seek professional help when they're struggling with their feelings?",
+    "optimized_prompt": "How), someone Constcsol'=> zwe strat Shouldtr struggling tussen \u0449\u043e Sister ::",
+    "optimized_token_ids": [
+      [
+        1128,
+        511,
+        4856,
+        5798,
+        26724,
+        16826,
+        4753,
+        26742,
+        10575,
+        509,
+        20042,
+        19105,
+        5797,
+        28088,
+        4761
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 34.0625,
+      "best_std": 1.010623073577881,
+      "best_loss": 1.3468749523162842,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_82_1108_2318_log.json"
+  },
+  "83": {
+    "original_prompt": "Describe how the color blue relates to nature.",
+    "starting_prompt": "Discuss how the color blue is represented in nature.",
+    "optimized_prompt": "Discuss how the color blue is showing) nature.",
+    "optimized_token_ids": [
+      [
+        8565,
+        1558,
+        920,
+        278,
+        2927,
+        7254,
+        338,
+        6445,
+        44,
+        5469,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 1.0295312404632568,
+      "best_std": 0.126606023311615,
+      "best_loss": 0.402656227350235,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_83_1108_2346_log.json"
+  },
+  "84": {
+    "original_prompt": "Translate this sentence from English to French: \"I ate lunch at noon\".",
+    "starting_prompt": "Provide some translations in past, present and future tense for 'I had lunch at noon' in French.",
+    "error": "CUDA out of memory. Tried to allocate 536.00 MiB. GPU 0 has a total capacity of 44.31 GiB of which 18.31 MiB is free. Including non-PyTorch memory, this process has 44.28 GiB memory in use. Of the allocated memory 39.00 GiB is allocated by PyTorch, and 4.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "85": {
+    "original_prompt": "Provide a solution to reduce pollution caused by burning oil.",
+    "starting_prompt": "Suggest some ways to decrease pollution caused by the burning of oil.",
+    "optimized_prompt": "Ann\u039f some\u043d\u043e\u0432\u0435 to reduce pollamerikanischeramiento cause\u662f burning\u0440\u043e oil\"])",
+    "optimized_token_ids": [
+      [
+        8081,
+        30491,
+        777,
+        27290,
+        304,
+        10032,
+        21180,
+        17996,
+        9993,
+        4556,
+        30392,
+        25535,
+        576,
+        17182,
+        20068
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.193125009536743,
+      "best_std": 0.2192847728729248,
+      "best_loss": 0.39015623927116394,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_85_1109_0010_log.json"
+  },
+  "86": {
+    "original_prompt": "If Heidi can paint a wall in 45 minutes, what fractional part of the wall can she paint in 9 minutes?",
+    "starting_prompt": "If Heidi can paint a wall in 45 minutes, how much of the wall can she paint in 9 minutes?",
+    "error": "CUDA out of memory. Tried to allocate 536.00 MiB. GPU 0 has a total capacity of 44.31 GiB of which 218.31 MiB is free. Including non-PyTorch memory, this process has 44.09 GiB memory in use. Of the allocated memory 38.48 GiB is allocated by PyTorch, and 5.10 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "87": {
+    "original_prompt": "The day before two days after the day before tomorrow is Saturday. What day is it today?",
+    "starting_prompt": "Assume the day before two days after the day before tomorrow is Saturday. Can you tell me what day is today?",
+    "error": "CUDA out of memory. Tried to allocate 484.00 MiB. GPU 0 has a total capacity of 44.31 GiB of which 218.31 MiB is free. Including non-PyTorch memory, this process has 44.09 GiB memory in use. Of the allocated memory 37.32 GiB is allocated by PyTorch, and 6.26 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "88": {
+    "original_prompt": "Classify this statement: Dogs are better pets than cats.",
+    "starting_prompt": "Analyze this claim: Dogs are better pets than cats.",
+    "optimized_prompt": "hosting UTFiconstmt\u8bf7 classific Dogs are better pets than meta\u0441\u044c\u043a\u0456\u0439.",
+    "optimized_token_ids": [
+      [
+        23376,
+        18351,
+        4144,
+        17868,
+        31088,
+        20670,
+        360,
+        12099,
+        526,
+        2253,
+        282,
+        1691,
+        1135,
+        12700,
+        21547,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.737187385559082,
+      "best_std": 0.4570441246032715,
+      "best_loss": 0.5465624928474426,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_88_1109_0041_log.json"
+  },
+  "89": {
+    "original_prompt": "What is the most efficient way of sharing data between two computers?",
+    "starting_prompt": "What are some ways to efficiently share data between two computers?",
+    "optimized_prompt": "IIunicrouteHow Const efficiently share data Between two computersselector",
+    "optimized_token_ids": [
+      [
+        2687,
+        2523,
+        13134,
+        5328,
+        5798,
+        29497,
+        6232,
+        848,
+        21674,
+        1023,
+        23226,
+        14357
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 10.78531265258789,
+      "best_std": 0.4720067024230957,
+      "best_loss": 0.6009374856948853,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_89_1109_0110_log.json"
+  },
+  "90": {
+    "original_prompt": "Generate an appropriate apology for an error an AI assistant made.",
+    "starting_prompt": "Narrate a letter apologizing for an AI assistant's error in a previous response.",
+    "optimized_prompt": "SchemaREFbtlong letter apologizing for an AI assistant's error Wor safe\u043c\u0456\u043dhelper nominated",
+    "optimized_token_ids": [
+      [
+        12763,
+        25866,
+        3116,
+        5426,
+        5497,
+        27746,
+        5281,
+        363,
+        385,
+        319,
+        29902,
+        20255,
+        29915,
+        29879,
+        1059,
+        19662,
+        9109,
+        29090,
+        20907,
+        28442
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.536874771118164,
+      "best_std": 0.2932526350021362,
+      "best_loss": 0.30195310711860657,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_90_1109_0133_log.json"
+  },
+  "91": {
+    "original_prompt": "Describe a medical application that can benefit from AI technology",
+    "starting_prompt": "Can AI have applications in medical imaging analysis?",
+    "optimized_prompt": "\u00e4hales \u043e\u0434\u043d\u0438\u043caty applications in medicalskiego Take ru Ehr",
+    "optimized_token_ids": [
+      [
+        7538,
+        2122,
+        24753,
+        11156,
+        8324,
+        297,
+        16083,
+        7219,
+        11190,
+        5796,
+        29245
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 14.772500038146973,
+      "best_std": 0.3366179704666138,
+      "best_loss": 0.887499988079071,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_91_1109_0210_log.json"
+  },
+  "92": {
+    "original_prompt": "Name three molecules found in air",
+    "starting_prompt": "Which molecules make up the air around us?",
+    "optimized_prompt": "including molecules\u043e\u0440 up\u2124 airionales pitch=\".",
+    "optimized_token_ids": [
+      [
+        18271,
+        13206,
+        21337,
+        1419,
+        701,
+        30770,
+        4799,
+        28509,
+        15905,
+        29569
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 16.548749923706055,
+      "best_std": 0.5752302169799804,
+      "best_loss": 0.6090624928474426,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_92_1109_0231_log.json"
+  },
+  "93": {
+    "original_prompt": "How does Newton's Second Law of Motion apply to a rocking chair?",
+    "starting_prompt": "Describe Newton's Second Law of Motion.",
+    "optimized_prompt": "Descri\u0435\u0441 Newton\ufffds Second Law of _,iatebot",
+    "optimized_token_ids": [
+      [
+        20355,
+        4449,
+        19017,
+        168,
+        29879,
+        6440,
+        7927,
+        310,
+        17117,
+        29347,
+        7451
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 1.307031273841858,
+      "best_std": 0.3582532644271851,
+      "best_loss": 0.15859374403953552,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_93_1109_0251_log.json"
+  },
+  "94": {
+    "original_prompt": "Suggest an interesting book to read.",
+    "starting_prompt": "Can you suggest an inspiring book for starting up a business?",
+    "optimized_prompt": "Only\u02d0 suggest an Interestiring bookeraWRsefcap\u060c Cho",
+    "optimized_token_ids": [
+      [
+        11730,
+        30215,
+        4368,
+        385,
+        23829,
+        8491,
+        3143,
+        1572,
+        9980,
+        28604,
+        5030,
+        31116,
+        14542
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.017812490463257,
+      "best_std": 0.18993732929229737,
+      "best_loss": 0.42140623927116394,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_94_1109_0313_log.json"
+  },
+  "95": {
+    "original_prompt": "List 3 benefits for eating a balanced diet.",
+    "starting_prompt": "Why is having a balanced diet beneficial for your health?",
+    "optimized_prompt": "Why is having a balanced diet benefitionbat\u0081ould Both",
+    "optimized_token_ids": [
+      [
+        3750,
+        338,
+        2534,
+        263,
+        6411,
+        8362,
+        652,
+        300,
+        7795,
+        654,
+        10222,
+        31242,
+        483,
+        9134
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 4.078437328338623,
+      "best_std": 0.13555972576141356,
+      "best_loss": 0.3382812440395355,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_95_1109_0337_log.json"
+  },
+  "96": {
+    "original_prompt": "Compare and contrast the cultures of China and Japan.",
+    "starting_prompt": "Explain some of the cultural distinctions between China and Japan.",
+    "optimized_prompt": "Explain\u0437\u0438 of the cultural distin IEnumerable\u0091 China and Japan.",
+    "optimized_token_ids": [
+      [
+        12027,
+        7420,
+        1916,
+        310,
+        278,
+        16375,
+        1320,
+        262,
+        23555,
+        31440,
+        7551,
+        322,
+        5546,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.9031248092651367,
+      "best_std": 0.35253450870513914,
+      "best_loss": 0.5915625095367432,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_96_1109_0402_log.json"
+  },
+  "97": {
+    "original_prompt": "Tell me a unique way to make tea.",
+    "starting_prompt": "Can you give a unique recipe for making tea?",
+    "optimized_prompt": "othy RossFind\u0430 unique patrstelling for making tea \u00e1",
+    "optimized_token_ids": [
+      [
+        20336,
+        13693,
+        12542,
+        29910,
+        5412,
+        22191,
+        28515,
+        363,
+        3907,
+        23429,
+        3976
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.789374828338623,
+      "best_std": 0.23300745487213134,
+      "best_loss": 0.6421874761581421,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_97_1109_0428_log.json"
+  },
+  "98": {
+    "original_prompt": "How many triangles can be formed from 4 points?",
+    "starting_prompt": "Using 4 points, how many types of triangles can be made?",
+    "optimized_prompt": "${\\\u5f624 points necessnliellaie\u00df dv triangles can invol made?",
+    "optimized_token_ids": [
+      [
+        7555,
+        31305,
+        29946,
+        3291,
+        3520,
+        12938,
+        28049,
+        21372,
+        14897,
+        3367,
+        19536,
+        508,
+        5297,
+        1754,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 7.94656229019165,
+      "best_std": 0.36758623123168943,
+      "best_loss": 0.7565624713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_98_1109_0450_log.json"
+  },
+  "99": {
+    "original_prompt": "Suggest a 5-star restaurant for the following group: a vegetarian and two meat-eaters.",
+    "starting_prompt": "What are some restaurants that could accommodate a vegetarian and two meat-eaters?",
+    "optimized_prompt": "What haut core restaur restaurantourt couldlainretch a vegetiac and two meat-eatersidentifier",
+    "optimized_token_ids": [
+      [
+        1724,
+        22916,
+        7136,
+        12374,
+        27144,
+        14316,
+        1033,
+        7420,
+        10301,
+        263,
+        18655,
+        13544,
+        322,
+        1023,
+        27654,
+        29899,
+        29872,
+        10412,
+        25378
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 11.09000015258789,
+      "best_std": 0.6196420192718506,
+      "best_loss": 1.040624976158142,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_99_1109_0517_log.json"
+  },
+  "100": {
+    "original_prompt": "What is the origin story behind a popular fable or myth?",
+    "starting_prompt": "Origin stories behind popular fables and myths, can you share?",
+    "optimized_prompt": "Origin stories behind popular fables and myth: Wie \"' auth specifically\u0083",
+    "optimized_token_ids": [
+      [
+        22118,
+        15874,
+        5742,
+        5972,
+        285,
+        1849,
+        322,
+        22082,
+        29901,
+        18656,
+        13577,
+        4817,
+        10816,
+        30588
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 7.794374942779541,
+      "best_std": 0.5175519943237304,
+      "best_loss": 0.7406249642372131,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__warm_start_prompt_100_1109_0552_log.json"
+  }
+}

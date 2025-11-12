@@ -209,7 +209,7 @@ def main():
     print(f"  - early_stop_kl: {args.early_stop_kl}")
     print()
 
-    exp_name = (args.model_name.split("/")[-1] + "__" + args.output_path.split('/')[-1].split("__")[0]).replace('.', '_')
+    exp_name = (args.model_name.split("/")[-1] + "__" + args.output_path.split('/')[-1].split("__")[0]).replace('.', '_t')
     print(f"Experiment name: {exp_name}\n")
 
     # Create progress bar for outer loop

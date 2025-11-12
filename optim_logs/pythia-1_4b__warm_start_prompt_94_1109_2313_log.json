@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.7774999141693115,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 7.377500057220459,
+        "best_std": 0.44272308349609374,
+        "cur_kl": 7.377500057220459,
+        "cur_std": 0.44272308349609374,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Can you suggest an inspiring book for progresses up a business?",
+            "ids": [
+                5804,
+                368,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                42851,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.747499942779541,
+        "best_loss": 3.747499942779541,
+        "best_kl": 7.337499618530273,
+        "best_std": 0.41503276824951174,
+        "cur_kl": 7.337499618530273,
+        "cur_std": 0.41503276824951174,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Can you suggest an inspiring book forasters up a business?",
+            "ids": [
+                5804,
+                368,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                22854,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 7.337499618530273,
+        "best_std": 0.41503276824951174,
+        "cur_kl": 7.867499828338623,
+        "cur_std": 0.4259192943572998,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Canality suggest an inspiring book forasters up a business?",
+            "ids": [
+                5804,
+                1319,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                22854,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.7937498092651367,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 7.337499618530273,
+        "best_std": 0.41503276824951174,
+        "cur_kl": 7.762499809265137,
+        "cur_std": 0.3978219747543335,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Canrate suggest an inspiring book forasters up a business?",
+            "ids": [
+                5804,
+                4427,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                22854,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.7624998092651367,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 7.337499618530273,
+        "best_std": 0.41503276824951174,
+        "cur_kl": 7.432499885559082,
+        "cur_std": 0.4210354804992676,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Canrate suggest an inspiring book forotten up a business?",
+            "ids": [
+                5804,
+                4427,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                7382,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.737499952316284,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.772500038146973,
+        "best_std": 0.42964768409729004,
+        "cur_kl": 6.772500038146973,
+        "cur_std": 0.42964768409729004,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Canrate suggest an inspiring book forotten up atown?",
+            "ids": [
+                5804,
+                4427,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                7382,
+                598,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.7624998092651367,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.772500038146973,
+        "best_std": 0.42964768409729004,
+        "cur_kl": 6.962499618530273,
+        "cur_std": 0.4519371032714844,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "rexrate suggest an inspiring book forotten up atown?",
+            "ids": [
+                18398,
+                4427,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                7382,
+                598,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.7849998474121094,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.747499942779541,
+        "best_std": 0.46062779426574707,
+        "cur_kl": 6.747499942779541,
+        "cur_std": 0.46062779426574707,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Teamrate suggest an inspiring book forotten up atown?",
+            "ids": [
+                25804,
+                4427,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                7382,
+                598,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.747499942779541,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.722499847412109,
+        "best_std": 0.4020134925842285,
+        "cur_kl": 6.722499847412109,
+        "cur_std": 0.4020134925842285,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Teamrate suggest an inspiring book for tipped up atown?",
+            "ids": [
+                25804,
+                4427,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                40414,
+                598,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.759999990463257,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.722499847412109,
+        "best_std": 0.4020134925842285,
+        "cur_kl": 6.987499713897705,
+        "cur_std": 0.4444576740264893,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Teamrate suggest an inspiring book for Low up atown?",
+            "ids": [
+                25804,
+                4427,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                11578,
+                598,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.7274999618530273,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.722499847412109,
+        "best_std": 0.4020134925842285,
+        "cur_kl": 7.367499828338623,
+        "cur_std": 0.45656623840332033,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team Bristol suggest an inspiring book for Low up atown?",
+            "ids": [
+                25804,
+                29912,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                11578,
+                598,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.694999933242798,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.147500038146973,
+        "best_std": 0.4005692958831787,
+        "cur_kl": 6.147500038146973,
+        "cur_std": 0.4005692958831787,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring book for Low up atown?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                11578,
+                598,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.692499876022339,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.147500038146973,
+        "best_std": 0.4005692958831787,
+        "cur_kl": 6.537499904632568,
+        "cur_std": 0.413783597946167,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring book for Low Colin atown?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                11578,
+                31086,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.757499933242798,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.047499656677246,
+        "cur_std": 0.41181559562683107,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring book for Low on atown?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                11578,
+                327,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -89.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.75249981880188,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.512499809265137,
+        "cur_std": 0.4232417106628418,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring book for views on atown?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                6849,
+                327,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.7699999809265137,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.717499732971191,
+        "cur_std": 0.4301699161529541,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring book for 260 on atown?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                323,
+                22146,
+                327,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 7.042500019073486,
+        "cur_std": 0.4028944492340088,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookñ 260 on atown?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                6621,
+                22146,
+                327,
+                247,
+                10700,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.744999885559082,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.507499694824219,
+        "cur_std": 0.42683730125427244,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookñ 260 on aomic?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                6621,
+                22146,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.552499771118164,
+        "cur_std": 0.43393454551696775,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookñakin on aomic?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                6621,
+                28709,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.713749885559082,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 7.06749963760376,
+        "cur_std": 0.47032999992370605,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookowakin on aomic?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                319,
+                28709,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.7925000190734863,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 7.162499904632568,
+        "cur_std": 0.47106118202209474,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookow Fred on aomic?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                319,
+                10852,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.6712498664855957,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.78249979019165,
+        "cur_std": 0.4535167694091797,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookow Ball on aomic?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                319,
+                14702,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.732499837875366,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.637499809265137,
+        "cur_std": 0.4429637432098389,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookow True on aomic?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                319,
+                11793,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.5874998569488525,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.672499656677246,
+        "cur_std": 0.44132628440856936,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Team stranger suggest an inspiring bookHQ True on aomic?",
+            "ids": [
+                25804,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                31034,
+                11793,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.7674999237060547,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 7.082499980926514,
+        "cur_std": 0.4256909847259521,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring bookHQ True on aomic?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                31034,
+                11793,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.6287498474121094,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.947499752044678,
+        "cur_std": 0.4182590007781982,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring book bucket True on aomic?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                22205,
+                11793,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -109.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.737499952316284,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.537499904632568,
+        "cur_std": 0.41155004501342773,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring book Emerson True on aomic?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                49243,
+                11793,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.7849998474121094,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 7.792500019073486,
+        "cur_std": 0.42433929443359375,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring book apple True on aomic?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                19126,
+                11793,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.619999885559082,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.272500038146973,
+        "cur_std": 0.4092999458312988,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring book Lem True on aomic?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                11793,
+                327,
+                247,
+                4986,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.679999828338623,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.737499713897705,
+        "cur_std": 0.42803249359130857,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring book Lem True on a Pf?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                11793,
+                327,
+                247,
+                29176,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.740000009536743,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.637499809265137,
+        "cur_std": 0.42714662551879884,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring book Lemlication on a Pf?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                5688,
+                327,
+                247,
+                29176,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.342499732971191,
+        "cur_std": 0.41608529090881347,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop stranger suggest an inspiring book Lemhee on a Pf?",
+            "ids": [
+                16890,
+                20218,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                31622,
+                327,
+                247,
+                29176,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.612499952316284,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.517499923706055,
+        "cur_std": 0.47334580421447753,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an inspiring book Lemhee on a Pf?",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                31622,
+                327,
+                247,
+                29176,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.744999885559082,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.182499885559082,
+        "cur_std": 0.4689184665679932,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an inspiring book Lemhee on a Pf~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                31622,
+                327,
+                247,
+                29176,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.6712498664855957,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.047499656677246,
+        "best_std": 0.41181559562683107,
+        "cur_kl": 6.267499923706055,
+        "cur_std": 0.45823354721069337,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an inspiring book Lemhee on a tossing~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                31622,
+                327,
+                247,
+                49488,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.7200000286102295,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.002500057220459,
+        "best_std": 0.4547934055328369,
+        "cur_kl": 6.002500057220459,
+        "cur_std": 0.4547934055328369,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an inspiring book Lem cant on a tossing~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                16216,
+                327,
+                247,
+                49488,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.757499933242798,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 6.002500057220459,
+        "best_std": 0.4547934055328369,
+        "cur_kl": 6.222499847412109,
+        "cur_std": 0.4738875389099121,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an inspiring book Lem cant on arooms~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                16216,
+                327,
+                247,
+                12384,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.672499895095825,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.947499752044678,
+        "best_std": 0.4434041976928711,
+        "cur_kl": 5.947499752044678,
+        "cur_std": 0.4434041976928711,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an inspiring book Lem cant on a it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                16216,
+                327,
+                247,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.7337498664855957,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.807499885559082,
+        "best_std": 0.447268009185791,
+        "cur_kl": 5.807499885559082,
+        "cur_std": 0.447268009185791,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an inspiring book LemMany on a it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                29853,
+                1984,
+                6935,
+                10195,
+                327,
+                247,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -108.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.669999837875366,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.517499923706055,
+        "best_std": 0.41260528564453125,
+        "cur_kl": 5.517499923706055,
+        "cur_std": 0.41260528564453125,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany on a it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                327,
+                247,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -109.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.517499923706055,
+        "best_std": 0.41260528564453125,
+        "cur_kl": 5.722499847412109,
+        "cur_std": 0.4367854118347168,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany on ward it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                327,
+                18588,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.622499942779541,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.472499847412109,
+        "best_std": 0.4201504707336426,
+        "cur_kl": 5.472499847412109,
+        "cur_std": 0.4201504707336426,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany onall it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                327,
+                455,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.7274999618530273,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.472499847412109,
+        "best_std": 0.4201504707336426,
+        "cur_kl": 5.582499980926514,
+        "cur_std": 0.4211584568023682,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany Ordall it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                41917,
+                455,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.7624998092651367,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.472499847412109,
+        "best_std": 0.4201504707336426,
+        "cur_kl": 5.622499942779541,
+        "cur_std": 0.424375581741333,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany Ord Prest it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                41917,
+                31291,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.472499847412109,
+        "best_std": 0.4201504707336426,
+        "cur_kl": 5.647500038146973,
+        "cur_std": 0.4298533916473389,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany rewarding Prest it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                34975,
+                31291,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.7200000286102295,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.232500076293945,
+        "best_std": 0.4111491203308105,
+        "cur_kl": 5.232500076293945,
+        "cur_std": 0.4111491203308105,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany rewardingHit it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                34975,
+                32914,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.734999895095825,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.232500076293945,
+        "best_std": 0.4111491203308105,
+        "cur_kl": 5.482500076293945,
+        "cur_std": 0.42895894050598143,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemManyERRHit it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                8015,
+                32914,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.6649999618530273,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.232500076293945,
+        "best_std": 0.4111491203308105,
+        "cur_kl": 5.53249979019165,
+        "cur_std": 0.40921602249145506,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany excitementHit it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                18349,
+                32914,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.694999933242798,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.232500076293945,
+        "best_std": 0.4111491203308105,
+        "cur_kl": 5.332499980926514,
+        "cur_std": 0.399384880065918,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany excitement to it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                18349,
+                281,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.737499952316284,
+        "best_loss": 3.5874998569488525,
+        "best_kl": 5.222499847412109,
+        "best_std": 0.4085867404937744,
+        "cur_kl": 5.222499847412109,
+        "cur_std": 0.4085867404937744,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Hop anyone suggest an intriguing book LemMany key to it~).",
+            "ids": [
+                16890,
+                3780,
+                1804,
+                271,
+                27807,
+                1984,
+                6935,
+                10195,
+                2234,
+                281,
+                352,
+                48307
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    }
+]

@@ -1,0 +1,2102 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.5249998569488525,
+        "best_kl": 13.119999885559082,
+        "best_std": 0.6808017253875732,
+        "cur_kl": 13.119999885559082,
+        "cur_std": 0.6808017253875732,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tell about the Human benefits of potatoes",
+            "ids": [
+                17570,
+                670,
+                253,
+                8801,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -40.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.5,
+        "best_loss": 3.5,
+        "best_kl": 12.550000190734863,
+        "best_std": 0.6282290458679199,
+        "cur_kl": 12.550000190734863,
+        "cur_std": 0.6282290458679199,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about the Human benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                253,
+                8801,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -44.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.5325000286102295,
+        "best_loss": 3.5,
+        "best_kl": 12.550000190734863,
+        "best_std": 0.6282290458679199,
+        "cur_kl": 13.664999961853027,
+        "cur_std": 0.614802885055542,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about the thin benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                253,
+                6906,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -45.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.549999952316284,
+        "best_loss": 3.5,
+        "best_kl": 12.550000190734863,
+        "best_std": 0.6282290458679199,
+        "cur_kl": 13.524999618530273,
+        "cur_std": 0.6290274143218995,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about theushi benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                253,
+                34485,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -51.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.5199999809265137,
+        "best_loss": 3.5,
+        "best_kl": 12.550000190734863,
+        "best_std": 0.6282290458679199,
+        "cur_kl": 13.0649995803833,
+        "cur_std": 0.6193697929382325,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about the Priority benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                253,
+                46859,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -50.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.5149998664855957,
+        "best_loss": 3.5,
+        "best_kl": 12.550000190734863,
+        "best_std": 0.6282290458679199,
+        "cur_kl": 13.164999961853027,
+        "cur_std": 0.627648115158081,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about theAlways benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                253,
+                34361,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -51.25
+    },
+    {
+        "epoch": 7,
+        "loss": 3.5399999618530273,
+        "best_loss": 3.5,
+        "best_kl": 12.550000190734863,
+        "best_std": 0.6282290458679199,
+        "cur_kl": 13.529999732971191,
+        "cur_std": 0.6077703952789306,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about the forever benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                253,
+                11654,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -46.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.504999876022339,
+        "best_loss": 3.5,
+        "best_kl": 12.550000190734863,
+        "best_std": 0.6282290458679199,
+        "cur_kl": 12.744999885559082,
+        "cur_std": 0.6315563201904297,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about thePoly benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                253,
+                33498,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -54.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.4837498664855957,
+        "best_loss": 3.4837498664855957,
+        "best_kl": 11.744999885559082,
+        "best_std": 0.6273841381072998,
+        "cur_kl": 11.744999885559082,
+        "cur_std": 0.6273841381072998,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Observ about_Poly benefits of potatoes",
+            "ids": [
+                16177,
+                670,
+                64,
+                33498,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -62.75
+    },
+    {
+        "epoch": 10,
+        "loss": 3.497499942779541,
+        "best_loss": 3.4837498664855957,
+        "best_kl": 11.744999885559082,
+        "best_std": 0.6273841381072998,
+        "cur_kl": 11.819999694824219,
+        "cur_std": 0.6721937656402588,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Issue about_Poly benefits of potatoes",
+            "ids": [
+                48712,
+                670,
+                64,
+                33498,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -58.25
+    },
+    {
+        "epoch": 11,
+        "loss": 3.507499933242798,
+        "best_loss": 3.4837498664855957,
+        "best_kl": 11.744999885559082,
+        "best_std": 0.6273841381072998,
+        "cur_kl": 12.199999809265137,
+        "cur_std": 0.6508347511291503,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "IssueGene_Poly benefits of potatoes",
+            "ids": [
+                48712,
+                28058,
+                64,
+                33498,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -56.25
+    },
+    {
+        "epoch": 12,
+        "loss": 3.492499828338623,
+        "best_loss": 3.4837498664855957,
+        "best_kl": 11.744999885559082,
+        "best_std": 0.6273841381072998,
+        "cur_kl": 11.9399995803833,
+        "cur_std": 0.6260054588317872,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "IssueW_Poly benefits of potatoes",
+            "ids": [
+                48712,
+                56,
+                64,
+                33498,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -57.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.50249981880188,
+        "best_loss": 3.4837498664855957,
+        "best_kl": 11.744999885559082,
+        "best_std": 0.6273841381072998,
+        "cur_kl": 11.819999694824219,
+        "cur_std": 0.6742193222045898,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Issue190_Poly benefits of potatoes",
+            "ids": [
+                48712,
+                16129,
+                64,
+                33498,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -58.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.484999895095825,
+        "best_loss": 3.4837498664855957,
+        "best_kl": 11.09999942779541,
+        "best_std": 0.6384561061859131,
+        "cur_kl": 11.09999942779541,
+        "cur_std": 0.6384561061859131,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Issue190_interesting benefits of potatoes",
+            "ids": [
+                48712,
+                16129,
+                64,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -58.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.4600000381469727,
+        "best_loss": 3.4600000381469727,
+        "best_kl": 10.454999923706055,
+        "best_std": 0.6001302242279053,
+        "cur_kl": 10.454999923706055,
+        "cur_std": 0.6001302242279053,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "IssueSTATIC_interesting benefits of potatoes",
+            "ids": [
+                48712,
+                38386,
+                64,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.4600000381469727,
+        "best_kl": 10.454999923706055,
+        "best_std": 0.6001302242279053,
+        "cur_kl": 10.769999504089355,
+        "cur_std": 0.6351815223693847,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Issue544_interesting benefits of potatoes",
+            "ids": [
+                48712,
+                45259,
+                64,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.25
+    },
+    {
+        "epoch": 17,
+        "loss": 3.4437499046325684,
+        "best_loss": 3.4437499046325684,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 10.164999961853027,
+        "cur_std": 0.6104748249053955,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Issue dri_interesting benefits of potatoes",
+            "ids": [
+                48712,
+                2642,
+                64,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -59.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.4499998092651367,
+        "best_loss": 3.4437499046325684,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 10.510000228881836,
+        "cur_std": 0.6066125869750977,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Issue persistent_interesting benefits of potatoes",
+            "ids": [
+                48712,
+                15663,
+                64,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.25
+    },
+    {
+        "epoch": 19,
+        "loss": 3.4549999237060547,
+        "best_loss": 3.4437499046325684,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 10.889999389648438,
+        "cur_std": 0.589537525177002,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Issue persistent Furtherinteresting benefits of potatoes",
+            "ids": [
+                48712,
+                15663,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.4437499046325684,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 12.019999504089355,
+        "cur_std": 0.6119978904724122,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "412 persistent Furtherinteresting benefits of potatoes",
+            "ids": [
+                30965,
+                15663,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.4574999809265137,
+        "best_loss": 3.4437499046325684,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 11.3149995803833,
+        "cur_std": 0.5829503059387207,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "To persistent Furtherinteresting benefits of potatoes",
+            "ids": [
+                1992,
+                15663,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.43999981880188,
+        "best_loss": 3.43999981880188,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 10.364999771118164,
+        "cur_std": 0.5855953693389893,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Tountime Furtherinteresting benefits of potatoes",
+            "ids": [
+                1992,
+                10849,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.4549999237060547,
+        "best_loss": 3.43999981880188,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 11.149999618530273,
+        "cur_std": 0.5864418983459473,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Swuntime Furtherinteresting benefits of potatoes",
+            "ids": [
+                12455,
+                10849,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.4549999237060547,
+        "best_loss": 3.43999981880188,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 11.179999351501465,
+        "cur_std": 0.5795992851257324,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "êtreuntime Furtherinteresting benefits of potatoes",
+            "ids": [
+                29448,
+                10849,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.4487500190734863,
+        "best_loss": 3.43999981880188,
+        "best_kl": 10.164999961853027,
+        "best_std": 0.6104748249053955,
+        "cur_kl": 10.654999732971191,
+        "cur_std": 0.593087100982666,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "wereuntime Furtherinteresting benefits of potatoes",
+            "ids": [
+                12796,
+                10849,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.424999952316284,
+        "best_loss": 3.424999952316284,
+        "best_kl": 10.0649995803833,
+        "best_std": 0.5834699153900147,
+        "cur_kl": 10.0649995803833,
+        "cur_std": 0.5834699153900147,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "HASuntime Furtherinteresting benefits of potatoes",
+            "ids": [
+                35183,
+                10849,
+                3840,
+                47606,
+                5373,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 9.024999618530273,
+        "best_std": 0.5506366729736328,
+        "cur_kl": 9.024999618530273,
+        "cur_std": 0.5506366729736328,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "HASuntime Furtherinteresting Facts of potatoes",
+            "ids": [
+                35183,
+                10849,
+                3840,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.403749942779541,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 8.9399995803833,
+        "best_std": 0.5609911918640137,
+        "cur_kl": 8.9399995803833,
+        "cur_std": 0.5609911918640137,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "HASexample Furtherinteresting Facts of potatoes",
+            "ids": [
+                35183,
+                11667,
+                3840,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.4237499237060547,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 8.9399995803833,
+        "best_std": 0.5609911918640137,
+        "cur_kl": 9.609999656677246,
+        "cur_std": 0.5386843204498291,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Rightexample Furtherinteresting Facts of potatoes",
+            "ids": [
+                10154,
+                11667,
+                3840,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.375,
+        "best_loss": 3.375,
+        "best_kl": 8.429999351501465,
+        "best_std": 0.4859656810760498,
+        "cur_kl": 8.429999351501465,
+        "cur_std": 0.4859656810760498,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Rightexamplefirstinteresting Facts of potatoes",
+            "ids": [
+                10154,
+                11667,
+                7053,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.375,
+        "best_kl": 8.429999351501465,
+        "best_std": 0.4859656810760498,
+        "cur_kl": 8.979999542236328,
+        "cur_std": 0.5083603858947754,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Rightgnufirstinteresting Facts of potatoes",
+            "ids": [
+                10154,
+                26497,
+                7053,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.3812499046325684,
+        "best_loss": 3.375,
+        "best_kl": 8.429999351501465,
+        "best_std": 0.4859656810760498,
+        "cur_kl": 8.679999351501465,
+        "cur_std": 0.48338661193847654,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Rightdummyfirstinteresting Facts of potatoes",
+            "ids": [
+                10154,
+                44224,
+                7053,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.375,
+        "best_kl": 8.429999351501465,
+        "best_std": 0.4859656810760498,
+        "cur_kl": 9.029999732971191,
+        "cur_std": 0.5198979854583741,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "^\\*^dummyfirstinteresting Facts of potatoes",
+            "ids": [
+                33653,
+                44224,
+                7053,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.393749952316284,
+        "best_loss": 3.375,
+        "best_kl": 8.429999351501465,
+        "best_std": 0.4859656810760498,
+        "cur_kl": 8.845000267028809,
+        "cur_std": 0.5061587810516357,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " Energydummyfirstinteresting Facts of potatoes",
+            "ids": [
+                11669,
+                44224,
+                7053,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.3737499713897705,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.279999732971191,
+        "best_std": 0.5237934589385986,
+        "cur_kl": 8.279999732971191,
+        "cur_std": 0.5237934589385986,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Dotdummyfirstinteresting Facts of potatoes",
+            "ids": [
+                41943,
+                44224,
+                7053,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.379999876022339,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 8.135000228881836,
+        "cur_std": 0.48947796821594236,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "estampdummyfirstinteresting Facts of potatoes",
+            "ids": [
+                15364,
+                44224,
+                7053,
+                47606,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.4075000286102295,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.289999961853027,
+        "cur_std": 0.55181884765625,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "estampdummyfirstola Facts of potatoes",
+            "ids": [
+                15364,
+                44224,
+                7053,
+                6836,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.40625,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 8.989999771118164,
+        "cur_std": 0.5124204635620118,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "estampdummyfirst claim Facts of potatoes",
+            "ids": [
+                15364,
+                44224,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.4362499713897705,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.854999542236328,
+        "cur_std": 0.5082797050476074,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "estamp Chickenfirst claim Facts of potatoes",
+            "ids": [
+                15364,
+                31541,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.398749828338623,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.175000190734863,
+        "cur_std": 0.5158779621124268,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "estampánfirst claim Facts of potatoes",
+            "ids": [
+                15364,
+                9435,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.237500190734863,
+        "cur_std": 0.5381807804107666,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "estamp Vikingfirst claim Facts of potatoes",
+            "ids": [
+                15364,
+                44567,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.4124999046325684,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.239999771118164,
+        "cur_std": 0.5364718437194824,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "estamppushfirst claim Facts of potatoes",
+            "ids": [
+                15364,
+                11340,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.3812499046325684,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 8.664999961853027,
+        "cur_std": 0.5108448028564453,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "PVpushfirst claim Facts of potatoes",
+            "ids": [
+                10201,
+                11340,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.382499933242798,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 8.72249984741211,
+        "cur_std": 0.5355174541473389,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " funpushfirst claim Facts of potatoes",
+            "ids": [
+                794,
+                11340,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.388749837875366,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 8.309999465942383,
+        "cur_std": 0.49209818840026853,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ödingerpushfirst claim Facts of potatoes",
+            "ids": [
+                38052,
+                11340,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.4175000190734863,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.769999504089355,
+        "cur_std": 0.5141640186309815,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ödinger plotfirst claim Facts of potatoes",
+            "ids": [
+                38052,
+                7484,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -61.25
+    },
+    {
+        "epoch": 47,
+        "loss": 3.382499933242798,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 8.345000267028809,
+        "cur_std": 0.4796724319458008,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ödingerzheimerfirst claim Facts of potatoes",
+            "ids": [
+                38052,
+                22110,
+                7053,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.4187498092651367,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.34999942779541,
+        "cur_std": 0.4916217803955078,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ödingerzheimer swit claim Facts of potatoes",
+            "ids": [
+                38052,
+                22110,
+                11857,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.4437499046325684,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.764999389648438,
+        "cur_std": 0.5264448642730712,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ödingerzheimer216 claim Facts of potatoes",
+            "ids": [
+                38052,
+                22110,
+                17271,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.43999981880188,
+        "best_loss": 3.3737499713897705,
+        "best_kl": 8.135000228881836,
+        "best_std": 0.48947796821594236,
+        "cur_kl": 9.835000038146973,
+        "cur_std": 0.5134580612182618,
+        "orig_prompt": {
+            "text": "Generate two interesting facts about potatoes.",
+            "ids": [
+                40731,
+                767,
+                4722,
+                5441,
+                670,
+                20951,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ödinger Big216 claim Facts of potatoes",
+            "ids": [
+                38052,
+                7967,
+                17271,
+                1750,
+                37351,
+                273,
+                20951
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "nll_prompt": -77.5
+    }
+]

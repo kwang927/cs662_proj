@@ -1,0 +1,2252 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.799999952316284,
+        "best_loss": 3.799999952316284,
+        "best_kl": 6.994999885559082,
+        "best_std": 0.3085069179534912,
+        "cur_kl": 6.994999885559082,
+        "cur_std": 0.3085069179534912,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Can you list the items in your wardrobe chart",
+            "ids": [
+                5804,
+                368,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -39.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.7124998569488525,
+        "best_kl": 4.299999713897705,
+        "best_std": 0.323803186416626,
+        "cur_kl": 4.299999713897705,
+        "cur_std": 0.323803186416626,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " help you list the items in your wardrobe chart",
+            "ids": [
+                1361,
+                368,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -39.75
+    },
+    {
+        "epoch": 3,
+        "loss": 3.7049999237060547,
+        "best_loss": 3.7049999237060547,
+        "best_kl": 3.8324999809265137,
+        "best_std": 0.2921976804733276,
+        "cur_kl": 3.8324999809265137,
+        "cur_std": 0.2921976804733276,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " help since list the items in your wardrobe chart",
+            "ids": [
+                1361,
+                1580,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -58.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.7049999237060547,
+        "best_kl": 3.8324999809265137,
+        "best_std": 0.2921976804733276,
+        "cur_kl": 4.335000038146973,
+        "cur_std": 0.3096964120864868,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " help B list the items in your wardrobe chart",
+            "ids": [
+                1361,
+                378,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -57.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.7049999237060547,
+        "best_kl": 3.8324999809265137,
+        "best_std": 0.2921976804733276,
+        "cur_kl": 3.8374998569488525,
+        "cur_std": 0.30271029472351074,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Fr B list the items in your wardrobe chart",
+            "ids": [
+                4604,
+                378,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -59.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.6999998092651367,
+        "best_kl": 3.5149998664855957,
+        "best_std": 0.2981809377670288,
+        "cur_kl": 3.5149998664855957,
+        "cur_std": 0.2981809377670288,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Frloaded list the items in your wardrobe chart",
+            "ids": [
+                4604,
+                19052,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.7174999713897705,
+        "best_loss": 3.6999998092651367,
+        "best_kl": 3.5149998664855957,
+        "best_std": 0.2981809377670288,
+        "cur_kl": 4.610000133514404,
+        "cur_std": 0.3120945930480957,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " enduringloaded list the items in your wardrobe chart",
+            "ids": [
+                36543,
+                19052,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.75
+    },
+    {
+        "epoch": 8,
+        "loss": 3.7224998474121094,
+        "best_loss": 3.6999998092651367,
+        "best_kl": 3.5149998664855957,
+        "best_std": 0.2981809377670288,
+        "cur_kl": 4.394999980926514,
+        "cur_std": 0.29850594997406005,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "Mloaded list the items in your wardrobe chart",
+            "ids": [
+                46,
+                19052,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.6999998092651367,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.424999952316284,
+        "cur_std": 0.29053893089294436,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ranceloaded list the items in your wardrobe chart",
+            "ids": [
+                27638,
+                19052,
+                1618,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.7200000286102295,
+        "best_loss": 3.6999998092651367,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.317500114440918,
+        "cur_std": 0.3227849006652832,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ranceloadedλο the items in your wardrobe chart",
+            "ids": [
+                27638,
+                19052,
+                25326,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.6999998092651367,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.192500114440918,
+        "cur_std": 0.34441533088684084,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ranceloadedops the items in your wardrobe chart",
+            "ids": [
+                27638,
+                19052,
+                2695,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.697499990463257,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.022500038146973,
+        "cur_std": 0.3183387994766235,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ranceloadedrequest the items in your wardrobe chart",
+            "ids": [
+                27638,
+                19052,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.257499694824219,
+        "cur_std": 0.3224248170852661,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ranceomsrequest the items in your wardrobe chart",
+            "ids": [
+                27638,
+                3056,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.8949999809265137,
+        "cur_std": 0.29850594997406005,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ranceBreakrequest the items in your wardrobe chart",
+            "ids": [
+                27638,
+                30389,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.799999952316284,
+        "cur_std": 0.2951630115509033,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "rance uniformrequest the items in your wardrobe chart",
+            "ids": [
+                27638,
+                6447,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.237499713897705,
+        "cur_std": 0.3093936681747437,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 204 uniformrequest the items in your wardrobe chart",
+            "ids": [
+                23133,
+                6447,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.047500133514404,
+        "cur_std": 0.31015424728393554,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Sho uniformrequest the items in your wardrobe chart",
+            "ids": [
+                29264,
+                6447,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.947499990463257,
+        "cur_std": 0.2912506818771362,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " ShoMAKErequest the items in your wardrobe chart",
+            "ids": [
+                29264,
+                29225,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.9749999046325684,
+        "cur_std": 0.2809053659439087,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "biologyMAKErequest the items in your wardrobe chart",
+            "ids": [
+                36415,
+                29225,
+                9629,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.7149999141693115,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.432499885559082,
+        "cur_std": 0.297524619102478,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "biologyMAKEines the items in your wardrobe chart",
+            "ids": [
+                36415,
+                29225,
+                1100,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.7049999237060547,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.5274999141693115,
+        "cur_std": 0.279833459854126,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "biologyMAKEouse the items in your wardrobe chart",
+            "ids": [
+                36415,
+                29225,
+                1312,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.7049999237060547,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.872499942779541,
+        "cur_std": 0.2923151969909668,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " brainsMAKEouse the items in your wardrobe chart",
+            "ids": [
+                19795,
+                29225,
+                1312,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.022500038146973,
+        "cur_std": 0.3049278497695923,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " brainsMAKEOS the items in your wardrobe chart",
+            "ids": [
+                19795,
+                29225,
+                2697,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.87749981880188,
+        "cur_std": 0.30110266208648684,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " brainsMAKEine the items in your wardrobe chart",
+            "ids": [
+                19795,
+                29225,
+                460,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.682499885559082,
+        "cur_std": 0.2802833795547485,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "�MAKEine the items in your wardrobe chart",
+            "ids": [
+                11894,
+                29225,
+                460,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.517499923706055,
+        "cur_std": 0.29857099056243896,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "SantaMAKEine the items in your wardrobe chart",
+            "ids": [
+                39356,
+                29225,
+                460,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.6449999809265137,
+        "cur_std": 0.2658410549163818,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "GRMAKEine the items in your wardrobe chart",
+            "ids": [
+                6217,
+                29225,
+                460,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.7049999237060547,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.5299999713897705,
+        "cur_std": 0.26167874336242675,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "GRMAKEoping the items in your wardrobe chart",
+            "ids": [
+                6217,
+                29225,
+                18225,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.8924999237060547,
+        "cur_std": 0.281976580619812,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " facultMAKEoping the items in your wardrobe chart",
+            "ids": [
+                43686,
+                29225,
+                18225,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.7174999713897705,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.440000057220459,
+        "cur_std": 0.2689560651779175,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " facultMAKEPot the items in your wardrobe chart",
+            "ids": [
+                43686,
+                29225,
+                29255,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.7024998664855957,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.7774999141693115,
+        "cur_std": 0.2799913167953491,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "strMAKEPot the items in your wardrobe chart",
+            "ids": [
+                1344,
+                29225,
+                29255,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                8326
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.6624999046325684,
+        "cur_std": 0.29901723861694335,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "strMAKEPot the items in your wardrobeogram",
+            "ids": [
+                1344,
+                29225,
+                29255,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                12935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 3.8974997997283936,
+        "cur_std": 0.3029337882995605,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "utMAKEPot the items in your wardrobeogram",
+            "ids": [
+                307,
+                29225,
+                29255,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                12935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.7049999237060547,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.244999885559082,
+        "cur_std": 0.30916106700897217,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "utdatPot the items in your wardrobeogram",
+            "ids": [
+                307,
+                8608,
+                29255,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                12935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.7149999141693115,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.237499713897705,
+        "cur_std": 0.31493496894836426,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "utdat� the items in your wardrobeogram",
+            "ids": [
+                307,
+                8608,
+                7056,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                12935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.202499866485596,
+        "cur_std": 0.3126882314682007,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "utب� the items in your wardrobeogram",
+            "ids": [
+                307,
+                13621,
+                7056,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                12935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.355000019073486,
+        "cur_std": 0.32877912521362307,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "チب� the items in your wardrobeogram",
+            "ids": [
+                39009,
+                13621,
+                7056,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                12935
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.147500038146973,
+        "cur_std": 0.3229264736175537,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "チب� the items in your wardrobe sequences",
+            "ids": [
+                39009,
+                13621,
+                7056,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.7124998569488525,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.052499771118164,
+        "cur_std": 0.32710652351379393,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " pedب� the items in your wardrobe sequences",
+            "ids": [
+                7690,
+                13621,
+                7056,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.7024998664855957,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.127500057220459,
+        "cur_std": 0.30062003135681153,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ISEب� the items in your wardrobe sequences",
+            "ids": [
+                19433,
+                13621,
+                7056,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.7174999713897705,
+        "best_loss": 3.697499990463257,
+        "best_kl": 3.424999952316284,
+        "best_std": 0.29053893089294436,
+        "cur_kl": 4.107500076293945,
+        "cur_std": 0.3363735437393188,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ISEhave� the items in your wardrobe sequences",
+            "ids": [
+                19433,
+                9802,
+                7056,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.694999933242798,
+        "best_loss": 3.694999933242798,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.375,
+        "cur_std": 0.3017938852310181,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ISEhaveCreate the items in your wardrobe sequences",
+            "ids": [
+                19433,
+                9802,
+                9395,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.684999942779541,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.419999837875366,
+        "cur_std": 0.28777446746826174,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "ouhaveCreate the items in your wardrobe sequences",
+            "ids": [
+                276,
+                9802,
+                9395,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.9499998092651367,
+        "cur_std": 0.3010503530502319,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " compacthaveCreate the items in your wardrobe sequences",
+            "ids": [
+                8566,
+                9802,
+                9395,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.7224998474121094,
+        "cur_std": 0.285926079750061,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " compactorkCreate the items in your wardrobe sequences",
+            "ids": [
+                8566,
+                1064,
+                9395,
+                253,
+                4957,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 4.019999980926514,
+        "cur_std": 0.2643765449523926,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " compactorkCreate thelists in your wardrobe sequences",
+            "ids": [
+                8566,
+                1064,
+                9395,
+                253,
+                28256,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.857499837875366,
+        "cur_std": 0.3018515110015869,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "AmazonorkCreate thelists in your wardrobe sequences",
+            "ids": [
+                38859,
+                1064,
+                9395,
+                253,
+                28256,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.697499990463257,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.809999942779541,
+        "cur_std": 0.2794999361038208,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " secorkCreate thelists in your wardrobe sequences",
+            "ids": [
+                4706,
+                1064,
+                9395,
+                253,
+                28256,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.5349998474121094,
+        "cur_std": 0.27425336837768555,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "OpporkCreate thelists in your wardrobe sequences",
+            "ids": [
+                42153,
+                1064,
+                9395,
+                253,
+                28256,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.6999998092651367,
+        "best_loss": 3.684999942779541,
+        "best_kl": 3.375,
+        "best_std": 0.3017938852310181,
+        "cur_kl": 3.8399999141693115,
+        "cur_std": 0.26379897594451907,
+        "orig_prompt": {
+            "text": "Generate a list of clothes in your wardrobe",
+            "ids": [
+                40731,
+                247,
+                1618,
+                273,
+                10015,
+                275,
+                634,
+                43530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "343orkCreate thelists in your wardrobe sequences",
+            "ids": [
+                26274,
+                1064,
+                9395,
+                253,
+                28256,
+                275,
+                634,
+                43530,
+                6430
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    }
+]

@@ -1,0 +1,2252 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.9624998569488525,
+        "best_loss": 3.9624998569488525,
+        "best_kl": 9.494999885559082,
+        "best_std": 0.5670451164245606,
+        "cur_kl": 9.494999885559082,
+        "cur_std": 0.5670451164245606,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Which twoest are often used as electrical insulators?",
+            "ids": [
+                7371,
+                767,
+                383,
+                403,
+                2223,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -59.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.9075000286102295,
+        "best_loss": 3.9075000286102295,
+        "best_kl": 7.579999923706055,
+        "best_std": 0.5201845169067383,
+        "cur_kl": 7.579999923706055,
+        "cur_std": 0.5201845169067383,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twoest are often used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                383,
+                403,
+                2223,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.9024999141693115,
+        "best_loss": 3.9024999141693115,
+        "best_kl": 7.579999923706055,
+        "best_std": 0.5201845169067383,
+        "cur_kl": 8.139999389648438,
+        "cur_std": 0.5331950187683105,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twoendor are often used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                13047,
+                403,
+                2223,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.8999998569488525,
+        "best_loss": 3.8999998569488525,
+        "best_kl": 7.579999923706055,
+        "best_std": 0.5201845169067383,
+        "cur_kl": 7.769999980926514,
+        "cur_std": 0.5469576358795166,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twoendor predicted often used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                13047,
+                8131,
+                2223,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.8874998092651367,
+        "best_loss": 3.8874998092651367,
+        "best_kl": 7.355000019073486,
+        "best_std": 0.5249480247497559,
+        "cur_kl": 7.355000019073486,
+        "cur_std": 0.5249480247497559,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twoendor two often used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                13047,
+                767,
+                2223,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.884999990463257,
+        "best_loss": 3.884999990463257,
+        "best_kl": 7.089999675750732,
+        "best_std": 0.5205077171325684,
+        "cur_kl": 7.089999675750732,
+        "cur_std": 0.5205077171325684,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twoaphys two often used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                26643,
+                767,
+                2223,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.8874998092651367,
+        "best_loss": 3.884999990463257,
+        "best_kl": 7.089999675750732,
+        "best_std": 0.5205077171325684,
+        "cur_kl": 7.714999675750732,
+        "cur_std": 0.5268188953399658,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twoaphys two}}+ used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                26643,
+                767,
+                26284,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.8874998092651367,
+        "best_loss": 3.884999990463257,
+        "best_kl": 7.089999675750732,
+        "best_std": 0.5205077171325684,
+        "cur_kl": 7.384999752044678,
+        "cur_std": 0.5172701835632324,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twoaphys two+$ used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                26643,
+                767,
+                23547,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.87749981880188,
+        "best_loss": 3.87749981880188,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 6.739999771118164,
+        "cur_std": 0.4923392772674561,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy two $ two+$ used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                370,
+                767,
+                23547,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.865000009536743,
+        "best_loss": 3.865000009536743,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 6.764999866485596,
+        "cur_std": 0.47834181785583496,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy two $ Lyn+$ used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                370,
+                13619,
+                23547,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.87749981880188,
+        "best_loss": 3.865000009536743,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 7.034999847412109,
+        "cur_std": 0.5093199729919433,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twowedge Lyn+$ used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                12707,
+                13619,
+                23547,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 7.105000019073486,
+        "cur_std": 0.5143543243408203,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " Lucy twowedge Lyn y used as electrical insulators?",
+            "ids": [
+                24112,
+                767,
+                12707,
+                13619,
+                340,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.875,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 7.179999828338623,
+        "cur_std": 0.486043643951416,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "MON twowedge Lyn y used as electrical insulators?",
+            "ids": [
+                22362,
+                767,
+                12707,
+                13619,
+                340,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.884999990463257,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 7.710000038146973,
+        "cur_std": 0.5322517395019531,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ids twowedge Lyn y used as electrical insulators?",
+            "ids": [
+                2352,
+                767,
+                12707,
+                13619,
+                340,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -88.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.875,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 6.960000038146973,
+        "cur_std": 0.4942946910858154,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ids two Cyn Lyn y used as electrical insulators?",
+            "ids": [
+                2352,
+                767,
+                38789,
+                13619,
+                340,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -82.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.879999876022339,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 6.974999904632568,
+        "cur_std": 0.5045437335968017,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn y used as electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                340,
+                908,
+                347,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.884999990463257,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.739999771118164,
+        "best_std": 0.4923392772674561,
+        "cur_kl": 7.404999732971191,
+        "cur_std": 0.5293265819549561,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn y used Kos electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                340,
+                908,
+                24986,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.857499837875366,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.089999675750732,
+        "cur_std": 0.4737226486206055,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn ychain Kos electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                340,
+                10050,
+                24986,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.59499979019165,
+        "cur_std": 0.4692404747009277,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn ychain P electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                340,
+                10050,
+                367,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.8550000190734863,
+        "best_loss": 3.8524999618530273,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.295000076293945,
+        "cur_std": 0.48809542655944826,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn y SHA P electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                340,
+                38670,
+                367,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.8450000286102295,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.25499963760376,
+        "cur_std": 0.4438408374786377,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn y eq P electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                340,
+                16186,
+                367,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.8374998569488525,
+        "best_loss": 3.8374998569488525,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.409999847412109,
+        "cur_std": 0.4691158771514893,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn sq eq P electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                367,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.8374998569488525,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.449999809265137,
+        "cur_std": 0.45457825660705564,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn sq eqratio electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                29603,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.8424999713897705,
+        "best_loss": 3.8374998569488525,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.269999980926514,
+        "cur_std": 0.4461066246032715,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn sq eqn electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                79,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.8474998474121094,
+        "best_loss": 3.8374998569488525,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.339999675750732,
+        "cur_std": 0.43483891487121584,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "ordered two Cyn Lyn sq eq R electrical insulators?",
+            "ids": [
+                16586,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                416,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.8349997997283936,
+        "best_loss": 3.8349997997283936,
+        "best_kl": 6.089999675750732,
+        "best_std": 0.4737226486206055,
+        "cur_kl": 6.734999656677246,
+        "cur_std": 0.4726593017578125,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "save two Cyn Lyn sq eq R electrical insulators?",
+            "ids": [
+                15261,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                416,
+                8545,
+                1210,
+                28457,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.807499885559082,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.549999713897705,
+        "best_std": 0.46059360504150393,
+        "cur_kl": 5.549999713897705,
+        "cur_std": 0.46059360504150393,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "save two Cyn Lyn sq eq R electrical insulators).",
+            "ids": [
+                15261,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                416,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.8125,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.549999713897705,
+        "best_std": 0.46059360504150393,
+        "cur_kl": 6.25,
+        "cur_std": 0.4674506187438965,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "tree two Cyn Lyn sq eq R electrical insulators).",
+            "ids": [
+                12588,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                416,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.809999942779541,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.549999713897705,
+        "best_std": 0.46059360504150393,
+        "cur_kl": 6.059999942779541,
+        "cur_std": 0.4651642322540283,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "tree two Cyn Lyn sq eq PROC electrical insulators).",
+            "ids": [
+                12588,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                25717,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -112.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.799999952316284,
+        "best_loss": 3.799999952316284,
+        "best_kl": 5.5,
+        "best_std": 0.44777789115905764,
+        "cur_kl": 5.5,
+        "cur_std": 0.44777789115905764,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "tree two Cyn Lyn sq eqink electrical insulators).",
+            "ids": [
+                12588,
+                767,
+                38789,
+                13619,
+                34703,
+                16186,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.804999828338623,
+        "best_loss": 3.799999952316284,
+        "best_kl": 5.404999732971191,
+        "best_std": 0.45708208084106444,
+        "cur_kl": 5.404999732971191,
+        "cur_std": 0.45708208084106444,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "tree two Sunny Lyn sq eqink electrical insulators).",
+            "ids": [
+                12588,
+                767,
+                47998,
+                13619,
+                34703,
+                16186,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.797499895095825,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.404999732971191,
+        "best_std": 0.45708208084106444,
+        "cur_kl": 5.730000019073486,
+        "cur_std": 0.48007893562316895,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "tree two Spark Lyn sq eqink electrical insulators).",
+            "ids": [
+                12588,
+                767,
+                33308,
+                13619,
+                34703,
+                16186,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.809999942779541,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.404999732971191,
+        "best_std": 0.45708208084106444,
+        "cur_kl": 5.859999656677246,
+        "cur_std": 0.4786386013031006,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "� two Spark Lyn sq eqink electrical insulators).",
+            "ids": [
+                37300,
+                767,
+                33308,
+                13619,
+                34703,
+                16186,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.7925000190734863,
+        "best_loss": 3.7925000190734863,
+        "best_kl": 5.404999732971191,
+        "best_std": 0.45708208084106444,
+        "cur_kl": 5.730000019073486,
+        "cur_std": 0.48473777770996096,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Spark Lyn sq eqink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                33308,
+                13619,
+                34703,
+                16186,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.7849998474121094,
+        "best_loss": 3.7849998474121094,
+        "best_kl": 5.299999713897705,
+        "best_std": 0.4392371654510498,
+        "cur_kl": 5.299999713897705,
+        "cur_std": 0.4392371654510498,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Spark Lyn sqebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                33308,
+                13619,
+                34703,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.7749998569488525,
+        "best_loss": 3.7749998569488525,
+        "best_kl": 5.299999713897705,
+        "best_std": 0.4392371654510498,
+        "cur_kl": 5.304999828338623,
+        "cur_std": 0.4201307773590088,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Spark Lyn artsebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                33308,
+                13619,
+                14635,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.7874999046325684,
+        "best_loss": 3.7749998569488525,
+        "best_kl": 5.299999713897705,
+        "best_std": 0.4392371654510498,
+        "cur_kl": 5.534999847412109,
+        "cur_std": 0.45617289543151857,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Spark Lyn reticulebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                33308,
+                13619,
+                38202,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -116.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.7724997997283936,
+        "best_loss": 3.7724997997283936,
+        "best_kl": 5.184999942779541,
+        "best_std": 0.43302173614501954,
+        "cur_kl": 5.184999942779541,
+        "cur_std": 0.43302173614501954,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Spark Lyngcebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                33308,
+                13619,
+                23654,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.771250009536743,
+        "best_loss": 3.771250009536743,
+        "best_kl": 4.900000095367432,
+        "best_std": 0.4228332042694092,
+        "cur_kl": 4.900000095367432,
+        "cur_std": 0.4228332042694092,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Spark Lyn Philebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                33308,
+                13619,
+                6778,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.7674999237060547,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 4.875,
+        "best_std": 0.3968547582626343,
+        "cur_kl": 4.875,
+        "cur_std": 0.3968547582626343,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Spark Eugene Philebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                33308,
+                36362,
+                6778,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.7724997997283936,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 4.739999771118164,
+        "best_std": 0.4803976058959961,
+        "cur_kl": 4.739999771118164,
+        "cur_std": 0.4803976058959961,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two� Eugene Philebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                25762,
+                36362,
+                6778,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.7674999237060547,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 4.474999904632568,
+        "best_std": 0.44417524337768555,
+        "cur_kl": 4.474999904632568,
+        "cur_std": 0.44417524337768555,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two�Western Philebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                25762,
+                27733,
+                6778,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.7624998092651367,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 4.194999694824219,
+        "cur_std": 0.43326892852783205,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two�CRO Philebink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                25762,
+                36228,
+                6778,
+                2275,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.7674999237060547,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 4.335000038146973,
+        "cur_std": 0.42616772651672363,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two�CRO Philimusink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                25762,
+                36228,
+                6778,
+                24439,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.7624998092651367,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 4.454999923706055,
+        "cur_std": 0.44113574028015134,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two�adel Philimusink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                25762,
+                11391,
+                6778,
+                24439,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.7724997997283936,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 4.914999961853027,
+        "cur_std": 0.43531336784362795,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Kraadel Philimusink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                30164,
+                11391,
+                6778,
+                24439,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 47,
+        "loss": 3.7724997997283936,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 4.960000038146973,
+        "cur_std": 0.42353014945983886,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two Kraadelayaimusink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                30164,
+                11391,
+                12451,
+                24439,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.7774999141693115,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 4.775000095367432,
+        "cur_std": 0.45568103790283204,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two12345adelayaimusink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                42594,
+                11391,
+                12451,
+                24439,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.7774999141693115,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 4.46999979019165,
+        "cur_std": 0.4044462203979492,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two impadelayaimusink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                1607,
+                11391,
+                12451,
+                24439,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.7774999141693115,
+        "best_loss": 3.7624998092651367,
+        "best_kl": 4.194999694824219,
+        "best_std": 0.43326892852783205,
+        "cur_kl": 5.009999752044678,
+        "cur_std": 0.4166351318359375,
+        "orig_prompt": {
+            "text": "Name two electrical insulators.",
+            "ids": [
+                2402,
+                767,
+                8545,
+                1210,
+                28457,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Write two impadel Kimusink electrical insulators).",
+            "ids": [
+                10639,
+                767,
+                1607,
+                11391,
+                611,
+                24439,
+                750,
+                8545,
+                1210,
+                28457,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 11,
+            "doc_start_slice": 11,
+            "doc_end_slice": 43
+        },
+        "nll_prompt": -101.0
+    }
+]

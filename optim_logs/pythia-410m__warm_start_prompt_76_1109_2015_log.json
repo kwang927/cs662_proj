@@ -1,0 +1,2302 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.622499942779541,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 7.259999752044678,
+        "cur_std": 0.4646319389343262,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "How tremendous I aerate soil in my garden?",
+            "ids": [
+                2347,
+                19999,
+                309,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -58.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.7337498664855957,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 6.609999656677246,
+        "cur_std": 0.47755584716796873,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " linearly tremendous I aerate soil in my garden?",
+            "ids": [
+                23352,
+                19999,
+                309,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -71.0
+    },
+    {
+        "epoch": 3,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 7.139999866485596,
+        "cur_std": 0.5246008396148681,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "608 tremendous I aerate soil in my garden?",
+            "ids": [
+                25805,
+                19999,
+                309,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.7749998569488525,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 6.944999694824219,
+        "cur_std": 0.5007517337799072,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT tremendous I aerate soil in my garden?",
+            "ids": [
+                28602,
+                19999,
+                309,
+                247,
+                5034,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 8.460000038146973,
+        "cur_std": 0.5836873531341553,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT tremendous I asource soil in my garden?",
+            "ids": [
+                28602,
+                19999,
+                309,
+                247,
+                6756,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.862499952316284,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 8.6899995803833,
+        "cur_std": 0.5843834400177002,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT tremendous Iwivessource soil in my garden?",
+            "ids": [
+                28602,
+                19999,
+                309,
+                44801,
+                6756,
+                8825,
+                275,
+                619,
+                10329,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.8349997997283936,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 12.444999694824219,
+        "cur_std": 0.6442008018493652,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT tremendous Iwivessource soil in my Within?",
+            "ids": [
+                28602,
+                19999,
+                309,
+                44801,
+                6756,
+                8825,
+                275,
+                619,
+                15092,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.794999837875366,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 9.760000228881836,
+        "cur_std": 0.6136281013488769,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iwivessource soil in my Within?",
+            "ids": [
+                28602,
+                18973,
+                309,
+                44801,
+                6756,
+                8825,
+                275,
+                619,
+                15092,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -98.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.65874981880188,
+        "best_loss": 3.622499942779541,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 7.569999694824219,
+        "cur_std": 0.5562328338623047,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iwivessource soil in my Within**.",
+            "ids": [
+                28602,
+                18973,
+                309,
+                44801,
+                6756,
+                8825,
+                275,
+                619,
+                15092,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.5612499713897705,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 7.434999942779541,
+        "cur_std": 0.517894697189331,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iistysource soil in my Within**.",
+            "ids": [
+                28602,
+                18973,
+                309,
+                39660,
+                6756,
+                8825,
+                275,
+                619,
+                15092,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.6962499618530273,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 8.554999351501465,
+        "cur_std": 0.5851657867431641,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iistysource soil in unconscious Within**.",
+            "ids": [
+                28602,
+                18973,
+                309,
+                39660,
+                6756,
+                8825,
+                275,
+                22382,
+                15092,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.8899998664855957,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 7.574999809265137,
+        "cur_std": 0.5295020580291748,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iisty squeeze soil in unconscious Within**.",
+            "ids": [
+                28602,
+                18973,
+                309,
+                39660,
+                29684,
+                8825,
+                275,
+                22382,
+                15092,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.6374998092651367,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 7.00499963760376,
+        "cur_std": 0.5191531181335449,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iisty squeeze soil in unconscious balls**.",
+            "ids": [
+                28602,
+                18973,
+                309,
+                39660,
+                29684,
+                8825,
+                275,
+                22382,
+                15254,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.742499828338623,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 7.139999866485596,
+        "cur_std": 0.5367824077606201,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iisty squeeze soil ounces unconscious balls**.",
+            "ids": [
+                28602,
+                18973,
+                309,
+                39660,
+                29684,
+                8825,
+                28409,
+                22382,
+                15254,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.7587499618530273,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.545000076293945,
+        "cur_std": 0.6313403606414795,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Region Iisty squeeze garage ounces unconscious balls**.",
+            "ids": [
+                28602,
+                18973,
+                309,
+                39660,
+                29684,
+                19476,
+                28409,
+                22382,
+                15254,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -114.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.819999933242798,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.755000114440918,
+        "cur_std": 0.64813232421875,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UTgas Iisty squeeze garage ounces unconscious balls**.",
+            "ids": [
+                28602,
+                22228,
+                309,
+                39660,
+                29684,
+                19476,
+                28409,
+                22382,
+                15254,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.799999952316284,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 12.09000015258789,
+        "cur_std": 0.6706088066101075,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UTgas Iisty squeeze garage graphene unconscious balls**.",
+            "ids": [
+                28602,
+                22228,
+                309,
+                39660,
+                29684,
+                19476,
+                23076,
+                22382,
+                15254,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -115.0
+    },
+    {
+        "epoch": 18,
+        "loss": 3.9375,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.019999504089355,
+        "cur_std": 0.6299318790435791,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UTgas Iisty squeeze houses graphene unconscious balls**.",
+            "ids": [
+                28602,
+                22228,
+                309,
+                39660,
+                29684,
+                9910,
+                23076,
+                22382,
+                15254,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.9099998474121094,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.050000190734863,
+        "cur_std": 0.6505437374114991,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UTgas Iisty squeeze houses graphene unconsciousilant**.",
+            "ids": [
+                28602,
+                22228,
+                309,
+                39660,
+                29684,
+                9910,
+                23076,
+                22382,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.8474998474121094,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.094999313354492,
+        "cur_std": 0.5972874164581299,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT dioxide Iisty squeeze houses graphene unconsciousilant**.",
+            "ids": [
+                28602,
+                21295,
+                309,
+                39660,
+                29684,
+                9910,
+                23076,
+                22382,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -125.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.757499933242798,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.654999732971191,
+        "cur_std": 0.6350731372833252,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT dioxide Maristy squeeze houses graphene unconsciousilant**.",
+            "ids": [
+                28602,
+                21295,
+                2398,
+                39660,
+                29684,
+                9910,
+                23076,
+                22382,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.9574999809265137,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 13.324999809265137,
+        "cur_std": 0.6848422050476074,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT bloggers Maristy squeeze houses graphene unconsciousilant**.",
+            "ids": [
+                28602,
+                41982,
+                2398,
+                39660,
+                29684,
+                9910,
+                23076,
+                22382,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.8299999237060547,
+        "best_loss": 3.5612499713897705,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 12.22499942779541,
+        "cur_std": 0.6518186092376709,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT bloggers Maristy squeeze houses graphenensilant**.",
+            "ids": [
+                28602,
+                41982,
+                2398,
+                39660,
+                29684,
+                9910,
+                23076,
+                2224,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -118.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.4749999046325684,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.199999809265137,
+        "cur_std": 0.6406672954559326,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " UT Kir Maristy squeeze houses graphenensilant**.",
+            "ids": [
+                28602,
+                20799,
+                2398,
+                39660,
+                29684,
+                9910,
+                23076,
+                2224,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.7825000286102295,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.800000190734863,
+        "cur_std": 0.6263167858123779,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Kir Maristy squeeze houses graphenensilant**.",
+            "ids": [
+                31679,
+                20799,
+                2398,
+                39660,
+                29684,
+                9910,
+                23076,
+                2224,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.8374998569488525,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 12.6899995803833,
+        "cur_std": 0.6688894748687744,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Kir Maristy squeeze housesoutsidensilant**.",
+            "ids": [
+                31679,
+                20799,
+                2398,
+                39660,
+                29684,
+                9910,
+                40939,
+                2224,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.7099997997283936,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.934999465942383,
+        "cur_std": 0.6641868114471435,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Kir Maristy squeeze housesoutsideFLDilant**.",
+            "ids": [
+                31679,
+                20799,
+                2398,
+                39660,
+                29684,
+                9910,
+                40939,
+                45102,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.809999942779541,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 12.679999351501465,
+        "cur_std": 0.677730941772461,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Kir Maristy squeeze housesoutsideartersilant**.",
+            "ids": [
+                31679,
+                20799,
+                2398,
+                39660,
+                29684,
+                9910,
+                40939,
+                10193,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.919999837875366,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.024999618530273,
+        "cur_std": 0.6436314105987548,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Kir Maristy ion housesoutsideartersilant**.",
+            "ids": [
+                31679,
+                20799,
+                2398,
+                39660,
+                7235,
+                9910,
+                40939,
+                10193,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.8274998664855957,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.869999885559082,
+        "cur_std": 0.6480592727661133,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Kir Marasters ion housesoutsideartersilant**.",
+            "ids": [
+                31679,
+                20799,
+                2398,
+                22854,
+                7235,
+                9910,
+                40939,
+                10193,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -130.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.734999656677246,
+        "cur_std": 0.6599071979522705,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Kir Marasters ion housesoutside activatorilant**.",
+            "ids": [
+                31679,
+                20799,
+                2398,
+                22854,
+                7235,
+                9910,
+                40939,
+                35196,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.8112499713897705,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.300000190734863,
+        "cur_std": 0.6073206424713135,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous Marasters ion housesoutside activatorilant**.",
+            "ids": [
+                31679,
+                34922,
+                2398,
+                22854,
+                7235,
+                9910,
+                40939,
+                35196,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.8062498569488525,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.469999313354492,
+        "cur_std": 0.6330070972442627,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous Marasters ion housesPages activatorilant**.",
+            "ids": [
+                31679,
+                34922,
+                2398,
+                22854,
+                7235,
+                9910,
+                38496,
+                35196,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.807499885559082,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.380000114440918,
+        "cur_std": 0.6076581954956055,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous Marasters ion housesPagesGradeilant**.",
+            "ids": [
+                31679,
+                34922,
+                2398,
+                22854,
+                7235,
+                9910,
+                38496,
+                45137,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 35,
+        "loss": 3.922499895095825,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.619999885559082,
+        "cur_std": 0.6032788753509521,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous Marasters dry housesPagesGradeilant**.",
+            "ids": [
+                31679,
+                34922,
+                2398,
+                22854,
+                6079,
+                9910,
+                38496,
+                45137,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -123.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.7300000190734863,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.479999542236328,
+        "cur_std": 0.6194621086120605,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous Marasters dry housesPagesPPORTilant**.",
+            "ids": [
+                31679,
+                34922,
+                2398,
+                22854,
+                6079,
+                9910,
+                38496,
+                27425,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -127.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.7962498664855957,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.269999504089355,
+        "cur_std": 0.6189115524291993,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous versionsasters dry housesPagesPPORTilant**.",
+            "ids": [
+                31679,
+                34922,
+                9508,
+                22854,
+                6079,
+                9910,
+                38496,
+                27425,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.210000038146973,
+        "cur_std": 0.6054124355316162,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous versionsasters empl housesPagesPPORTilant**.",
+            "ids": [
+                31679,
+                34922,
+                9508,
+                22854,
+                24795,
+                9910,
+                38496,
+                27425,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.8924999237060547,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 11.694999694824219,
+        "cur_std": 0.6158223152160645,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous versionsasters empl housesPages coverageilant**.",
+            "ids": [
+                31679,
+                34922,
+                9508,
+                22854,
+                24795,
+                9910,
+                38496,
+                7031,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.723749876022339,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.654999732971191,
+        "cur_std": 0.6160600662231446,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous versions bead empl housesPages coverageilant**.",
+            "ids": [
+                31679,
+                34922,
+                9508,
+                34279,
+                24795,
+                9910,
+                38496,
+                7031,
+                39821,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -132.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.711249828338623,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.264999389648438,
+        "cur_std": 0.6308345794677734,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous versions bead empl housesPages coverage pollution**.",
+            "ids": [
+                31679,
+                34922,
+                9508,
+                34279,
+                24795,
+                9910,
+                38496,
+                7031,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.8974997997283936,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 9.795000076293945,
+        "cur_std": 0.6199582576751709,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar vigorous versions bead empl housesPages Pad pollution**.",
+            "ids": [
+                31679,
+                34922,
+                9508,
+                34279,
+                24795,
+                9910,
+                38496,
+                20254,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.8924999237060547,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 9.8149995803833,
+        "cur_std": 0.5917212963104248,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": "edar Maker versions bead empl housesPages Pad pollution**.",
+            "ids": [
+                31679,
+                45325,
+                9508,
+                34279,
+                24795,
+                9910,
+                38496,
+                20254,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -136.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.788749933242798,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.734999656677246,
+        "cur_std": 0.6459843158721924,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Fowler Maker versions bead empl housesPages Pad pollution**.",
+            "ids": [
+                47574,
+                45325,
+                9508,
+                34279,
+                24795,
+                9910,
+                38496,
+                20254,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 9.675000190734863,
+        "cur_std": 0.6092873573303222,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Fowler Maker versions bead empl rootPages Pad pollution**.",
+            "ids": [
+                47574,
+                45325,
+                9508,
+                34279,
+                24795,
+                5230,
+                38496,
+                20254,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -133.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.75249981880188,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.050000190734863,
+        "cur_std": 0.6313965797424317,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Fowler Maker versions bead empl rootPages427 pollution**.",
+            "ids": [
+                47574,
+                45325,
+                9508,
+                34279,
+                24795,
+                5230,
+                38496,
+                38686,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -135.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.7925000190734863,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 9.460000038146973,
+        "cur_std": 0.6515591144561768,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Fowler Maker versions bead crush rootPages427 pollution**.",
+            "ids": [
+                47574,
+                45325,
+                9508,
+                34279,
+                30582,
+                5230,
+                38496,
+                38686,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -128.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.757499933242798,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.15999984741211,
+        "cur_std": 0.6043144702911377,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " Fowler Maker versions installing crush rootPages427 pollution**.",
+            "ids": [
+                47574,
+                45325,
+                9508,
+                20864,
+                30582,
+                5230,
+                38496,
+                38686,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -122.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.8949999809265137,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.069999694824219,
+        "cur_std": 0.6238937854766846,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 1882 Maker versions installing crush rootPages427 pollution**.",
+            "ids": [
+                49325,
+                45325,
+                9508,
+                20864,
+                30582,
+                5230,
+                38496,
+                38686,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -124.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.625,
+        "best_loss": 3.4749999046325684,
+        "best_kl": 6.174999713897705,
+        "best_std": 0.41306777000427247,
+        "cur_kl": 10.375,
+        "cur_std": 0.6461765766143799,
+        "orig_prompt": {
+            "text": "Name two ways to aerate soil.",
+            "ids": [
+                2402,
+                767,
+                4088,
+                281,
+                247,
+                5034,
+                8825,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 8,
+            "doc_start_slice": 8,
+            "doc_end_slice": 40
+        },
+        "optim_prompt": {
+            "text": " 1882 Maker versionsarded crush rootPages427 pollution**.",
+            "ids": [
+                49325,
+                45325,
+                9508,
+                13073,
+                30582,
+                5230,
+                38496,
+                38686,
+                17432,
+                12530
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "nll_prompt": -131.0
+    }
+]

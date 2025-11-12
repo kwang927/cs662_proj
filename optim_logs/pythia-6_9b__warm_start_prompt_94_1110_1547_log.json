@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.4549999237060547,
+        "best_loss": 3.4549999237060547,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 9.114999771118164,
+        "cur_std": 0.5127222061157226,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Can you tact an inspiring book for starting up a business?",
+            "ids": [
+                5804,
+                368,
+                13253,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -59.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.4362499713897705,
+        "best_loss": 3.4362499713897705,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 8.887499809265137,
+        "cur_std": 0.526115608215332,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Can you onClick an inspiring book for starting up a business?",
+            "ids": [
+                5804,
+                368,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -61.75
+    },
+    {
+        "epoch": 3,
+        "loss": 3.4624998569488525,
+        "best_loss": 3.4362499713897705,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 9.592499732971191,
+        "cur_std": 0.5802043437957763,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "hton you onClick an inspiring book for starting up a business?",
+            "ids": [
+                41844,
+                368,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -71.5
+    },
+    {
+        "epoch": 4,
+        "loss": 3.4149999618530273,
+        "best_loss": 3.4149999618530273,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 8.789999961853027,
+        "cur_std": 0.5989017486572266,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "*= you onClick an inspiring book for starting up a business?",
+            "ids": [
+                13912,
+                368,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 9.335000038146973,
+        "cur_std": 0.5574927806854248,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " time you onClick an inspiring book for starting up a business?",
+            "ids": [
+                673,
+                368,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.444999933242798,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 9.394999504089355,
+        "cur_std": 0.5797528743743896,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " timeitter onClick an inspiring book for starting up a business?",
+            "ids": [
+                673,
+                4069,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.492499828338623,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 9.767499923706055,
+        "cur_std": 0.6203539848327637,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": " IFNitter onClick an inspiring book for starting up a business?",
+            "ids": [
+                15006,
+                4069,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.4237499237060547,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 8.704999923706055,
+        "best_std": 0.5122166633605957,
+        "cur_kl": 8.707499504089355,
+        "cur_std": 0.564546537399292,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "KSitter onClick an inspiring book for starting up a business?",
+            "ids": [
+                14007,
+                4069,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.411249876022339,
+        "best_loss": 3.4024999141693115,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.534999847412109,
+        "cur_std": 0.5808173179626465,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "KSitter onClick an inspiring book for starting up a business).",
+            "ids": [
+                14007,
+                4069,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.375,
+        "best_loss": 3.375,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.924999713897705,
+        "cur_std": 0.5647974491119385,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "chesitter onClick an inspiring book for starting up a business).",
+            "ids": [
+                2706,
+                4069,
+                39144,
+                271,
+                29853,
+                1984,
+                323,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.3999998569488525,
+        "best_loss": 3.375,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.220000267028809,
+        "cur_std": 0.5560080528259277,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "chesitter onClick an inspiring book causes starting up a business).",
+            "ids": [
+                2706,
+                4069,
+                39144,
+                271,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.4312498569488525,
+        "best_loss": 3.375,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 9.172499656677246,
+        "cur_std": 0.5436466693878174,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ches \t onClick an inspiring book causes starting up a business).",
+            "ids": [
+                2706,
+                28910,
+                39144,
+                271,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.429999828338623,
+        "best_loss": 3.375,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.612500190734863,
+        "cur_std": 0.5912383556365967,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ches Dix onClick an inspiring book causes starting up a business).",
+            "ids": [
+                2706,
+                47572,
+                39144,
+                271,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 14,
+        "loss": 3.322499990463257,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.582499504089355,
+        "cur_std": 0.5957875728607178,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ches Gordon onClick an inspiring book causes starting up a business).",
+            "ids": [
+                2706,
+                17419,
+                39144,
+                271,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.3662500381469727,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.789999961853027,
+        "cur_std": 0.6179932594299317,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ches Gordonlyn an inspiring book causes starting up a business).",
+            "ids": [
+                2706,
+                17419,
+                13931,
+                271,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.4187498092651367,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.609999656677246,
+        "cur_std": 0.5949420928955078,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "chesJesslyn an inspiring book causes starting up a business).",
+            "ids": [
+                2706,
+                45976,
+                13931,
+                271,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -91.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.3899998664855957,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.505000114440918,
+        "cur_std": 0.5828458786010742,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "chesJesslynbecause inspiring book causes starting up a business).",
+            "ids": [
+                2706,
+                45976,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.348749876022339,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.387499809265137,
+        "cur_std": 0.5803317546844482,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "IGHTJesslynbecause inspiring book causes starting up a business).",
+            "ids": [
+                9981,
+                45976,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.391249895095825,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.380000114440918,
+        "cur_std": 0.5572465896606446,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "IGHTнlynbecause inspiring book causes starting up a business).",
+            "ids": [
+                9981,
+                1640,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.4375,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.417499542236328,
+        "cur_std": 0.5517768859863281,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "TRACEнlynbecause inspiring book causes starting up a business).",
+            "ids": [
+                38448,
+                1640,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.379999876022339,
+        "best_loss": 3.322499990463257,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.234999656677246,
+        "cur_std": 0.5836667537689209,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ancнlynbecause inspiring book causes starting up a business).",
+            "ids": [
+                1377,
+                1640,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.3137500286102295,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.0649995803833,
+        "cur_std": 0.560208511352539,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "AEнlynbecause inspiring book causes starting up a business).",
+            "ids": [
+                12648,
+                1640,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.429999828338623,
+        "best_loss": 3.3137500286102295,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.077499389648438,
+        "cur_std": 0.5459527015686035,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "sellнlynbecause inspiring book causes starting up a business).",
+            "ids": [
+                39217,
+                1640,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.297499895095825,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.52750015258789,
+        "cur_std": 0.5765393733978271,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "weredнlynbecause inspiring book causes starting up a business).",
+            "ids": [
+                8736,
+                1640,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.4024999141693115,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.467499732971191,
+        "cur_std": 0.5604793071746826,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ochondнlynbecause inspiring book causes starting up a business).",
+            "ids": [
+                9217,
+                1640,
+                13931,
+                12157,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.419999837875366,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.684999465942383,
+        "cur_std": 0.5874703884124756,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ochondнlynlifeless inspiring book causes starting up a business).",
+            "ids": [
+                9217,
+                1640,
+                13931,
+                44466,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.4287500381469727,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.630000114440918,
+        "cur_std": 0.5797452926635742,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ochondTemplynlifeless inspiring book causes starting up a business).",
+            "ids": [
+                9217,
+                31871,
+                13931,
+                44466,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.43999981880188,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 9.1875,
+        "cur_std": 0.6117470741271973,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "ochondTemplyn overwhel inspiring book causes starting up a business).",
+            "ids": [
+                9217,
+                31871,
+                13931,
+                12357,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.4375,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.914999961853027,
+        "cur_std": 0.6489232063293457,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "TOPTemplyn overwhel inspiring book causes starting up a business).",
+            "ids": [
+                32887,
+                31871,
+                13931,
+                12357,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.4099998474121094,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.989999771118164,
+        "cur_std": 0.6219564437866211,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "TOPTemplyn528 inspiring book causes starting up a business).",
+            "ids": [
+                32887,
+                31871,
+                13931,
+                42949,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.4724998474121094,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.852499961853027,
+        "cur_std": 0.6177518367767334,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerTemplyn528 inspiring book causes starting up a business).",
+            "ids": [
+                26428,
+                31871,
+                13931,
+                42949,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.384999990463257,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.494999885559082,
+        "cur_std": 0.5886444091796875,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerConglyn528 inspiring book causes starting up a business).",
+            "ids": [
+                26428,
+                22960,
+                13931,
+                42949,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.442499876022339,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.494999885559082,
+        "cur_std": 0.5945351123809814,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerConglyn Peggy inspiring book causes starting up a business).",
+            "ids": [
+                26428,
+                22960,
+                13931,
+                49567,
+                29853,
+                1984,
+                5997,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.3137500286102295,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.324999809265137,
+        "cur_std": 0.571066951751709,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerConglyn Peggy inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                22960,
+                13931,
+                49567,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.4312498569488525,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.657500267028809,
+        "cur_std": 0.5769526958465576,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger takeslyn Peggy inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                3936,
+                13931,
+                49567,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.612500190734863,
+        "cur_std": 0.5973042964935302,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger takes daily Peggy inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                3936,
+                5312,
+                49567,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.338749885559082,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.734999656677246,
+        "cur_std": 0.598217248916626,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger takes dailyfloat inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                3936,
+                5312,
+                9599,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.3237500190734863,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.264999389648438,
+        "cur_std": 0.5866875171661377,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger956 dailyfloat inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                36176,
+                5312,
+                9599,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.3562498092651367,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.177499771118164,
+        "cur_std": 0.5669817924499512,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger956 dailyty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                36176,
+                5312,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 40,
+        "loss": 3.427500009536743,
+        "best_loss": 3.297499895095825,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.21500015258789,
+        "cur_std": 0.5827271938323975,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger956oty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                36176,
+                80,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.2899999618530273,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.059999465942383,
+        "cur_std": 0.5340681552886963,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerBertoty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                49340,
+                80,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.3399999141693115,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.0024995803833,
+        "cur_std": 0.580778980255127,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger scroty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                7362,
+                80,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.3662500381469727,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.710000038146973,
+        "cur_std": 0.5526762008666992,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger scrBEty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                7362,
+                8998,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 8.232500076293945,
+        "cur_std": 0.578641939163208,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger scr Adety inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                7362,
+                41260,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.799999713897705,
+        "cur_std": 0.5829761028289795,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger scr525ty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                7362,
+                37219,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.3237500190734863,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.672499656677246,
+        "cur_std": 0.5719638347625733,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger scrFFFFty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                7362,
+                15651,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.4149999618530273,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.699999809265137,
+        "cur_std": 0.5450071334838867,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "Logger VolumeFFFFty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                22248,
+                15651,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -112.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.3587498664855957,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.549999713897705,
+        "cur_std": 0.5529420852661133,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerWellFFFFty inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                4497,
+                15651,
+                555,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.3924999237060547,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.62999963760376,
+        "cur_std": 0.5683962345123291,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerWellFFFFstable inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                4497,
+                15651,
+                11351,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -116.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.3712499141693115,
+        "best_loss": 3.2899999618530273,
+        "best_kl": 7.534999847412109,
+        "best_std": 0.5808173179626465,
+        "cur_kl": 7.710000038146973,
+        "cur_std": 0.561200475692749,
+        "orig_prompt": {
+            "text": "Suggest an interesting book to read.",
+            "ids": [
+                49969,
+                271,
+                4722,
+                1984,
+                281,
+                1239,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 7,
+            "doc_start_slice": 7,
+            "doc_end_slice": 39
+        },
+        "optim_prompt": {
+            "text": "LoggerWellelessstable inspiring bookMother starting up a business).",
+            "ids": [
+                26428,
+                4497,
+                6134,
+                11351,
+                29853,
+                1984,
+                29859,
+                4983,
+                598,
+                247,
+                2136,
+                481
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -116.5
+    }
+]

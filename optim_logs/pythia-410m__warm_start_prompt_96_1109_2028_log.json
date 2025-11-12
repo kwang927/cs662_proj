@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.9499998092651367,
+        "best_loss": 3.9499998092651367,
+        "best_kl": 6.554999828338623,
+        "best_std": 0.5519430637359619,
+        "cur_kl": 6.554999828338623,
+        "cur_std": 0.5519430637359619,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Explainplacian of the cultural distinctions between China and Japan.",
+            "ids": [
+                1672,
+                19104,
+                43917,
+                273,
+                253,
+                8928,
+                42060,
+                875,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -61.25
+    },
+    {
+        "epoch": 2,
+        "loss": 3.8924999237060547,
+        "best_loss": 3.8924999237060547,
+        "best_kl": 5.929999828338623,
+        "best_std": 0.4573209285736084,
+        "cur_kl": 5.929999828338623,
+        "cur_std": 0.4573209285736084,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Explainplacian of the artificial distinctions between China and Japan.",
+            "ids": [
+                1672,
+                19104,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.81499981880188,
+        "best_loss": 3.81499981880188,
+        "best_kl": 5.474999904632568,
+        "best_std": 0.47976083755493165,
+        "cur_kl": 5.474999904632568,
+        "cur_std": 0.47976083755493165,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " invplainplacian of the artificial distinctions between China and Japan.",
+            "ids": [
+                828,
+                19104,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -75.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.865000009536743,
+        "best_loss": 3.81499981880188,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.089999675750732,
+        "cur_std": 0.3765459775924683,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " invplainplacian of the artificial distinctions between China and fungi.",
+            "ids": [
+                828,
+                19104,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.797499895095825,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.509999752044678,
+        "cur_std": 0.382771635055542,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "platformplainplacian of the artificial distinctions between China and fungi.",
+            "ids": [
+                19161,
+                19104,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.8324999809265137,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.894999980926514,
+        "cur_std": 0.39767601490020754,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " disseminationplainplacian of the artificial distinctions between China and fungi.",
+            "ids": [
+                36404,
+                19104,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -94.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.8924999237060547,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.259999752044678,
+        "cur_std": 0.33877975940704347,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Bufplainplacian of the artificial distinctions between China and fungi.",
+            "ids": [
+                42236,
+                19104,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.8550000190734863,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.389999866485596,
+        "cur_std": 0.3471078395843506,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Bufaceticplacian of the artificial distinctions between China and fungi.",
+            "ids": [
+                42236,
+                39548,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.8949999809265137,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.440000057220459,
+        "cur_std": 0.3691568374633789,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Buf guineaplacian of the artificial distinctions between China and fungi.",
+            "ids": [
+                42236,
+                40315,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.7774999141693115,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.315000057220459,
+        "cur_std": 0.3476221799850464,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Buf wiselyplacian of the artificial distinctions between China and fungi.",
+            "ids": [
+                42236,
+                46529,
+                43917,
+                273,
+                253,
+                13345,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -90.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.875,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.914999961853027,
+        "cur_std": 0.4023325443267822,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Buf wiselyplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                42236,
+                46529,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.8899998664855957,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.694999694824219,
+        "cur_std": 0.4030749797821045,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " BufPrimplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                42236,
+                18204,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.865000009536743,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.949999809265137,
+        "cur_std": 0.4134420871734619,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Bufονplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                42236,
+                28649,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.924999713897705,
+        "cur_std": 0.43845314979553224,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "brονplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                1288,
+                28649,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.7799999713897705,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.099999904632568,
+        "cur_std": 0.4321662425994873,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "br inducingplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                1288,
+                24635,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.807499885559082,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.775000095367432,
+        "cur_std": 0.3960904359817505,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "brtheyplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                1288,
+                9328,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.869999885559082,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.440000057220459,
+        "cur_std": 0.42386388778686523,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ilizedtheyplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                19944,
+                9328,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.9075000286102295,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.00499963760376,
+        "cur_std": 0.37621822357177737,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "ryingtheyplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                11729,
+                9328,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.867499828338623,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.059999942779541,
+        "cur_std": 0.4082037448883057,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OStheyplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                2697,
+                9328,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -100.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.9099998474121094,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 7.309999942779541,
+        "cur_std": 0.44510698318481445,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OS Johannesplacian of the CHO distinctions between China and fungi.",
+            "ids": [
+                2697,
+                41474,
+                43917,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.674999713897705,
+        "cur_std": 0.44417529106140136,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OS Johanneswind of the CHO distinctions between China and fungi.",
+            "ids": [
+                2697,
+                41474,
+                16668,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.8524999618530273,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.96999979019165,
+        "cur_std": 0.4323310375213623,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OS Johannes227 of the CHO distinctions between China and fungi.",
+            "ids": [
+                2697,
+                41474,
+                20785,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.8899998664855957,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.934999942779541,
+        "cur_std": 0.40468559265136717,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OSversion227 of the CHO distinctions between China and fungi.",
+            "ids": [
+                2697,
+                4149,
+                20785,
+                273,
+                253,
+                45534,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.8374998569488525,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.509999752044678,
+        "cur_std": 0.4091738224029541,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OSversion227 of the Seven distinctions between China and fungi.",
+            "ids": [
+                2697,
+                4149,
+                20785,
+                273,
+                253,
+                20400,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -97.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.882499933242798,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.199999809265137,
+        "cur_std": 0.4144486427307129,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "OSpbio227 of the Seven distinctions between China and fungi.",
+            "ids": [
+                2697,
+                27889,
+                20785,
+                273,
+                253,
+                20400,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.862499952316284,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.25499963760376,
+        "cur_std": 0.3983231782913208,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio227 of the Seven distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                20785,
+                273,
+                253,
+                20400,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.7874999046325684,
+        "best_loss": 3.7774999141693115,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.824999809265137,
+        "cur_std": 0.3675179719924927,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio227 of Miller Seven distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                20785,
+                273,
+                11418,
+                20400,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.7674999237060547,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 5.949999809265137,
+        "cur_std": 0.39800639152526857,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio227 of MillerARD distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                20785,
+                273,
+                11418,
+                10449,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.826249837875366,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.34499979019165,
+        "cur_std": 0.40017008781433105,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio glasses of MillerARD distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                17543,
+                273,
+                11418,
+                10449,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.875,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.75499963760376,
+        "cur_std": 0.39558770656585696,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio glasses overload MillerARD distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                17543,
+                31778,
+                11418,
+                10449,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -118.0
+    },
+    {
+        "epoch": 31,
+        "loss": 3.8949999809265137,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.634999752044678,
+        "cur_std": 0.39777507781982424,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio Yellow overload MillerARD distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                25056,
+                31778,
+                11418,
+                10449,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -121.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.974999904632568,
+        "cur_std": 0.40987648963928225,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio� overload MillerARD distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                9078,
+                31778,
+                11418,
+                10449,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -120.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.8949999809265137,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.079999923706055,
+        "cur_std": 0.3623520374298096,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio迗 MillerARD distinctions between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                9078,
+                234,
+                11418,
+                10449,
+                42060,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.5
+    },
+    {
+        "epoch": 34,
+        "loss": 3.882499933242798,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.194999694824219,
+        "cur_std": 0.3920223951339722,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio迗 MillerARDight between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                9078,
+                234,
+                11418,
+                10449,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.8974997997283936,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 7.039999961853027,
+        "cur_std": 0.4079190731048584,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " sampbio亗 MillerARDight between China and fungi.",
+            "ids": [
+                1775,
+                27889,
+                5494,
+                234,
+                11418,
+                10449,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.819999933242798,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 7.819999694824219,
+        "cur_std": 0.41902480125427244,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " neighborpbio亗 MillerARDight between China and fungi.",
+            "ids": [
+                6346,
+                27889,
+                5494,
+                234,
+                11418,
+                10449,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -111.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.9175000190734863,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.690000057220459,
+        "cur_std": 0.4259143352508545,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " neighborpbio亗 Millerčight between China and fungi.",
+            "ids": [
+                6346,
+                27889,
+                5494,
+                234,
+                11418,
+                7090,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.87749981880188,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.204999923706055,
+        "cur_std": 0.4031501293182373,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "COLpbio亗 Millerčight between China and fungi.",
+            "ids": [
+                19686,
+                27889,
+                5494,
+                234,
+                11418,
+                7090,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -120.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.867499828338623,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.589999675750732,
+        "cur_std": 0.4044812202453613,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "COLogon亗 Millerčight between China and fungi.",
+            "ids": [
+                19686,
+                38931,
+                5494,
+                234,
+                11418,
+                7090,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.807499885559082,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.109999656677246,
+        "cur_std": 0.367944073677063,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janeogon亗 Millerčight between China and fungi.",
+            "ids": [
+                45478,
+                38931,
+                5494,
+                234,
+                11418,
+                7090,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.8949999809265137,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.329999923706055,
+        "cur_std": 0.36564733982086184,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janeogon亗 Millernalight between China and fungi.",
+            "ids": [
+                45478,
+                38931,
+                5494,
+                234,
+                11418,
+                2110,
+                429,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.924999952316284,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.375,
+        "cur_std": 0.37392101287841795,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janeogon亗 Millernal conversion between China and fungi.",
+            "ids": [
+                45478,
+                38931,
+                5494,
+                234,
+                11418,
+                2110,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -117.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.9075000286102295,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 7.119999885559082,
+        "cur_std": 0.41494312286376955,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janeogon�并 Millernal conversion between China and fungi.",
+            "ids": [
+                45478,
+                38931,
+                5494,
+                42843,
+                11418,
+                2110,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.9124999046325684,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 7.384999752044678,
+        "cur_std": 0.4018803596496582,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janeogon�并 Miller RGB conversion between China and fungi.",
+            "ids": [
+                45478,
+                38931,
+                5494,
+                42843,
+                11418,
+                33270,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -124.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.924999952316284,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 7.059999942779541,
+        "cur_std": 0.38777272701263427,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janebre�并 Miller RGB conversion between China and fungi.",
+            "ids": [
+                45478,
+                3381,
+                5494,
+                42843,
+                11418,
+                33270,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -126.0
+    },
+    {
+        "epoch": 46,
+        "loss": 3.879999876022339,
+        "best_loss": 3.7674999237060547,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.954999923706055,
+        "cur_std": 0.37746462821960447,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janebre�并 Millerob conversion between China and fungi.",
+            "ids": [
+                45478,
+                3381,
+                5494,
+                42843,
+                11418,
+                706,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -129.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.7649998664855957,
+        "best_loss": 3.7649998664855957,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.414999961853027,
+        "cur_std": 0.4012640953063965,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janebre466并 Millerob conversion between China and fungi.",
+            "ids": [
+                45478,
+                3381,
+                43490,
+                42843,
+                11418,
+                706,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -119.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.8999998569488525,
+        "best_loss": 3.7649998664855957,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.230000019073486,
+        "cur_std": 0.38194215297698975,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janebre466并 Miller 495 conversion between China and fungi.",
+            "ids": [
+                45478,
+                3381,
+                43490,
+                42843,
+                11418,
+                40191,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -117.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.7649998664855957,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.730000019073486,
+        "cur_std": 0.39212062358856203,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janebre466Ot Miller 495 conversion between China and fungi.",
+            "ids": [
+                45478,
+                3381,
+                43490,
+                43468,
+                11418,
+                40191,
+                9436,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -115.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.809999942779541,
+        "best_loss": 3.7649998664855957,
+        "best_kl": 5.089999675750732,
+        "best_std": 0.3765459775924683,
+        "cur_kl": 6.384999752044678,
+        "cur_std": 0.377782940864563,
+        "orig_prompt": {
+            "text": "Compare and contrast the cultures of China and Japan.",
+            "ids": [
+                33925,
+                285,
+                4499,
+                253,
+                11048,
+                273,
+                4135,
+                285,
+                4047,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "Janebre466Ot Miller 495 >:: between China and fungi.",
+            "ids": [
+                45478,
+                3381,
+                43490,
+                43468,
+                11418,
+                40191,
+                37014,
+                875,
+                4135,
+                285,
+                28056,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 12,
+            "doc_start_slice": 12,
+            "doc_end_slice": 44
+        },
+        "nll_prompt": -122.5
+    }
+]

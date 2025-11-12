@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.862499952316284,
+        "best_loss": 3.862499952316284,
+        "best_kl": 5.835000038146973,
+        "best_std": 0.3897716999053955,
+        "cur_kl": 5.835000038146973,
+        "cur_std": 0.3897716999053955,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI play in Homeland diagnosis?",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                275,
+                38394,
+                6120,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -51.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.8450000286102295,
+        "best_loss": 3.8450000286102295,
+        "best_kl": 5.835000038146973,
+        "best_std": 0.3897716999053955,
+        "cur_kl": 6.37999963760376,
+        "cur_std": 0.4030264377593994,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI play inhealth diagnosis?",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                275,
+                15356,
+                6120,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -46.5
+    },
+    {
+        "epoch": 3,
+        "loss": 3.8399999141693115,
+        "best_loss": 3.8399999141693115,
+        "best_kl": 5.835000038146973,
+        "best_std": 0.3897716999053955,
+        "cur_kl": 5.972499847412109,
+        "cur_std": 0.36303112506866453,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth diagnosis?",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                6120,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.75
+    },
+    {
+        "epoch": 4,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8399999141693115,
+        "best_kl": 5.835000038146973,
+        "best_std": 0.3897716999053955,
+        "cur_kl": 6.404999732971191,
+        "cur_std": 0.3817619562149048,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth navigating?",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                49858,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.5
+    },
+    {
+        "epoch": 5,
+        "loss": 3.8499999046325684,
+        "best_loss": 3.8399999141693115,
+        "best_kl": 5.835000038146973,
+        "best_std": 0.3897716999053955,
+        "cur_kl": 6.484999656677246,
+        "cur_std": 0.4233377933502197,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth presently?",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                21654,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.25
+    },
+    {
+        "epoch": 6,
+        "loss": 3.807499885559082,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 5.652499675750732,
+        "cur_std": 0.4394081115722656,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth presently}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                21654,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.819999933242798,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 5.902499675750732,
+        "cur_std": 0.43097987174987795,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth507}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                27133,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.8349997997283936,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 6.65749979019165,
+        "cur_std": 0.4288323402404785,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth boys}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                8290,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.81499981880188,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 5.807499885559082,
+        "cur_std": 0.42998204231262205,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth Group}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                5901,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.819999933242798,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 6.239999771118164,
+        "cur_std": 0.4150866985321045,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealthEC}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                4625,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.817499876022339,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 5.9375,
+        "cur_std": 0.42246532440185547,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth (*}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                2796,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.81499981880188,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 5.894999980926514,
+        "cur_std": 0.4201547622680664,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth produced}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                4197,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.817499876022339,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.652499675750732,
+        "best_std": 0.4394081115722656,
+        "cur_kl": 5.87999963760376,
+        "cur_std": 0.42242207527160647,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth is}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                310,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.8125,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.355000019073486,
+        "cur_std": 0.4181666851043701,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealth provided}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                2530,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.81499981880188,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.829999923706055,
+        "cur_std": 0.42965922355651853,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playenthealthudes}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                290,
+                15356,
+                14735,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.822499990463257,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.869999885559082,
+        "cur_std": 0.4166133403778076,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI play Mobilehealthudes}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                18805,
+                15356,
+                14735,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.807499885559082,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.884999752044678,
+        "cur_std": 0.4215684413909912,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI play Mobilehealthary}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                18805,
+                15356,
+                552,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.8349997997283936,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 6.072499752044678,
+        "cur_std": 0.4220006465911865,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role does AI playughthealthary}).",
+            "ids": [
+                1276,
+                2554,
+                1057,
+                14980,
+                1132,
+                9932,
+                15356,
+                552,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.81499981880188,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.579999923706055,
+        "cur_std": 0.41795077323913576,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role running AI playughthealthary}).",
+            "ids": [
+                1276,
+                2554,
+                3515,
+                14980,
+                1132,
+                9932,
+                15356,
+                552,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.817499876022339,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.6875,
+        "cur_std": 0.40468177795410154,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "What role running AI Referenceughthealthary}).",
+            "ids": [
+                1276,
+                2554,
+                3515,
+                14980,
+                19039,
+                9932,
+                15356,
+                552,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.819999933242798,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.792500019073486,
+        "cur_std": 0.42160787582397463,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie role running AI Referenceughthealthary}).",
+            "ids": [
+                25858,
+                2554,
+                3515,
+                14980,
+                19039,
+                9932,
+                15356,
+                552,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.807499885559082,
+        "best_loss": 3.807499885559082,
+        "best_kl": 5.355000019073486,
+        "best_std": 0.4181666851043701,
+        "cur_kl": 5.444999694824219,
+        "cur_std": 0.41784048080444336,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie role running AI Livesughthealthary}).",
+            "ids": [
+                25858,
+                2554,
+                3515,
+                14980,
+                38494,
+                9932,
+                15356,
+                552,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.797499895095825,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.03249979019165,
+        "best_std": 0.4129172801971436,
+        "cur_kl": 5.03249979019165,
+        "cur_std": 0.4129172801971436,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie role navigating AI Livesughthealthary}).",
+            "ids": [
+                25858,
+                2554,
+                49858,
+                14980,
+                38494,
+                9932,
+                15356,
+                552,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.799999952316284,
+        "best_loss": 3.797499895095825,
+        "best_kl": 5.03249979019165,
+        "best_std": 0.4129172801971436,
+        "cur_kl": 5.28249979019165,
+        "cur_std": 0.4321758270263672,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie role navigating AI Livesughthealth Cloud}).",
+            "ids": [
+                25858,
+                2554,
+                49858,
+                14980,
+                38494,
+                9932,
+                15356,
+                18189,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.807499885559082,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.927499771118164,
+        "best_std": 0.4010764598846436,
+        "cur_kl": 4.927499771118164,
+        "cur_std": 0.4010764598846436,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials navigating AI Livesughthealth Cloud}).",
+            "ids": [
+                25858,
+                7587,
+                49858,
+                14980,
+                38494,
+                9932,
+                15356,
+                18189,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.804999828338623,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.927499771118164,
+        "best_std": 0.4010764598846436,
+        "cur_kl": 5.059999942779541,
+        "cur_std": 0.4001439094543457,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials navigating AI Livesoonhealth Cloud}).",
+            "ids": [
+                25858,
+                7587,
+                49858,
+                14980,
+                38494,
+                3508,
+                15356,
+                18189,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.799999952316284,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.927499771118164,
+        "best_std": 0.4010764598846436,
+        "cur_kl": 5.197499752044678,
+        "cur_std": 0.42246413230895996,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials navigating AI Livesoonhealtheurs}).",
+            "ids": [
+                25858,
+                7587,
+                49858,
+                14980,
+                38494,
+                3508,
+                15356,
+                34976,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 28,
+        "loss": 3.802500009536743,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.927499771118164,
+        "best_std": 0.4010764598846436,
+        "cur_kl": 5.322499752044678,
+        "cur_std": 0.4164741039276123,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials navigating AI Lives machinehealtheurs}).",
+            "ids": [
+                25858,
+                7587,
+                49858,
+                14980,
+                38494,
+                5145,
+                15356,
+                34976,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.8125,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.927499771118164,
+        "best_std": 0.4010764598846436,
+        "cur_kl": 5.482500076293945,
+        "cur_std": 0.4316730499267578,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials navigating AI Livesroneshealtheurs}).",
+            "ids": [
+                25858,
+                7587,
+                49858,
+                14980,
+                38494,
+                22334,
+                15356,
+                34976,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.809999942779541,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.927499771118164,
+        "best_std": 0.4010764598846436,
+        "cur_kl": 5.119999885559082,
+        "cur_std": 0.4205047607421875,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials navigating AI Livesbuckethealtheurs}).",
+            "ids": [
+                25858,
+                7587,
+                49858,
+                14980,
+                38494,
+                38924,
+                15356,
+                34976,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.797499895095825,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.789999961853027,
+        "best_std": 0.3606377601623535,
+        "cur_kl": 4.789999961853027,
+        "cur_std": 0.3606377601623535,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials doctors AI Livesbuckethealtheurs}).",
+            "ids": [
+                25858,
+                7587,
+                11576,
+                14980,
+                38494,
+                38924,
+                15356,
+                34976,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -113.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.802500009536743,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.75,
+        "best_std": 0.3854356050491333,
+        "cur_kl": 4.75,
+        "cur_std": 0.3854356050491333,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials doctors AI Livesbuckethealthwriting}).",
+            "ids": [
+                25858,
+                7587,
+                11576,
+                14980,
+                38494,
+                38924,
+                15356,
+                17695,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.804999828338623,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.75,
+        "best_std": 0.3854356050491333,
+        "cur_kl": 5.545000076293945,
+        "cur_std": 0.38019766807556155,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials doctors AI Lives перhealthwriting}).",
+            "ids": [
+                25858,
+                7587,
+                11576,
+                14980,
+                38494,
+                26546,
+                15356,
+                17695,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.802500009536743,
+        "best_loss": 3.797499895095825,
+        "best_kl": 4.75,
+        "best_std": 0.3854356050491333,
+        "cur_kl": 5.289999961853027,
+        "cur_std": 0.3955037593841553,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials doctors AI Lives перhealthRec}).",
+            "ids": [
+                25858,
+                7587,
+                11576,
+                14980,
+                38494,
+                26546,
+                15356,
+                6116,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -110.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.7899999618530273,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.612499713897705,
+        "best_std": 0.3875651597976685,
+        "cur_kl": 4.612499713897705,
+        "cur_std": 0.3875651597976685,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials doctors AI Lives перhealth audience}).",
+            "ids": [
+                25858,
+                7587,
+                11576,
+                14980,
+                38494,
+                26546,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.797499895095825,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.612499713897705,
+        "best_std": 0.3875651597976685,
+        "cur_kl": 4.974999904632568,
+        "cur_std": 0.38888437747955323,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "vie trials doctors AI dem перhealth audience}).",
+            "ids": [
+                25858,
+                7587,
+                11576,
+                14980,
+                1471,
+                26546,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.797499895095825,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.612499713897705,
+        "best_std": 0.3875651597976685,
+        "cur_kl": 4.96999979019165,
+        "cur_std": 0.38676459789276124,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysical trials doctors AI dem перhealth audience}).",
+            "ids": [
+                40947,
+                7587,
+                11576,
+                14980,
+                1471,
+                26546,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 38,
+        "loss": 3.799999952316284,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.612499713897705,
+        "best_std": 0.3875651597976685,
+        "cur_kl": 4.867499828338623,
+        "cur_std": 0.41497316360473635,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysical Heath doctors AI dem перhealth audience}).",
+            "ids": [
+                40947,
+                35578,
+                11576,
+                14980,
+                1471,
+                26546,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -114.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.797499895095825,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.612499713897705,
+        "best_std": 0.3875651597976685,
+        "cur_kl": 5.029999732971191,
+        "cur_std": 0.4191634178161621,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysicalospital doctors AI dem перhealth audience}).",
+            "ids": [
+                40947,
+                3494,
+                11576,
+                14980,
+                1471,
+                26546,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.7899999618530273,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.612499713897705,
+        "best_std": 0.3875651597976685,
+        "cur_kl": 5.0,
+        "cur_std": 0.4221756935119629,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysicalospital doctors AI dem epichealth audience}).",
+            "ids": [
+                40947,
+                3494,
+                11576,
+                14980,
+                1471,
+                19876,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.797499895095825,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.612499713897705,
+        "best_std": 0.3875651597976685,
+        "cur_kl": 4.707499980926514,
+        "cur_std": 0.42785072326660156,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysicalospital doctors AI Snap epichealth audience}).",
+            "ids": [
+                40947,
+                3494,
+                11576,
+                14980,
+                36000,
+                19876,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.797499895095825,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 4.572499752044678,
+        "cur_std": 0.4208920955657959,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysicalospital doctors AI Snapphyshealth audience}).",
+            "ids": [
+                40947,
+                3494,
+                11576,
+                14980,
+                36000,
+                14453,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.799999952316284,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 4.902499675750732,
+        "cur_std": 0.39836940765380857,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysicalospital doctors AI Snap Hethealth audience}).",
+            "ids": [
+                40947,
+                3494,
+                11576,
+                14980,
+                36000,
+                33100,
+                15356,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.7899999618530273,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 4.954999923706055,
+        "cur_std": 0.38938536643981936,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": "ophysicalospital doctors AI Snap Het bedside audience}).",
+            "ids": [
+                40947,
+                3494,
+                11576,
+                14980,
+                36000,
+                33100,
+                46922,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 45,
+        "loss": 3.7899999618530273,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 4.764999866485596,
+        "cur_std": 0.40728559494018557,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " storingospital doctors AI Snap Het bedside audience}).",
+            "ids": [
+                20073,
+                3494,
+                11576,
+                14980,
+                36000,
+                33100,
+                46922,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.797499895095825,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 4.809999942779541,
+        "cur_std": 0.4034435272216797,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " storingospital doctors AI Click Het bedside audience}).",
+            "ids": [
+                20073,
+                3494,
+                11576,
+                14980,
+                15682,
+                33100,
+                46922,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.794999837875366,
+        "best_loss": 3.7899999618530273,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 4.659999847412109,
+        "cur_std": 0.39758615493774413,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " storingospital doctors AI Clickcot bedside audience}).",
+            "ids": [
+                20073,
+                3494,
+                11576,
+                14980,
+                15682,
+                27678,
+                46922,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.7825000286102295,
+        "best_loss": 3.7825000286102295,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 4.922499656677246,
+        "cur_std": 0.40398416519165037,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " storingospital doctors AI Heathcot bedside audience}).",
+            "ids": [
+                20073,
+                3494,
+                11576,
+                14980,
+                35578,
+                27678,
+                46922,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 49,
+        "loss": 3.794999837875366,
+        "best_loss": 3.7825000286102295,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 5.377500057220459,
+        "cur_std": 0.40533833503723143,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " storingospital doctors AI Yangcot bedside audience}).",
+            "ids": [
+                20073,
+                3494,
+                11576,
+                14980,
+                19028,
+                27678,
+                46922,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.799999952316284,
+        "best_loss": 3.7825000286102295,
+        "best_kl": 4.572499752044678,
+        "best_std": 0.4208920955657959,
+        "cur_kl": 5.144999980926514,
+        "cur_std": 0.40832839012145994,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " storingospital doctors AIAdvancedcot bedside audience}).",
+            "ids": [
+                20073,
+                3494,
+                11576,
+                14980,
+                42378,
+                27678,
+                46922,
+                8446,
+                38331
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.5
+    }
+]

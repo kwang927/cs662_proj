@@ -1,0 +1,2002 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.2674999237060547,
+        "best_loss": 3.2674999237060547,
+        "best_kl": 7.065000057220459,
+        "best_std": 0.430433464050293,
+        "cur_kl": 7.065000057220459,
+        "cur_std": 0.430433464050293,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": "Psych link building in SEO context",
+            "ids": [
+                36831,
+                3048,
+                3652,
+                275,
+                30278,
+                3634
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -36.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.28125,
+        "best_loss": 3.2674999237060547,
+        "best_kl": 7.065000057220459,
+        "best_std": 0.430433464050293,
+        "cur_kl": 7.244999885559082,
+        "cur_std": 0.4026895046234131,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building in SEO context",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                275,
+                30278,
+                3634
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -30.375
+    },
+    {
+        "epoch": 3,
+        "loss": 3.302500009536743,
+        "best_loss": 3.2674999237060547,
+        "best_kl": 7.065000057220459,
+        "best_std": 0.430433464050293,
+        "cur_kl": 7.464999675750732,
+        "cur_std": 0.4357743263244629,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building deux SEO context",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                23156,
+                30278,
+                3634
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -52.0
+    },
+    {
+        "epoch": 4,
+        "loss": 3.2774999141693115,
+        "best_loss": 3.2674999237060547,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.190000057220459,
+        "cur_std": 0.42439975738525393,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building Balt SEO context",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                15924,
+                30278,
+                3634
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.1649999618530273,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.964999675750732,
+        "cur_std": 0.4156353950500488,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingivation SEO context",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                7639,
+                30278,
+                3634
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -49.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.286249876022339,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.017499923706055,
+        "cur_std": 0.40322651863098147,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building Public SEO context",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                5259,
+                30278,
+                3634
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -49.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.297499895095825,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.139999389648438,
+        "cur_std": 0.40860872268676757,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building Public SEOCfg",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                5259,
+                30278,
+                40822
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.5
+    },
+    {
+        "epoch": 8,
+        "loss": 3.2987499237060547,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.947500228881836,
+        "cur_std": 0.4523409366607666,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building Public GirlsCfg",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                5259,
+                26152,
+                40822
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 9,
+        "loss": 3.393749952316284,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 9.557499885559082,
+        "cur_std": 0.47901487350463867,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building told GirlsCfg",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                2183,
+                26152,
+                40822
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 10,
+        "loss": 3.294999837875366,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.78749942779541,
+        "cur_std": 0.433353328704834,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building told facesCfg",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                2183,
+                9365,
+                40822
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.294999837875366,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.909999847412109,
+        "cur_std": 0.45221843719482424,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building toldotteCfg",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                2183,
+                32567,
+                40822
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 12,
+        "loss": 3.291249990463257,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.507499694824219,
+        "cur_std": 0.45091733932495115,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building toldカCfg",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                2183,
+                28779,
+                40822
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.182499885559082,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.707499504089355,
+        "cur_std": 0.4605532169342041,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building told MajCfg",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                2183,
+                18410,
+                40822
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -60.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.203749895095825,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.622499465942383,
+        "cur_std": 0.5316200256347656,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building told Maj ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                2183,
+                18410,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.2825000286102295,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.84000015258789,
+        "cur_std": 0.4782454490661621,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building told currency ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                2183,
+                14731,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.2899999618530273,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 9.6875,
+        "cur_std": 0.480469274520874,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building Addiction currency ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                49048,
+                14731,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.75
+    },
+    {
+        "epoch": 17,
+        "loss": 3.3212499618530273,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 9.007499694824219,
+        "cur_std": 0.4661449432373047,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building debt currency ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                6735,
+                14731,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -55.25
+    },
+    {
+        "epoch": 18,
+        "loss": 3.331249952316284,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.194999694824219,
+        "cur_std": 0.46985626220703125,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building links currency ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                4859,
+                14731,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -52.25
+    },
+    {
+        "epoch": 19,
+        "loss": 3.28125,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.2524995803833,
+        "cur_std": 0.504706335067749,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building linksesteem ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                4859,
+                40597,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -55.0
+    },
+    {
+        "epoch": 20,
+        "loss": 3.291249990463257,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.670000076293945,
+        "cur_std": 0.5030949592590332,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingpleesteem ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                713,
+                40597,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.75
+    },
+    {
+        "epoch": 21,
+        "loss": 3.3687498569488525,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.267499923706055,
+        "cur_std": 0.5113886833190918,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building nieesteem ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                15361,
+                40597,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.25,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.982500076293945,
+        "cur_std": 0.5093972206115722,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building niecis ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                15361,
+                28268,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.3612499237060547,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 10.102499961853027,
+        "cur_std": 0.4822493076324463,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building nie characterize ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                15361,
+                17710,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.304999828338623,
+        "best_loss": 3.1649999618530273,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.460000038146973,
+        "cur_std": 0.6031872749328613,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building nie� ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                15361,
+                170,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.1599998474121094,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.40250015258789,
+        "cur_std": 0.4869236469268799,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building prec� ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                3509,
+                170,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.25,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.389999389648438,
+        "cur_std": 0.5021081924438476,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building خ� ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                45232,
+                170,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.174999952316284,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.897500038146973,
+        "cur_std": 0.5507008552551269,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building Shirley� ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                44339,
+                170,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.333750009536743,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.987500190734863,
+        "cur_std": 0.4869687557220459,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building Shirley manifests ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                44339,
+                46955,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.244999885559082,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.65250015258789,
+        "cur_std": 0.46227498054504396,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building jazz manifests ../",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                24455,
+                46955,
+                28222
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -62.75
+    },
+    {
+        "epoch": 30,
+        "loss": 3.2174999713897705,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.602499961853027,
+        "cur_std": 0.43729386329650877,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building jazz manifests....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                24455,
+                46955,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.194999933242798,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.545000076293945,
+        "cur_std": 0.4317771911621094,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building interfere manifests....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                19323,
+                46955,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.257499933242798,
+        "best_loss": 3.1599998474121094,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.617499828338623,
+        "cur_std": 0.41016831398010256,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingEduc manifests....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                25735,
+                46955,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 33,
+        "loss": 3.1499998569488525,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.78249979019165,
+        "cur_std": 0.3976517915725708,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingEducwithin....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                25735,
+                24767,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.266249895095825,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.952499866485596,
+        "cur_std": 0.42285847663879395,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingEduc 197....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                25735,
+                25336,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.75
+    },
+    {
+        "epoch": 35,
+        "loss": 3.1987500190734863,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.835000038146973,
+        "cur_std": 0.3841430902481079,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingEduc offender....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                25735,
+                27484,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.25
+    },
+    {
+        "epoch": 36,
+        "loss": 3.28125,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.03249979019165,
+        "cur_std": 0.4509061336517334,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building variations offender....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                10575,
+                27484,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -57.75
+    },
+    {
+        "epoch": 37,
+        "loss": 3.304999828338623,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.787499904632568,
+        "cur_std": 0.39878880977630615,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building citing offender....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                19936,
+                27484,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.75
+    },
+    {
+        "epoch": 38,
+        "loss": 3.263749837875366,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.170000076293945,
+        "cur_std": 0.43692970275878906,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building citingDO....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                19936,
+                13220,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -59.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.271250009536743,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.934999942779541,
+        "cur_std": 0.4317807197570801,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building citing S....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                19936,
+                322,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -50.75
+    },
+    {
+        "epoch": 40,
+        "loss": 3.1987500190734863,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.302499771118164,
+        "cur_std": 0.4407050132751465,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building citing pilots....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                19936,
+                25244,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -55.5
+    },
+    {
+        "epoch": 41,
+        "loss": 3.240000009536743,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.679999828338623,
+        "cur_std": 0.4713922023773193,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building organised pilots....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                29070,
+                25244,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -58.75
+    },
+    {
+        "epoch": 42,
+        "loss": 3.1737499237060547,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.889999866485596,
+        "cur_std": 0.4525924205780029,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building organised pitched....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                29070,
+                33517,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -61.75
+    },
+    {
+        "epoch": 43,
+        "loss": 3.1762499809265137,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.659999847412109,
+        "cur_std": 0.43740105628967285,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building controlled pitched....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                6537,
+                33517,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -63.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.2512500286102295,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.139999866485596,
+        "cur_std": 0.43888230323791505,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building controlled 274....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                6537,
+                32900,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.2587499618530273,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.072499752044678,
+        "cur_std": 0.44493918418884276,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingisted 274....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                6136,
+                32900,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.1712498664855957,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 7.309999942779541,
+        "cur_std": 0.4389801025390625,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building School 274....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                4726,
+                32900,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -62.75
+    },
+    {
+        "epoch": 47,
+        "loss": 3.3212499618530273,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 8.53749942779541,
+        "cur_std": 0.4094276428222656,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link buildingPHP 274....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                26631,
+                32900,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -62.25
+    },
+    {
+        "epoch": 48,
+        "loss": 3.2024998664855957,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.714999675750732,
+        "cur_std": 0.41709098815917967,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building prepared 274....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                5480,
+                32900,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -60.25
+    },
+    {
+        "epoch": 49,
+        "loss": 3.206249952316284,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.667500019073486,
+        "cur_std": 0.41446471214294434,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building - 274....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                428,
+                32900,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -51.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.208750009536743,
+        "best_loss": 3.1499998569488525,
+        "best_kl": 6.190000057220459,
+        "best_std": 0.42439975738525393,
+        "cur_kl": 6.674999713897705,
+        "cur_std": 0.39877495765686033,
+        "orig_prompt": {
+            "text": "What is a link building?",
+            "ids": [
+                1276,
+                310,
+                247,
+                3048,
+                3652,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "optim_prompt": {
+            "text": " About link building -EMPT....\"",
+            "ids": [
+                11376,
+                3048,
+                3652,
+                428,
+                47913,
+                24554
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 6,
+            "doc_start_slice": 6,
+            "doc_end_slice": 38
+        },
+        "nll_prompt": -56.5
+    }
+]

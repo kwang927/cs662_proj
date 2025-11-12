@@ -1,0 +1,2502 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.732499837875366,
+        "best_loss": 3.732499837875366,
+        "best_kl": 6.960000038146973,
+        "best_std": 0.42955403327941893,
+        "cur_kl": 6.960000038146973,
+        "cur_std": 0.42955403327941893,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " good role does AI play in disease diagnosis?",
+            "ids": [
+                1175,
+                2554,
+                1057,
+                14980,
+                1132,
+                275,
+                2728,
+                6120,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -43.75
+    },
+    {
+        "epoch": 2,
+        "loss": 3.6875,
+        "best_loss": 3.6875,
+        "best_kl": 5.897500038146973,
+        "best_std": 0.3951105117797852,
+        "cur_kl": 5.897500038146973,
+        "cur_std": 0.3951105117797852,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " good role does AI play in disease visit?",
+            "ids": [
+                1175,
+                2554,
+                1057,
+                14980,
+                1132,
+                275,
+                2728,
+                4143,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -58.75
+    },
+    {
+        "epoch": 3,
+        "loss": 3.674999952316284,
+        "best_loss": 3.674999952316284,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 5.699999809265137,
+        "cur_std": 0.3806560277938843,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives role does AI play in disease visit?",
+            "ids": [
+                21823,
+                2554,
+                1057,
+                14980,
+                1132,
+                275,
+                2728,
+                4143,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.25
+    },
+    {
+        "epoch": 4,
+        "loss": 3.684999942779541,
+        "best_loss": 3.674999952316284,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 6.324999809265137,
+        "cur_std": 0.3946373462677002,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives role does AI play in Medicine visit?",
+            "ids": [
+                21823,
+                2554,
+                1057,
+                14980,
+                1132,
+                275,
+                13715,
+                4143,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.677500009536743,
+        "best_loss": 3.674999952316284,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 6.302499771118164,
+        "cur_std": 0.4331482410430908,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives role does AI play inHealth visit?",
+            "ids": [
+                21823,
+                2554,
+                1057,
+                14980,
+                1132,
+                275,
+                19895,
+                4143,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.5
+    },
+    {
+        "epoch": 6,
+        "loss": 3.6875,
+        "best_loss": 3.674999952316284,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 6.144999980926514,
+        "cur_std": 0.42450480461120604,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives min does AI play inHealth visit?",
+            "ids": [
+                21823,
+                1054,
+                1057,
+                14980,
+                1132,
+                275,
+                19895,
+                4143,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 7,
+        "loss": 3.669999837875366,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 5.699999809265137,
+        "cur_std": 0.37171115875244143,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives min does AI play inHealth visit)):",
+            "ids": [
+                21823,
+                1054,
+                1057,
+                14980,
+                1132,
+                275,
+                19895,
+                4143,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.692499876022339,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 5.962500095367432,
+        "cur_std": 0.34369089603424074,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives min does AI play″Health visit)):",
+            "ids": [
+                21823,
+                1054,
+                1057,
+                14980,
+                1132,
+                18626,
+                19895,
+                4143,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -99.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.7049999237060547,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 6.599999904632568,
+        "cur_std": 0.3497654438018799,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiativesforming does AI play″Health visit)):",
+            "ids": [
+                21823,
+                14692,
+                1057,
+                14980,
+                1132,
+                18626,
+                19895,
+                4143,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.7074999809265137,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 6.412499904632568,
+        "cur_std": 0.34513895511627196,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiativesforming does AI play″Health Magn)):",
+            "ids": [
+                21823,
+                14692,
+                1057,
+                14980,
+                1132,
+                18626,
+                19895,
+                18482,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -108.5
+    },
+    {
+        "epoch": 11,
+        "loss": 3.679999828338623,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.699999809265137,
+        "best_std": 0.3806560277938843,
+        "cur_kl": 5.724999904632568,
+        "cur_std": 0.34439046382904054,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives drivers does AI play″Health Magn)):",
+            "ids": [
+                21823,
+                10865,
+                1057,
+                14980,
+                1132,
+                18626,
+                19895,
+                18482,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.674999952316284,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.545000076293945,
+        "cur_std": 0.3263739585876465,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI play″Health Magn)):",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                1132,
+                18626,
+                19895,
+                18482,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 13,
+        "loss": 3.674999952316284,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.654999732971191,
+        "cur_std": 0.35992040634155276,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI play washHealth Magn)):",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                1132,
+                14841,
+                19895,
+                18482,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -109.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.677500009536743,
+        "best_loss": 3.669999837875366,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.889999866485596,
+        "cur_std": 0.3583477735519409,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI play JoanHealth Magn)):",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                1132,
+                29778,
+                19895,
+                18482,
+                49751
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 15,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.677499771118164,
+        "cur_std": 0.35113983154296874,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI play JoanHealth Magn]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                1132,
+                29778,
+                19895,
+                18482,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 16,
+        "loss": 3.674999952316284,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.787499904632568,
+        "cur_std": 0.36422004699707033,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI playajHealth Magn]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                1132,
+                1432,
+                19895,
+                18482,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.6649999618530273,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.804999828338623,
+        "cur_std": 0.3423511505126953,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI playajHealthforeach]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                1132,
+                1432,
+                19895,
+                26966,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.674999952316284,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.952499866485596,
+        "cur_std": 0.34558351039886476,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI dealsajHealthforeach]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                13330,
+                1432,
+                19895,
+                26966,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.0
+    },
+    {
+        "epoch": 19,
+        "loss": 3.6675000190734863,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.807499885559082,
+        "cur_std": 0.33516268730163573,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI dealsajHealth Imagine]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                13330,
+                1432,
+                19895,
+                30778,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.672499895095825,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 5.545000076293945,
+        "best_std": 0.3263739585876465,
+        "cur_kl": 5.957499980926514,
+        "cur_std": 0.32405757904052734,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI deals GadHealth Imagine]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                13330,
+                35309,
+                19895,
+                30778,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -102.5
+    },
+    {
+        "epoch": 21,
+        "loss": 3.6649999618530273,
+        "best_loss": 3.6624999046325684,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.262499809265137,
+        "cur_std": 0.3437276124954224,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI Equ GadHealth Imagine]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                8721,
+                35309,
+                19895,
+                30778,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6599998474121094,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.269999980926514,
+        "cur_std": 0.32389440536499026,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives mentioned does AI Equ GadHealthNow]^.",
+            "ids": [
+                21823,
+                5393,
+                1057,
+                14980,
+                8721,
+                35309,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -102.0
+    },
+    {
+        "epoch": 23,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.6599998474121094,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.329999923706055,
+        "cur_std": 0.3494201421737671,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives 44 does AI Equ GadHealthNow]^.",
+            "ids": [
+                21823,
+                7127,
+                1057,
+                14980,
+                8721,
+                35309,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 24,
+        "loss": 3.6675000190734863,
+        "best_loss": 3.6599998474121094,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.404999732971191,
+        "cur_std": 0.33765718936920164,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiativesfield does AI Equ GadHealthNow]^.",
+            "ids": [
+                21823,
+                3423,
+                1057,
+                14980,
+                8721,
+                35309,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.669999837875366,
+        "best_loss": 3.6599998474121094,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.712500095367432,
+        "cur_std": 0.3558028221130371,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiativesfield does AI Sax GadHealthNow]^.",
+            "ids": [
+                21823,
+                3423,
+                1057,
+                14980,
+                32008,
+                35309,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6599998474121094,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.65749979019165,
+        "cur_std": 0.3552395820617676,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiativesfield does AI clinics GadHealthNow]^.",
+            "ids": [
+                21823,
+                3423,
+                1057,
+                14980,
+                25543,
+                35309,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6599998474121094,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.362499713897705,
+        "cur_std": 0.3624651670455933,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives só does AI clinics GadHealthNow]^.",
+            "ids": [
+                21823,
+                27884,
+                1057,
+                14980,
+                25543,
+                35309,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6599998474121094,
+        "best_kl": 5.262499809265137,
+        "best_std": 0.3437276124954224,
+        "cur_kl": 5.402499675750732,
+        "cur_std": 0.3602204561233521,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives só does AI clinics focusHealthNow]^.",
+            "ids": [
+                21823,
+                27884,
+                1057,
+                14980,
+                25543,
+                2770,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -99.5
+    },
+    {
+        "epoch": 29,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.179999828338623,
+        "best_std": 0.35178260803222655,
+        "cur_kl": 5.179999828338623,
+        "cur_std": 0.35178260803222655,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives só proving AI clinics focusHealthNow]^.",
+            "ids": [
+                21823,
+                27884,
+                18597,
+                14980,
+                25543,
+                2770,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.6599998474121094,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.179999828338623,
+        "best_std": 0.35178260803222655,
+        "cur_kl": 5.40749979019165,
+        "cur_std": 0.3782210826873779,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives só proving AI clinics robHealthNow]^.",
+            "ids": [
+                21823,
+                27884,
+                18597,
+                14980,
+                25543,
+                4848,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.6575000286102295,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.179999828338623,
+        "best_std": 0.35178260803222655,
+        "cur_kl": 5.369999885559082,
+        "cur_std": 0.36352787017822263,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiativesrical proving AI clinics robHealthNow]^.",
+            "ids": [
+                21823,
+                5526,
+                18597,
+                14980,
+                25543,
+                4848,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.661249876022339,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.179999828338623,
+        "best_std": 0.35178260803222655,
+        "cur_kl": 5.207499980926514,
+        "cur_std": 0.3406035900115967,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiativesrical proving AI answers robHealthNow]^.",
+            "ids": [
+                21823,
+                5526,
+                18597,
+                14980,
+                9172,
+                4848,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6524999141693115,
+        "best_kl": 5.114999771118164,
+        "best_std": 0.3563178062438965,
+        "cur_kl": 5.114999771118164,
+        "cur_std": 0.3563178062438965,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives85 proving AI answers robHealthNow]^.",
+            "ids": [
+                21823,
+                2227,
+                18597,
+                14980,
+                9172,
+                4848,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.6449999809265137,
+        "best_loss": 3.6449999809265137,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 4.78249979019165,
+        "cur_std": 0.35474159717559817,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives lik proving AI answers robHealthNow]^.",
+            "ids": [
+                21823,
+                2078,
+                18597,
+                14980,
+                9172,
+                4848,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.6424999237060547,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 4.872499942779541,
+        "cur_std": 0.3404448747634888,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives lik proving AI outcomes robHealthNow]^.",
+            "ids": [
+                21823,
+                2078,
+                18597,
+                14980,
+                6973,
+                4848,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -106.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.167500019073486,
+        "cur_std": 0.3483013391494751,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives lik proving AI outcomeswinningHealthNow]^.",
+            "ids": [
+                21823,
+                2078,
+                18597,
+                14980,
+                6973,
+                23166,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -104.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 4.920000076293945,
+        "cur_std": 0.3543360710144043,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives lik proving AI outcomes smellHealthNow]^.",
+            "ids": [
+                21823,
+                2078,
+                18597,
+                14980,
+                6973,
+                13624,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -107.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 4.852499961853027,
+        "cur_std": 0.32946803569793703,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives from proving AI outcomes smellHealthNow]^.",
+            "ids": [
+                21823,
+                432,
+                18597,
+                14980,
+                6973,
+                13624,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 39,
+        "loss": 3.6474997997283936,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.085000038146973,
+        "cur_std": 0.3358469486236572,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives from proving AI outcomes likeHealthNow]^.",
+            "ids": [
+                21823,
+                432,
+                18597,
+                14980,
+                6973,
+                751,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.130000114440918,
+        "cur_std": 0.33398573398590087,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives from proving AI stamped likeHealthNow]^.",
+            "ids": [
+                21823,
+                432,
+                18597,
+                14980,
+                43407,
+                751,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -94.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 4.972499847412109,
+        "cur_std": 0.33589725494384765,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives from proving AI stampedoffHealthNow]^.",
+            "ids": [
+                21823,
+                432,
+                18597,
+                14980,
+                43407,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.6424999237060547,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.237499713897705,
+        "cur_std": 0.3404055595397949,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives from proving AI EpoffHealthNow]^.",
+            "ids": [
+                21823,
+                432,
+                18597,
+                14980,
+                10643,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.632499933242798,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 4.857500076293945,
+        "cur_std": 0.3124975681304932,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives cites proving AI EpoffHealthNow]^.",
+            "ids": [
+                21823,
+                28070,
+                18597,
+                14980,
+                10643,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -105.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.6449999809265137,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.392499923706055,
+        "cur_std": 0.37222466468811033,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives cites included AI EpoffHealthNow]^.",
+            "ids": [
+                21823,
+                28070,
+                2908,
+                14980,
+                10643,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -103.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.6499998569488525,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.227499961853027,
+        "cur_std": 0.3833842992782593,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " initiatives cites included AI)[offHealthNow]^.",
+            "ids": [
+                21823,
+                28070,
+                2908,
+                14980,
+                6904,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.397500038146973,
+        "cur_std": 0.3978492498397827,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Solutions cites included AI)[offHealthNow]^.",
+            "ids": [
+                29248,
+                28070,
+                2908,
+                14980,
+                6904,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -92.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.65625,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.502500057220459,
+        "cur_std": 0.40480847358703614,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " Solutions creating included AI)[offHealthNow]^.",
+            "ids": [
+                29248,
+                6153,
+                2908,
+                14980,
+                6904,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.6524999141693115,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.684999942779541,
+        "cur_std": 0.40476365089416505,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " billion creating included AI)[offHealthNow]^.",
+            "ids": [
+                6494,
+                6153,
+                2908,
+                14980,
+                6904,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.6549999713897705,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.434999942779541,
+        "cur_std": 0.38207335472106935,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " billion creating faced AI)[offHealthNow]^.",
+            "ids": [
+                6494,
+                6153,
+                11372,
+                14980,
+                6904,
+                2727,
+                19895,
+                4125,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.6624999046325684,
+        "best_loss": 3.632499933242798,
+        "best_kl": 4.78249979019165,
+        "best_std": 0.35474159717559817,
+        "cur_kl": 5.554999828338623,
+        "cur_std": 0.3808314323425293,
+        "orig_prompt": {
+            "text": "Collect two example of how AI is being used positively in healthcare.",
+            "ids": [
+                10937,
+                767,
+                1650,
+                273,
+                849,
+                14980,
+                310,
+                1146,
+                908,
+                14962,
+                275,
+                11723,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 13,
+            "doc_start_slice": 13,
+            "doc_end_slice": 45
+        },
+        "optim_prompt": {
+            "text": " billion creating faced AI)[offHealth Champion]^.",
+            "ids": [
+                6494,
+                6153,
+                11372,
+                14980,
+                6904,
+                2727,
+                19895,
+                31575,
+                8562
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -100.0
+    }
+]

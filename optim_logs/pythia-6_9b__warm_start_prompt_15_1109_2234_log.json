@@ -1,0 +1,2102 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.507499933242798,
+        "best_loss": 3.507499933242798,
+        "best_kl": 3.804999828338623,
+        "best_std": 0.31341190338134767,
+        "cur_kl": 3.804999828338623,
+        "cur_std": 0.31341190338134767,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "bled are some differences between cats and dogs?",
+            "ids": [
+                11046,
+                403,
+                690,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -35.5
+    },
+    {
+        "epoch": 2,
+        "loss": 3.5037498474121094,
+        "best_loss": 3.5037498474121094,
+        "best_kl": 3.3550000190734863,
+        "best_std": 0.31473052501678467,
+        "cur_kl": 3.3550000190734863,
+        "cur_std": 0.31473052501678467,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "bled vanish some differences between cats and dogs?",
+            "ids": [
+                11046,
+                29259,
+                690,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -46.75
+    },
+    {
+        "epoch": 3,
+        "loss": 3.50249981880188,
+        "best_loss": 3.50249981880188,
+        "best_kl": 3.0999999046325684,
+        "best_std": 0.2964435577392578,
+        "cur_kl": 3.0999999046325684,
+        "cur_std": 0.2964435577392578,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "bledan some differences between cats and dogs?",
+            "ids": [
+                11046,
+                266,
+                690,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -45.75
+    },
+    {
+        "epoch": 4,
+        "loss": 3.5124998092651367,
+        "best_loss": 3.50249981880188,
+        "best_kl": 3.0999999046325684,
+        "best_std": 0.2964435577392578,
+        "cur_kl": 3.4700000286102295,
+        "cur_std": 0.3572354316711426,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "bled Alban some differences between cats and dogs?",
+            "ids": [
+                11046,
+                31208,
+                690,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -55.25
+    },
+    {
+        "epoch": 5,
+        "loss": 3.509999990463257,
+        "best_loss": 3.50249981880188,
+        "best_kl": 3.0999999046325684,
+        "best_std": 0.2964435577392578,
+        "cur_kl": 3.3350000381469727,
+        "cur_std": 0.30260276794433594,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "bled Albangow differences between cats and dogs?",
+            "ids": [
+                11046,
+                31208,
+                24003,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.5124998092651367,
+        "best_loss": 3.50249981880188,
+        "best_kl": 3.0999999046325684,
+        "best_std": 0.2964435577392578,
+        "cur_kl": 3.25,
+        "cur_std": 0.3348827838897705,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "bled Alban Johnny differences between cats and dogs?",
+            "ids": [
+                11046,
+                31208,
+                22810,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -58.75
+    },
+    {
+        "epoch": 7,
+        "loss": 3.5199999809265137,
+        "best_loss": 3.50249981880188,
+        "best_kl": 3.0999999046325684,
+        "best_std": 0.2964435577392578,
+        "cur_kl": 3.3249998092651367,
+        "cur_std": 0.3270911455154419,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "bled indis Johnny differences between cats and dogs?",
+            "ids": [
+                11046,
+                47531,
+                22810,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.5012500286102295,
+        "best_loss": 3.5012500286102295,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 2.804999828338623,
+        "cur_std": 0.2944688081741333,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "clear indis Johnny differences between cats and dogs?",
+            "ids": [
+                8250,
+                47531,
+                22810,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.4937498569488525,
+        "best_loss": 3.4937498569488525,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 2.9749999046325684,
+        "cur_std": 0.28412322998046874,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "clear indisand differences between cats and dogs?",
+            "ids": [
+                8250,
+                47531,
+                395,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -55.75
+    },
+    {
+        "epoch": 10,
+        "loss": 3.50249981880188,
+        "best_loss": 3.4937498569488525,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.174999952316284,
+        "cur_std": 0.30087206363677976,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "backs indisand differences between cats and dogs?",
+            "ids": [
+                12270,
+                47531,
+                395,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -54.75
+    },
+    {
+        "epoch": 11,
+        "loss": 3.5,
+        "best_loss": 3.4937498569488525,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.0799999237060547,
+        "cur_std": 0.28847560882568357,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": " T indisand differences between cats and dogs?",
+            "ids": [
+                308,
+                47531,
+                395,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -53.75
+    },
+    {
+        "epoch": 12,
+        "loss": 3.50249981880188,
+        "best_loss": 3.4937498569488525,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.3550000190734863,
+        "cur_std": 0.29061892032623293,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "orate indisand differences between cats and dogs?",
+            "ids": [
+                27928,
+                47531,
+                395,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -54.75
+    },
+    {
+        "epoch": 13,
+        "loss": 3.4987499713897705,
+        "best_loss": 3.4937498569488525,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.3399999141693115,
+        "cur_std": 0.2950671911239624,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "uted indisand differences between cats and dogs?",
+            "ids": [
+                4525,
+                47531,
+                395,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -55.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.4887499809265137,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.0149998664855957,
+        "cur_std": 0.2983502626419067,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "uffling indisand differences between cats and dogs?",
+            "ids": [
+                47587,
+                47531,
+                395,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -53.75
+    },
+    {
+        "epoch": 15,
+        "loss": 3.504999876022339,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.240000009536743,
+        "cur_std": 0.30628767013549807,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- indisand differences between cats and dogs?",
+            "ids": [
+                14,
+                47531,
+                395,
+                3910,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -55.75
+    },
+    {
+        "epoch": 16,
+        "loss": 3.50249981880188,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 2.9149999618530273,
+        "cur_std": 0.32365145683288576,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- indisand fuzzy between cats and dogs?",
+            "ids": [
+                14,
+                47531,
+                395,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 17,
+        "loss": 3.4912500381469727,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 2.8899998664855957,
+        "cur_std": 0.312256383895874,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "- indis entirely fuzzy between cats and dogs?",
+            "ids": [
+                14,
+                47531,
+                7094,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.4962499141693115,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.18999981880188,
+        "cur_std": 0.3129994869232178,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "-Cold entirely fuzzy between cats and dogs?",
+            "ids": [
+                14,
+                50184,
+                7094,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.5124998092651367,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.804999828338623,
+        "best_std": 0.2944688081741333,
+        "cur_kl": 3.609999895095825,
+        "cur_std": 0.30181102752685546,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "-Cle entirely fuzzy between cats and dogs?",
+            "ids": [
+                14,
+                13378,
+                7094,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -60.25
+    },
+    {
+        "epoch": 20,
+        "loss": 3.494999885559082,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 2.7249999046325684,
+        "cur_std": 0.28063557147979734,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "-Cleorandum fuzzy between cats and dogs?",
+            "ids": [
+                14,
+                13378,
+                31882,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.50249981880188,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.359999895095825,
+        "cur_std": 0.27943665981292726,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fromCleorandum fuzzy between cats and dogs?",
+            "ids": [
+                4064,
+                13378,
+                31882,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 22,
+        "loss": 3.492499828338623,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.2699999809265137,
+        "cur_std": 0.3021321535110474,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from10orandum fuzzy between cats and dogs?",
+            "ids": [
+                4064,
+                740,
+                31882,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.5062499046325684,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.2899999618530273,
+        "cur_std": 0.303363299369812,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from10aska fuzzy between cats and dogs?",
+            "ids": [
+                4064,
+                740,
+                11304,
+                31921,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.504999876022339,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.4649999141693115,
+        "cur_std": 0.34722964763641356,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from10askabled between cats and dogs?",
+            "ids": [
+                4064,
+                740,
+                11304,
+                11046,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 25,
+        "loss": 3.494999885559082,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 2.9800000190734863,
+        "cur_std": 0.30607650279998777,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from10ulabled between cats and dogs?",
+            "ids": [
+                4064,
+                740,
+                3627,
+                11046,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 26,
+        "loss": 3.5225000381469727,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.4749999046325684,
+        "cur_std": 0.33008837699890137,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from10 bubblebled between cats and dogs?",
+            "ids": [
+                4064,
+                740,
+                19251,
+                11046,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.5
+    },
+    {
+        "epoch": 27,
+        "loss": 3.492499828338623,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 2.825000047683716,
+        "cur_std": 0.28144423961639403,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from10909bled between cats and dogs?",
+            "ids": [
+                4064,
+                740,
+                28766,
+                11046,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.5199999809265137,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.0299999713897705,
+        "cur_std": 0.3135669708251953,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fromör909bled between cats and dogs?",
+            "ids": [
+                4064,
+                6592,
+                28766,
+                11046,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.4987499713897705,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 2.875,
+        "cur_std": 0.30036804676055906,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "frompar909bled between cats and dogs?",
+            "ids": [
+                4064,
+                1148,
+                28766,
+                11046,
+                875,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.0
+    },
+    {
+        "epoch": 30,
+        "loss": 3.5,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.2249999046325684,
+        "cur_std": 0.35042362213134765,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "frompar909bled as cats and dogs?",
+            "ids": [
+                4064,
+                1148,
+                28766,
+                11046,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.5062499046325684,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.4099998474121094,
+        "cur_std": 0.3536519527435303,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fromgot909bled as cats and dogs?",
+            "ids": [
+                4064,
+                19559,
+                28766,
+                11046,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 32,
+        "loss": 3.526249885559082,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.619999885559082,
+        "cur_std": 0.33823065757751464,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fromer909bled as cats and dogs?",
+            "ids": [
+                4064,
+                254,
+                28766,
+                11046,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.5124998092651367,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.634999990463257,
+        "cur_std": 0.3374634265899658,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from always909bled as cats and dogs?",
+            "ids": [
+                4064,
+                1900,
+                28766,
+                11046,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.5174999237060547,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.9649999141693115,
+        "cur_std": 0.37120163440704346,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from adult909bled as cats and dogs?",
+            "ids": [
+                4064,
+                6782,
+                28766,
+                11046,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.5174999237060547,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.5249998569488525,
+        "cur_std": 0.3654508113861084,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from blah909bled as cats and dogs?",
+            "ids": [
+                4064,
+                37598,
+                28766,
+                11046,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -68.0
+    },
+    {
+        "epoch": 36,
+        "loss": 3.5112500190734863,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.429999828338623,
+        "cur_std": 0.33287999629974363,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from blah909escent as cats and dogs?",
+            "ids": [
+                4064,
+                37598,
+                28766,
+                40513,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 37,
+        "loss": 3.5087499618530273,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.6649999618530273,
+        "cur_std": 0.35090467929840086,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from blah477escent as cats and dogs?",
+            "ids": [
+                4064,
+                37598,
+                45475,
+                40513,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -73.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.526249885559082,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.919999837875366,
+        "cur_std": 0.3860391855239868,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from blahraseescent as cats and dogs?",
+            "ids": [
+                4064,
+                37598,
+                30319,
+                40513,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.5199999809265137,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.875,
+        "cur_std": 0.38114495277404786,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from blahtheyescent as cats and dogs?",
+            "ids": [
+                4064,
+                37598,
+                9328,
+                40513,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.5225000381469727,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 4.464999675750732,
+        "cur_std": 0.358677077293396,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from nottheyescent as cats and dogs?",
+            "ids": [
+                4064,
+                417,
+                9328,
+                40513,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -67.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.5249998569488525,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 4.069999694824219,
+        "cur_std": 0.35047011375427245,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "from nottheyliers as cats and dogs?",
+            "ids": [
+                4064,
+                417,
+                9328,
+                19139,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.0
+    },
+    {
+        "epoch": 42,
+        "loss": 3.507499933242798,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.6449999809265137,
+        "cur_std": 0.35938324928283694,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fromletheyliers as cats and dogs?",
+            "ids": [
+                4064,
+                282,
+                9328,
+                19139,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 43,
+        "loss": 3.5149998664855957,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.490000009536743,
+        "cur_std": 0.3305169105529785,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fromle checkliers as cats and dogs?",
+            "ids": [
+                4064,
+                282,
+                2451,
+                19139,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -66.5
+    },
+    {
+        "epoch": 44,
+        "loss": 3.497499942779541,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 2.984999895095825,
+        "cur_std": 0.30537731647491456,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fromleFliers as cats and dogs?",
+            "ids": [
+                4064,
+                282,
+                39,
+                19139,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -63.75
+    },
+    {
+        "epoch": 45,
+        "loss": 3.4962499141693115,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.669999837875366,
+        "cur_std": 0.33689160346984864,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "ialleFliers as cats and dogs?",
+            "ids": [
+                451,
+                282,
+                39,
+                19139,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -59.75
+    },
+    {
+        "epoch": 46,
+        "loss": 3.50249981880188,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.504999876022339,
+        "cur_std": 0.31143970489501954,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "ialle onliers as cats and dogs?",
+            "ids": [
+                451,
+                282,
+                327,
+                19139,
+                347,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -58.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.4937498569488525,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 2.879999876022339,
+        "cur_std": 0.2875462293624878,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "ialle onliers called cats and dogs?",
+            "ids": [
+                451,
+                282,
+                327,
+                19139,
+                1925,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -62.5
+    },
+    {
+        "epoch": 48,
+        "loss": 3.509999990463257,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.1499998569488525,
+        "cur_std": 0.291070818901062,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fsle onliers called cats and dogs?",
+            "ids": [
+                3671,
+                282,
+                327,
+                19139,
+                1925,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.50249981880188,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.0249998569488525,
+        "cur_std": 0.29952616691589357,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fsCOP onliers called cats and dogs?",
+            "ids": [
+                3671,
+                27004,
+                327,
+                19139,
+                1925,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.5
+    },
+    {
+        "epoch": 50,
+        "loss": 3.5174999237060547,
+        "best_loss": 3.4887499809265137,
+        "best_kl": 2.7249999046325684,
+        "best_std": 0.28063557147979734,
+        "cur_kl": 3.7249999046325684,
+        "cur_std": 0.3251553773880005,
+        "orig_prompt": {
+            "text": "Compare cats and dogs.",
+            "ids": [
+                33925,
+                16581,
+                285,
+                9097,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 5,
+            "doc_start_slice": 5,
+            "doc_end_slice": 37
+        },
+        "optim_prompt": {
+            "text": "fsCOP wellliers called cats and dogs?",
+            "ids": [
+                3671,
+                27004,
+                973,
+                19139,
+                1925,
+                16581,
+                285,
+                9097,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    }
+]

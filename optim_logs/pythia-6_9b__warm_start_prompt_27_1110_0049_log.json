@@ -1,0 +1,2352 @@
+[
+    {
+        "epoch": 1,
+        "loss": 3.492499828338623,
+        "best_loss": 3.492499828338623,
+        "best_kl": 11.579999923706055,
+        "best_std": 0.6690665245056152,
+        "cur_kl": 11.579999923706055,
+        "cur_std": 0.6690665245056152,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "What are the ingredients for Chocolate Chip items?",
+            "ids": [
+                1276,
+                403,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -41.0
+    },
+    {
+        "epoch": 2,
+        "loss": 3.494999885559082,
+        "best_loss": 3.492499828338623,
+        "best_kl": 11.579999923706055,
+        "best_std": 0.6690665245056152,
+        "cur_kl": 12.84999942779541,
+        "cur_std": 0.7079811573028565,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Dad are the ingredients for Chocolate Chip items?",
+            "ids": [
+                16522,
+                403,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -54.25
+    },
+    {
+        "epoch": 3,
+        "loss": 3.424999952316284,
+        "best_loss": 3.424999952316284,
+        "best_kl": 10.242499351501465,
+        "best_std": 0.5948798656463623,
+        "cur_kl": 10.242499351501465,
+        "cur_std": 0.5948798656463623,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " Dad Password the ingredients for Chocolate Chip items?",
+            "ids": [
+                16522,
+                45493,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -61.75
+    },
+    {
+        "epoch": 4,
+        "loss": 3.4524998664855957,
+        "best_loss": 3.424999952316284,
+        "best_kl": 10.242499351501465,
+        "best_std": 0.5948798656463623,
+        "cur_kl": 11.2524995803833,
+        "cur_std": 0.6526702404022217,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " found Password the ingredients for Chocolate Chip items?",
+            "ids": [
+                1119,
+                45493,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -64.0
+    },
+    {
+        "epoch": 5,
+        "loss": 3.4674999713897705,
+        "best_loss": 3.424999952316284,
+        "best_kl": 10.242499351501465,
+        "best_std": 0.5948798656463623,
+        "cur_kl": 11.65250015258789,
+        "cur_std": 0.6369701862335205,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " foundPATH the ingredients for Chocolate Chip items?",
+            "ids": [
+                1119,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -70.0
+    },
+    {
+        "epoch": 6,
+        "loss": 3.4724998474121094,
+        "best_loss": 3.424999952316284,
+        "best_kl": 10.242499351501465,
+        "best_std": 0.5948798656463623,
+        "cur_kl": 11.977499961853027,
+        "cur_std": 0.687690258026123,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": " slenderPATH the ingredients for Chocolate Chip items?",
+            "ids": [
+                36019,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 7,
+        "loss": 3.453749895095825,
+        "best_loss": 3.424999952316284,
+        "best_kl": 10.242499351501465,
+        "best_std": 0.5948798656463623,
+        "cur_kl": 12.032499313354492,
+        "cur_std": 0.5897767066955566,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "MINPATH the ingredients for Chocolate Chip items?",
+            "ids": [
+                17258,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                32
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -69.0
+    },
+    {
+        "epoch": 8,
+        "loss": 3.434999942779541,
+        "best_loss": 3.424999952316284,
+        "best_kl": 10.242499351501465,
+        "best_std": 0.5948798656463623,
+        "cur_kl": 11.72249984741211,
+        "cur_std": 0.5787361621856689,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "MINPATH the ingredients for Chocolate Chip items}$.",
+            "ids": [
+                17258,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                3363
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.0
+    },
+    {
+        "epoch": 9,
+        "loss": 3.367499828338623,
+        "best_loss": 3.367499828338623,
+        "best_kl": 9.469999313354492,
+        "best_std": 0.541745662689209,
+        "cur_kl": 9.469999313354492,
+        "cur_std": 0.541745662689209,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "MINPATH the ingredients for Chocolate Chip items.",
+            "ids": [
+                17258,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.5
+    },
+    {
+        "epoch": 10,
+        "loss": 3.3324999809265137,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 8.394999504089355,
+        "cur_std": 0.5320080757141114,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+PATH the ingredients for Chocolate Chip items.",
+            "ids": [
+                30636,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                33769,
+                4957,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -65.0
+    },
+    {
+        "epoch": 11,
+        "loss": 3.3499999046325684,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.594999313354492,
+        "cur_std": 0.5828329086303711,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+PATH the ingredients for Chocolate Rib items.",
+            "ids": [
+                30636,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                31641,
+                4957,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -76.0
+    },
+    {
+        "epoch": 12,
+        "loss": 3.351249933242798,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.592499732971191,
+        "cur_std": 0.5865889072418213,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+PATH the ingredients for Chocolate Sheet items.",
+            "ids": [
+                30636,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                44764,
+                4957,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -74.0
+    },
+    {
+        "epoch": 13,
+        "loss": 3.382499933242798,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.359999656677246,
+        "cur_std": 0.5969442367553711,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+PATH the ingredients for Chocolate Set items.",
+            "ids": [
+                30636,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                6618,
+                4957,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 14,
+        "loss": 3.3899998664855957,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.694999694824219,
+        "cur_std": 0.616856861114502,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+PATH the ingredients for Chocolate Set Super.",
+            "ids": [
+                30636,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                6618,
+                6053,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -72.0
+    },
+    {
+        "epoch": 15,
+        "loss": 3.3899998664855957,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.944999694824219,
+        "cur_std": 0.6258083820343018,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+PATH the ingredients for Chocolate Set Eclipse.",
+            "ids": [
+                30636,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                6618,
+                32472,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -75.5
+    },
+    {
+        "epoch": 16,
+        "loss": 3.379999876022339,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.707499504089355,
+        "cur_std": 0.6389311790466309,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+PATH the ingredients for Chocolate09 Eclipse.",
+            "ids": [
+                30636,
+                18999,
+                253,
+                12696,
+                323,
+                41992,
+                2693,
+                32472,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -79.5
+    },
+    {
+        "epoch": 17,
+        "loss": 3.3787498474121094,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.742499351501465,
+        "cur_std": 0.6304905891418457,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+Step the ingredients for Chocolate09 Eclipse.",
+            "ids": [
+                30636,
+                13996,
+                253,
+                12696,
+                323,
+                41992,
+                2693,
+                32472,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 18,
+        "loss": 3.367499828338623,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.1274995803833,
+        "cur_std": 0.6356565475463867,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ shortcut the ingredients for Chocolate09 Eclipse.",
+            "ids": [
+                30636,
+                28194,
+                253,
+                12696,
+                323,
+                41992,
+                2693,
+                32472,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -77.5
+    },
+    {
+        "epoch": 19,
+        "loss": 3.379999876022339,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.742499351501465,
+        "cur_std": 0.6130880355834961,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ shortcut the ingredients as Chocolate09 Eclipse.",
+            "ids": [
+                30636,
+                28194,
+                253,
+                12696,
+                347,
+                41992,
+                2693,
+                32472,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 20,
+        "loss": 3.388749837875366,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.492499351501465,
+        "cur_std": 0.6149798393249511,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ shortcut the ingredients as Chocolate09 Trace.",
+            "ids": [
+                30636,
+                28194,
+                253,
+                12696,
+                347,
+                41992,
+                2693,
+                41668,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 21,
+        "loss": 3.3899998664855957,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.484999656677246,
+        "cur_std": 0.575968885421753,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ shortcut the ingredients as Chocolate= Trace.",
+            "ids": [
+                30636,
+                28194,
+                253,
+                12696,
+                347,
+                41992,
+                30,
+                41668,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -78.5
+    },
+    {
+        "epoch": 22,
+        "loss": 3.3975000381469727,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.460000038146973,
+        "cur_std": 0.5983323097229004,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ shortcut the ingredients as Chocolate rule Trace.",
+            "ids": [
+                30636,
+                28194,
+                253,
+                12696,
+                347,
+                41992,
+                4086,
+                41668,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.5
+    },
+    {
+        "epoch": 23,
+        "loss": 3.4149999618530273,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 11.612500190734863,
+        "cur_std": 0.5796025276184082,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ screenshot the ingredients as Chocolate rule Trace.",
+            "ids": [
+                30636,
+                37617,
+                253,
+                12696,
+                347,
+                41992,
+                4086,
+                41668,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.5
+    },
+    {
+        "epoch": 24,
+        "loss": 3.432499885559082,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 11.957499504089355,
+        "cur_std": 0.5952363014221191,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+Temp the ingredients as Chocolate rule Trace.",
+            "ids": [
+                30636,
+                31871,
+                253,
+                12696,
+                347,
+                41992,
+                4086,
+                41668,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.5
+    },
+    {
+        "epoch": 25,
+        "loss": 3.424999952316284,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 11.835000038146973,
+        "cur_std": 0.6137649059295655,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ delegate the ingredients as Chocolate rule Trace.",
+            "ids": [
+                30636,
+                24565,
+                253,
+                12696,
+                347,
+                41992,
+                4086,
+                41668,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 26,
+        "loss": 3.3899998664855957,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.454999923706055,
+        "cur_std": 0.6080518245697022,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ delegate the ingredients as Chocolate Rules Trace.",
+            "ids": [
+                30636,
+                24565,
+                253,
+                12696,
+                347,
+                41992,
+                16228,
+                41668,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 27,
+        "loss": 3.37749981880188,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.042499542236328,
+        "cur_std": 0.6100075721740723,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "'+ delegate the ingredients as Chocolate RulesStart.",
+            "ids": [
+                30636,
+                24565,
+                253,
+                12696,
+                347,
+                41992,
+                16228,
+                8252,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -81.0
+    },
+    {
+        "epoch": 28,
+        "loss": 3.3587498664855957,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.979999542236328,
+        "cur_std": 0.6293302536010742,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" delegate the ingredients as Chocolate RulesStart.",
+            "ids": [
+                3255,
+                24565,
+                253,
+                12696,
+                347,
+                41992,
+                16228,
+                8252,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -83.0
+    },
+    {
+        "epoch": 29,
+        "loss": 3.367499828338623,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.962499618530273,
+        "cur_std": 0.6442967891693115,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" delegateMake ingredients as Chocolate RulesStart.",
+            "ids": [
+                3255,
+                24565,
+                13325,
+                12696,
+                347,
+                41992,
+                16228,
+                8252,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 30,
+        "loss": 3.353749990463257,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.545000076293945,
+        "cur_std": 0.6141983985900878,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"}Make ingredients as Chocolate RulesStart.",
+            "ids": [
+                3255,
+                94,
+                13325,
+                12696,
+                347,
+                41992,
+                16228,
+                8252,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -82.5
+    },
+    {
+        "epoch": 31,
+        "loss": 3.372499942779541,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.282499313354492,
+        "cur_std": 0.6122864246368408,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"} Cake ingredients as Chocolate RulesStart.",
+            "ids": [
+                3255,
+                94,
+                44323,
+                12696,
+                347,
+                41992,
+                16228,
+                8252,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -85.0
+    },
+    {
+        "epoch": 32,
+        "loss": 3.3687498569488525,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.907499313354492,
+        "cur_std": 0.5799431324005127,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"} Cake ingredients as Chocolate GroundStart.",
+            "ids": [
+                3255,
+                94,
+                44323,
+                12696,
+                347,
+                41992,
+                29822,
+                8252,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.0
+    },
+    {
+        "epoch": 33,
+        "loss": 3.379999876022339,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.387499809265137,
+        "cur_std": 0.5548611640930176,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"}contents ingredients as Chocolate GroundStart.",
+            "ids": [
+                3255,
+                94,
+                28662,
+                12696,
+                347,
+                41992,
+                29822,
+                8252,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -84.0
+    },
+    {
+        "epoch": 34,
+        "loss": 3.3712499141693115,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.0649995803833,
+        "cur_std": 0.5489731311798096,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"}contents ingredients as Chocolate Ground START.",
+            "ids": [
+                3255,
+                94,
+                28662,
+                12696,
+                347,
+                41992,
+                29822,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 35,
+        "loss": 3.3874998092651367,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.5024995803833,
+        "cur_std": 0.606680965423584,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"}ake ingredients as Chocolate Ground START.",
+            "ids": [
+                3255,
+                94,
+                640,
+                12696,
+                347,
+                41992,
+                29822,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -80.5
+    },
+    {
+        "epoch": 36,
+        "loss": 3.3862500190734863,
+        "best_loss": 3.3324999809265137,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.679999351501465,
+        "cur_std": 0.596306848526001,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"}ake ingredients as Chocolate occurrences START.",
+            "ids": [
+                3255,
+                94,
+                640,
+                12696,
+                347,
+                41992,
+                37102,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.0
+    },
+    {
+        "epoch": 37,
+        "loss": 3.317499876022339,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 8.779999732971191,
+        "cur_std": 0.5435025215148925,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"}ake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                94,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -86.5
+    },
+    {
+        "epoch": 38,
+        "loss": 3.3662500381469727,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.827499389648438,
+        "cur_std": 0.6058291912078857,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" pointake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                1127,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 39,
+        "loss": 3.34375,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.747499465942383,
+        "cur_std": 0.5703921318054199,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"},ake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                2023,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -95.0
+    },
+    {
+        "epoch": 40,
+        "loss": 3.367499828338623,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.264999389648438,
+        "cur_std": 0.6020359039306641,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"'ake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                8,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.0
+    },
+    {
+        "epoch": 41,
+        "loss": 3.3499999046325684,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.844999313354492,
+        "cur_std": 0.5855022430419922,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" itake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                352,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -87.5
+    },
+    {
+        "epoch": 42,
+        "loss": 3.3550000190734863,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.239999771118164,
+        "cur_std": 0.603545093536377,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"]^.ake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                8562,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -96.0
+    },
+    {
+        "epoch": 43,
+        "loss": 3.367499828338623,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.394999504089355,
+        "cur_std": 0.6081639766693115,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"Yake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                58,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -89.0
+    },
+    {
+        "epoch": 44,
+        "loss": 3.4237499237060547,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 12.014999389648438,
+        "cur_std": 0.6575304508209229,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" maritalake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                27774,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -101.0
+    },
+    {
+        "epoch": 45,
+        "loss": 3.3662500381469727,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.217499732971191,
+        "cur_std": 0.6131106853485108,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" whereake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                835,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 46,
+        "loss": 3.34375,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 9.585000038146973,
+        "cur_std": 0.6020086765289306,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"osake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                375,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -88.0
+    },
+    {
+        "epoch": 47,
+        "loss": 3.3949999809265137,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.875,
+        "cur_std": 0.6241104602813721,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" halake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                7905,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -93.0
+    },
+    {
+        "epoch": 48,
+        "loss": 3.3737499713897705,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.329999923706055,
+        "cur_std": 0.6364346504211426,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\" plusake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                5043,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -91.5
+    },
+    {
+        "epoch": 49,
+        "loss": 3.396250009536743,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 11.649999618530273,
+        "cur_std": 0.6280280113220215,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"]{}ake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                1181,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.0
+    },
+    {
+        "epoch": 50,
+        "loss": 3.367499828338623,
+        "best_loss": 3.317499876022339,
+        "best_kl": 8.394999504089355,
+        "best_std": 0.5320080757141114,
+        "cur_kl": 10.172499656677246,
+        "cur_std": 0.6033125877380371,
+        "orig_prompt": {
+            "text": "Create a recipe titled \"Chocolate Chip Cookies\".",
+            "ids": [
+                9395,
+                247,
+                13612,
+                18879,
+                346,
+                1779,
+                12049,
+                33769,
+                49158,
+                3446
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 10,
+            "doc_start_slice": 10,
+            "doc_end_slice": 42
+        },
+        "optim_prompt": {
+            "text": "...\"idake ingredients as Chocolate attachment START.",
+            "ids": [
+                3255,
+                301,
+                640,
+                12696,
+                347,
+                41992,
+                14170,
+                36694,
+                15
+            ],
+            "prompt_start_slice": 0,
+            "prompt_end_slice": 9,
+            "doc_start_slice": 9,
+            "doc_end_slice": 41
+        },
+        "nll_prompt": -90.5
+    }
+]
