@@ -1,0 +1,211 @@
+{
+  "1": {
+    "original_prompt": "When were atomic weapons first used?",
+    "starting_prompt": "Describe the first instance when atomic weapons were used",
+    "optimized_prompt": "\ufffdapat the first instance when atomic weapons were used",
+    "optimized_token_ids": [
+      [
+        220,
+        26347,
+        278,
+        937,
+        2777,
+        746,
+        23489,
+        25340,
+        892,
+        1304
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 2.3098437786102295,
+      "best_std": 0.13008309602737428,
+      "best_loss": 2.430312395095825,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__fluency_warm_start_prompt_1_1111_0948_log.json"
+  },
+  "2": {
+    "original_prompt": "How can cities become more eco-friendly?",
+    "starting_prompt": "What measures can a city take to become more eco-friendly?",
+    "optimized_prompt": "hogy resources can a city do to become more eco-friendly?",
+    "optimized_token_ids": [
+      [
+        10227,
+        7788,
+        508,
+        263,
+        4272,
+        437,
+        304,
+        4953,
+        901,
+        321,
+        1111,
+        29899,
+        18326,
+        368,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 6.011874675750732,
+      "best_std": 0.2211376667022705,
+      "best_loss": 2.5768749713897705,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__fluency_warm_start_prompt_2_1111_1240_log.json"
+  },
+  "3": {
+    "original_prompt": "Write a customer service response to address the following customer inquiry: \"I received the wrong item, what should I do?",
+    "starting_prompt": "Write a customer service response to a customer who received the wrong item in their order.",
+    "optimized_prompt": "JayPierre customer service response to a customer who received the wrong item in their order.",
+    "optimized_token_ids": [
+      [
+        19556,
+        19621,
+        11962,
+        2669,
+        2933,
+        304,
+        263,
+        11962,
+        1058,
+        4520,
+        278,
+        2743,
+        2944,
+        297,
+        1009,
+        1797,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 8.340937614440918,
+      "best_std": 0.7264497756958008,
+      "best_loss": 2.9490623474121094,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__fluency_warm_start_prompt_3_1111_1635_log.json"
+  },
+  "4": {
+    "original_prompt": "Imagine you are talking to a customer who is looking for advice on choosing a phone system. Write a reply that provides relevant information and outlines the benefits of a cloud system.",
+    "starting_prompt": "What should I consider when choosing a phone system for my business?",
+    "optimized_prompt": "eller should I consider when choosing a phone system for my business?",
+    "optimized_token_ids": [
+      [
+        12834,
+        881,
+        306,
+        2050,
+        746,
+        23906,
+        263,
+        9008,
+        1788,
+        363,
+        590,
+        5381,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 28.751249313354492,
+      "best_std": 0.6255136489868164,
+      "best_loss": 3.0481247901916504,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__fluency_warm_start_prompt_4_1111_2103_log.json"
+  },
+  "5": {
+    "original_prompt": "Reword this sentence:\nI started eating healthier.",
+    "starting_prompt": "Explain how you made improvements to your eating habits.",
+    "optimized_prompt": "Su noticed how you made improvements to you eating habits.",
+    "optimized_token_ids": [
+      [
+        2166,
+        10548,
+        920,
+        366,
+        1754,
+        28473,
+        304,
+        366,
+        321,
+        1218,
+        2299,
+        1169,
+        29889
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 24.2393741607666,
+      "best_std": 0.5851547718048096,
+      "best_loss": 3.956249952316284,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__fluency_warm_start_prompt_5_1112_0042_log.json"
+  },
+  "6": {
+    "original_prompt": "Give 5 examples of common family values.",
+    "starting_prompt": "What principles do most families abide by?",
+    "optimized_prompt": "\u200dAttributes do most families abide by?",
+    "optimized_token_ids": [
+      [
+        30722,
+        15801,
+        437,
+        1556,
+        13175,
+        633,
+        680,
+        491,
+        29973
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 13.995624542236328,
+      "best_std": 0.6359678745269776,
+      "best_loss": 3.174375057220459,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__fluency_warm_start_prompt_6_1112_0413_log.json"
+  },
+  "7": {
+    "original_prompt": "Suppose you have a table named \"transactions\" with columns \"transaction_id\", \"customer_id\", \"transaction_date\", and \"amount\". Write a SQL query to find the customers who have made the largest percentage increase in spending from the previous month to the current month.",
+    "starting_prompt": "Show me a SQL query to track customers with major spending increase.",
+    "error": "CUDA out of memory. Tried to allocate 28.00 MiB. GPU 1 has a total capacity of 23.46 GiB of which 17.88 MiB is free. Including non-PyTorch memory, this process has 23.44 GiB memory in use. Of the allocated memory 21.67 GiB is allocated by PyTorch, and 1.57 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "8": {
+    "original_prompt": "Explain the meaning of \"I see not the waves but the hand of God\".",
+    "starting_prompt": "What does the phrase 'I see not the waves but the hand of God' suggest about a person's perception or belief?",
+    "error": "CUDA out of memory. Tried to allocate 210.00 MiB. GPU 1 has a total capacity of 23.46 GiB of which 77.88 MiB is free. Including non-PyTorch memory, this process has 23.38 GiB memory in use. Of the allocated memory 22.22 GiB is allocated by PyTorch, and 978.80 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)"
+  },
+  "9": {
+    "original_prompt": "Compare and contrast active listening and regular listening.",
+    "starting_prompt": "Explain the difference between active listening and regular listening",
+    "optimized_prompt": "Mirng the difference between active listening and regular listening",
+    "optimized_token_ids": [
+      [
+        11612,
+        865,
+        278,
+        4328,
+        1546,
+        6136,
+        19866,
+        322,
+        4943,
+        19866
+      ]
+    ],
+    "final_metrics": {
+      "best_kl": 3.0171873569488525,
+      "best_std": 0.5371384143829345,
+      "best_loss": 2.148124933242798,
+      "final_epoch": 50
+    },
+    "log_file": "optim_logs/vicuna-7b-v1_5__fluency_warm_start_prompt_9_1112_0709_log.json"
+  }
+}
