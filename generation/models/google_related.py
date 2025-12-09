@@ -1,141 +1,171 @@
+import os
+import sys
+
+# Suppress gRPC/ALTS warnings before importing Google libraries
+os.environ["GRPC_VERBOSITY"] = "ERROR"
+os.environ["GLOG_minloglevel"] = "2"
+
+# Suppress absl logging warnings
+import logging
+logging.getLogger("absl").setLevel(logging.ERROR)
+
+# Redirect stderr temporarily to suppress the C++ warning
+import io
+_stderr = sys.stderr
+sys.stderr = io.StringIO()
+
 import google.generativeai as genai
-import threading
+
+# Restore stderr
+sys.stderr = _stderr
+from google.api_core import exceptions
 import time
+import threading
+from collections import deque
 
-available_keys = ["replace_with_your_api_key"]
+GOOGLE_API_KEY = "replace_with_your_google_gemini_api_key"
 
-# Global dictionary to track the usage of each key
-key_usage_count = {key: 0 for key in available_keys}
+# Rate limiting configuration
+REQUESTS_PER_MINUTE = 25
+TOKENS_PER_MINUTE = 1_000_000
 
-# Lock for making the function thread-safe
-lock = threading.Lock()
+# Thread-safe rate limiter
+class RateLimiter:
+    def __init__(self, requests_per_minute: int, tokens_per_minute: int):
+        self.requests_per_minute = requests_per_minute
+        self.tokens_per_minute = tokens_per_minute
+        self.request_timestamps = deque()
+        self.token_usage = deque()  # (timestamp, token_count)
+        self.lock = threading.Lock()
 
-def get_least_used_key():
-    with lock:
-        # Find the key with the minimum usage count
-        least_used_key = min(key_usage_count, key=key_usage_count.get)
-        
-        # Update the usage count for the key that is selected
-        key_usage_count[least_used_key] += 1
-    
-    # Return the least used key outside of the locked context
-    return least_used_key
+    def _clean_old_entries(self, current_time: float):
+        """Remove entries older than 60 seconds."""
+        cutoff = current_time - 60.0
 
-# system_instruction = ""
+        while self.request_timestamps and self.request_timestamps[0] < cutoff:
+            self.request_timestamps.popleft()
 
-def generate_gemini_response(prompt, model="gemini-1.5-pro-latest", temperature=0, max_tokens = 1024):
+        while self.token_usage and self.token_usage[0][0] < cutoff:
+            self.token_usage.popleft()
 
-    curr_key = get_least_used_key()
+    def _get_current_token_usage(self) -> int:
+        """Get total tokens used in the last minute."""
+        return sum(tokens for _, tokens in self.token_usage)
 
-    genai.configure(api_key=curr_key)
+    def wait_if_needed(self, estimated_tokens: int = 0):
+        """Wait if we're about to exceed rate limits."""
+        with self.lock:
+            current_time = time.time()
+            self._clean_old_entries(current_time)
 
-    time.sleep(1)
+            # Check request limit
+            while len(self.request_timestamps) >= self.requests_per_minute:
+                oldest = self.request_timestamps[0]
+                wait_time = 60.0 - (current_time - oldest) + 0.1
+                if wait_time > 0:
+                    print(f"[RateLimiter] Request limit reached. Waiting {wait_time:.1f}s...")
+                    time.sleep(wait_time)
+                current_time = time.time()
+                self._clean_old_entries(current_time)
 
-    generation_config = {
-    "temperature": temperature,
-    "top_p": 1,
-    "top_k": 0,
-    "max_output_tokens": max_tokens,
-    }
+            # Check token limit
+            current_tokens = self._get_current_token_usage()
+            while current_tokens + estimated_tokens > self.tokens_per_minute:
+                if self.token_usage:
+                    oldest_time = self.token_usage[0][0]
+                    wait_time = 60.0 - (current_time - oldest_time) + 0.1
+                    if wait_time > 0:
+                        print(f"[RateLimiter] Token limit reached ({current_tokens:,} tokens). Waiting {wait_time:.1f}s...")
+                        time.sleep(wait_time)
+                else:
+                    break
+                current_time = time.time()
+                self._clean_old_entries(current_time)
+                current_tokens = self._get_current_token_usage()
 
-    safety_settings = [
-    {
-        "category": "HARM_CATEGORY_HARASSMENT",
-        "threshold": "BLOCK_NONE",
-    },
-    {
-        "category": "HARM_CATEGORY_HATE_SPEECH",
-        "threshold": "BLOCK_NONE",
-    },
-    {
-        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
-        "threshold": "BLOCK_NONE",
-    },
-    {
-        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
-        "threshold": "BLOCK_NONE",
-    },
-    ]
-
-    model = genai.GenerativeModel(model_name=model,
-        generation_config=generation_config,
-        safety_settings=safety_settings)
-    
-    convo = model.start_chat(history=[])
-
-    convo.send_message(prompt)
-    return convo.last.text, (0,0)
-
-def generate_gemini_response_with_image(prompt, model="gemini-1.5-pro-latest", temperature=0, max_tokens = 1024):
-
-    if model not in ["gemini-1.5-pro-latest"]:
-        raise ValueError("We are only going to test gemini-1.5-pro's performance with images.")
-    
-    curr_key = get_least_used_key()
-    genai.configure(api_key=curr_key)
-
-    generation_config = {
-    "temperature": temperature,
-    "top_p": 1,
-    "top_k": 0,
-    "max_output_tokens": max_tokens,
-    }
-
-    safety_settings = []
-
-    model = genai.GenerativeModel(model_name=model,
-        generation_config=generation_config,
-        safety_settings=safety_settings)
-    print("Before loading images")
-    convo = model.start_chat(history=[{"role": "user", "parts": [genai.upload_file(img_path)]} for img_path in prompt['images']])
-    
-    convo.send_message(prompt['prompt_text'])
-    return convo.last.text, (0,0)
+    def record_request(self, tokens_used: int = 0):
+        """Record a completed request."""
+        with self.lock:
+            current_time = time.time()
+            self.request_timestamps.append(current_time)
+            if tokens_used > 0:
+                self.token_usage.append((current_time, tokens_used))
 
 
-def generate_gemini_response_multi_turn(prompt, model="gemini-1.5-pro-latest", temperature=0, max_tokens = 1024):
+# Global rate limiter instance
+rate_limiter = RateLimiter(REQUESTS_PER_MINUTE, TOKENS_PER_MINUTE)
 
-    if type(prompt) is not dict or 'conversation' not in prompt.keys():
-        raise ValueError("For multiple turn case, the prompt dict provided is not in correct format")
 
-    curr_key = get_least_used_key()
-    # print(f"Curr_key: {curr_key}")
-    # print(f"Usage: {key_usage_count}")
-    
-    genai.configure(api_key=curr_key)
+def estimate_tokens(text: str) -> int:
+    """Rough estimate of tokens (approximately 4 characters per token)."""
+    return len(text) // 4 + 1
 
-    generation_config = {
-    "temperature": temperature,
-    "top_p": 1,
-    "top_k": 0,
-    "max_output_tokens": max_tokens,
-    }
 
-    safety_settings = []
+def call_gemini(user_prompt: str, system_prompt: str = "", model_name: str = "gemini-2.0-flash-lite"):
+    """
+    Calls the Gemini model using the google.generativeai package.
 
-    model = genai.GenerativeModel(model_name=model,
-        generation_config=generation_config,
-        safety_settings=safety_settings)
+    Args:
+        user_prompt (str): The main input prompt.
+        system_prompt (str, optional): System instructions (persona/constraints).
+        model_name (str, optional): Model name (e.g., "gemini-2.0-flash-lite", "gemini-2.5-pro-preview", "gemini-3-pro-preview").
 
-    history = []
-    for ind, i in enumerate(prompt['conversation']):
-        if ind == len(prompt['conversation']) - 1:
-            break
-        if i['role'] == 'assistant':
-            gemini_role = "model"
-        elif i['role'] == 'user':
-            gemini_role = 'user'
-        else:
-            raise ValueError("This function only accept role being ['user', 'assistant']")
-        history.append({'role': gemini_role, 
-                         'parts': [i['content']]
-                         })
-    
-    convo = model.start_chat(history=history)
+    Returns:
+        response: The response from the model.
+    """
+    # Estimate input tokens for rate limiting
+    estimated_input = estimate_tokens(user_prompt) + estimate_tokens(system_prompt)
 
-    assert prompt['conversation'][-1]['role'] == 'user', "The last prompt's role must be user"
+    # Wait if we're approaching rate limits
+    rate_limiter.wait_if_needed(estimated_input)
 
-    latest_prompt = prompt['conversation'][-1]['content']
+    genai.configure(api_key=GOOGLE_API_KEY)
 
-    convo.send_message(latest_prompt)
-    return convo.last.text, (0,0)
+    try:
+        model = genai.GenerativeModel(
+            model_name=model_name,
+            system_instruction=system_prompt if system_prompt else None
+        )
+
+        response = model.generate_content(user_prompt)
+
+        # Record the request and estimate total tokens used
+        total_tokens = estimated_input
+        if hasattr(response, 'text'):
+            total_tokens += estimate_tokens(response.text)
+        rate_limiter.record_request(total_tokens)
+
+        return response
+
+    except exceptions.InvalidArgument as e:
+        rate_limiter.record_request(estimated_input)
+        return f"Invalid Argument Error: {e}"
+    except Exception as e:
+        rate_limiter.record_request(estimated_input)
+        return f"An error occurred: {e}"
+
+
+def generate_gemini_response(prompt: str, model: str = "gemini-2.0-flash-lite", temperature: float = 0, max_tokens: int = 1024):
+    """
+    Pipeline-compatible wrapper for call_gemini.
+    Used by generate_model_outputs.py.
+
+    Args:
+        prompt (str): The input prompt.
+        model (str): Model name.
+        temperature (float): Temperature for generation (not used by current API).
+        max_tokens (int): Max tokens (not used by current API).
+
+    Returns:
+        tuple: (response_text, (0, 0)) - text and token counts placeholder.
+    """
+    response = call_gemini(user_prompt=prompt, model_name=model)
+
+    if isinstance(response, str):
+        # Error message was returned
+        return response, (0, 0)
+
+    try:
+        return response.text, (0, 0)
+    except Exception as e:
+        return f"An error occurred: {e}", (0, 0)
